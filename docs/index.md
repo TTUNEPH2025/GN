@@ -7,13 +7,13 @@
 ### **Primary**
 
 Non-Proliferative 
-* FSGS (Focal Sclerosing Glomerulonephritis)
-* Membranous Nephropathy
-* Minimal Change Disease
+ * FSGS (Focal Sclerosing Glomerulonephritis)
+ * Membranous Nephropathy
+ * Minimal Change Disease
 
 Proliferative
-  1. Acute (post-infectious GN)
-  2. Anti-GBM (plus lung = Goodpasture)
+* Acute (post-infectious GN)
+* Anti-GBM (plus lung = Goodpasture)
 ANCA associated GN
 Crescentic GN (Rapidly Progressive GN)
 IgAN
