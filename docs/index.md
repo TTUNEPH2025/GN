@@ -1,16 +1,16 @@
 # **Welcome to the Glomerulonephritis Treatment Guide**
-## How to use this Guide
+## **How to use this Guide**
 * Click on the Disease names to see detailed information
 * Use the search function to find specific information
 * Follow treatment algorithms and diagnostic flowcharts
 * All references are located at the bottom of each page and linked to supporting article for review as desired
 ## **Immunological Derangements**
 ### **Primary**
-* Non-Proliferative 
+* **Non-Proliferative**
    1. FSGS (Focal Sclerosing Glomerulonephritis)
    2. Membranous Nephropathy
    3. Minimal Change Disease
-* Proliferative 
+* **Proliferative** 
    1. Acute (post-infectious GN)
    2. Anti-GBM (plus lung = Goodpasture)
    3. ANCA associated GN
