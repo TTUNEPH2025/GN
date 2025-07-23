@@ -1,28 +1,29 @@
-# Medical Reference Wiki
-
-Welcome to the clinical reference guide for healthcare professionals.
-
-## How to Use This Wiki
-
- - [COPD](copd.md)
- - [Diabetes Type 2](diabetes-type-2.md)
- - [Hypertension](hypertension.md)
- - [Google](https://www.google.com)
-
-
-* Use the search function to find specific conditions
-* Click on disease names to see detailed information
+# **Welcome to the Glomerulonephritis Treatment Guide**
+## How to use this Guide
+* Click on the Disease names to see detailed information
+* Use the search function to find specific information
 * Follow treatment algorithms and diagnostic flowcharts
-* Check references for latest guidelines
-
-## Contributing
-
-To add or update content:
-
-1. Navigate to the relevant file
-2. Click the pencil icon to edit
-3. Make your changes
-4. Add a commit message describing changes
-5. Click "Commit changes"
-
-The site will automatically update within 2-3 minutes.
+* All references are located at the bottom of each page and linked to supporting article for review as desired
+### **Primary**
+* Non-Proliferative 
+   1. FSGS (Focal Sclerosing Glomerulonephritis)
+   2. Membranous Nephropathy
+   3. Minimal Change Disease
+* Proliferative 
+   1. Acute (post-infectious GN)
+   2. Anti-GBM (plus lung = Goodpasture)
+   3. ANCA associated GN
+   4. Crescentic GN (Rapidly Progressive GN)
+   5. IgAN
+   6. Lupus Nephritis 
+   7. MPGN (Membranoproliferative GN)
+   8. C3 GN
+### **Secondary**
+* 
+### **Familial**
+* Alport's Syndrome
+* Familial FSGS
+### **Other**
+* Diabetic Nephropathy
+* TMA (Thrombotic Microangiopathy)
+* MGRS???
