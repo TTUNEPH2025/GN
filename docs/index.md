@@ -5,21 +5,19 @@
 * Follow treatment algorithms and diagnostic flowcharts
 * All references are located at the bottom of each page and linked to supporting article for review as desired
 ### **Primary**
-
-Non-Proliferative 
- * FSGS (Focal Sclerosing Glomerulonephritis)
- * Membranous Nephropathy
- * Minimal Change Disease
-
-Proliferative
-* Acute (post-infectious GN)
-* Anti-GBM (plus lung = Goodpasture)
-ANCA associated GN
-Crescentic GN (Rapidly Progressive GN)
-IgAN
-Lupus Nephritis 
-MPGN (Membranoproliferative GN)
-C3 GN
+* Non-Proliferative 
+   1. FSGS (Focal Sclerosing Glomerulonephritis)
+   2. Membranous Nephropathy
+   3. Minimal Change Disease
+* Proliferative 
+   1. Acute (post-infectious GN)
+   2. Anti-GBM (plus lung = Goodpasture)
+   3. ANCA associated GN
+   4. Crescentic GN (Rapidly Progressive GN)
+   5. IgAN
+   6. Lupus Nephritis 
+   7. MPGN (Membranoproliferative GN)
+   8. C3 GN
 ### **Secondary**
 * 
 ### **Familial**
