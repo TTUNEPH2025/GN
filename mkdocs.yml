@@ -1,0 +1,42 @@
+site_name: Medical Reference Wiki
+site_description: Clinical reference guide for healthcare professionals
+site_url: https://lancepick.github.io/medical-wiki
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: blue
+      accent: light blue
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - search.highlight
+    - search.share
+
+plugins:
+  - search
+  - mermaid2
+
+markdown_extensions:
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - toc:
+      permalink: true
+
+nav:
+  - Home: index.md
+  - Help: editing-guide.md
+
+extra:
+  social:
+    - icon: fontawesome/solid/hospital
+      link: https://lancepick.github.io/medical-wiki
