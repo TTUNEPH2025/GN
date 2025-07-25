@@ -26,7 +26,6 @@
 * Diabetic Nephropathy
 * TMA (Thrombotic Microangiopathy)
 * MGRS???
-[mytestlink](Test.md)
 ## **Things to Consider**
 * Immunization Recommendations
 * Prophylaxis Recommendations
