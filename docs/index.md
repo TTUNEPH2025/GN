@@ -29,3 +29,8 @@
 * TMA (Thrombotic Microangiopathy)
 * MGRS???
 [mytestlink](Test.md)
+## **Things to Consideration**
+* Immunization Recommendations
+* Prophylaxis Recommendations
+* Important Screening Exams
+* Patient Counseling 
