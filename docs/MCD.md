@@ -30,6 +30,67 @@
  * Steroid-dependent
     1. Relapsing occuring during, or w/in two weeks of completing glucocorticoid therapy
 ## **Treatment**
+```mermaid
+flowchart TB
+    A(["MCD"]) --> B(["Steroid"]) & n1(["Steroid Sparing"])
+    B --> C["Prednisone 1mg/kg PO Daily (Max 80mg daiy)
+    or
+    Prednisolone 2mg/kg PO EOD
+    (Max dose 120 EOD)
+    for 4-16wks"]
+    C --> n2(["Remission achieved"]) & n8(["Frequent Relapse/Steroid Dependent"])
+    n2 --> n3["Begin taper after 2wks of complete remission and taper over 24 weeks"]
+    n3 --> n4(["Relapse"])
+    n4 --> n5["Prednisone 1mg/kg PO Daily
+    (Max dose 80mg Daily)
+    for 4 wks or until remission"]
+    n5 --> n6["Wean by 5mg q3-5 days to Discontinue  w/in 1-2months"]
+    n1 --> n7["-> Cyclophoshamide 2-2.5mg/kg PO Daily for 8 weeks
+    -> Cyclosporin 3-5mg/kg PO Daily in divided doses for 1-2 years
+    -> Tacrolimus 0.05-0.1mg/kg Daily in divided doses for 1-2 years +/- reduce dose steroids (prednisone 1mg/kg, 60mg daily max)
+    -> Myfortic 720mg PO BID or/ CellCept 1000mg PO BID + prednisone 0.5mg/kg Daily (max 40mg Dail) (Graduallly taper over a year)"]
+    n7 --> n8
+    n6 --> n8
+    n8 --> n9(["No hx of Cyclophosphamide use"]) & n10(["History of Cyclophosphamide use
+    or
+    Patient wish to avoid Cyclophosphamide exposure"])
+    n9 --> n11["Cyclophosphamide 2-2.5mg/kg Po Daily for 8-12wk
+    (Adjust dose for WBC)
+    (12 wk may be associated w/less relapse in steroid dependent patients)"]
+    n10 --> n12["**CNI**
+    -> Cyclosporine 3-5mg/k PO Daily in didvided doses for 1-2 years; goal trough 150-200ng/ml (125-166nmol/L)
+    -> Tacrolimuse 0.05-0.1mg/kg PO Daily in divided doses for 1-2 years; goal trough 4-7ng/mL (5-8.7nmol/L)
+    -> Can use CNI +/- steroids; if giving steroids reduce CNI dose
+    -> If CNI depended use lowest dose possible and switch therapy if CNI toxicity occurs
+    **Rituximab**
+    -> 375mg/m2 qweekly for 4 doses
+    -> 375mg/m2 for one dose; Repeat after one wk if CD19 >5/mm3
+    -> 1g x 2 doses; 2 wks apart
+    -> Relapse after induction doses can give 375mg/m2 for one dose or give 1g for one dose
+    **Myfortic** 720mg PO BID or/ **CellCept** 1000mg PO BID + prednisone 0.5mg/kg Daily (max 40mg Dail)"]
+    C@{ shape: rounded}
+    n3@{ shape: rounded}
+    n5@{ shape: rounded}
+    n6@{ shape: rounded}
+    n7@{ shape: rounded}
+    n11@{ shape: rounded}
+    n12@{ shape: rounded}
+    style A fill:#BBDEFB
+    style B fill:#BBDEFB
+    style n1 fill:#BBDEFB
+    style C fill:#FFCDD2,color:#000000
+    style n2 fill:#BBDEFB
+    style n8 fill:#BBDEFB
+    style n3 fill:#FFCDD2
+    style n4 fill:#BBDEFB
+    style n5 fill:#FFCDD2
+    style n6 fill:#FFCDD2
+    style n7 color:#000000,fill:#FFCDD2
+    style n9 fill:#BBDEFB,color:#000000
+    style n10 fill:#BBDEFB
+    style n11 fill:#FFCDD2
+    style n12 fill:#FFCDD2,color:#000000
+```
 ## **Sources**
 ---
 *Last updated: [Date] by [Physician Name]*
