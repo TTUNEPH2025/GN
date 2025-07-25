@@ -12,7 +12,7 @@
     3. [Minimal Change Disease](MCD.md)
 - **Proliferative** 
     1. Acute (post-infectious GN)
-    2. Anti-GBM (plus lung = Goodpasture)
+    2. Anti-GBM
     3. ANCA associated GN
     4. IgAN
     5. Lupus Nephritis 
