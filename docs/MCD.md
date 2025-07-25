@@ -66,15 +66,15 @@ flowchart TB
     (Adjust dose for WBC)
     (12 wk may be associated w/less relapse in steroid dependent patients)"]
     n10 --> n12["**CNI**
-    -> Cyclosporine 3-5mg/k PO Daily in didvided doses for 1-2 years; goal trough 150-200ng/ml (125-166nmol/L)
-    -> Tacrolimuse 0.05-0.1mg/kg PO Daily in divided doses for 1-2 years; goal trough 4-7ng/mL (5-8.7nmol/L)
-    -> Can use CNI +/- steroids; if giving steroids reduce CNI dose
-    -> If CNI depended use lowest dose possible and switch therapy if CNI toxicity occurs
+    • Cyclosporine 3-5mg/k PO Daily in didvided doses for 1-2 years; goal trough 150-200ng/ml (125-166nmol/L)
+    • Tacrolimuse 0.05-0.1mg/kg PO Daily in divided doses for 1-2 years; goal trough 4-7ng/mL (5-8.7nmol/L)
+    • Can use CNI +/- steroids; if giving steroids reduce CNI dose
+    • If CNI depended use lowest dose possible and switch therapy if CNI toxicity occurs
     **Rituximab**
-    -> 375mg/m2 qweekly for 4 doses
-    -> 375mg/m2 for one dose; Repeat after one wk if CD19 >5/mm3
-    -> 1g x 2 doses; 2 wks apart
-    -> Relapse after induction doses can give 375mg/m2 for one dose or give 1g for one dose
+    • 375mg/m2 qweekly for 4 doses
+    • 375mg/m2 for one dose; Repeat after one wk if CD19 >5/mm3
+    • 1g x 2 doses; 2 wks apart
+    • Relapse after induction doses can give 375mg/m2 for one dose or give 1g for one dose
     **Myfortic** 720mg PO BID or/ **CellCept** 1000mg PO BID + prednisone 0.5mg/kg Daily (max 40mg Dail)"]
     C@{ shape: rounded}
     n3@{ shape: rounded}
@@ -97,7 +97,7 @@ flowchart TB
     style n9 fill:#BBDEFB,color:#000000
     style n10 fill:#BBDEFB
     style n11 fill:#FFCDD2
-    style n12 fill:#FFCDD2,color:#000000
+    style n12 fill:#FFCDD2,color:#000000,text-align:left,white-space:nowrap
 ```
 * Combotherapy a reasonable theraputic option;
 * Individualize treatment per patient; 
