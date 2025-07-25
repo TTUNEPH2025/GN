@@ -99,9 +99,9 @@ flowchart TB
     style n11 fill:#FFCDD2
     style n12 fill:#FFCDD2,color:#000000
 ```
-* Combotherapy a reasonable theraputic option
-* Individualize treatment per patient 
-* Optimal duration of steroid on Relapse unknown
+* Combotherapy a reasonable theraputic option;
+* Individualize treatment per patient; 
+* Optimal duration of steroid on Relapse unknown;
 ## **Sources**
 * [KDIGO GN Guidlines](https://kdigo.org/guidelines/gd/)
 * [Rituximab treatment in adults with steroid-dependent minimal change disease](https://www.sciencedirect.com/science/article/pii/S0085253815557712)
