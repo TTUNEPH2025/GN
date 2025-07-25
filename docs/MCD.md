@@ -105,5 +105,5 @@ flowchart TB
 * [Tacrolimus as theraputic option in MCD](https://academic.oup.com/ndt/article-abstract/23/6/1919/1874422?redirectedFrom=fulltext)
 * [Cyclophosphamide in treatment of MCD](https://www.scopus.com/pages/publications/0018377671)
 ---
-*Last updated: [7/2025] by [Ashley Kinder, D.O.]*
-*Next review: [7/2026]*
+*Last updated: 7/2025 by Ashley Kinder, D.O.*
+*Next review: 7/2026*
