@@ -95,6 +95,7 @@ flowchart TB
 * Individualize treatment per patient 
 * Optimal duration of steroid on Relapse unknown
 ## **Sources**
+* [KDIGO GN Guidlines](https://kdigo.org/guidelines/gd/) 
 ---
 *Last updated: [Date] by [Physician Name]*
 *Next review: [Date]*
