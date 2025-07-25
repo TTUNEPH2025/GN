@@ -53,10 +53,10 @@ flowchart TB
     (Max dose 80mg Daily)
     for 4 wks or until remission"]
     n5 --> n6["Wean by 5mg q3-5 days to Discontinue  w/in 1-2months"]
-    n1 --> n7["-> Cyclophoshamide 2-2.5mg/kg PO Daily for 8 weeks
-    -> Cyclosporin 3-5mg/kg PO Daily in divided doses for 1-2 years
-    -> Tacrolimus 0.05-0.1mg/kg Daily in divided doses for 1-2 years +/- reduce dose steroids (prednisone 1mg/kg, 60mg daily max)
-    -> Myfortic 720mg PO BID or/ CellCept 1000mg PO BID + prednisone 0.5mg/kg Daily (max 40mg Dail) (Graduallly taper over a year)"]
+    n1 --> n7["• Cyclophoshamide 2-2.5mg/kg PO Daily for 8 weeks
+    • Cyclosporin 3-5mg/kg PO Daily in divided doses for 1-2 years
+    • Tacrolimus 0.05-0.1mg/kg Daily in divided doses for 1-2 years +/- reduce dose steroids (prednisone 1mg/kg, 60mg daily max)
+    • Myfortic 720mg PO BID or/ CellCept 1000mg PO BID + prednisone 0.5mg/kg Daily (max 40mg Dail) (Graduallly taper over a year)"]
     n7 --> n8
     n6 --> n8
     n8 --> n9(["No hx of Cyclophosphamide use"]) & n10(["History of Cyclophosphamide use
@@ -98,6 +98,7 @@ flowchart TB
     style n10 fill:#BBDEFB
     style n11 fill:#FFCDD2
     style n12 fill:#FFCDD2,color:#000000,text-align:left,white-space:nowrap
+    style n7 fill:#FFCDD2,color:#000000,text-align:left,white-space:nowrap
 ```
 * Combotherapy a reasonable theraputic option;
 * Individualize treatment per patient; 
