@@ -56,9 +56,9 @@ flowchart TB
     n1 --> n7["• Cyclophoshamide 2-2.5mg/kg PO Daily for 8 weeks
     • Cyclosporin 3-5mg/kg PO Daily in divided doses for 1-2 years
     • Tacrolimus 0.05-0.1mg/kg Daily in divided doses for 1-2 years;
- +/- reduce dose steroids (prednisone 1mg/kg, 60mg daily max)
+      +/- reduce dose steroids (prednisone 1mg/kg, 60mg daily max)
     • Myfortic 720mg PO BID or/ CellCept 1000mg PO BID + prednisone 0.5mg/kg Daily;
-(max 40mg Dail) (Graduallly taper over a year)"]
+      (max 40mg Dail) (Graduallly taper over a year)"]
     n7 --> n8
     n6 --> n8
     n8 --> n9(["No hx of Cyclophosphamide use"]) & n10(["History of Cyclophosphamide use
@@ -68,8 +68,10 @@ flowchart TB
     (Adjust dose for WBC)
     (12 wk may be associated w/less relapse in steroid dependent patients)"]
     n10 --> n12["**CNI**
-    • Cyclosporine 3-5mg/k PO Daily in didvided doses for 1-2 years; goal trough 150-200ng/ml (125-166nmol/L)
-    • Tacrolimuse 0.05-0.1mg/kg PO Daily in divided doses for 1-2 years; goal trough 4-7ng/mL (5-8.7nmol/L)
+    • Cyclosporine 3-5mg/k PO Daily in didvided doses for 1-2 years;
+     - goal trough 150-200ng/ml (125-166nmol/L)
+    • Tacrolimuse 0.05-0.1mg/kg PO Daily in divided doses for 1-2 years;
+     - goal trough 4-7ng/mL (5-8.7nmol/L)
     • Can use CNI +/- steroids; if giving steroids reduce CNI dose
     • If CNI depended use lowest dose possible and switch therapy if CNI toxicity occurs
     **Rituximab**
@@ -102,7 +104,7 @@ flowchart TB
     style n12 fill:#FFCDD2,color:#000000,text-align:left,white-space:nowrap
     style n7 fill:#FFCDD2,color:#000000,text-align:left,white-space:nowrap
 ```
-* Combotherapy a reasonable theraputic option;
+* Combination therapy a reasonable theraputic option;
 * Individualize treatment per patient; 
 * Optimal duration of steroid on Relapse unknown;
 ## **Sources**
