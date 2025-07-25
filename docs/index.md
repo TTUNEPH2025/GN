@@ -9,7 +9,7 @@
 - **Non-Proliferative**
     1. FSGS (Focal Sclerosing Glomerulonephritis)
     2. Membranous Nephropathy
-    3. Minimal Change Disease
+    3. [Minimal Change Disease](MCD.md)
 - **Proliferative** 
     1. Acute (post-infectious GN)
     2. Anti-GBM (plus lung = Goodpasture)
