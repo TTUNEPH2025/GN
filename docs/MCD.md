@@ -95,7 +95,15 @@ flowchart TB
 * Individualize treatment per patient 
 * Optimal duration of steroid on Relapse unknown
 ## **Sources**
-* [KDIGO GN Guidlines](https://kdigo.org/guidelines/gd/) 
+* [KDIGO GN Guidlines](https://kdigo.org/guidelines/gd/)
+* [Rituximab treatment in adults with steroid-dependent minimal change disease](https://www.sciencedirect.com/science/article/pii/S0085253815557712)
+* [Rituximab in Steroid-Sensitive Minimal Change Nephrotic Syndrome in Adults](https://karger.com/books/book/133/chapter-abstract/5070296/Rituximab-as-a-Therapeutic-Option-for-Steroid?redirectedFrom=fulltext)
+* [Tacrolimus as a steroid-sparing agent for adults with steroid-dependent minimal change nephrotic syndrom](https://academic.oup.com/ndt/article-abstract/23/6/1919/1874422?redirectedFrom=fulltext)
+* [Methylprednisolone pulses and low dose oral prednisone](https://www.bmj.com/content/291/6505/1305)
+* [Rituximab as a front-line therapy for adult MCD](https://www.oncotarget.com/article/25612/text/)
+* [Low Dose steroid and MMF in MCD](https://www.sciencedirect.com/science/article/pii/S0085253818305866)
+* [Tacrolimus as theraputic option in MCD](https://academic.oup.com/ndt/article-abstract/23/6/1919/1874422?redirectedFrom=fulltext)
+* [Cyclophosphamide in treatment of MCD](https://www.scopus.com/pages/publications/0018377671)
 ---
 *Last updated: [Date] by [Physician Name]*
 *Next review: [Date]*
