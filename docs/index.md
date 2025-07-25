@@ -14,11 +14,9 @@
     1. Acute (post-infectious GN)
     2. Anti-GBM (plus lung = Goodpasture)
     3. ANCA associated GN
-    4. Crescentic GN (Rapidly Progressive GN)
-    5. IgAN
-    6. Lupus Nephritis 
-    7. MPGN (Membranoproliferative GN)
-    8. C3 GN
+    4. IgAN
+    5. Lupus Nephritis 
+    6. MPGN (Membranoproliferative GN)/C3GN
 ### **Secondary**
 * 
 ### **Familial**
