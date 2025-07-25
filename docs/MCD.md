@@ -18,12 +18,17 @@
  * AKI on presentation frequently
 ## **Definitions of Treatment Response**
  * Complete remission
- * 
+    1. Reduction of proteinuria to <0.3g/d or PCR <300mg/g, stable serum creatine and serum albumin >3.5g/dl
  * Partial Remission
+    1. Reduction of proteinuria to <0.3-3.5g/d or PCR <300-3500mg/g, and a decrease >50% from baseline
  * Relapse
- * Steroid-resistant
+    1. Proteinuria >3.5/d or PCR >3500mg/g after complete remission has been achieved
+ * Steroid-resistant\
+    1. Reduction of proteinuria to >3.5/d or PCR >3500mg/g, with <50% from baseline despite prednisone 1mg/kg/day or 2mg/kg every other day for >16weeks
  * Frequent Reelapsing
+    1. Two or more relapses per 6 months (or four or more relapses per 12months)
  * Steroid-dependent
+    1. Relapsing occuring during, or w/in two weeks of completing glucocorticoid therapy
 ## **Treatment**
 ## **Sources**
 ---
