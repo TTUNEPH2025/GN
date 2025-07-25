@@ -16,7 +16,7 @@
  * Hypoalbuminemia
  * Hypercholesterolemia
  * AKI on presentation frequently
-## **Drugs and Disease Associated with MCD**
+## **Some Drugs and Disease Associated with MCD**
  * Lithium
  * NSAIDS
  * Antibiotics
