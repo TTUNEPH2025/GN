@@ -5,3 +5,6 @@
 ## **Definitions of Treatment Response**
 ## **Treatment**
 ## **Sources**
+---
+*Last updated: [Date] by [Physician Name]*
+*Next review: [Date]*
