@@ -10,12 +10,21 @@
 ## **Cancer Screening**
 * Risk of bladder cancer (and other cancers) is greater if the cumulative dose of cyclophosphamid exceeds 36g (about 500mg/kg in adults) in a patient's life time. Yearly urologic screening is recommended in high-risk individuals
 * Age specific malignancy screening
+    1. Breast Cancer
+       * Women age 40-45 annual mammograms as patient wishes
+       * Women age 45-54 annual mammograms
+       * Women age 55 and older mammograms every two years
+    2. Colon Cancer
+       * Screening age 45-75
+       * Ages 76-85 Screening as indicated
+       * No screening need past age 85
+     3. Cervical Cancer
 * Annual Dermatology exam
+## **Other**
 * DEXA
   * KDIGO: recommended individual fracture risk assessment/bone mineral diase for prolonged steroid use
   * USPSTF: women over 65 years old and postmenopausal women youner than 65 with one or more risk factors for osteoporosis
-  * Neither guidlines give direct recommendations on time of DEXA scan need in setting of long term steroids though co
-## **Other**
+  * Neither guidline give direct recommendations on time of DEXA scan need in setting of long term steroids though general consensus that prolonged treatment with glucocorticoids dow cause bone loss
 ## **Sources**
-  *
-  *[USPSTF](https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/osteoporosis-screening#fullrecommendationstart
+ * [KDIGO GN Guidlines](https://kdigo.org/guidelines/gd/)
+ * [USPSTF](https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/osteoporosis-screening#fullrecommendationstart)
