@@ -77,7 +77,15 @@ flowchart TD
     classDef Pine stroke-width:1px, stroke-dasharray:none, stroke:#254336, fill:#27654A, color:#FFFFFF
 ```
 *[GN tool/Risk Calculator](https://www.med.unc.edu/gntools/bleedrisk.html)
-
+## **Vaccinations**
+ * Pneumococcal Vaccinatation
+   * Patient and entire house hold should recieve both 7vPCV and 23vPPV
+* Anual Influenza
+* Avoid all live Vaccinations (MMR, Varicella, rotavirus, yellow fever) should be deferred until prednisone dose is < 20mg/d or immunosuppressive agents have been stopped for at least 1-3months
+* Patient recieving complement antagonists should have
+   * Menigococcal Conjugate Vacine
+   * Serogroup B menigococcal Vaccine
+ * Shingrix vaccine is safe should be given to patient, but immunosuppression may reduce its efficacy
 ## **Antibiotics in setting of Immunosupression**
 ## **Sources**
 * [KDIGO GN Guidlines](https://kdigo.org/guidelines/gd/)
