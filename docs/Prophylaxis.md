@@ -97,7 +97,7 @@ flowchart TD
 ## **Other**
  * H2 blockers or PPI while on steroids --> prevention of Peptic ulcer disease
  * Limit UV exposure and appropiate use of Broad spectrum sunscreent
- * Effective contraception 
+ * Effective contraception [Patient Counseling](Counseling.md)
 ## **Sources**
 * [KDIGO GN Guidlines](https://kdigo.org/guidelines/gd/)
 * [CDC Menigococcal Vaccination](https://www.cdc.gov/meningococcal/hcp/clinical-guidance/complement-inhibitor.html?CDC_AAref_Val=https://www.cdc.gov/meningococcal/clinical/eculizumab.html)
