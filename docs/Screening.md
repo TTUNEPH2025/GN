@@ -1,4 +1,4 @@
-```mermaid
+  ```mermaid
     A(["Serum albumin
         &lt;25 g/l or 2.5g/dl"]) --> B["High Risk Thrombus"] & n1["Serum albumin
     &lt;32g/l or 3.2g/dl"]
