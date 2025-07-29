@@ -84,8 +84,20 @@ flowchart TD
 * Avoid all live Vaccinations (MMR, Varicella, rotavirus, yellow fever) should be deferred until prednisone dose is < 20mg/d or immunosuppressive agents have been stopped for at least 1-3months
 * Patient recieving complement antagonists should have
    * Menigococcal Conjugate Vacine
+       1. depending the brand and age of patient may require 2,3, or 4 doses
+       2. Booster dose every 5 years for the duration of complement inhibitor therapy
    * Serogroup B menigococcal Vaccine
+       1. Requires 3 doses
+       2. Booster doses one year after completion of series and every 2-3 years therafter for duration of complement inhibitor therapy
  * Shingrix vaccine is safe should be given to patient, but immunosuppression may reduce its efficacy
 ## **Antibiotics in setting of Immunosupression**
+ * Bactrim (TMP-SMX)
+   * While patient on high dose prednisone or other immunosuppressive agents (rituximab, cyclophosphamide)
+   * Atovaquone or pentamidine may be substituted for patient's with sulfa-allergy --> recommendation based on immunosuppressed patient w/out glomerular disease
+## **Other**
+ * H2 blockers or PPI while on steroids --> prevention of Peptic ulcer disease
+ * Limit UV exposure and appropiate use of Broad spectrum sunscreent
+ * Effective contraception 
 ## **Sources**
 * [KDIGO GN Guidlines](https://kdigo.org/guidelines/gd/)
+* [CDC Menigococcal Vaccination](https://www.cdc.gov/meningococcal/hcp/clinical-guidance/complement-inhibitor.html?CDC_AAref_Val=https://www.cdc.gov/meningococcal/clinical/eculizumab.html)
