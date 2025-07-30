@@ -44,3 +44,5 @@
     1. Increased risk of bacteral infection
     2. Leukopenia or/pancytopenia
 ## **Sources**
+ * [KDIGO GN Guidlines](https://kdigo.org/guidelines/gd/)
+ * [UPtodate](https://www-uptodate-com.ezproxy.ttuhsc.edu/contents/cyclophosphamide-drug-information?source=auto_suggest&selectedTitle=1~1---1~4---cyclopho&search=cyclophosphamide#F49296864)
