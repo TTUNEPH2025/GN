@@ -27,7 +27,7 @@
 * TMA (Thrombotic Microangiopathy)
 * MGRS???
 ## **Things to Consider**
-* Immunization Recommendations
-* Prophylaxis Recommendations
-* Important Screening Exams
-* Patient Counseling 
+* [Immunization Recommendations](Immunization.md)
+* [Prophylaxis Recommendations](Prophylaxis.md)
+* [Screening Exams](Screening.md)
+* [Patient Counseling](Counseling.md) 
