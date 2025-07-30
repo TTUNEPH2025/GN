@@ -4,12 +4,14 @@
  * Mycophenolate
     1. Birth control should be continue for a minimum of 6wks after discontinuation of medication
     2. In Men treated with mycophenolate condome use recommend during intercourse with women who might become pregnant and should be continue for a minimum of 90 days after discontinuation of medication
- * cyclophosphamide 
+ * Cyclophosphamide 
 ### Cyclophosphamide specific
 ### Other
  * Due to high risk of preeclampsia in glomerular disease, consider low dose aspirin after first trimester
  * Control of glomerular disease and BP recommend prior to planning pregnancy
  * Major predictory of pregnancy outcome is GFR at the time of conception and during mid-pregnancy
+ * Target BP during pregnancy <140/90
+ * Oral glucose tolerance test (especially import in women taking glucocorticoids or CNI) 
 ## **Drug side effects**
  * Glucocorticoids
     1. Weight gain
