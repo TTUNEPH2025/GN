@@ -27,6 +27,7 @@
     3. CNS lesion prone to hemorrhage
     4. Genetic mutations influencing warfarin metabolism
     5. Frailty
+  
  ```mermaid
 flowchart TD
     A(["Serum albumin
