@@ -7,8 +7,8 @@
  * Cyclophosphamide 
 ### Cyclophosphamide specific
  * Female patients should use effective contraception while receiving cyclophosphamide. 
- * Male patients with a partner who could become pregnant should use a condom during and for at least 12wks after cyclophosphamide treatment
- * Female patient's who wish to concieve, should discontinue cyclophosphamide 3-6 months prior to conception
+ * Male patients with a partner who could become pregnant should use a condom during and for at least 12wks after cyclophosphamide treatment discontinued
+ * Female patients who wish to concieve, should discontinue cyclophosphamide 3-6 months prior to conception
  * May cause ovarian insuficiency, infertility, and longterm gonadal damage
  * Recommend patient referred to Fertility specilities for possible oocyte/sperm cryopreservation
  * Should not be given in first trimester, can be used in second or third trimester only when alternative therapy is not available
