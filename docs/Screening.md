@@ -10,7 +10,8 @@
 ## **Cancer Screening**
  * Risk of bladder cancer (and other cancers) is greater if the cumulative dose of cyclophosphamid exceeds 36g (about 500mg/kg in adults) in a patient's life time. Yearly urologic screening is recommended in high-risk individuals
  * Annual Dermatology exam
-### Age specific malignancy screening. (small list of the following common screening cancers, not comprenhensive) 
+### Age specific malignancy screening
+* List of common malignancy screening, not comprenhensive, is as follows:
  * Breast Cancer
     1. Women age 40-45 annual mammograms as patient wishes
     2. Women age 45-54 annual mammograms
