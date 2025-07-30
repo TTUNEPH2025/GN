@@ -18,7 +18,7 @@
  * Contraception during therapy and for 12 months following last dose of rituximab
  * Discontinued if pregnancy confirmed
  * Safety data in pregnancy limited
- * Manufacture recommends avoidance of rituximab in breastfeeding mothers; however limited data sugest rituximab may be compatible with breastfeeding as rituximab is minimal found breast milk and is unlikely to be absorbed in mild. Shared decision making recommended
+ * Manufacture recommends avoidance of rituximab in breastfeeding mothers; however limited data sugest rituximab may be compatible with breastfeeding as rituximab is minimally found breast milk and is unlikely to be absorbed in infant GI tract. Shared decision making recommended.
 ### Other
  * Due to high risk of preeclampsia in glomerular disease, consider low dose aspirin after first trimester
  * Control of glomerular disease and BP recommend prior to planning pregnancy
@@ -51,4 +51,5 @@
     2. Leukopenia or/pancytopenia
 ## **Sources**
  * [KDIGO GN Guidlines](https://kdigo.org/guidelines/gd/)
- * [UPtodate](https://www-uptodate-com.ezproxy.ttuhsc.edu/contents/cyclophosphamide-drug-information?source=auto_suggest&selectedTitle=1~1---1~4---cyclopho&search=cyclophosphamide#F49296864)
+ * [Uptodate Cyclosporine](https://www-uptodate-com.ezproxy.ttuhsc.edu/contents/cyclophosphamide-drug-information?source=auto_suggest&selectedTitle=1~1---1~4---cyclopho&search=cyclophosphamide#F49296864)
+ * [Uptodate Rituximab](https://www-uptodate-com.ezproxy.ttuhsc.edu/contents/rituximab-including-biosimilars-drug-information?search=rituximab&selectedTitle=1~150&usage_type=panel&display_rank=1&kp_tab=drug_general&source=panel_search_result#F53464448) 
