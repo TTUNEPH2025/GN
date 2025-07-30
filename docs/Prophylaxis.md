@@ -56,36 +56,27 @@ flowchart TD
     n6@{ shape: rounded}
     n4@{ shape: rounded}
     n7@{ shape: rounded}
-     A:::Pine
+     A:::Ash
      n17:::Aqua
      n18:::Aqua
-     B:::Pine
-     C:::Pine
-     n1:::Pine
+     B:::Ash
+     C:::Ash
+     n1:::Ash
      n21:::Aqua
      n22:::Aqua
-     n2:::Pine
-     n3:::Pine
+     n2:::Ash
+     n3:::Ash
      n19:::Aqua
      n20:::Aqua
      n23:::Aqua
      n24:::Aqua
-     n5:::Pine
-     n6:::Pine
-     n4:::Pine
-     n7:::Pine
+     n5:::Ash
+     n6:::Ash
+     n4:::Ash
+     n7:::Ash
     classDef Aqua stroke-width:1px, stroke-dasharray:none, stroke:#46EDC8, fill:#DEFFF8, color:#378E7A
     classDef Pine stroke-width:1px, stroke-dasharray:none, stroke:#254336, fill:#27654A, color:#FFFFFF
-    style A color:#FFFFFF
-    style B color:#FFFFFF
-    style C color:#FFFFFF
-    style n1 color:#FFFFFF
-    style n2 color:#FFFFFF
-    style n3 color:#FFFFFF
-    style n5 color:#FFFFFF
-    style n6 color:#FFFFFF
-    style n4 color:#FFFFFF
-    style n7 color:#FFFFFF
+    classDef Ash stroke-width:1px, stroke-dasharray:none, stroke:#999999, fill:#EEEEEE, color:#000000
 ```
 *[GN tool/Risk Calculator](https://www.med.unc.edu/gntools/bleedrisk.html)
 ## **Vaccinations**
