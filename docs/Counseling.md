@@ -4,7 +4,8 @@
  * Mycophenolate
     1. Birth control should be continue for a minimum of 6wks after discontinuation of medication
     2. In Men treated with mycophenolate condom use recommend during intercourse with women who might become pregnant and should be continue for a minimum of 90 days after discontinuation of medication
- * Cyclophosphamide 
+ * Cyclophosphamide
+ * Rituximab
 ### Cyclophosphamide specific
  * Female patients should use effective contraception while receiving cyclophosphamide. 
  * Male patients with a partner who could become pregnant should use a condom during and for at least 12wks after cyclophosphamide treatment discontinued
@@ -13,6 +14,11 @@
  * Recommend patient referred to Fertility specilities for possible oocyte/sperm cryopreservation
  * Should not be given in first trimester, can be used in second or third trimester only when alternative therapy is not available
  * Not recommend for use in breastfeeding mothers
+### Rituximab specific
+ * Contraception during therapy and for 12 months following last dose of rituximab
+ * Discontinued if pregnancy confirmed
+ * Safety data in pregnancy limited
+ * Manufacture recommends avoidance of rituximab in breastfeeding mothers; however limited data sugest rituximab may be compatible with breastfeeding as rituximab is minimal found breast milk and is unlikely to be absorbed in mild. Shared decision making recommended
 ### Other
  * Due to high risk of preeclampsia in glomerular disease, consider low dose aspirin after first trimester
  * Control of glomerular disease and BP recommend prior to planning pregnancy
