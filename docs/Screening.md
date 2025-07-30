@@ -9,7 +9,7 @@
   * Strongyloides Stercoralix for at risk individuals --> asymptomatic infection has potential to transform into lethal systemic disease after exposure to steroid therapy
 ## **Cancer Screening**
 * Risk of bladder cancer (and other cancers) is greater if the cumulative dose of cyclophosphamid exceeds 36g (about 500mg/kg in adults) in a patient's life time. Yearly urologic screening is recommended in high-risk individuals
-* Age specific malignancy screening
+* Age specific malignancy screening. (small list of the following common screening cancers, not comprenhensive) 
     1. Breast Cancer
        * Women age 40-45 annual mammograms as patient wishes
        * Women age 45-54 annual mammograms
@@ -19,6 +19,11 @@
        * Ages 76-85 Screening as indicated
        * No screening need past age 85
      3. Cervical Cancer
+       * Screening age 25-65 with PAP w/HPV every 5 years or PAP every 3 years
+     4. Lung Cancer
+       * Low Dose CT scan 50-80 years old if smoking or used to smoke, and 20 pack year history
+     5. Prostate
+       * Start screening with PSA at 50 years old
 * Annual Dermatology exam
 ## **Other**
 * DEXA
@@ -28,3 +33,4 @@
 ## **Sources**
  * [KDIGO GN Guidlines](https://kdigo.org/guidelines/gd/)
  * [USPSTF](https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/osteoporosis-screening#fullrecommendationstart)
+ * [American Cancer Society](https://www.cancer.org/cancer/screening/american-cancer-society-guidelines-for-the-early-detection-of-cancer.html) 
