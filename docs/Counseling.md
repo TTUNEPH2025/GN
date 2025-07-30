@@ -7,7 +7,9 @@
  * cyclophosphamide 
 ### Cyclophosphamide specific
 ### Other
- * High risk 
+ * Due to high risk of preeclampsia in glomerular disease, consider low dose aspirin after first trimester
+ * Control of glomerular disease and BP recommend prior to planning pregnancy
+ * Major predictory of pregnancy outcome is GFR at the time of conception and during mid-pregnancy
 ## **Drug side effects**
  * Glucocorticoids
     1. Weight gain
