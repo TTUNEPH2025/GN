@@ -28,7 +28,6 @@
     4. Genetic mutations influencing warfarin metabolism
     5. Frailty
   
----
 ```mermaid
 flowchart TD
     A(["Serum albumin
@@ -77,6 +76,16 @@ flowchart TD
      n7:::Pine
     classDef Aqua stroke-width:1px, stroke-dasharray:none, stroke:#46EDC8, fill:#DEFFF8, color:#378E7A
     classDef Pine stroke-width:1px, stroke-dasharray:none, stroke:#254336, fill:#27654A, color:#FFFFFF
+    style A color:#FFFFFF
+    style B color:#FFFFFF
+    style C color:#FFFFFF
+    style n1 color:#FFFFFF
+    style n2 color:#FFFFFF
+    style n3 color:#FFFFFF
+    style n5 color:#FFFFFF
+    style n6 color:#FFFFFF
+    style n4 color:#FFFFFF
+    style n7 color:#FFFFFF
 ```
 *[GN tool/Risk Calculator](https://www.med.unc.edu/gntools/bleedrisk.html)
 ## **Vaccinations**
