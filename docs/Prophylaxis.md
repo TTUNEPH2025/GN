@@ -28,7 +28,8 @@
     4. Genetic mutations influencing warfarin metabolism
     5. Frailty
   
- ```mermaid
+---
+```mermaid
 flowchart TD
     A(["Serum albumin
         &lt;25 g/l or 2.5g/dl"]) --> n17["Yes"] & n18["No"]
@@ -37,7 +38,7 @@ flowchart TD
     &lt;32g/l or 3.2g/dl"] --> n21["Yes"] & n22["No"]
     n2["Estimate arterial thrombus risk"] --> n3["Framingam risk score, eGFR, diabetes, hx of arterial embolism"]
     C --> n19["Low bleeding risk"] & n20["High bleeding risk"]
-    n3 --> n23["Risk > 20/1000 patient-year"] & n24["Risk &lt;20/1000 patient-year"]
+    n3 --> n23["Risk > 20/1000 patient-year"] & n24["Risk &lt; 20/1000 patient-year"]
     n5["No Warfarin"] --> n6["Aspirn"]
     n17 --> B
     n18 --> n1
