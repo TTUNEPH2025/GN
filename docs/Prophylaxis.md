@@ -31,13 +31,13 @@
  ```mermaid
 flowchart TD
     A(["Serum albumin
-        <25 g/l or 2.5g/dl"]) --> n17["Yes"] & n18["No"]
+        &lt;25 g/l or 2.5g/dl"]) --> n17["Yes"] & n18["No"]
     B["High Risk Thrombus"] --> C["GN tool/risk calculator"]
     n1["Serum albumin
     &lt;32g/l or 3.2g/dl"] --> n21["Yes"] & n22["No"]
     n2["Estimate arterial thrombus risk"] --> n3["Framingam risk score, eGFR, diabetes, hx of arterial embolism"]
     C --> n19["Low bleeding risk"] & n20["High bleeding risk"]
-    n3 --> n23["Risk > 20/1000 patient-year"] & n24["Risk < 20/1000 patient-year"]
+    n3 --> n23["Risk > 20/1000 patient-year"] & n24["Risk &lt;20/1000 patient-year"]
     n5["No Warfarin"] --> n6["Aspirn"]
     n17 --> B
     n18 --> n1
