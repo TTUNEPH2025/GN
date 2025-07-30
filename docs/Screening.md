@@ -28,9 +28,9 @@
     1.  Start screening with PSA at 50 years old
 ## **Other**
 * DEXA
-  * KDIGO: recommended individual fracture risk assessment/bone mineral diase for prolonged steroid use
-  * USPSTF: women over 65 years old and postmenopausal women youner than 65 with one or more risk factors for osteoporosis
-  * Neither guidline give direct recommendations on time of DEXA scan need in setting of long term steroids though general consensus that prolonged treatment with glucocorticoids causes bone loss
+    1. KDIGO: recommended individual fracture risk assessment/bone mineral diase for prolonged steroid use
+    2. USPSTF: women over 65 years old and postmenopausal women youner than 65 with one or more risk factors for osteoporosis
+    3. Neither guidline give direct recommendations on time of DEXA scan need in setting of long term steroids though general consensus that prolonged treatment with glucocorticoids causes bone loss
 * Recommend pregancy testing for female patients of child bearing age prior to initation of most immunosupression medications
 ## **Sources**
  * [KDIGO GN Guidlines](https://kdigo.org/guidelines/gd/)
