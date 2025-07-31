@@ -18,7 +18,7 @@
     5. Lupus Nephritis 
     6. MPGN (Membranoproliferative GN)/C3GN
 ### **Secondary**
-* 
+* [Minimal Change Disease](MCD.md)
 ### **Familial**
 * Alport's Syndrome
 * Familial FSGS
