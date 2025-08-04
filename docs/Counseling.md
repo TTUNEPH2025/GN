@@ -1,5 +1,5 @@
 ## **Pregnancy**
-### Conctraception should be used in women who are are on the following medications
+### Conctraception indicated in women of child bearing years who are are on the following medications
  * ACE/ARB
  * Mycophenolate
     1. Birth control should be continue for a minimum of 6wks after discontinuation of medication
