@@ -33,16 +33,16 @@
 ## **Primary vs Secondary**
 ```mermaid
 flowchart TD
-    A(["FSGS on Biopsy"]) --> C["Nephrotic Syndrome
+    A(["FSGS on Biopsy"]) --> C["**Nephrotic Syndrome**
     • Protenuria &gt; 3.5g/d 
     and 
      • Serum albuming &lt;30g/L; w/or w/out edema
-     • Diffuse foot process effacement"] & n2["Abscence of Nephrotic syndrome
+     • Diffuse foot process effacement"] & n2["**Abscence of Nephrotic syndrome**
     • Proteinuria &gt;3.5g/d
     and serum albumin &gt;30g/L 
     or
     • Protenuira &lt;3.5g/d w/or w/out hypoalbumina"]
-    C --> n3["Likely Primary FSGS
+    C --> n3["**Likely Primary FSGS**
     • tx w/immunosuppression
     • If no response, consider genetic testing"]
     n2 --> n4["• Evaluate for underlying cause (exclude secondary FSGS)
