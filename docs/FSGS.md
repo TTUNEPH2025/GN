@@ -30,6 +30,8 @@
   * Hypoalbuminemia <30g/L
   * Dyslipidemia
   * Edema/signs of volume overload
+## **Primary vs Secondary**
+```mermaid
 ## **Drugs and Disease Associated with FSGS**
   * Infectious
     1. HIV
