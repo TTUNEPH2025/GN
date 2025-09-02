@@ -107,9 +107,6 @@ flowchart TB
 * Combination therapy a reasonable theraputic option
 * Individualize treatment per patient 
 * Optimal duration of steroid on Relapse unknown
-* [Prophylaxis Recommendations](Prophylaxis.md)
-* [Screening Exams](Screening.md)
-* [Patient Counseling](Counseling.md) 
 ## **Sources**
 * [KDIGO GN Guidlines](https://kdigo.org/guidelines/gd/)
 * [Rituximab treatment in adults with steroid-dependent minimal change disease](https://www.sciencedirect.com/science/article/pii/S0085253815557712)
