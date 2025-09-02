@@ -1,12 +1,12 @@
 ## **Infectious Screening**
 * Screening should be based on indepented exposures based on patient history, geographic region, and occupations
 * Exhaustive list not provided; However, several infectious disease that may have benefit to screening prior to initiation of immunosupression are as follows:
-  1. Syphilis
-  2. HIV
-  3. Hepatitis B (HBV) --> if not treated prior to initiation of steroids or cytotix/immunomodulating agents can induce serious exacerbation of HBV replication and aggravate liver disease
-  4. Hepatitis C (HCV)
-  5. Quantiferon for TB screening
-  6. Strongyloides Stercoralix for at risk individuals --> asymptomatic infection has potential to transform into lethal systemic disease after exposure to steroid therapy
+    1. Syphilis
+    2. HIV
+    3. Hepatitis B (HBV) --> if not treated prior to initiation of steroids or cytotix/immunomodulating agents can induce serious exacerbation of HBV replication and aggravate liver disease
+    4. Hepatitis C (HCV)
+    5. Quantiferon for TB screening
+    6. Strongyloides Stercoralix for at risk individuals --> asymptomatic infection has potential to transform into lethal systemic disease after exposure to steroid therapy
 ## **Cancer Screening**
  * Risk of bladder cancer (and other cancers) is greater if the cumulative dose of cyclophosphamid exceeds 36g (about 500mg/kg in adults) in a patient's life time. Yearly urologic screening is recommended in high-risk individuals
  * Annual Dermatology exam
