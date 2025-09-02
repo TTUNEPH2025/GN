@@ -195,11 +195,16 @@ flowchart TD
      1. Emerging as a secondline therapy
      2. Consider in patient's with multiple Treatment failures
      3. Consider using Rituximab +/- CNI
-  * Endotheline Blockade: Sparsent vs Irbesartan pending FDA approval 
+  * Endotheline Blockade: Sparsent vs Irbesartan pending FDA approval --> Reduction in UPCR
 ## **Sources** 
 * [KDIGO GN Guidlines](https://kdigo.org/guidelines/gd/)
 * [CNI w/Reduced-dose steroids as firstline therpay for FSGS](https://pubmed.ncbi.nlm.nih.gov/30596167/)
 * [Long-Term Outcoms of Rituxiimab-treated Adul Patients w/Podocytopathies](https://pubmed.ncbi.nlm.nih.gov/39431468/)
+* [Treatment of primary FSGS in aduls](https://www.scopus.com/pages/publications/84868624922)
+* [Recurrence of FSGS after Kidney Transplant in Adults](https://journals.lww.com/cjasn/pages/articleviewer.aspx?year=2020&issue=02000&article=00014&type=Fulltext)
+* [Efficacy and Safety of Sparsentan in patients with FSGS](https://journals.lww.com/jasn/fulltext/2018/11000/duet__a_phase_2_study_evaluating_the_efficacy_and.17.aspx)
+* [Differentiating primary, genetic, and secondary FSGS in adults](https://journals.lww.com/jasn/fulltext/2018/03000/differentiating_primary,_genetic,_and_secondary.8.aspx)
+* [FSGS clincal trial on treatment of steroid-resistant FSGS](https://academic.oup.com/ndt/article-abstract/28/3/527/1815080?redirectedFrom=fulltext)
 
 ---
 *Last updated: 9/2025 by Ashley Kinder, D.O.*
