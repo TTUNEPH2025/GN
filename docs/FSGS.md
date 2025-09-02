@@ -110,11 +110,13 @@ flowchart TD
     n1 --> n2["• RAS blockade
      • BP control
      • Low Salt Diet
-     • Diuretics/SGLT2i"] & n3["Find/tx Secondary cause"]
+     • Diuretics/SGLT2i"
+     • Endothelin Antagonist] & n3["Find/tx Secondary cause"]
     B --> n26["• RAS blockade
      • BP control
      • Low Salt Diet
-     • Diuretics/SGLT2i"]
+     • Diuretics/SGLT2i
+     • Endothelin Antagonist"]
     n4["•Predinsone 1mg/kg Daily (max 80mg/day)
     or
     • Prednisone 2mg/kg EOD (max 120mg/day)"] --> n5["•Continue for at least 4wk & complete remission 
