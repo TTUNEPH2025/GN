@@ -7,7 +7,7 @@
 ## **Immunological Derangements**
 ### **Primary**
 - **Non-Proliferative**
-    1. FSGS (Focal Sclerosing Glomerulonephritis)
+    1. [FSGS (Focal Sclerosing Glomerulonephritis)](FSGS.md)
     2. Membranous Nephropathy
     3. [Minimal Change Disease](MCD.md)
 - **Proliferative** 
