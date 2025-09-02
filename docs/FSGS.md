@@ -187,4 +187,9 @@ flowchart TD
     style n20 fill:#FFCDD2
     style n30 fill:#FFCDD2
 ```
+### Other considerations
+  * Rituximab
+     1. Emerging as a secondline therapy
+     2. Consider in patient's with multiple Treatment failures
+     3. Consider using Rituximab +/- CNI
 ## **Sources**
