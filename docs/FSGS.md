@@ -98,4 +98,84 @@ flowchart TD
   * CNI-dependent FSGS
     1. Relapse occuring during or w/in 2wks of completeing cyclosporine/tacrolimus therapy for >12mo
 ## **Treatment**
+```mermaid
+flowchart TD
+    A(["FSGS"]) --> B(["Primary"]) & n1(["Secondary/Undetermined Cause"])
+    n1 --> n2["• RAS blockade
+     • BP control
+     • Low Salt Diet
+     • Diuretics/SGLT2i"] & n3["Find/tx Secondary cause"]
+    B --> n26["• RAS blockade
+     • BP control
+     • Low Salt Diet
+     • Diuretics/SGLT2i"]
+    n4["•Predinsone 1mg/kg Daily (max 80mg/day)
+    or
+    • Prednisone 2mg/kg EOD (max 120mg/day)"] --> n5["•Continue for at least 4wk & complete remission 
+    or 
+    • max of 16wk"]
+    n5 --> n12(["Partial Remission at 8-12wk continue to 16 wks"]) & n22(["Persistent/unremiting"]) & n29(["Remission"])
+    n6["Continue hig dose for 2wks after remission"] --> n7["taper prednisone by 5mg every 1-2wks for 6 months"]
+    n7 --> n8(["Relapse"]) & n9(["Monitor for Relapse"])
+    n8 --> n10["**Approached like MCD**
+     • Prednisone 1mg/kg dailys (max of 80mg/day) for 4wks or until remission"]
+    n10 --> n11["Wean by 5mg every 3-5 days till DC w/ing 1-2 months
+    *low Quality of evidence"]
+    n12 --> n13(["Remission"]) & n14(["No Remission"])
+    n13 --> n7
+    n14 --> n21(["CNI Contraindicated"]) & n28(["No Contraindications to CNI"])
+    n15["• Cyclosporin 3-5mg/kg/day divided into two doses (trough 100-175ng/mL; 83-146nmol/L)
+     • Tacrolimus 0.05-0.1mg/kg/day divided into two doses (trough 5-10ng/mL; 6-12mmol/L)"] --> n16["Continued at target trough level for 4-6months (before considered CNI resistent)"]
+    n16 --> n17(["Partial or coplete remission"])
+    n17 --> n18["Continued for 12months and taper over 6-12months"]
+    n18 --> n19(["No remission"])
+    n19 --> n20["• Re-biopsy
+     • Refer to Specialiazed Centers
+     • Enroll in trials
+     • MMF, high dose dexamethasone, Rituximab, and ACTH (concsiderable lack of quality of evidence)"]
+    n21 --> n20
+    n22 --> n30["Do not need to complete 16wk tx"] & n23["Genetic testing"]
+    n24(["Steroids Contraindicated"]) --> n25["• Cyclosporin 3-5mg/kg/day divided into two doses (trough 100-175ng/mL; 83-146nmol/L)
+     • Tacrolimus 0.05-0.1mg/kg/day divided into two doses (trough 5-10ng/mL; 6-12mmol/L)"]
+    n26 --> n24 & n27(["No Contraindications Steroids"])
+    n27 --> n4
+    n28 --> n15
+    n29 --> n6
+     A:::Peach
+     B:::Peach
+     n1:::Peach
+     n2:::Class_01
+     n3:::Class_01
+     n26:::Class_01
+     n12:::Peach
+     n22:::Peach
+     n29:::Peach
+     n8:::Peach
+     n9:::Peach
+     n13:::Peach
+     n14:::Peach
+     n21:::Peach
+     n28:::Peach
+     n17:::Peach
+     n19:::Peach
+     n23:::Class_01
+     n24:::Peach
+     n25:::Class_01
+     n27:::Peach
+    classDef Peach stroke-width:1px, stroke-dasharray:none, stroke:#FBB35A, fill:#FFEFDB, color:#8F632D
+    classDef Class_01 fill:#FFCDD2
+    style n4 fill:#FFCDD2
+    style n5 stroke:#000000,fill:#FFCDD2
+    style n6 fill:#FFCDD2
+    style n7 fill:#FFCDD2
+    style n10 fill:#FFCDD2
+    style n11 fill:#FFCDD2
+    style n15 fill:#FFCDD2
+    style n16 fill:#FFCDD2
+    style n18 fill:#FFCDD2
+    style n20 fill:#FFCDD2
+    style n30 fill:#FFCDD2
+    style n15 white-space:nowrap
+    style n25 white-space:nowrap
+```
 ## **Sources**
