@@ -114,14 +114,13 @@ flowchart TD
     • Prednisone 2mg/kg EOD (max 120mg/day)"] --> n5["•Continue for at least 4wk & complete remission 
     or 
     • max of 16wk"]
-    n5 --> n12(["Partial Remission at 8-12wk continue to 16 wks"]) & n22(["Persistent/unremiting"]) & n29(["Remission"])
     n6["Continue hig dose for 2wks after remission"] --> n7["taper prednisone by 5mg every 1-2wks for 6 months"]
     n7 --> n8(["Relapse"]) & n9(["Monitor for Relapse"])
     n8 --> n10["**Approached like MCD**
      • Prednisone 1mg/kg dailys (max of 80mg/day) for 4wks or until remission"]
     n10 --> n11["Wean by 5mg every 3-5 days till DC w/ing 1-2 months
     *low Quality of evidence"]
-    n12 --> n13(["Remission"]) & n14(["No Remission"])
+    n12(["Partial Remission at 8-12wk continue to 16 wks"]) --> n13(["Remission"]) & n14(["No Remission"])
     n13 --> n7
     n14 --> n21(["CNI Contraindicated"]) & n28(["No Contraindications to CNI"])
     n15["• Cyclosporin 3-5mg/kg/day divided into two doses (trough 100-175ng/mL; 83-146nmol/L)
@@ -134,24 +133,23 @@ flowchart TD
      • Enroll in trials
      • MMF, high dose dexamethasone, Rituximab, and ACTH (concsiderable lack of quality of evidence)"]
     n21 --> n20
-    n22 --> n30["Do not need to complete 16wk tx"] & n23["Genetic testing"]
+    n22(["Persistent/unremiting"]) --> n30["Do not need to complete 16wk tx"] & n23["Genetic testing"]
     n24(["Steroids Contraindicated"]) --> n25["• Cyclosporin 3-5mg/kg/day divided into two doses (trough 100-175ng/mL; 83-146nmol/L)
      • Tacrolimus 0.05-0.1mg/kg/day divided into two doses (trough 5-10ng/mL; 6-12mmol/L)"]
     n26 --> n24 & n27(["No Contraindications Steroids"])
     n27 --> n4
     n28 --> n15
-    n29 --> n6
+    n29(["Remission"]) --> n6
      A:::Peach
      B:::Peach
      n1:::Peach
      n2:::Class_01
      n3:::Class_01
      n26:::Class_01
-     n12:::Peach
      n22:::Peach
-     n29:::Peach
      n8:::Peach
      n9:::Peach
+     n12:::Peach
      n13:::Peach
      n14:::Peach
      n21:::Peach
@@ -162,6 +160,7 @@ flowchart TD
      n24:::Peach
      n25:::Class_01
      n27:::Peach
+     n29:::Peach
     classDef Peach stroke-width:1px, stroke-dasharray:none, stroke:#FBB35A, fill:#FFEFDB, color:#8F632D
     classDef Class_01 fill:#FFCDD2
     style n4 fill:#FFCDD2
@@ -175,7 +174,6 @@ flowchart TD
     style n18 fill:#FFCDD2
     style n20 fill:#FFCDD2
     style n30 fill:#FFCDD2
-    style n15 white-space:nowrap
-    style n25 white-space:nowrap
+
 ```
 ## **Sources**
