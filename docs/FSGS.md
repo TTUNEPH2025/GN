@@ -98,6 +98,7 @@ flowchart TD
   * CNI-dependent FSGS
     1. Relapse occuring during or w/in 2wks of completeing cyclosporine/tacrolimus therapy for >12mo
 ## **Treatment**
+### **Initial treatment**
 ```mermaid
 flowchart TD
     A(["FSGS"]) --> B(["Primary"]) & n1(["Secondary/Undetermined Cause"])
@@ -132,7 +133,7 @@ flowchart TD
     style n5 stroke:#000000,fill:#FFCDD2
     style n25 fill:#FFCDD2,stroke:#000000
 ```
-
+### **Treatment response**
 ```mermaid
 flowchart TD
     n6["Continue hig dose for 2wks after remission"] --> n7["taper prednisone by 5mg every 1-2wks for 6 months"]
