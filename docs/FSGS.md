@@ -143,26 +143,26 @@ flowchart TD
 ### **Treatment response**
 ```mermaid
 flowchart TD
-    n6["Continue hig dose for 2wks after remission"] --> n7["taper prednisone by 5mg every 1-2wks for 6 months"]
+    n6["Continue high dose prednisone for 2wks after remission"] --> n7["Taper prednisone by 5mg every 1-2wks for 6 months"]
     n7 --> n8(["Relapse"]) & n9(["Monitor for Relapse"])
     n8 --> n10["**Approached like MCD**
      • Prednisone 1mg/kg dailys (max of 80mg/day) for 4wks or until remission"]
-    n10 --> n11["Wean by 5mg every 3-5 days till DC w/ing 1-2 months
+    n10 --> n11["Wean by 5mg every 3-5 days till DC w/in 1-2 months
     *low Quality of evidence"]
     n12(["Partial Remission at 8-12wk continue to 16 wks"]) --> n13(["Remission"]) & n14(["No Remission"])
     n13 --> n7
     n14 --> n21(["CNI Contraindicated"]) & n28(["No Contraindications to CNI"])
     n15["• Cyclosporin 3-5mg/kg/day divided into two doses (trough 100-175ng/mL; 83-146nmol/L)
      • Tacrolimus 0.05-0.1mg/kg/day divided into two doses (trough 5-10ng/mL; 6-12mmol/L)"] --> n16["Continued at target trough level for 4-6months (before considered CNI resistent)"]
-    n16 --> n17(["Partial or coplete remission"])
+    n16 --> n17(["Partial or complete remission"])
     n17 --> n18["Continued for 12months and taper over 6-12months"]
-    n18 --> n19(["No remission"])
+    n18 --> n19(["No Remission"])
     n19 --> n20["• Re-biopsy
      • Refer to Specialiazed Centers
      • Enroll in trials
      • MMF, high dose dexamethasone, Rituximab, and ACTH (concsiderable lack of quality of evidence)"]
     n21 --> n20
-    n22(["Persistent/unremiting"]) --> n30["Do not need to complete 16wk tx"] & n23["Genetic testing"]
+    n22(["Persistent/Unremiting"]) --> n30["Do not need to complete 16wk tx"] & n23["Genetic testing"]
     n28 --> n15
     n29(["Remission"]) --> n6
      n8:::Peach
@@ -181,12 +181,12 @@ flowchart TD
     classDef Class_01 fill:#FFCDD2
     style n6 fill:#FFCDD2,stroke:#000000
     style n7 fill:#FFCDD2,stroke:#000000
-    style n10 fill:#FFCDD2,stroke:#000000
+    style n10 fill:#FFCDD2,stroke:#000000,white-space:nowrap
     style n11 fill:#FFCDD2,stroke:#000000
-    style n15 fill:#FFCDD2,stroke:#000000
-    style n16 fill:#FFCDD2,stroke:#000000
+    style n15 fill:#FFCDD2,stroke:#000000,text-align:left,white-space:nowrap
+    style n16 fill:#FFCDD2,stroke:#000000,text-align:left,white-space:nowrap
     style n18 fill:#FFCDD2,stroke:#000000
-    style n20 fill:#FFCDD2,stroke:#000000
+    style n20 fill:#FFCDD2,stroke:#000000,text-align:left
     style n30 fill:#FFCDD2,stroke:#000000
     style n23 stroke:#000000
 ```
