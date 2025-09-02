@@ -158,7 +158,7 @@ flowchart TD
     n19 --> n20["• Re-biopsy
      • Refer to Specialiazed Centers
      • Enroll in trials
-     • MMF, high dose dexamethasone, Rituximab, and ACTH"]
+     • MMF, high dose dexamethasone, Rituximab, and ACTH (concsiderable lack of quality of evidence)"]
     n21 --> n20
     n22(["Persistent/unremiting"]) --> n30["Do not need to complete 16wk tx"] & n23["Genetic testing"]
     n28 --> n15
@@ -177,15 +177,16 @@ flowchart TD
      n29:::Peach
     classDef Peach stroke-width:1px, stroke-dasharray:none, stroke:#FBB35A, fill:#FFEFDB, color:#8F632D
     classDef Class_01 fill:#FFCDD2
-    style n6 fill:#FFCDD2
-    style n7 fill:#FFCDD2
-    style n10 fill:#FFCDD2
-    style n11 fill:#FFCDD2
-    style n15 fill:#FFCDD2
-    style n16 fill:#FFCDD2
-    style n18 fill:#FFCDD2
-    style n20 fill:#FFCDD2
-    style n30 fill:#FFCDD2
+    style n6 fill:#FFCDD2,stroke:#000000
+    style n7 fill:#FFCDD2,stroke:#000000
+    style n10 fill:#FFCDD2,stroke:#000000
+    style n11 fill:#FFCDD2,stroke:#000000
+    style n15 fill:#FFCDD2,stroke:#000000
+    style n16 fill:#FFCDD2,stroke:#000000
+    style n18 fill:#FFCDD2,stroke:#000000
+    style n20 fill:#FFCDD2,stroke:#000000
+    style n30 fill:#FFCDD2,stroke:#000000
+    style n23 stroke:#000000
 ```
 ### Other considerations
   * Rituximab
