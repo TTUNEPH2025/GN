@@ -158,7 +158,7 @@ flowchart TD
     n19 --> n20["• Re-biopsy
      • Refer to Specialiazed Centers
      • Enroll in trials
-     • MMF, high dose dexamethasone, Rituximab, and ACTH (concsiderable lack of quality of evidence)"]
+     • MMF, high dose dexamethasone, Rituximab, and ACTH"]
     n21 --> n20
     n22(["Persistent/unremiting"]) --> n30["Do not need to complete 16wk tx"] & n23["Genetic testing"]
     n28 --> n15
@@ -192,4 +192,5 @@ flowchart TD
      1. Emerging as a secondline therapy
      2. Consider in patient's with multiple Treatment failures
      3. Consider using Rituximab +/- CNI
-## **Sources**
+  * Endotheline Blockade: Sparsent vs Irbesartan pending FDA approval 
+## **Sources** 
