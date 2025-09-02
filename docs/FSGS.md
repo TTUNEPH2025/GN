@@ -195,3 +195,9 @@ flowchart TD
   * Endotheline Blockade: Sparsent vs Irbesartan pending FDA approval 
 ## **Sources** 
 * [KDIGO GN Guidlines](https://kdigo.org/guidelines/gd/)
+* [CNI w/Reduced-dose steroids as firstline therpay for FSGS](https://pubmed.ncbi.nlm.nih.gov/30596167/)
+* [Long-Term Outcoms of Rituxiimab-treated Adul Patients w/Podocytopathies](https://pubmed.ncbi.nlm.nih.gov/39431468/)
+
+---
+*Last updated: 9/2025 by Ashley Kinder, D.O.*
+*Next review: 9/2026*
