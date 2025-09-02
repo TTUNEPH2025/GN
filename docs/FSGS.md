@@ -187,6 +187,9 @@ flowchart TD
     style n20 fill:#FFCDD2
     style n30 fill:#FFCDD2
 ```
+* [Prophylaxis Recommendations](Prophylaxis.md)
+* [Screening Exams](Screening.md)
+* [Patient Counseling](Counseling.md) 
 ### Other considerations
   * Rituximab
      1. Emerging as a secondline therapy
