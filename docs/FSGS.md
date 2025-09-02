@@ -133,9 +133,9 @@ flowchart TD
      n27:::Peach
     classDef Peach stroke-width:1px, stroke-dasharray:none, stroke:#FBB35A, fill:#FFEFDB, color:#8F632D
     classDef Class_01 fill:#FFCDD2
-    style n2 fill:#FFCDD2,stroke:#000000
+    style n2 fill:#FFCDD2,stroke:#000000, text-align:left
     style n3 fill:#FFCDD2,stroke:#000000
-    style n26 fill:#FFCDD2,stroke:#000000
+    style n26 fill:#FFCDD2,stroke:#000000, text-align:left
     style n4 fill:#FFCDD2,stroke:#000000
     style n5 stroke:#000000,fill:#FFCDD2
     style n25 fill:#FFCDD2,stroke:#000000
