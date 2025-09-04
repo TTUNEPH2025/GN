@@ -50,7 +50,7 @@ flowchart TD
     • Monitor Proteinuria and serum albumin"]
     n4 --> n5["Worsening proteinuira and reduction in serum albumin"]
     n5 --> n3
-    style n4 white-space:nowrap
+    style n4 white-space:nowrap,text-align:left
     style C white-space:nowrap
     style n2 white-space:nowrap
     style n3 white-space:nowrap
