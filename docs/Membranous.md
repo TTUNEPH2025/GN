@@ -3,6 +3,7 @@
 * Occurs in all ages, but most common in ages 30-60 years old
 * Male:Female ratio 2:1
 * Risk factors for progression: Male, >60 years of age, high levels of proteinuria, and elevated Cr levels
+* Two types: Primary and Secondary
 * Primary MN about 70% of cases, Secondaary about 30%
 * PLA2R antigen is most comming antigen in Primary MN
 * Secondary MN: Autoimmune/CVD, Drug associated, Infection related, Malignancy
@@ -22,19 +23,34 @@
  * Rarely Crescents --> if present should test instigate further testing: ANCA, ANA, Anti-GMB
  * Primary MN Antigen association
    1. PLA2R: Most commen antigen/anti-body in Primary MN, anti-body testing excellent correleatio w/5-10 excess compaired to tissue staining
-   2. THSD7A: No antibody testing available at this time
- * Secondary  
+   2. THSD7A: No antibody testing available at this time, also found in secondary and should invoke age approiate cancer screenings
+ * Secondary MN Antigen association
+   1. Exostosin 1/Exostosin 2 (EXT1/EXT2): ofent associated with Autimmune disease
+   2. NELL 1: most heterogenous of all antigens, associated in many disease states (drugs, malignancy, autoiummune, infection), should invoke age approiate cancer screenings
+   3. THSD7A: can be associated with malignancy
+   4. NDNF: associaged with syphylsis
+   5. PCSK6: NSAID
+   6. Protocadherin 7: primary older patients, minimal complement activation and high rates of spontaneous remission
+   7. FAT1: associated with stemcell transplant patients, progressive and can re-occur in allograft
+   8. Semaphorin 3b: pediatric patients w/onset <2 years old
+ * Most common Secondary MN found in SLE patients
 ## **Clinical Presentation**
+ * Proteniuria --> 75% of cases fully nephrotic
+ * Normotensive
+ * Normal/perserved renal function
+ * 50% of cases with microscopic hematuria
 ## **Drugs and Diseases Associated with Membranous**
+ *  
 ## **Deffinitions of Treatment Response**
 ## **Treatment**
-* It is reasonable to wait 6 months, while patient is on maximal anti-proteinuric therapy, before starting immunosupressive therapy due to high rates of spontaneous remission.
-* PLA2R-ab testing with ELIZA and/or IFA is cleared by FDA for aid in diagnosis only. Use for PLA2R-ab testing in monitoring is off lable use, though used extensively in guidline recomendations
-* Prerequisites for Noninvasive testing
+ * It is reasonable to wait 6 months, while patient is on maximal anti-proteinuric therapy, before starting immunosupressive therapy due to high rates of spontaneous remission.
+ * PLA2R-ab testing with ELIZA and/or IFA is cleared by FDA for aid in diagnosis only. Use for PLA2R-ab testing in monitoring is off lable use, though used extensively in guidline recomendations
+ * Prerequisites for Noninvasive testing
     1. Proteinuria
     2. Preserved eGFR (>60)
     3. Absense of Diabetes or other conditions traditionally associated with MN
     4. Clearly positive PLA2R-ab tested by ELIZA or IFA --> Best if can use both for non-invasive testing
+ * Proteinuria can persist for 12-24 months after start of treatment
 ## **Sources**
 * [KDIGO GN Guidlines](https://kdigo.org/guidelines/gd/)
 * [Serology based approach](https://pubmed.ncbi.nlm.nih.gov/27777266/)
