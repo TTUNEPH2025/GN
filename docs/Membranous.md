@@ -14,11 +14,27 @@
     1. occurs most frequently ~2 years post transplant
     2. Is most commonly sub nephrotic 
 ## **Pathophysiology**
+ * Pathology: Subepithelial deposits
+    1. Immuncomplex formation in situ of the subepitheial layers of the basement membrane
+    2. IgG granulated pattern on IF
+    3. Well seen in EM and IF
+    4. Spike formation and thickened Basement membrane 
  * Rarely Crescents --> if present should test instigate further testing: ANCA, ANA, Anti-GMB
+ * Primary MN Antigen association
+   1. PLA2R: Most commen antigen/anti-body in Primary MN, anti-body testing excellent correleatio w/5-10 excess compaired to tissue staining
+   2. THSD7A: No antibody testing available at this time
+ * Secondary  
 ## **Clinical Presentation**
 ## **Drugs and Diseases Associated with Membranous**
 ## **Deffinitions of Treatment Response**
 ## **Treatment**
+* It is reasonable to wait 6 months, while patient is on maximal anti-proteinuric therapy, before starting immunosupressive therapy due to high rates of spontaneous remission.
+* PLA2R-ab testing with ELIZA and/or IFA is cleared by FDA for aid in diagnosis only. Use for PLA2R-ab testing in monitoring is off lable use, though used extensively in guidline recomendations
+* Prerequisites for Noninvasive testing
+    1. Proteinuria
+    2. Preserved eGFR (>60)
+    3. Absense of Diabetes or other conditions traditionally associated with MN
+    4. Clearly positive PLA2R-ab tested by ELIZA or IFA --> Best if can use both for non-invasive testing
 ## **Sources**
 * [KDIGO GN Guidlines](https://kdigo.org/guidelines/gd/)
 * [Serology based approach](https://pubmed.ncbi.nlm.nih.gov/27777266/)
