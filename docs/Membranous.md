@@ -77,7 +77,11 @@
     5. Sarcoidosis
     6. Renal Vein Thrombosis 
 ## **Deffinitions of Treatment Response**
- * 
+ * No formal definition of Resistent Disease currently accepted. Current guidelines put forth that patient's with persistent/increasing levles PLA2R ab after 1st round of immunotherapy be treated as Resistent
+ * Resistance Disease in PLA2R negative patient's with primary MN is difficult to define
+    1. Persistent Nephrotic Syndrome
+    2. Or increased, but still reduced serum albumin levels as markers for resistent disease
+  * Best Model for predicitive of response to treatment is PLA2R ab titer w/serum Albumin at 3months of treatment 
 ## **Treatment**
  * It is reasonable to wait 6 months, while patient is on maximal anti-proteinuric therapy, before starting immunosupressive therapy due to high rates of spontaneous remission.
  * PLA2R-ab testing with ELIZA and/or IFA is cleared by FDA for aid in diagnosis only. Use for PLA2R-ab testing in monitoring is off lable use, though used extensively in guidline recomendations
