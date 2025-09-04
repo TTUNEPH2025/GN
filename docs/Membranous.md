@@ -83,6 +83,7 @@
     2. Or increased, but still reduced serum albumin levels as markers for resistent disease
   * Best Model for predicitive of response to treatment is PLA2R ab titer w/serum Albumin at 3months of treatment 
 ## **Treatment**
+### General Information
  * It is reasonable to wait 6 months, while patient is on maximal anti-proteinuric therapy, before starting immunosupressive therapy due to high rates of spontaneous remission.
  * PLA2R-ab testing with ELIZA and/or IFA is cleared by FDA for aid in diagnosis only. Use for PLA2R-ab testing in monitoring is off lable use, though used extensively in guidline recomendations
  * Prerequisites for Noninvasive testing
@@ -91,6 +92,22 @@
     3. Absense of Diabetes or other conditions traditionally associated with MN
     4. Clearly positive PLA2R-ab tested by ELIZA or IFA --> Best if can use both for non-invasive testing
  * Proteinuria can persist for 12-24 months after start of treatment
+ * High rates of thrombosis; [Prophylaxis page](Prophylaxis.md)
+ * When to Biopsy
+    1. Unusual clinical course; rapid decrease in eGFR
+    2. Serological abnormalities (positive ANA, ect.)
+    3. Unresponsive to immunosuppressive therapy and progressive kidney injury
+    4. Persistent nephrotic syndrome despite disappearance of PLA2Rab 
+### Treatment Regimens 
+ * Cyclophosphamid (cyclical)
+ * Cyclophosphamide (continuous)
+ * Rituximab
+ * Tacrolimus
+ * Cyclosporine
+### Flow Chart
+### Comming Therapies
+  * Obinutuzumab vs tac in Majesty trial --> Primary partial complet date December 2025, Expected completion Date December 2027
+  * Comb therapy with short course cyclosporin and glucocorticoids with Rituximab 
 ## **Sources**
 * [KDIGO GN Guidlines](https://kdigo.org/guidelines/gd/)
 * [Serology based approach](https://pubmed.ncbi.nlm.nih.gov/27777266/)
