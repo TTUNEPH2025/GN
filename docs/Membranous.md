@@ -1,5 +1,7 @@
 # **Membranous Nephropathy**
 ## **Overview**
+* Occurs in all ages, but most common in ages 30-60 years old
+* Primary 
 ## **Pathophysiology**
 ## **Clinical Presentation**
 ## **Drugs and Diseases Associated with Membranous**
