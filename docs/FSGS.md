@@ -1,5 +1,5 @@
 # **Focal Segmental Glomerulosclerosis (FSGS)** 
-## **OverView**
+## **Overview**
   * Most common cause of Nephrotic syndrome in U.S.
   * 3 types: Idiopathic, Secondary, and Genetic
   * Idiopathic can reoccur in  Transplant patients (typically rapid coures in the first months)
