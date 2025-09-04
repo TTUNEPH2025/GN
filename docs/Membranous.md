@@ -28,3 +28,6 @@
 * [Alternating treatment with corticosteroids and cyclophosphamide superior to tx with tacrolimus and rituximab](https://pubmed.ncbi.nlm.nih.gov/33166580/)
 * [Comparison of Obinutuzumab and Rituximab for Treating Primary MN](https://pubmed.ncbi.nlm.nih.gov/39207845/)
 * [Combination Rituximab, and low dose cyclophosphamide and prednisone for Primary Membrandous](https://pubmed.ncbi.nlm.nih.gov/34174365/)
+---
+*Last updated: 9/2025 by Ashley Kinder, D.O.*
+*Next review: 9/2026*
