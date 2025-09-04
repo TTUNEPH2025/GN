@@ -22,17 +22,17 @@
     4. Spike formation and thickened Basement membrane 
  * Rarely Crescents --> if present should test instigate further testing: ANCA, ANA, Anti-GMB
  * Primary MN Antigen association
-   1. PLA2R: Most commen antigen/anti-body in Primary MN, anti-body testing excellent correleatio w/5-10 excess compaired to tissue staining
-   2. THSD7A: No antibody testing available at this time, also found in secondary and should invoke age approiate cancer screenings
+    1. PLA2R: Most commen antigen/anti-body in Primary MN, anti-body testing excellent correleatio w/5-10 excess compaired to tissue staining
+    2. THSD7A: No antibody testing available at this time, also found in secondary and should invoke age approiate cancer screenings
  * Secondary MN Antigen association
-   1. Exostosin 1/Exostosin 2 (EXT1/EXT2): ofent associated with Autimmune disease
-   2. NELL 1: most heterogenous of all antigens, associated in many disease states (drugs, malignancy, autoiummune, infection), should invoke age approiate cancer screenings
-   3. THSD7A: can be associated with malignancy
-   4. NDNF: associaged with syphylsis
-   5. PCSK6: NSAID
-   6. Protocadherin 7: primary older patients, minimal complement activation and high rates of spontaneous remission
-   7. FAT1: associated with stemcell transplant patients, progressive and can re-occur in allograft
-   8. Semaphorin 3b: pediatric patients w/onset <2 years old
+    1. Exostosin 1/Exostosin 2 (EXT1/EXT2): ofent associated with Autimmune disease
+    2. NELL 1: most heterogenous of all antigens, associated in many disease states (drugs, malignancy, autoiummune, infection), should invoke age approiate cancer screenings
+    3. THSD7A: can be associated with malignancy
+    4. NDNF: associaged with syphylsis
+    5. PCSK6: NSAID
+    6. Protocadherin 7: primary older patients, minimal complement activation and high rates of spontaneous remission
+    7. FAT1: associated with stemcell transplant patients, progressive and can re-occur in allograft
+    8. Semaphorin 3b: pediatric patients w/onset <2 years old
  * Most common Secondary MN found in SLE patients
 ## **Clinical Presentation**
  * Proteniuria --> 75% of cases fully nephrotic
@@ -41,27 +41,27 @@
  * 50% of cases with microscopic hematuria
 ## **Drugs and Diseases Associated with Membranous**
  * Drugs
-   1. Gold salts
-   2. Mercury (can occasionaly be found in creams meant to lighten skin)
-   3. Penicillamine
-   4. Bucillamin
-   5. Catopril (sulfhydryl group)
-   6. Lipoic Acid (found in supplaments)
-   7. NSAID (assoicated with PCSK6 antigen)
-   8. Tiopronin
-   9. Trimethadione
+    1. Gold salts
+    2. Mercury (can occasionaly be found in creams meant to lighten skin)
+    3. Penicillamine
+    4. Bucillamin
+    5. Catopril (sulfhydryl group)
+    6. Lipoic Acid (found in supplaments)
+    7. NSAID (assoicated with PCSK6 antigen)
+    8. Tiopronin
+    9. Trimethadione
  * Malignancy
-   1. Mainly Carcinomas
-   2. MC lung (highly associated with older patients who have a smoking history)
-   3. GI 
-   4. Prostate 
-   5. Breast
+    1. Mainly Carcinomas
+    2. MC lung (highly associated with older patients who have a smoking history)
+    3. GI 
+    4. Prostate 
+    5. Breast
  * Infections
-   1. HBV
-   2. Syphilis
-   3. Filariasis
-   4. HCV
-   5. Hydatid disease (parasitic infection caused by the larval stage of a tapeworm)
+    1. HBV
+    2. Syphilis
+    3. Filariasis
+    4. HCV
+    5. Hydatid disease (parasitic infection caused by the larval stage of a tapeworm)
  * Autiommune
     1. SLE
     2. RA
