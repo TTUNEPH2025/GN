@@ -1,5 +1,5 @@
 # **Minimal Change Disease (MCD)** 
-## **OverView**
+## **Overview**
  * Previously known as lipiod Nephrosis, nil disease, and minimal change nephropathy
  * Podocytopathy most commenly seen in children; seen with 10-25% of Adults with Nephrotic syndrome
  * Steroid responsiveness demonstrates good long term prognosis
