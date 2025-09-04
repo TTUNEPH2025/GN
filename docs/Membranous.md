@@ -40,8 +40,44 @@
  * Normal/perserved renal function
  * 50% of cases with microscopic hematuria
 ## **Drugs and Diseases Associated with Membranous**
- *  
+ * Drugs
+   1. Gold salts
+   2. Mercury (can occasionaly be found in creams meant to lighten skin)
+   3. Penicillamine
+   4. Bucillamin
+   5. Catopril (sulfhydryl group)
+   6. Lipoic Acid (found in supplaments)
+   7. NSAID (assoicated with PCSK6 antigen)
+   8. Tiopronin
+   9. Trimethadione
+ * Malignancy
+   1. Mainly Carcinomas
+   2. MC lung (highly associated with older patients who have a smoking history)
+   3. GI 
+   4. Prostate 
+   5. Breast
+ * Infections
+   1. HBV
+   2. Syphilis
+   3. Filariasis
+   4. HCV
+   5. Hydatid disease (parasitic infection caused by the larval stage of a tapeworm)
+ * Autiommune
+    1. SLE
+    2. RA
+    3. Sjogren
+    4. Mixed connective tissues
+    5. Graves
+    6. Hashimoto's
+ * Other
+    1. Allogenic hematopoietic SCT
+    2. IgG4RD
+    3. Guillain Barre
+    4. Chronic inflammatory Demyelinatio polyneuropathy (CIDP)
+    5. Sarcoidosis
+    6. Renal Vein Thrombosis 
 ## **Deffinitions of Treatment Response**
+ * 
 ## **Treatment**
  * It is reasonable to wait 6 months, while patient is on maximal anti-proteinuric therapy, before starting immunosupressive therapy due to high rates of spontaneous remission.
  * PLA2R-ab testing with ELIZA and/or IFA is cleared by FDA for aid in diagnosis only. Use for PLA2R-ab testing in monitoring is off lable use, though used extensively in guidline recomendations
