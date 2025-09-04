@@ -99,15 +99,29 @@
     3. Unresponsive to immunosuppressive therapy and progressive kidney injury
     4. Persistent nephrotic syndrome despite disappearance of PLA2Rab 
 ### Treatment Regimens 
- * Cyclophosphamid (cyclical)
+ * Cyclophosphamid (cyclical)(Modified ponticell)
+    1. Methylprednisolone 1g IV for 3 consecutive days at start of Month 1, 3, and 5
+    2. Prednisone 0.5mg/kg/day in months 1, 3, 5, after finishing doses of methylprednisolone
+    3. Cyclophosphamide 2.5mg/kg day in months 2, 4, and 6
  * Cyclophosphamide (continuous)
+    1. Methylprednisolone 1g IV for 3 consecutive days at start of Month 1, 3, and 5
+    2. Prednisone 0.5mg/kg/day every other day in months 1-6
+    3. Cyclophophosphamide 1.5mg/kg/day in months 1-6
  * Rituximab
+    1. Rituximab 1g IV administered twice w/in 2 weeks or
+    2. Rituximab 375mg/m2 given 1-4 times at weekly intervals 
  * Tacrolimus
+    1. Tacrolimus 0.05-0.1mg/kg/day
+    2. Target trough 3-8ng/mL(3.7-9.9nmol/l)
+    3. Duration of 12 months
  * Cyclosporine
-### Flow Chart
+    1. Cyclosporine 3.5mg/kg/day
+    2. Target trough level 125-225 ng/ml (104-187nmol/l)
+### Risk Categories
+
 ### Comming Therapies
   * Obinutuzumab vs tac in Majesty trial --> Primary partial complet date December 2025, Expected completion Date December 2027
-  * Comb therapy with short course cyclosporin and glucocorticoids with Rituximab 
+  * Combo therapy with short course cyclosporin and glucocorticoids with Rituximab 
 ## **Sources**
 * [KDIGO GN Guidlines](https://kdigo.org/guidelines/gd/)
 * [Serology based approach](https://pubmed.ncbi.nlm.nih.gov/27777266/)
