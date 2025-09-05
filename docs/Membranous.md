@@ -147,7 +147,7 @@ flowchart TD
     style n8 fill:#E1BEE7
     style n9 fill:#E1BEE7,white-space:nowrap
     style n10 fill:#BBDEFB
-    style n11 fill:#BBDEFB,white-space:nowrap
+    style n11 fill:#BBDEFB,text-align:left
     style n12 fill:#BBDEFB,text-align:left
 ```
 ### Risk Categories
@@ -266,7 +266,7 @@ flowchart TD
     n27@{ shape: rounded}
     n29@{ shape: rounded}
     n31@{ shape: rounded}
-    style n9 fill:#E1BEE7
+    style n9 fill:#E1BEE7,text-align:left,white-space:nowrap
     style n10 fill:#FFF9C4
     style n11 fill:#FFF9C4
     style n12 fill:#FFF9C4
@@ -274,21 +274,21 @@ flowchart TD
     style n15 fill:#E1BEE7
     style n16 fill:#E1BEE7
     style n17 fill:#E1BEE7
-    style n18 fill:#BBDEFB
-    style n19 fill:#BBDEFB
+    style n18 fill:#BBDEFB,text-align:left,white-space:nowrap
+    style n19 fill:#BBDEFB,text-align:left,white-space:nowrap
     style n20 fill:#BBDEFB
     style n21 fill:#FFCDD2
-    style n22 fill:#BBDEFB
-    style n23 fill:#BBDEFB
+    style n22 fill:#BBDEFB,text-align:left,white-space:nowrap
+    style n23 fill:#BBDEFB,text-align:left,white-space:nowrap
     style n24 fill:#E1BEE7
-    style n26 fill:#E1BEE7
+    style n26 fill:#E1BEE7,text-align:left,white-space:nowrap
     style n27 fill:#E1BEE7
     style n28 fill:#BBDEFB
     style n29 fill:#E1BEE7
     style n30 fill:#BBDEFB
     style n31 fill:#E1BEE7
-    style n32 color:#000000,fill:#FFCDD2
-    style n73 fill:#BBDEFB
+    style n32 color:#000000,fill:#FFCDD2,text-align:left,white-space:nowrap
+    style n73 fill:#BBDEFB,text-align:left,white-space:nowrap
     style n74 fill:#BBDEFB
     style n75 fill:#BBDEFB
 ```
