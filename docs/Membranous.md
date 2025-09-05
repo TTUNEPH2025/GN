@@ -97,7 +97,9 @@
     1. Unusual clinical course; rapid decrease in eGFR
     2. Serological abnormalities (positive ANA, ect.)
     3. Unresponsive to immunosuppressive therapy and progressive kidney injury
-    4. Persistent nephrotic syndrome despite disappearance of PLA2Rab 
+    4. Persistent nephrotic syndrome despite disappearance of PLA2Rab
+### Initial Investigation and Management
+
 ### Risk Categories
 ```mermaid
 ---
