@@ -116,14 +116,13 @@ flowchart TD
     • Low Salt Diet
     • Diuretics/SGLT2i
     • Statin"] & n8["Screen for contitions associated with MN"]
-    n7 --> n9["Monitor PLA2R ab q3months for 6 months
+    n7 --> n9["Monitor PLA2R ab every 3months for 6 months
     [High ab titers may (>150RU/mL) may require short testing internvals]"]
     n8 --> n9
     n9 --> n10["Stratify Risk Category: Low, Moderate, high, high risk"] & n11["• Life-threatening nephrotic syndrome
     or
     • Rapid Deterioration of kidney function not otherwise explain"]
-    n11 --> n12["Can skip 3-6month waiting period
-    • Initate treatemnt with Cyclophosphamide + glucocortidcoids 
+    n11 --> n12[" • Can skip 3-6month waiting period and initate treatemnt with Cyclophosphamide + glucocortidcoids 
     • Consider Kidney biopsy"]
     B@{ shape: rounded}
     C@{ shape: rounded}
@@ -143,13 +142,13 @@ flowchart TD
     style n3 fill:#E1BEE7
     style n4 fill:#E1BEE7
     style n5 fill:#E1BEE7
-    style n6 fill:#BBDEFB
-    style n7 fill:#BBDEFB
+    style n6 fill:#BBDEFB,text-align:left,white-space:nowrap
+    style n7 fill:#BBDEFB,text-align:left,white-space:nowrap
     style n8 fill:#E1BEE7
-    style n9 fill:#E1BEE7
+    style n9 fill:#E1BEE7,white-space:nowrap
     style n10 fill:#BBDEFB
-    style n11 fill:#BBDEFB
-    style n12 fill:#BBDEFB
+    style n11 fill:#BBDEFB,white-space:nowrap
+    style n12 fill:#BBDEFB,text-align:left,white-space:nowrap
 ```
 ### Risk Categories
 ```mermaid
@@ -248,7 +247,7 @@ flowchart TD
     •CNI --> Taper CNI and glucocorticoids"] & n31["PLA2R ab Persistent"]
     n31 --> n32(["Resistent Disease"])
     n27 --> n32 & n73["• Rituximab --> continue with Rituximab 2g (see treatment tabel)
-    • Cyclophosphamide + glucocorticoids --> Sto cyclophosphamide and taper glucocorticoids and start Rituximab
+    • Cyclophosphamide + glucocorticoids --> Stop cyclophosphamide and taper glucocorticoids and start Rituximab
     •CNI --> Taper CNI and glucocorticoids and re-evaluate at 6 months"]
     n73 --> n74["Persistent PLA2R ab at 3 or 6 months"]
     n74 --> n32
