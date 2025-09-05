@@ -227,10 +227,12 @@ flowchart TD
     • Rituximab --> no additional tx
     • Cyclophosphamide + glucocorticoids --> DC cyclophosphamide taper glucocorticoids
     •CNI --> Taper CNI and glucocorticoids"] & n31["PLA2R ab Persistent"]
-    n27 --> n73["• Rituximab --> continue with Rituximab 2g (see treatment tabel)
+    n31 --> n32(["Resistent Disease"])
+    n27 --> n32 & n73["• Rituximab --> continue with Rituximab 2g (see treatment tabel)
     • Cyclophosphamide + glucocorticoids --> Sto cyclophosphamide and taper glucocorticoids and start Rituximab
     •CNI --> Taper CNI and glucocorticoids and re-evaluate at 6 months"]
     n73 --> n74["Persistent PLA2R ab at 3 or 6 months"]
+    n74 --> n32
     n10 --> n75["• Continue supportive therapy
     • Continue to monitor"]
     n9@{ shape: rounded}
@@ -267,6 +269,7 @@ flowchart TD
     style n29 fill:#E1BEE7
     style n30 fill:#BBDEFB
     style n31 fill:#E1BEE7
+    style n32 color:#000000,fill:#FFCDD2
     style n73 fill:#BBDEFB
     style n74 fill:#BBDEFB
     style n75 fill:#BBDEFB
