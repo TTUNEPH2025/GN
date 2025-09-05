@@ -122,7 +122,7 @@ kanban
     and at least one of the following:
     • Serum albumin <25 g/l
     • PLA2Rab >50 RU/ml 
-    • Urinary α₁-microglobulin >40 µg/min 
+    • Urinary α₁-microglobulin >40 µg/min
     • Urinary IgG >1 µg/min
     • Urinary β₂-microglobulin >250 mg/d
     • Selectivity index > 0.2]
