@@ -133,7 +133,8 @@ kanban
 ```
 ### Treatment flow chart
 ```mermaid
-onfig:
+---
+config:
   theme: redux
 ---
 flowchart TD
