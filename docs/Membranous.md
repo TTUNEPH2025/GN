@@ -119,7 +119,12 @@ flowchart TD
     n7 --> n9["Monitor PLA2R ab q3months for 6 months
     [High ab titers may (>150RU/mL) may require short testing internvals]"]
     n8 --> n9
-    n9 --> n10["Stratify Risk Category: Low, Moderate, high, high risk"]
+    n9 --> n10["Stratify Risk Category: Low, Moderate, high, high risk"] & n11["• Life-threatening nephrotic syndrome
+    or
+    • Rapid Deterioration of kidney function not otherwise explain"]
+    n11 --> n12["Can skip 3-6month waiting period
+    • Initate treatemnt with Cyclophosphamide + glucocortidcoids 
+    • Consider Kidney biopsy"]
     B@{ shape: rounded}
     C@{ shape: rounded}
     D@{ shape: rounded}
@@ -143,6 +148,8 @@ flowchart TD
     style n8 fill:#E1BEE7
     style n9 fill:#E1BEE7
     style n10 fill:#BBDEFB
+    style n11 fill:#BBDEFB
+    style n12 fill:#BBDEFB
 ```
 ### Risk Categories
 ```mermaid
