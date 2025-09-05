@@ -211,8 +211,9 @@ config:
 flowchart TD
     n9["Monitor PLA2R ab every 3months for 6 months
     [High ab titers may (>150RU/mL) may require short testing internvals]"] --> n10["Low Risk"] & n11["Moderate Risk"] & n12["High Risk"] & n13["Very High Risk"]
-    n11 --> n15["PLA2R ab negative/ Decreasing or low levles of ab"] & n16["Persistent PLA2R ab after 3-6months"] & n17["Increasing levels of PLA2R"]
-n15 --> n75
+    n11 --> n15["PLA2R ab negative/ Decreasing or low levles of ab"] & n16["Persistent/increasing PLA2R ab after 3-6months"]
+    n15 --> n75["• Continue supportive therapy
+    • Continue to monitor"]
     n12 --> n18["• Consider kidney Bx
     • Rituximab 
     or 
@@ -221,17 +222,16 @@ n15 --> n75
     •CNI + glucocorticoids"]
     n13 --> n19["• Consider kidney Bx
     • Cyclophosphamide + glucocorticoids"]
-    n17 --> n20["• Consider kidney Bx
+    n16 --> n22["• Consider kidney Bx
     • Rituximab 
+    or 
+    • Cyclophosphamide + glucocorticoids
     or
     •CNI + glucocorticoids"]
-    n16 --> n22["• Persistent Disease activity Re-consider therapy
-    • Consider kidney Bx"]
     n18 --> n24["Measure PLA2R ab at 3 or 6 months
     (Most patient start responding at 3 months of therapy)"]
     n19 --> n24
     n22 --> n24
-    n20 --> n24
     n24 --> n26["PLA2R ab Present, but low or decreasing"] & n27["PLA2R ab Persistent"] & n28["**PLA2R ab negative**
     • supportive therapy
     • Rituximab --> no additional tx
@@ -249,8 +249,7 @@ n15 --> n75
     •CNI --> Taper CNI and glucocorticoids and re-evaluate at 6 months"]
     n73 --> n74["Persistent PLA2R ab at 3 or 6 months"]
     n74 --> n32
-    n10 --> n75["• Continue supportive therapy
-    • Continue to monitor"]
+    n10 --> n75
     n9@{ shape: rounded}
     n10@{ shape: hex}
     n11@{ shape: hex}
@@ -258,7 +257,6 @@ n15 --> n75
     n13@{ shape: hex}
     n15@{ shape: rounded}
     n16@{ shape: rounded}
-    n17@{ shape: rounded}
     n24@{ shape: rounded}
     n26@{ shape: rounded}
     n27@{ shape: rounded}
@@ -271,10 +269,9 @@ n15 --> n75
     style n13 fill:#FFF9C4
     style n15 fill:#E1BEE7
     style n16 fill:#E1BEE7
-    style n17 fill:#E1BEE7
+    style n75 fill:#BBDEFB
     style n18 fill:#BBDEFB,text-align:left
     style n19 fill:#BBDEFB,text-align:left
-    style n20 fill:#BBDEFB
     style n22 fill:#BBDEFB,text-align:left
     style n24 fill:#E1BEE7
     style n26 fill:#E1BEE7,text-align:left
@@ -286,7 +283,6 @@ n15 --> n75
     style n32 color:#000000,fill:#FFCDD2,text-align:left
     style n73 fill:#BBDEFB,text-align:left
     style n74 fill:#BBDEFB
-    style n75 fill:#BBDEFB
 ```
 ### Resistent disease
 ```mermaid
