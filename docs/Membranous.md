@@ -346,6 +346,9 @@ flowchart TD
     style n72 fill:#BBDEFB,text-align:left
     style n69 fill:#BBDEFB
 ```
+  * Expert centers: may use more immunospuression; may trial bortezomib, anti-CD38 therapies, or Belimumab
+  * Cumulative doses of Cyclosphosphamide should not exceed a total of 36g due to increased cancer risk
+  * Cumulative doses of Cyclosphosphamide should not exceed a total of 10g in Females with concerns for fertility preservation
 ### Comming Therapies
   * Obinutuzumab vs tac in Majesty trial --> Primary partial complet date December 2025, Expected completion Date December 2027
   * Combo therapy with short course cyclosporin and glucocorticoids with Rituximab 
@@ -358,6 +361,30 @@ flowchart TD
 * [Alternating treatment with corticosteroids and cyclophosphamide superior to tx with tacrolimus and rituximab](https://pubmed.ncbi.nlm.nih.gov/33166580/)
 * [Comparison of Obinutuzumab and Rituximab for Treating Primary MN](https://pubmed.ncbi.nlm.nih.gov/39207845/)
 * [Combination Rituximab, and low dose cyclophosphamide and prednisone for Primary Membrandous](https://pubmed.ncbi.nlm.nih.gov/34174365/)
+* [Diagnosis Accuracy of PLA2R-AB](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0104936)
+* [PLA2R prediction of likelihood of remission](https://journals.lww.com/jasn/fulltext/2018/02000/phospholipase_a2_receptor_1_epitope_spreading_at.13.aspx)
+* [Urinary markers in idiopathic MN](https://www.scopus.com/pages/publications/84864827238)
+* [Cyclophosphamide and Steroids vs Steroids alone](https://www.acpjournals.org/doi/10.7326/0003-4819-116-6-438)
+* [Rituximab for severe MN](https://www.scopus.com/pages/publications/85021849895)
+* [Prolonged Tacrolimus for treatment of MN](https://karger.com/pha/article-abstract/91/5-6/259/272145/Effect-of-Prolonged-Tacrolimus-Treatment-in?redirectedFrom=fulltext)
+* [MMF and Prednisolone in treatment of MN](https://onlinelibrary.wiley.com/doi/10.1111/j.1440-1797.2007.00822.x)
+* [MMF vs Cyclosporine in MN](https://www.scopus.com/pages/publications/85042481649)
+* [MMF vs Cyclophosphamide in MN](https://www.sciencedirect.com/science/article/abs/pii/S0272638607008414)
+* [Pharmacological treatment of primary MN in 2016](https://www.tandfonline.com/doi/full/10.1080/17512433.2016.1225497#abstract)
+* [Long-term outcomes in Idiopathic MN](https://www.scopus.com/pages/publications/84891776380)
+* [Idiopathic MN: outline and rationale of treatment strategy](https://www.sciencedirect.com/science/article/abs/pii/S0272638605012382)
+* [Cyclophosphamide in MN](https://www.sciencedirect.com/science/article/pii/S0085253815313995)
+* [Comparison of Immunosuppressive therapuetic regimens in pt with MN](https://www.tandfonline.com/doi/full/10.3109/08860221003728754)
+* [Immunosuppressive tx for MN](https://www.scopus.com/pages/publications/84921989440)
+* [Tacrolimus with steroids in MN](https://karger.com/books/book/195/chapter-abstract/5130439/Tacrolimus-Combined-with-Corticosteroids-in?redirectedFrom=fulltext)
+* [Cyclosporine in pt with steroid resistent MN](https://www.sciencedirect.com/science/article/pii/S0085253815476240)
+* [Tacrolimus with steroids in MN](https://www.sciencedirect.com/science/article/abs/pii/S0002962915316530)
+* [Cyclosporine in patient with MN and reduced renal function](https://www.scopus.com/pages/publications/0027978958)
+* [Tacrolimus monotherapy in MN](https://www.sciencedirect.com/science/article/pii/S0085253815524927)
+* [Tacrolimus vs Modified Ponticelli in MN](https://onlinelibrary.wiley.com/doi/10.1111/nep.12569)
+* [2 year follow up of MN treated with Tacrolimus and steroids vs Cyclophosphamide](https://www.sciencedirect.com/science/article/pii/S2468024917300219)
+* [Efficacy and safety of tacrolimus monotherapy in MN](https://www.scopus.com/pages/publications/85044768901)
+* [Cancer Risk after cyclophosphamide treatment in MN](https://www.scopus.com/pages/publications/84922884581)
 ---
 *Last updated: 9/2025 by Ashley Kinder, D.O.*
 *Next review: 9/2026*
