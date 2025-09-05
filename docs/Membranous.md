@@ -228,6 +228,8 @@ flowchart TD
     •CNI --> Taper CNI and glucocorticoids and re-evaluate at 6 months"]
     n73 --> n74["Persistent PLA2R ab at 3 or 6 months"]
     n74 --> n32
+    n10 --> n75["• Continue supportive therapy
+    • Continue to monitor"]
     B@{ shape: rounded}
     C@{ shape: rounded}
     D@{ shape: rounded}
@@ -262,15 +264,15 @@ flowchart TD
     style n2 fill:#BBDEFB
     style n3 fill:#E1BEE7
     style n4 fill:#E1BEE7
-    style n5 fill:#BBDEFB
+    style n5 fill:#E1BEE7
     style n6 fill:#BBDEFB
     style n7 fill:#BBDEFB
     style n8 fill:#E1BEE7
     style n9 fill:#E1BEE7
-    style n10 fill:#C8E6C9
+    style n10 fill:#FFF9C4
     style n11 fill:#FFF9C4
-    style n12 fill:#FF6D00
-    style n13 fill:#D50000
+    style n12 fill:#FFF9C4
+    style n13 fill:#FFF9C4
     style n15 fill:#E1BEE7
     style n16 fill:#E1BEE7
     style n17 fill:#E1BEE7
@@ -308,6 +310,7 @@ flowchart TD
     style n69 fill:#BBDEFB
     style n73 fill:#BBDEFB
     style n74 fill:#BBDEFB
+    style n75 fill:#BBDEFB
 ```
 ### Treatment Regimens 
  * Cyclophosphamid (cyclical)(Modified ponticell)
