@@ -118,7 +118,38 @@
     1. Cyclosporine 3.5mg/kg/day
     2. Target trough level 125-225 ng/ml (104-187nmol/l)
 ### Risk Categories
-
+```mermaid
+---
+config:
+  kanban:
+    ticketBaseUrl: 'https://github.com/mermaid-js/mermaid/issues/#TICKET#'
+  theme: forest
+---
+kanban
+  Low risk
+    docs[ • Normal eGFR, proteinuria <3.5g/d and serume albumin >30g/last
+    or
+    • Normal eGFR, or a decrease >50% after 6 months of conserative therapy with ACEi/ARB]
+  [Moderate Risk]
+    id6[• Normal eGFR, proteinuria, and no decrease >50% after 6 months of conserative therapy with ACEi/ARB
+    and
+    • Not fulfilling high-risk criteria ]
+  [High risk]
+    id4[• eGFR < 60ml/min/1.73m² and/or Proteinuria > 8g/d for >6months
+    or
+    • Normal eGFR, Proteinuria >3.5g/d and no decrease >50% after 6months of conservative therapy with ACEi/ARB 
+    and at least one of the following:
+    • Serum albumin <25 g/l
+    • PLA2Rab >50 RU/ml 
+    • Urinary α₁-microglobulin >40 µg/min 
+    • Urinary IgG >1 µg/min
+    • Urinary β₂-microglobulin >250 mg/d
+    • Selectivity index > 0.2]
+  [Very High Risk]
+    id5[• Life-threatening Nephrotic Syndrome 
+    or
+    • Rapid deterioration of kidney function not otherwise explained]
+```
 ### Comming Therapies
   * Obinutuzumab vs tac in Majesty trial --> Primary partial complet date December 2025, Expected completion Date December 2027
   * Combo therapy with short course cyclosporin and glucocorticoids with Rituximab 
