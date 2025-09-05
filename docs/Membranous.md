@@ -184,6 +184,25 @@ kanban
     or
     • Rapid deterioration of kidney function not otherwise explained]
 ```
+### Treatment Regimens 
+ * Cyclophosphamid (cyclical)(Modified ponticell)
+    1. Methylprednisolone 1g IV for 3 consecutive days at start of Month 1, 3, and 5
+    2. Prednisone 0.5mg/kg/day in months 1, 3, 5, after finishing doses of methylprednisolone
+    3. Cyclophosphamide 2.5mg/kg day in months 2, 4, and 6
+ * Cyclophosphamide (continuous)
+    1. Methylprednisolone 1g IV for 3 consecutive days at start of Month 1, 3, and 5
+    2. Prednisone 0.5mg/kg/day every other day in months 1-6
+    3. Cyclophophosphamide 1.5mg/kg/day in months 1-6
+ * Rituximab
+    1. Rituximab 1g IV administered twice w/in 2 weeks or
+    2. Rituximab 375mg/m2 given 1-4 times at weekly intervals 
+ * Tacrolimus
+    1. Tacrolimus 0.05-0.1mg/kg/day
+    2. Target trough 3-8ng/mL(3.7-9.9nmol/l)
+    3. Duration of 12 months
+ * Cyclosporine
+    1. Cyclosporine 3.5mg/kg/day
+    2. Target trough level 125-225 ng/ml (104-187nmol/l)
 ### Initial immunosupressive therapy
 ```mermaid
 ---
@@ -275,26 +294,67 @@ flowchart TD
     style n75 fill:#BBDEFB
 ```
 ### Resistent disease
-
-### Treatment Regimens 
- * Cyclophosphamid (cyclical)(Modified ponticell)
-    1. Methylprednisolone 1g IV for 3 consecutive days at start of Month 1, 3, and 5
-    2. Prednisone 0.5mg/kg/day in months 1, 3, 5, after finishing doses of methylprednisolone
-    3. Cyclophosphamide 2.5mg/kg day in months 2, 4, and 6
- * Cyclophosphamide (continuous)
-    1. Methylprednisolone 1g IV for 3 consecutive days at start of Month 1, 3, and 5
-    2. Prednisone 0.5mg/kg/day every other day in months 1-6
-    3. Cyclophophosphamide 1.5mg/kg/day in months 1-6
- * Rituximab
-    1. Rituximab 1g IV administered twice w/in 2 weeks or
-    2. Rituximab 375mg/m2 given 1-4 times at weekly intervals 
- * Tacrolimus
-    1. Tacrolimus 0.05-0.1mg/kg/day
-    2. Target trough 3-8ng/mL(3.7-9.9nmol/l)
-    3. Duration of 12 months
- * Cyclosporine
-    1. Cyclosporine 3.5mg/kg/day
-    2. Target trough level 125-225 ng/ml (104-187nmol/l)
+```mermaid
+---
+config:
+  theme: redux
+---
+flowchart TD
+    n32(["Resistent Disease"]) --> n54["eGFR stable"] & n55["eGFR decreasing"]
+    n54 --> n57["Initial tx 
+    Rituximab"] & n58["Initial tx
+    CNI"] & n59["Initial tx
+    Cyclosphosphamide + glucocorticoids"]
+    n55 --> n60["Initial tx
+    Rituximab"] & n61["Initial tx
+    CNI"] & n62["Initial tx
+    Cyclosphosphamide + glucocorticoids"]
+    n57 --> n63["Rituximab + CNI"]
+    n58 --> n64["Rituximab"]
+    n59 --> n65["Rituximab"]
+    n60 --> n66["Cyclosphosphamide + glucocorticoids"]
+    n61 --> n66
+    n62 --> n66
+    n63 --> n67["PLA2R ab at 3 months"]
+    n64 --> n67
+    n65 --> n67
+    n67 --> n70["**PLA2R ab negative**
+    • supportive therapy
+    • Rituximab --> no additional tx
+    • Cyclophosphamide + glucocorticoids --> DC cyclophosphamide taper glucocorticoids
+    •CNI --> Taper CNI and glucocorticoids"] & n71["Persistent PLA2R ab"]
+    n66 --> n68["Persistent PLA2R ab"] & n72["**PLA2R ab negative**
+    • supportive therapy
+    • Rituximab --> no additional tx
+    • Cyclophosphamide + glucocorticoids --> DC cyclophosphamide taper glucocorticoids
+    •CNI --> Taper CNI and glucocorticoids"]
+    n68 --> n69["Consult Expert Center"]
+    n71 --> n66
+    n54@{ shape: rounded}
+    n55@{ shape: rounded}
+    n67@{ shape: rounded}
+    n71@{ shape: rounded}
+    n68@{ shape: rounded}
+    style n32 color:#000000,fill:#FFCDD2
+    style n54 fill:#E1BEE7
+    style n55 fill:#E1BEE7
+    style n57 fill:#BBDEFB
+    style n58 fill:#BBDEFB
+    style n59 fill:#BBDEFB
+    style n60 fill:#BBDEFB
+    style n61 fill:#BBDEFB
+    style n62 fill:#BBDEFB
+    style n63 fill:#BBDEFB
+    style n64 fill:#BBDEFB
+    style n65 fill:#BBDEFB
+    style n66 fill:#BBDEFB
+    style n67 fill:#E1BEE7
+    style n70 fill:#BBDEFB
+    style n71 fill:#E1BEE7
+    style n68 fill:#E1BEE7
+    style n72 fill:#BBDEFB
+    style n69 fill:#BBDEFB
+```
 ### Comming Therapies
   * Obinutuzumab vs tac in Majesty trial --> Primary partial complet date December 2025, Expected completion Date December 2027
   * Combo therapy with short course cyclosporin and glucocorticoids with Rituximab 
