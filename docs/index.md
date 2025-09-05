@@ -8,7 +8,7 @@
 ### **Primary**
 - **Non-Proliferative**
     1. [FSGS (Focal Sclerosing Glomerulonephritis)](FSGS.md)
-    2. Membranous Nephropathy
+    2. [Membranous Nephropathy](Membranous.md)
     3. [Minimal Change Disease](MCD.md)
 - **Proliferative** 
     1. Acute (post-infectious GN)
@@ -19,6 +19,7 @@
     6. MPGN (Membranoproliferative GN)/C3GN
 ### **Secondary**
 * [FSGS (Focal Sclerosing Glomerulonephritis)](FSGS.md)
+* [Membranous Nephropathy](Membranous.md)
 * [Minimal Change Disease](MCD.md)
 ### **Familial**
 * Alport's Syndrome
