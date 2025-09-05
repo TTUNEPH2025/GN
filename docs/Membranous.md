@@ -99,7 +99,56 @@
     3. Unresponsive to immunosuppressive therapy and progressive kidney injury
     4. Persistent nephrotic syndrome despite disappearance of PLA2Rab
 ### Initial Investigation and Management
-
+```mermaid
+---
+config:
+  theme: redux
+---
+flowchart TD
+    A(["Nephrotic Range Proteinuria"]) --> B["Screen appropiate antibodies"]
+    B --> C["PLA2R ab Negative"] & D["PLA2R ab Positive"]
+    C --> n1["Renal Bx"]
+    n1 --> n2["MN on Bx"]
+    n2 --> n3["PLA2R ag Positive"] & n4["PLA2R ag Negative"]
+    n4 --> n5["Screen for contitions associated with MN"]
+    n3 --> n6["• RAS Blockade (ACEi/ARB)
+    • BP Control (SBP&lt;120)
+    • Low Salt Diet
+    • Diuretics/SGLT2i
+    • Statin"] & n5
+    D --> n7["• RAS Blockade (ACEi/ARB)
+    • BP Control (SBP&lt;120)
+    • Low Salt Diet
+    • Diuretics/SGLT2i
+    • Statin"] & n8["Screen for contitions associated with MN"]
+    n7 --> n9["Monitor PLA2R ab q3months for 6 months
+    [High ab titers may (>150RU/mL) may require short testing internvals]"]
+    n8 --> n9
+    n9 --> n10["Stratify Risk Category: Low, Moderate, high, high risk"]
+    B@{ shape: rounded}
+    C@{ shape: rounded}
+    D@{ shape: rounded}
+    n1@{ shape: rounded}
+    n3@{ shape: rounded}
+    n4@{ shape: rounded}
+    n5@{ shape: rounded}
+    n8@{ shape: rounded}
+    n9@{ shape: rounded}
+    style A fill:#FFCDD2
+    style B fill:#E1BEE7
+    style C fill:#E1BEE7
+    style D fill:#E1BEE7
+    style n1 fill:#E1BEE7
+    style n2 fill:#BBDEFB
+    style n3 fill:#E1BEE7
+    style n4 fill:#E1BEE7
+    style n5 fill:#E1BEE7
+    style n6 fill:#BBDEFB
+    style n7 fill:#BBDEFB
+    style n8 fill:#E1BEE7
+    style n9 fill:#E1BEE7
+    style n10 fill:#BBDEFB
+```
 ### Risk Categories
 ```mermaid
 ---
