@@ -340,10 +340,10 @@ flowchart TD
     style n65 fill:#BBDEFB
     style n66 fill:#BBDEFB
     style n67 fill:#E1BEE7
-    style n70 fill:#BBDEFB,text-align:left,white-space:nowrap
+    style n70 fill:#BBDEFB,text-align:left
     style n71 fill:#E1BEE7
     style n68 fill:#E1BEE7
-    style n72 fill:#BBDEFB,text-align:left,white-space:nowrap
+    style n72 fill:#BBDEFB,text-align:left
     style n69 fill:#BBDEFB
 ```
 ### Comming Therapies
