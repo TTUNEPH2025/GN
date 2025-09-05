@@ -355,9 +355,6 @@ preservation
 ### Comming Therapies
  * Obinutuzumab vs tac in Majesty trial --> Primary partial complet date December 2025, Expected completion Date December 2027
  * Combo therapy with short course cyclosporin and glucocorticoids with Rituximab
- * Expert centers: may use more immunospuression; may trial bortezomib, anti-CD38 therapies, or Belimumab
- * Cumulative doses of Cyclosphosphamide should not exceed a total of 36g due to increased cancer risk
- * Cumulative doses of Cyclosphosphamide should not exceed a total of 10g in Females with concerns for fertility 
 ## **Sources**
 * [KDIGO GN Guidlines](https://kdigo.org/guidelines/gd/)
 * [Serology based approach](https://pubmed.ncbi.nlm.nih.gov/27777266/)
