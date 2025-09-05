@@ -209,9 +209,10 @@ config:
   theme: redux
 ---
 flowchart TD
-    n9["Monitor PLA2R ab q3months for 6 months
+    n9["Monitor PLA2R ab every 3months for 6 months
     [High ab titers may (>150RU/mL) may require short testing internvals]"] --> n10["Low Risk"] & n11["Moderate Risk"] & n12["High Risk"] & n13["Very High Risk"]
     n11 --> n15["PLA2R ab negative/ Decreasing or low levles of ab"] & n16["Persistent PLA2R ab after 3-6months"] & n17["Increasing levels of PLA2R"]
+n15 --> n75
     n12 --> n18["• Consider kidney Bx
     • Rituximab 
     or 
@@ -224,11 +225,8 @@ flowchart TD
     • Rituximab 
     or
     •CNI + glucocorticoids"]
-    n15 --> n21(["Remission"])
     n16 --> n22["• Persistent Disease activity Re-consider therapy
     • Consider kidney Bx"]
-    n21 --> n23["• Continue supportive therapy
-    • Continue to monitor"]
     n18 --> n24["Measure PLA2R ab at 3 or 6 months
     (Most patient start responding at 3 months of therapy)"]
     n19 --> n24
@@ -266,7 +264,7 @@ flowchart TD
     n27@{ shape: rounded}
     n29@{ shape: rounded}
     n31@{ shape: rounded}
-    style n9 fill:#E1BEE7,text-align:left,white-space:nowrap
+    style n9 fill:#E1BEE7,text-align:left
     style n10 fill:#FFF9C4
     style n11 fill:#FFF9C4
     style n12 fill:#FFF9C4
@@ -274,21 +272,19 @@ flowchart TD
     style n15 fill:#E1BEE7
     style n16 fill:#E1BEE7
     style n17 fill:#E1BEE7
-    style n18 fill:#BBDEFB,text-align:left,white-space:nowrap
-    style n19 fill:#BBDEFB,text-align:left,white-space:nowrap
+    style n18 fill:#BBDEFB,text-align:left
+    style n19 fill:#BBDEFB,text-align:left
     style n20 fill:#BBDEFB
-    style n21 fill:#FFCDD2
-    style n22 fill:#BBDEFB,text-align:left,white-space:nowrap
-    style n23 fill:#BBDEFB,text-align:left,white-space:nowrap
+    style n22 fill:#BBDEFB,text-align:left
     style n24 fill:#E1BEE7
-    style n26 fill:#E1BEE7,text-align:left,white-space:nowrap
+    style n26 fill:#E1BEE7,text-align:left
     style n27 fill:#E1BEE7
-    style n28 fill:#BBDEFB
+    style n28 fill:#BBDEFB,text-align:left
     style n29 fill:#E1BEE7
-    style n30 fill:#BBDEFB
+    style n30 fill:#BBDEFB,text-align:left
     style n31 fill:#E1BEE7
-    style n32 color:#000000,fill:#FFCDD2,text-align:left,white-space:nowrap
-    style n73 fill:#BBDEFB,text-align:left,white-space:nowrap
+    style n32 color:#000000,fill:#FFCDD2,text-align:left
+    style n73 fill:#BBDEFB,text-align:left
     style n74 fill:#BBDEFB
     style n75 fill:#BBDEFB
 ```
