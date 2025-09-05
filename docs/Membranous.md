@@ -184,7 +184,7 @@ kanban
     • Rapid deterioration of kidney function not otherwise explained]
 ```
 ### Treatment Regimens 
- * Cyclophosphamid (cyclical)(Modified ponticell)
+ * Cyclophosphamide (cyclical)(Modified ponticell)
     1. Methylprednisolone 1g IV for 3 consecutive days at start of Month 1, 3, and 5
     2. Prednisone 0.5mg/kg/day in months 1, 3, 5, after finishing doses of methylprednisolone
     3. Cyclophosphamide 2.5mg/kg day in months 2, 4, and 6
