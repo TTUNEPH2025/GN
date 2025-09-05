@@ -185,6 +185,92 @@ kanban
     • Rapid deterioration of kidney function not otherwise explained]
 ```
 ### Initial immunosupressive therapy
+```mermaid
+---
+config:
+  theme: redux
+---
+flowchart TD
+    n9["Monitor PLA2R ab q3months for 6 months
+    [High ab titers may (>150RU/mL) may require short testing internvals]"] --> n10["Low Risk"] & n11["Moderate Risk"] & n12["High Risk"] & n13["Very High Risk"]
+    n11 --> n15["PLA2R ab negative/ Decreasing or low levles of ab"] & n16["Persistent PLA2R ab after 3-6months"] & n17["Increasing levels of PLA2R"]
+    n12 --> n18["• Consider kidney Bx
+    • Rituximab 
+    or 
+    • Cyclophosphamide + glucocorticoids
+    or
+    •CNI + glucocorticoids"]
+    n13 --> n19["• Consider kidney Bx
+    • Cyclophosphamide + glucocorticoids"]
+    n17 --> n20["• Consider kidney Bx
+    • Rituximab 
+    or
+    •CNI + glucocorticoids"]
+    n15 --> n21(["Remission"])
+    n16 --> n22["• Persistent Disease activity Re-consider therapy
+    • Consider kidney Bx"]
+    n21 --> n23["• Continue supportive therapy
+    • Continue to monitor"]
+    n18 --> n24["Measure PLA2R ab at 3 or 6 months
+    (Most patient start responding at 3 months of therapy)"]
+    n19 --> n24
+    n22 --> n24
+    n20 --> n24
+    n24 --> n26["PLA2R ab Present, but low or decreasing"] & n27["PLA2R ab Persistent"] & n28["**PLA2R ab negative**
+    • supportive therapy
+    • Rituximab --> no additional tx
+    • Cyclophosphamide + glucocorticoids --> DC cyclophosphamide taper glucocorticoids
+    •CNI --> Taper CNI and glucocorticoids"]
+    n26 --> n29["Evaluate PLA2R at 3 or 6 month intervals"]
+    n29 --> n30["**PLA2R ab negative**
+    • supportive therapy
+    • Rituximab --> no additional tx
+    • Cyclophosphamide + glucocorticoids --> DC cyclophosphamide taper glucocorticoids
+    •CNI --> Taper CNI and glucocorticoids"] & n31["PLA2R ab Persistent"]
+    n27 --> n73["• Rituximab --> continue with Rituximab 2g (see treatment tabel)
+    • Cyclophosphamide + glucocorticoids --> Sto cyclophosphamide and taper glucocorticoids and start Rituximab
+    •CNI --> Taper CNI and glucocorticoids and re-evaluate at 6 months"]
+    n73 --> n74["Persistent PLA2R ab at 3 or 6 months"]
+    n10 --> n75["• Continue supportive therapy
+    • Continue to monitor"]
+    n9@{ shape: rounded}
+    n10@{ shape: hex}
+    n11@{ shape: hex}
+    n12@{ shape: hex}
+    n13@{ shape: hex}
+    n15@{ shape: rounded}
+    n16@{ shape: rounded}
+    n17@{ shape: rounded}
+    n24@{ shape: rounded}
+    n26@{ shape: rounded}
+    n27@{ shape: rounded}
+    n29@{ shape: rounded}
+    n31@{ shape: rounded}
+    style n9 fill:#E1BEE7
+    style n10 fill:#FFF9C4
+    style n11 fill:#FFF9C4
+    style n12 fill:#FFF9C4
+    style n13 fill:#FFF9C4
+    style n15 fill:#E1BEE7
+    style n16 fill:#E1BEE7
+    style n17 fill:#E1BEE7
+    style n18 fill:#BBDEFB
+    style n19 fill:#BBDEFB
+    style n20 fill:#BBDEFB
+    style n21 fill:#FFCDD2
+    style n22 fill:#BBDEFB
+    style n23 fill:#BBDEFB
+    style n24 fill:#E1BEE7
+    style n26 fill:#E1BEE7
+    style n27 fill:#E1BEE7
+    style n28 fill:#BBDEFB
+    style n29 fill:#E1BEE7
+    style n30 fill:#BBDEFB
+    style n31 fill:#E1BEE7
+    style n73 fill:#BBDEFB
+    style n74 fill:#BBDEFB
+    style n75 fill:#BBDEFB
+```
 ### Resistent disease
 
 ### Treatment Regimens 
