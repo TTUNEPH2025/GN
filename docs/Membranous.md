@@ -148,7 +148,7 @@ flowchart TD
     style n9 fill:#E1BEE7,white-space:nowrap
     style n10 fill:#BBDEFB
     style n11 fill:#BBDEFB,white-space:nowrap
-    style n12 fill:#BBDEFB,text-align:left,white-space:nowrap
+    style n12 fill:#BBDEFB,text-align:left
 ```
 ### Risk Categories
 ```mermaid
