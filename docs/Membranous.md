@@ -122,7 +122,7 @@ flowchart TD
     n9 --> n10["Stratify Risk Category: Low, Moderate, high, high risk"] & n11["• Life-threatening nephrotic syndrome
     or
     • Rapid Deterioration of kidney function not otherwise explain"]
-    n11 --> n12[" • Can skip 3-6month waiting period and initate treatemnt with Cyclophosphamide + glucocortidcoids 
+    n11 --> n12[" • Can skip 3-6month waiting period and initate treatement with Cyclophosphamide + glucocortidcoids 
     • Consider Kidney biopsy"]
     B@{ shape: rounded}
     C@{ shape: rounded}
