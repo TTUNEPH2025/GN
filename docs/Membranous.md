@@ -86,11 +86,6 @@
 ### General Information
  * It is reasonable to wait 6 months, while patient is on maximal anti-proteinuric therapy, before starting immunosupressive therapy due to high rates of spontaneous remission.
  * PLA2R-ab testing with ELIZA and/or IFA is cleared by FDA for aid in diagnosis only. Use for PLA2R-ab testing in monitoring is off lable use, though used extensively in guidline recomendations
- * Prerequisites for Noninvasive testing
-    1. Proteinuria
-    2. Preserved eGFR (>60)
-    3. Absense of Diabetes or other conditions traditionally associated with MN
-    4. Clearly positive PLA2R-ab tested by ELIZA or IFA --> Best if can use both for non-invasive testing
  * Proteinuria can persist for 12-24 months after start of treatment
  * High rates of thrombosis; [Prophylaxis page](Prophylaxis.md)
  * When to Biopsy
