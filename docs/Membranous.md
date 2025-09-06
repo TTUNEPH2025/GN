@@ -346,6 +346,9 @@ flowchart TD
     style n72 fill:#BBDEFB,text-align:left
     style n69 fill:#BBDEFB
 ```
+
+---
+
  * Expert centers: may use more immunospuression; may trial bortezomib, anti-CD38 therapies, or Belimumab
  * Cumulative doses of Cyclosphosphamide should not exceed a total of 36g due to increased cancer risk
  * Cumulative doses of Cyclosphosphamide should not exceed a total of 10g in Females with concerns for fertility 
