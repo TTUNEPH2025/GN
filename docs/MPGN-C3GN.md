@@ -6,6 +6,7 @@
 ## **Definitions of Treatment Response**
 ## **Treatment**
 ## **Sources**
+ * [KDIGO GN Guidlines](https://kdigo.org/guidelines/gd/)
  * [C3 glomerulopathies general info](https://pmc.ncbi.nlm.nih.gov/articles/PMC10704907/)
  * [Developing Therapies for C3 Glomerulopathy](https://khi.asn-online.org/uploads/developing_therapies_for_c3_glomerulopathy__report.18.pdf)
  * [Efficacy and Safety of Iptacopan i nPatient w/C3 Glomerulopathy](https://www.sciencedirect.com/science/article/pii/S2468024924023222)
