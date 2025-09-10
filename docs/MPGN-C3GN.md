@@ -250,10 +250,22 @@ flowchart TD
 
 
 ### Prednisone Taper
-|Week|<50kg|50-70kg|>75kg|
+|Week|Patient's <50kg|Patient's 50-70kg|Patient's >75kg|
 |----|-----|-------|-----|
-|1   |50   |60     |75   |
-|2   |25   |30     |40   |
+|1   |50mg |60mg   |75mg |
+|2   |25mg |30mg   |40mg |
+|3-4|20mg|25mg|30mg|
+|5-6|15mg|20mg|25mg|
+|7-8|12.5mg|15mg|20mg|
+|9-10|10mg|12.5mg|15mg|
+|11-12|7.5mg|10mg|12.5mg|
+|13-14|5mg|7.5mg|10mg|
+|15-16|5mg|5mg|7.5mg|
+|17-18|5mg|5mg|7.5mg|
+|19-20|5mg|5mg|5mg|
+|21-22|5mg|5mg|5mg|
+|23-52|5mg|5mg|5mg|
+|>52|Investigator's local practice|Investigator's local practice|Investigator's local practice|
 
 
 
