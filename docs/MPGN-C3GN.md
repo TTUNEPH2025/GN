@@ -7,7 +7,7 @@
   * Cases of MPGN w/sole or dominant C3/C4 staining are classified as primary GN
   * C3 glomerulopathy is a rare entity that commenly presents in an MPGN pattern of injury and can be delinated in to two categories: C3 glmerulonephritis (C3GN) and Dense Deposition Disease (DDD)
     1. C3GN
-       - Primarly found in adults
+        - Primarly found in adults
        - Older age associateed more w/Monocolonal gammopathy and has better out comes
        - Can be acquired or genetic
        - Commnonly induced by C33 nephritic factors
