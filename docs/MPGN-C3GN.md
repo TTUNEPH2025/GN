@@ -10,9 +10,12 @@
         - Primarly found in adults
         - Older age associateed more w/Monocolonal gammopathy and has better out comes
         - Can be acquired or genetic
-        - Commnonly induced by C33 nephritic factors
+        - Commnonly induced by C3 nephritic factors
     2. DDD
-        - Primaryly children and adolescents of both genders
+        - Primarly children and adolescents of both genders
+        - Typically very agressive disease with deterioration of renal function ending ESKD
+    3. typically leads to ESKD
+    4. Has high reoccurance in tranplant patients and is a cause of early graft failure
   * C4 glomerulopathy is more rare than C3, and has two catorgies similar to C3: C4GN and DDD
 ## **Pathophysiology**
 ## **Clinical Presentation**
