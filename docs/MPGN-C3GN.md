@@ -26,21 +26,21 @@
         - Pathogenesis: Glomerular capillary injury from deposits mesangial or subendothelial found by EM
     3. Pathologic entities:
         - Immune Complex GN (ICGN)
-          1. Systemic Autoimmune disease
-          2. Infection
-          3. fibrillary GN
+           1. Systemic Autoimmune disease
+           2. Infection
+           3. fibrillary GN
         - Paraprotein-mediated GN
-          1. PGNMID (proliferative glomerulonephritis w/monoconol immunoglobulin deposits
-          2. Cryoglobulinemia 
+           1. PGNMID (proliferative glomerulonephritis w/monoconol immunoglobulin deposits
+           2. Cryoglobulinemia 
         - Complement-mediated GN
-          1. C3GN
-          2. DDD
-          3. Novel/Rare C4 glomerulopathy
+           1. C3GN
+           2. DDD
+           3. Novel/Rare C4 glomerulopathy
         - Chronic TMA
-          1. Membrane double contour, but no prliferation
-          2. aHUS/HUS
-          3. Drug associated
-          4. APS (antiphospholipid syndrome)
+           1. Membrane double contour, but no prliferation
+           2. aHUS/HUS
+           3. Drug associated
+           4. APS (antiphospholipid syndrome)
 ## **Clinical Presentation**
 ## **Drugs and Disease Associated with MPGN/C3GN**
 ## **Definitions of Treatment Response**
