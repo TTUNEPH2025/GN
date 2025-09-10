@@ -43,10 +43,24 @@
             2. aHUS/HUS
             3. Drug associated
             4. APS (antiphospholipid syndrome)
+  * C3
+    1. <ins>*Dysregulation of the Alternative pathway*</ins> (genetic or auto-antibioty or monocolonal)
+    2. C3 dominant/only staining of glomerular deposits
+    3. Around 50% of cases have and MPGN pattern of injury
+    4.  C3GN
+        - mesangial or subendothelial deposts on EM
+        - Mesangial Deposits: 99%
+        - Capillary wall deposits: 97%
+        - w/humps 49%
+        - Post-infectious GN can mimic C3GN (hypocomplementemia and proteinuria tend to normalize and C4d staining is positive in post-infectious GN)
+    5. DDD
+        - Intramembrnous dense deposits: 100%
+        - w/humps 25%
+        - "saugage-like appearance" on EM due to dense depositio of the basement membrane
 ## **Clinical Presentation**
   * Hematuria
   * Worsening eGFR/rising serum Cr
-  * Proteinuria
+  * Severe Proteinuria
   * C3GN: low serum C3 levels (50% of cases) and normal serum C4 levles
   * Chronic deterioration of renal function
   * HTN
