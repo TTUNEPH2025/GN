@@ -34,7 +34,7 @@
             1. PGNMID (proliferative glomerulonephritis w/monoconol immunoglobulin deposits
             2. Cryoglobulinemia 
         - Complement-mediated GN
-            1. *Dysregulation of the Alternative pathway* (genetic or auto-antibioty or monocolonal)
+            1. <ins>*Dysregulation of the Alternative pathway*</ins> (genetic or auto-antibioty or monocolonal)
             2. C3GN
             3. DDD
             4. Novel/Rare C4 glomerulopathy
