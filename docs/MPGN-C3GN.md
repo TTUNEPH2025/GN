@@ -8,15 +8,12 @@
   * C3 glomerulopathy is a rare entity that commenly presents in an MPGN pattern of injury and can be delinated in to two categories: C3 glmerulonephritis (C3GN) and Dense Deposition Disease (DDD)
     1. C3GN
         - Primarly found in adults
-       - Older age associateed more w/Monocolonal gammopathy and has better out comes
-       - Can be acquired or genetic
-       - Commnonly induced by C33 nephritic factors
+        - Older age associateed more w/Monocolonal gammopathy and has better out comes
+        - Can be acquired or genetic
+        - Commnonly induced by C33 nephritic factors
     2. DDD
-       - Primaryly children and adolescents of both genders
+        - Primaryly children and adolescents of both genders
   * C4 glomerulopathy is more rare than C3, and has two catorgies similar to C3: C4GN and DDD
-  * DDD
-    1. Primaryly children and adolescents of both genders
-    2. Autoimmune disease characterized by fluid phase dysregulation of alternative pathway
 ## **Pathophysiology**
 ## **Clinical Presentation**
 ## **Drugs and Disease Associated with MPGN/C3GN**
