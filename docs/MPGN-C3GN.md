@@ -239,6 +239,16 @@ flowchart TD
     style n50 fill:#D50000,color:#FFFFFF
 ```
 ### Cyclophosphamide Dosing
+
+|Oral Cyclophosphamide|IV Cyclophosphamide|
+|---------------------|-------------------|
+|• 2mg/kg/day for 3months|• 15mg/kg at weeks: 0, 2, 4, 7, 10, 13 (16, 19, 21, 24 if required)|
+|<ins>Reduction for Age and function</ins>|<ins>Reduction for Age and function</ins>|
+| • 60 y/o: 1.5mg/kg/day|• 60 y/o: 12.5mg/kg/day|
+| • 70 y/o: 1mg/kg/day| • 70 y/o: 10mg/kg/day|
+| • Reduce by 0.5mg/kg/day for eGFR < 30| • Reduce by 2.5mg/kg for eGFR < 30|
+
+
 ### Prednisone Taper
 |Week|<50kg|50-70kg|>75kg|
 |----|-----|-------|-----|
