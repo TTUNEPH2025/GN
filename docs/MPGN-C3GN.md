@@ -20,14 +20,14 @@
 ## **Pathophysiology**
   * MPGN
     1. Pathology:
-       - Glomerular Capillary wall remodeling (double countr formation or "train track" appearance
-       - Endocapillary proliferation/hypercellularity
-       - Subendothelial deposits
+        - Glomerular Capillary wall remodeling (double countr formation or "train track" appearance
+        - Endocapillary proliferation/hypercellularity
+        - Subendothelial deposits
     3. Pathologic entities:
-       - Immune Complex GN (ICGN)
-       - Paraprotein-mediated GN
-       - Complement-mediated GN
-       - Chronic TMA
+        - Immune Complex GN (ICGN)
+        - Paraprotein-mediated GN
+        - Complement-mediated GN
+        - Chronic TMA
     5. Pathogenesis: 
 ## **Clinical Presentation**
 ## **Drugs and Disease Associated with MPGN/C3GN**
