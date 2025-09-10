@@ -78,6 +78,9 @@
   * Fibrillary GN
     1. Polyconol subendotheial deposits 
 ## **Treatment**
+|Week|<50kg|50-70kg|>75kg|
+|----|-----|-------|-----|
+|1   |50   |60     |75   |
 ## **Sources**
  * [KDIGO GN Guidlines](https://kdigo.org/guidelines/gd/)
  * [C3 glomerulopathies general info](https://pmc.ncbi.nlm.nih.gov/articles/PMC10704907/)
