@@ -141,29 +141,29 @@ flowchart TD
     n11@{ shape: rounded}
     n12@{ shape: rounded}
     n30@{ shape: rounded}
-    style A fill:#616161,color:#FFFFFF
-    style n1 fill:#757575,color:#FFFFFF
-    style n2 fill:#757575,color:#FFFFFF
-    style n3 fill:#757575,color:#FFFFFF
-    style n4 fill:#757575,color:#FFFFFF
-    style n6 fill:#757575,color:#FFFFFF
-    style n7 fill:#D50000,color:#FFFFFF
-    style n8 fill:#757575,color:#FFFFFF
-    style n9 fill:#D50000,color:#FFFFFF
-    style n10 fill:#757575,color:#FFFFFF
-    style n11 color:#FFFFFF,fill:#757575
-    style n12 fill:#757575,color:#FFFFFF
-    style n23 fill:#D50000,color:#FFFFFF
-    style n24 fill:#D50000,color:#FFFFFF
-    style n17 fill:#757575,color:#FFFFFF
-    style n20 fill:#757575,color:#FFFFFF
-    style n21 color:#FFFFFF,fill:#D50000
-    style n22 fill:#757575,color:#FFFFFF
-    style n30 color:#FFFFFF,fill:#757575
-    style n31 fill:#757575,color:#FFFFFF
-    style n32 fill:#D50000,color:#FFFFFF
-    style n33 fill:#D50000,color:#FFFFFF
-    style n34 fill:#D50000,color:#FFFFFF
+    style A color:#000000,fill:#FFF9C4
+    style n1 color:#000000,fill:#FFF9C4
+    style n2 color:#000000,fill:#FFF9C4
+    style n3 color:#000000,fill:#FFF9C4
+    style n4 color:#000000,fill:#FFF9C4
+    style n6 color:#000000,fill:#FFF9C4
+    style n7 color:#000000,fill:#FFF9C4
+    style n8 color:#000000,fill:#FFF9C4
+    style n9 fill:#FFCDD2,color:#000000
+    style n10 color:#000000,fill:#FFF9C4
+    style n11 color:#000000,fill:#FFF9C4
+    style n12 color:#000000,fill:#FFF9C4
+    style n23 fill:#FFCDD2,color:#000000
+    style n24 fill:#FFCDD2,color:#000000
+    style n17 color:#000000,fill:#FFF9C4
+    style n20 color:#000000,fill:#FFF9C4
+    style n21 fill:#FFCDD2,color:#000000
+    style n22 color:#000000,fill:#FFF9C4
+    style n30 fill:#FFCDD2,color:#000000
+    style n31 color:#000000,fill:#FFF9C4
+    style n32 fill:#FFCDD2,color:#000000
+    style n33 fill:#FFCDD2,color:#000000
+    style n34 fill:#FFCDD2,color:#000000
 ```
 ### ICGN
 ```mermaid
@@ -216,27 +216,27 @@ flowchart TD
     n45@{ shape: rounded}
     n46@{ shape: rounded}
     n48@{ shape: rect}
-    style n22 fill:#757575,color:#FFFFFF
-    style n25 fill:#757575,color:#FFFFFF
-    style n26 fill:#757575,color:#FFFFFF
-    style n27 fill:#757575,color:#FFFFFF
-    style n28 fill:#757575,color:#FFFFFF
-    style n29 fill:#757575,color:#FFFFFF
-    style n35 fill:#D50000,color:#FFFFFF
-    style n36 fill:#D50000,color:#FFFFFF
-    style n37 fill:#D50000,color:#FFFFFF
-    style n38 fill:#D50000,color:#FFFFFF
-    style n39 fill:#D50000,color:#FFFFFF
-    style n40 fill:#D50000,color:#FFFFFF
-    style n41 fill:#757575,color:#FFFFFF
-    style n43 fill:#D50000,color:#FFFFFF
-    style n44 color:#FFFFFF,fill:#D50000
-    style n45 fill:#757575,color:#FFFFFF
-    style n46 fill:#757575,color:#FFFFFF
-    style n47 fill:#757575,color:#FFFFFF
-    style n48 color:#FFFFFF,fill:#D50000
-    style n49 color:#FFFFFF,fill:#D50000
-    style n50 fill:#D50000,color:#FFFFFF
+    style n22 color:#000000,fill:#FFF9C4
+    style n25 color:#000000,fill:#FFF9C4
+    style n26 color:#000000,fill:#FFF9C4
+    style n27 color:#000000,fill:#FFF9C4
+    style n28 color:#000000,fill:#FFF9C4
+    style n29 color:#000000,fill:#FFF9C4
+    style n35 fill:#FFCDD2,color:#000000
+    style n36 fill:#FFCDD2,color:#000000
+    style n37 fill:#FFCDD2,color:#000000
+    style n38 fill:#FFCDD2,color:#000000
+    style n39 fill:#FFCDD2,color:#000000
+    style n40 fill:#FFCDD2,color:#000000
+    style n41 color:#000000,fill:#FFF9C4
+    style n43 fill:#FFCDD2,color:#000000
+    style n44 fill:#FFCDD2,color:#000000
+    style n45 color:#000000,fill:#FFF9C4
+    style n46 color:#000000,fill:#FFF9C4
+    style n47 color:#000000,fill:#FFF9C4
+    style n48 fill:#FFCDD2,color:#000000
+    style n49 fill:#FFCDD2,color:#000000
+    style n50 fill:#FFCDD2,color:#000000
 ```
 ### Cyclophosphamide Dosing
 
