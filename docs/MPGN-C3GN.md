@@ -115,7 +115,7 @@ flowchart TD
     • Sjogren ANA, Anti-Ro/La, RF
     • RA: RF, ANA, Anti-CCP"]
     n8 -- infection present --> n23["Treat Underlying Illness"]
-    n8 -- no infection --> n24["• <ins>Screen for for Monocolonoal Gammopathy (SPEP/UPEP/FLC) </ins>
+    n8 -- no infection --> n24["<ins>Screen for for Monocolonoal Gammopathy (SPEP/UPEP/FLC) </ins>
     • Complement levels
     • Compliment activation (C3d, Bb, sMAC)
     • Genetic testing"]
@@ -141,29 +141,29 @@ flowchart TD
     n11@{ shape: rounded}
     n12@{ shape: rounded}
     n30@{ shape: rounded}
-    style A color:#000000,fill:#FFF9C4,text-align:left,white-space:nowrap
-    style n1 color:#000000,fill:#FFF9C4,text-align:left,white-space:nowrap
-    style n2 color:#000000,fill:#FFF9C4,text-align:left,white-space:nowrap
-    style n3 color:#000000,fill:#FFF9C4,text-align:left,white-space:nowrap
-    style n4 color:#000000,fill:#FFF9C4,text-align:left,white-space:nowrap
-    style n6 color:#000000,fill:#FFF9C4,text-align:left,white-space:nowrap
-    style n7 color:#000000,fill:#FFF9C4,text-align:left,white-space:nowrap
-    style n8 color:#000000,fill:#FFF9C4,text-align:left,white-space:nowrap
-    style n9 fill:#FFCDD2,color:#000000,text-align:left,white-space:nowrap
-    style n10 color:#000000,fill:#FFF9C4,text-align:left,white-space:nowrap
-    style n11 color:#000000,fill:#FFF9C4,text-align:left,white-space:nowrap
-    style n12 color:#000000,fill:#FFF9C4,text-align:left,white-space:nowrap
-    style n23 fill:#FFCDD2,color:#000000,text-align:left,white-space:nowrap
-    style n24 fill:#FFCDD2,color:#000000,text-align:left,white-space:nowrap
-    style n17 color:#000000,fill:#FFF9C4,text-align:left,white-space:nowrap
-    style n20 color:#000000,fill:#FFF9C4,text-align:left,white-space:nowrap
-    style n21 fill:#FFCDD2,color:#000000,text-align:left,white-space:nowrap
-    style n22 color:#000000,fill:#FFF9C4,text-align:left,white-space:nowrap
-    style n30 fill:#FFCDD2,color:#000000,text-align:left,white-space:nowrap
-    style n31 color:#000000,fill:#FFF9C4,text-align:left,white-space:nowrap
-    style n32 fill:#FFCDD2,color:#000000,text-align:left,white-space:nowrap
-    style n33 fill:#FFCDD2,color:#000000,text-align:left,white-space:nowrap
-    style n34 fill:#FFCDD2,color:#000000,text-align:left,white-space:nowrap
+    style A color:#000000,fill:#FFF9C4,text-align:left
+    style n1 color:#000000,fill:#FFF9C4,text-align:left
+    style n2 color:#000000,fill:#FFF9C4,text-align:left
+    style n3 color:#000000,fill:#FFF9C4,text-align:left
+    style n4 color:#000000,fill:#FFF9C4,text-align:left
+    style n6 color:#000000,fill:#FFF9C4,text-align:left
+    style n7 color:#000000,fill:#FFF9C4,text-align:left
+    style n8 color:#000000,fill:#FFF9C4,text-align:left
+    style n9 fill:#FFCDD2,color:#000000,text-align:left
+    style n10 color:#000000,fill:#FFF9C4,text-align:left
+    style n11 color:#000000,fill:#FFF9C4,text-align:left
+    style n12 color:#000000,fill:#FFF9C4,text-align:left
+    style n23 fill:#FFCDD2,color:#000000,text-align:left
+    style n24 fill:#FFCDD2,color:#000000,text-align:left
+    style n17 color:#000000,fill:#FFF9C4,text-align:left
+    style n20 color:#000000,fill:#FFF9C4,text-align:left
+    style n21 fill:#FFCDD2,color:#000000,text-align:left
+    style n22 color:#000000,fill:#FFF9C4,text-align:left
+    style n30 fill:#FFCDD2,color:#000000,text-align:left
+    style n31 color:#000000,fill:#FFF9C4,text-align:left
+    style n32 fill:#FFCDD2,color:#000000,text-align:left
+    style n33 fill:#FFCDD2,color:#000000,text-align:left
+    style n34 fill:#FFCDD2,color:#000000,text-align:left
 ```
 ### ICGN
 ```mermaid
