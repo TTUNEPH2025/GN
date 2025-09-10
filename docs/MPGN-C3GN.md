@@ -216,27 +216,27 @@ flowchart TD
     n45@{ shape: rounded}
     n46@{ shape: rounded}
     n48@{ shape: rect}
-    style n22 color:#000000,fill:#FFF9C4,text-align:left,white-space:nowrap
-    style n25 color:#000000,fill:#FFF9C4,text-align:left,white-space:nowrap
-    style n26 color:#000000,fill:#FFF9C4,text-align:left,white-space:nowrap
-    style n27 color:#000000,fill:#FFF9C4,text-align:left,white-space:nowrap
-    style n28 color:#000000,fill:#FFF9C4,text-align:left,white-space:nowrap
-    style n29 color:#000000,fill:#FFF9C4,text-align:left,white-space:nowrap
-    style n35 fill:#FFCDD2,color:#000000,text-align:left,white-space:nowrap
-    style n36 fill:#FFCDD2,color:#000000,text-align:left,white-space:nowrap
-    style n37 fill:#FFCDD2,color:#000000,text-align:left,white-space:nowrap
-    style n38 fill:#FFCDD2,color:#000000,text-align:left,white-space:nowrap
-    style n39 fill:#FFCDD2,color:#000000,text-align:left,white-space:nowrap
-    style n40 fill:#FFCDD2,color:#000000,text-align:left,white-space:nowrap
-    style n41 color:#000000,fill:#FFF9C4,text-align:left,white-space:nowrap
-    style n43 fill:#FFCDD2,color:#000000,text-align:left,white-space:nowrap
-    style n44 fill:#FFCDD2,color:#000000,text-align:left,white-space:nowrap
-    style n45 color:#000000,fill:#FFF9C4,text-align:left,white-space:nowrap
-    style n46 color:#000000,fill:#FFF9C4,text-align:left,white-space:nowrap
-    style n47 color:#000000,fill:#FFF9C4,text-align:left,white-space:nowrap
-    style n48 fill:#FFCDD2,color:#000000,text-align:left,white-space:nowrap
-    style n49 fill:#FFCDD2,color:#000000,text-align:left,white-space:nowrap
-    style n50 fill:#FFCDD2,color:#000000,text-align:left,white-space:nowrap
+    style n22 color:#000000,fill:#FFF9C4,text-align:left
+    style n25 color:#000000,fill:#FFF9C4,text-align:left
+    style n26 color:#000000,fill:#FFF9C4,text-align:left
+    style n27 color:#000000,fill:#FFF9C4,text-align:left
+    style n28 color:#000000,fill:#FFF9C4,text-align:left
+    style n29 color:#000000,fill:#FFF9C4,text-align:left
+    style n35 fill:#FFCDD2,color:#000000,text-align:left
+    style n36 fill:#FFCDD2,color:#000000,text-align:left
+    style n37 fill:#FFCDD2,color:#000000,text-align:left
+    style n38 fill:#FFCDD2,color:#000000,text-align:left
+    style n39 fill:#FFCDD2,color:#000000,text-align:left
+    style n40 fill:#FFCDD2,color:#000000,text-align:left
+    style n41 color:#000000,fill:#FFF9C4,text-align:left
+    style n43 fill:#FFCDD2,color:#000000,text-align:left
+    style n44 fill:#FFCDD2,color:#000000,text-align:left
+    style n45 color:#000000,fill:#FFF9C4,text-align:left
+    style n46 color:#000000,fill:#FFF9C4,text-align:left
+    style n47 color:#000000,fill:#FFF9C4,text-align:left
+    style n48 fill:#FFCDD2,color:#000000,text-align:left
+    style n49 fill:#FFCDD2,color:#000000,text-align:left
+    style n50 fill:#FFCDD2,color:#000000,text-align:left
 ```
 ### Cyclophosphamide Dosing
 
