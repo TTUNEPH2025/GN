@@ -25,6 +25,9 @@
         - Subendothelial deposits
     3. Pathologic entities:
         - Immune Complex GN (ICGN)
+           - Systemic Autoimmune disease
+           - Infection
+           - Cryoglobulinemia 
         - Paraprotein-mediated GN
         - Complement-mediated GN
         - Chronic TMA
