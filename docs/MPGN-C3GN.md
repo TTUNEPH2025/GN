@@ -141,29 +141,29 @@ flowchart TD
     n11@{ shape: rounded}
     n12@{ shape: rounded}
     n30@{ shape: rounded}
-    style A color:#000000,fill:#FFF9C4
-    style n1 color:#000000,fill:#FFF9C4
-    style n2 color:#000000,fill:#FFF9C4
-    style n3 color:#000000,fill:#FFF9C4
-    style n4 color:#000000,fill:#FFF9C4
-    style n6 color:#000000,fill:#FFF9C4
-    style n7 color:#000000,fill:#FFF9C4
-    style n8 color:#000000,fill:#FFF9C4
-    style n9 fill:#FFCDD2,color:#000000
-    style n10 color:#000000,fill:#FFF9C4
-    style n11 color:#000000,fill:#FFF9C4
-    style n12 color:#000000,fill:#FFF9C4
-    style n23 fill:#FFCDD2,color:#000000
-    style n24 fill:#FFCDD2,color:#000000
-    style n17 color:#000000,fill:#FFF9C4
-    style n20 color:#000000,fill:#FFF9C4
-    style n21 fill:#FFCDD2,color:#000000
-    style n22 color:#000000,fill:#FFF9C4
-    style n30 fill:#FFCDD2,color:#000000
-    style n31 color:#000000,fill:#FFF9C4
-    style n32 fill:#FFCDD2,color:#000000
-    style n33 fill:#FFCDD2,color:#000000
-    style n34 fill:#FFCDD2,color:#000000
+    style A color:#000000,fill:#FFF9C4,text-align:left,white-space:nowrap
+    style n1 color:#000000,fill:#FFF9C4,text-align:left,white-space:nowrap
+    style n2 color:#000000,fill:#FFF9C4,text-align:left,white-space:nowrap
+    style n3 color:#000000,fill:#FFF9C4,text-align:left,white-space:nowrap
+    style n4 color:#000000,fill:#FFF9C4,text-align:left,white-space:nowrap
+    style n6 color:#000000,fill:#FFF9C4,text-align:left,white-space:nowrap
+    style n7 color:#000000,fill:#FFF9C4,text-align:left,white-space:nowrap
+    style n8 color:#000000,fill:#FFF9C4,text-align:left,white-space:nowrap
+    style n9 fill:#FFCDD2,color:#000000,text-align:left,white-space:nowrap
+    style n10 color:#000000,fill:#FFF9C4,text-align:left,white-space:nowrap
+    style n11 color:#000000,fill:#FFF9C4,text-align:left,white-space:nowrap
+    style n12 color:#000000,fill:#FFF9C4,text-align:left,white-space:nowrap
+    style n23 fill:#FFCDD2,color:#000000,text-align:left,white-space:nowrap
+    style n24 fill:#FFCDD2,color:#000000,text-align:left,white-space:nowrap
+    style n17 color:#000000,fill:#FFF9C4,text-align:left,white-space:nowrap
+    style n20 color:#000000,fill:#FFF9C4,text-align:left,white-space:nowrap
+    style n21 fill:#FFCDD2,color:#000000,text-align:left,white-space:nowrap
+    style n22 color:#000000,fill:#FFF9C4,text-align:left,white-space:nowrap
+    style n30 fill:#FFCDD2,color:#000000,text-align:left,white-space:nowrap
+    style n31 color:#000000,fill:#FFF9C4,text-align:left,white-space:nowrap
+    style n32 fill:#FFCDD2,color:#000000,text-align:left,white-space:nowrap
+    style n33 fill:#FFCDD2,color:#000000,text-align:left,white-space:nowrap
+    style n34 fill:#FFCDD2,color:#000000,text-align:left,white-space:nowrap
 ```
 ### ICGN
 ```mermaid
@@ -216,27 +216,27 @@ flowchart TD
     n45@{ shape: rounded}
     n46@{ shape: rounded}
     n48@{ shape: rect}
-    style n22 color:#000000,fill:#FFF9C4
-    style n25 color:#000000,fill:#FFF9C4
-    style n26 color:#000000,fill:#FFF9C4
-    style n27 color:#000000,fill:#FFF9C4
-    style n28 color:#000000,fill:#FFF9C4
-    style n29 color:#000000,fill:#FFF9C4
-    style n35 fill:#FFCDD2,color:#000000
-    style n36 fill:#FFCDD2,color:#000000
-    style n37 fill:#FFCDD2,color:#000000
-    style n38 fill:#FFCDD2,color:#000000
-    style n39 fill:#FFCDD2,color:#000000
-    style n40 fill:#FFCDD2,color:#000000
-    style n41 color:#000000,fill:#FFF9C4
-    style n43 fill:#FFCDD2,color:#000000
-    style n44 fill:#FFCDD2,color:#000000
-    style n45 color:#000000,fill:#FFF9C4
-    style n46 color:#000000,fill:#FFF9C4
-    style n47 color:#000000,fill:#FFF9C4
-    style n48 fill:#FFCDD2,color:#000000
-    style n49 fill:#FFCDD2,color:#000000
-    style n50 fill:#FFCDD2,color:#000000
+    style n22 color:#000000,fill:#FFF9C4,text-align:left,white-space:nowrap
+    style n25 color:#000000,fill:#FFF9C4,text-align:left,white-space:nowrap
+    style n26 color:#000000,fill:#FFF9C4,text-align:left,white-space:nowrap
+    style n27 color:#000000,fill:#FFF9C4,text-align:left,white-space:nowrap
+    style n28 color:#000000,fill:#FFF9C4,text-align:left,white-space:nowrap
+    style n29 color:#000000,fill:#FFF9C4,text-align:left,white-space:nowrap
+    style n35 fill:#FFCDD2,color:#000000,text-align:left,white-space:nowrap
+    style n36 fill:#FFCDD2,color:#000000,text-align:left,white-space:nowrap
+    style n37 fill:#FFCDD2,color:#000000,text-align:left,white-space:nowrap
+    style n38 fill:#FFCDD2,color:#000000,text-align:left,white-space:nowrap
+    style n39 fill:#FFCDD2,color:#000000,text-align:left,white-space:nowrap
+    style n40 fill:#FFCDD2,color:#000000,text-align:left,white-space:nowrap
+    style n41 color:#000000,fill:#FFF9C4,text-align:left,white-space:nowrap
+    style n43 fill:#FFCDD2,color:#000000,text-align:left,white-space:nowrap
+    style n44 fill:#FFCDD2,color:#000000,text-align:left,white-space:nowrap
+    style n45 color:#000000,fill:#FFF9C4,text-align:left,white-space:nowrap
+    style n46 color:#000000,fill:#FFF9C4,text-align:left,white-space:nowrap
+    style n47 color:#000000,fill:#FFF9C4,text-align:left,white-space:nowrap
+    style n48 fill:#FFCDD2,color:#000000,text-align:left,white-space:nowrap
+    style n49 fill:#FFCDD2,color:#000000,text-align:left,white-space:nowrap
+    style n50 fill:#FFCDD2,color:#000000,text-align:left,white-space:nowrap
 ```
 ### Cyclophosphamide Dosing
 
