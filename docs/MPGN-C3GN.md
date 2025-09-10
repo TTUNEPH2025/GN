@@ -78,6 +78,8 @@
   * Fibrillary GN
     1. Polyconol subendotheial deposits 
 ## **Treatment**
+### Cyclophosphamide Dosing
+### Prednisone Taper
 |Week|<50kg|50-70kg|>75kg|
 |----|-----|-------|-----|
 |1   |50   |60     |75   |
