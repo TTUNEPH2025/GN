@@ -44,8 +44,25 @@
             3. Drug associated
             4. APS (antiphospholipid syndrome)
 ## **Clinical Presentation**
+  * Hematuria
+  * Worsening eGFR/rising serum Cr
+  * Proteinuria
+  * C3GN: low serum C3 levels (50% of cases) and normal serum C4 levles
+  * Chronic deterioration of renal function
+  * HTN
 ## **Drugs and Disease Associated with MPGN/C3GN**
-## **Definitions of Treatment Response**
+  * ICGN
+    1. SLE
+    2. RA
+    3. Sjogren's
+    4. Mixed connective tissues disease
+    5. Drug induced
+  * Infectous
+    1. Bacterial: post strep
+    2. Viral: HCV (including HCV -mixed cryogloblinemia), HBV
+    3. Paracytic: Malaria, schistosomiosis, mycoplasma, leighmaniasis, filariasis, histoplasmosis
+  * Fibrillary GN
+    1. Polyconol subendotheial deposits 
 ## **Treatment**
 ## **Sources**
  * [KDIGO GN Guidlines](https://kdigo.org/guidelines/gd/)
