@@ -16,11 +16,12 @@
     3. ANCA associated GN
     4. IgAN
     5. Lupus Nephritis 
-    6. MPGN (Membranoproliferative GN)/C3GN
+    6. [MPGN (Membranoproliferative GN)/C3GN](MPGN-C3GN.md)
 ### **Secondary**
 * [FSGS (Focal Sclerosing Glomerulonephritis)](FSGS.md)
 * [Membranous Nephropathy](Membranous.md)
 * [Minimal Change Disease](MCD.md)
+* [MPGN (Membranoproliferative GN)/C3GN](MPGN-C3GN.md)
 ### **Familial**
 * Alport's Syndrome
 * Familial FSGS
