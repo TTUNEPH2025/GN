@@ -281,3 +281,7 @@ flowchart TD
  * [MMR in C3G and Pathogenic Drivers of the Disease](https://pubmed.ncbi.nlm.nih.gov/32816888/)
  * [C5 Convertase blockade in MPGN](https://www.sciencedirect.com/science/article/abs/pii/S0272638619301003)
  * [Safety and Efficacy of Avacopan in Patients w/C3G](https://pubmed.ncbi.nlm.nih.gov/39392695/)
+
+---
+*Last updated: 9/2025 by Ashley Kinder, D.O.*
+*Next review: 9/2026*
