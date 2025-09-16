@@ -59,7 +59,7 @@ flowchart TD
     n8 --> n11["To be continue to be continue until anti-GBM titers are negative
     • typically after 14 days of treatment"]
     n9 --> n12["Continue for a duration of 6 months"]
-    n10 --> n13["Continue for a duration of 3 months"] & n14["If patient no able to tolerate or not responding to cyclophosphamide consider
+    n10 --> n13["Continue for a duration of 3 months"] & n14["If patient not able to tolerate or not responding to cyclophosphamide consider
     • Rituximab or Mycophenolate Mofetil"]
     n13 --> n15["Persistent Anti-GBM titers after 3 months
     • Treat with either Azothioprine or mycophenolate in combo w/steroids
@@ -91,7 +91,7 @@ flowchart TD
     style n11 fill:#FFF9C4,text-align:left,white-space:nowrap
     style n12 fill:#FFF9C4
     style n13 fill:#FFF9C4,text-align:left,white-space:nowrap
-    style n14 fill:#FFF9C4
+    style n14 fill:#FFF9C4,text-align:left,white-space:nowrap
     style n15 fill:#FFE0B2,text-align:left,white-space:nowrap
     style n16 fill:#FFF9C4
     style n17 fill:#FFF9C4
