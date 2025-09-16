@@ -105,6 +105,28 @@ flowchart TD
  * [Prophylaxis](Prophylaxis.md)
 ## **Sources**
 * [KDIGO GN Guidlines](https://kdigo.org/guidelines/gd/)
+* [Long-term outcome of Anti-GM treated with immunoadsorption](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0103568)
+* [Anti-GBM uncommon cause of ESRD](https://www.sciencedirect.com/science/article/pii/S0085253815557487)
+* [Anti-GBM treated with MMF, steroids, and PLEX](https://www.dustri.com/article_response_page.html?artId=9452&doi=10.5414/CN107333&L=0)
+* [Successful tx of resisteant anti-gbm w/ Mycophenolic acid](https://www.scopus.com/pages/publications/77950666341)
+* [Goodpasture's treated with Mycophenolate](https://www.scopus.com/pages/publications/0034067486)
+* [Rituximab as induction therapy in anti-gbm](https://www.scopus.com/pages/publications/85055132914)
+* [Retrospective study of Rituximab in anti-gbm](https://www.sciencedirect.com/science/article/abs/pii/S0896841115000566)
+* [Chronic recurrent Goodpasture's](https://www.sciencedirect.com/science/article/abs/pii/0002934387900246)
+* [Outcomes of Goodpassture's with PLEX](https://www.sciencedirect.com/science/article/abs/pii/S0896841116300762)
+* [Long-Term Outcome of Anti-GBM treated w/PLEX and immunosupression](https://www.acpjournals.org/doi/10.7326/0003-4819-134-11-200106050-00009)
+* [Clinical and immunological evoluation of oligoanuric anti-gbm treated by Haemodialysis](https://www.sciencedirect.com/science/article/abs/pii/S0140673686918933)
+* [Anti-GMB Disease](https://journals.lww.com/jasn/fulltext/1999/11000/anti_glomerular_basement_membrane_disease.23.aspx)
+* [Recovery from Goodpasture's after immunosupression and PLEX](https://www.bmj.com/content/2/5965/252)
+* [Alveolar Hemorrhage in Anti-GBM disease, Cases](https://journals.lww.com/md-journal/fulltext/2007/05000/alveolar_hemorrhage_in_anti_basement_membrane.6.aspx)
+* [Cigarette smoking and lung haemorrhage in anti-gbm disease](https://www.sciencedirect.com/science/article/abs/pii/S0140673683909236)
+* [Predictors of renal and patient outcomes in anti-gbm](https://academic.oup.com/ndt/article-abstract/30/5/814/2332858?redirectedFrom=fulltext)
+* [Analysis of prognostic significance of clinical, pathologic, and treatment factors in anti-gbm therapy](https://journals.lww.com/md-journal/citation/1985/07000/therapy_of_anti_glomerular_basement_membrane.3.aspx)
+* [Predicting Outcomes in patients with anti-gbm](https://journals.lww.com/cjasn/fulltext/2018/01000/predicting_outcome_in_patients_with_anti_gbm.13.aspx)
+* [Prognostic factors in anti-gbm](https://www.scopus.com/pages/publications/85069433050)
+* [Goodpasture's disease and absence of anti-gbm antibodies](https://www.sciencedirect.com/science/article/abs/pii/S0272638602104446)
+* [Clinical features and outcomes of patients w/both ANCA and anti-gbm](https://www.sciencedirect.com/science/article/pii/S0085253815502226)
+* [ANCA and anti-gbm positive: renal survival, frequency of relapse, and outcomes](https://www.sciencedirect.com/science/article/pii/S0085253817302077)
 
 
 ---
