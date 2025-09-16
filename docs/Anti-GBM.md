@@ -80,22 +80,28 @@ flowchart TD
     n18@{ shape: rounded}
     style A fill:#FFF9C4
     style n2 fill:#FFF9C4
-    style n3 fill:#FFF9C4
-    style n4 fill:#FFF9C4
+    style n3 fill:#FFF9C4,text-align:left,white-space:nowrap
+    style n4 fill:#FFF9C4,text-align:left,white-space:nowrap
     style n5 fill:#FFE0B2
     style n6 fill:#FFE0B2
     style n7 fill:#FFE0B2
-    style n8 fill:#FFE0B2
-    style n9 fill:#FFE0B2
-    style n10 fill:#FFE0B2
-    style n11 fill:#FFF9C4
+    style n8 fill:#FFE0B2,text-align:left,white-space:nowrap
+    style n9 fill:#FFE0B2,text-align:left,white-space:nowrap
+    style n10 fill:#FFE0B2,text-align:left,white-space:nowrap
+    style n11 fill:#FFF9C4,text-align:left,white-space:nowrap
     style n12 fill:#FFF9C4
-    style n13 fill:#FFF9C4
+    style n13 fill:#FFF9C4,text-align:left,white-space:nowrap
     style n14 fill:#FFF9C4
-    style n15 fill:#FFE0B2
+    style n15 fill:#FFE0B2,text-align:left,white-space:nowrap
     style n16 fill:#FFF9C4
     style n17 fill:#FFF9C4
     style n18 fill:#FFF9C4
 ```
+
+
+ * Most Anti-GBM is cleared in the first 8 weeks of treatment after PLEX and Immunsupression initiated
+ * Relapses uncommon --> may occure in patient who smoke or are exposed to lun irritants
+ * If serious infection during treatment can add IVIG post PLEX treatment with abx
+ * [Prophylaxis](Prophylaxis.md)
 ## **Sources**
 * [KDIGO GN Guidlines](https://kdigo.org/guidelines/gd/)
