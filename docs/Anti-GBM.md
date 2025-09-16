@@ -34,8 +34,7 @@
  * W/ or w/out alveolar hemorrhage: dignosed clinical or with high resolution CT
  * Rapidly rising Cr/Dropping eGFR: rapidly crescent GN
 ## **Treatment**
-```
-mermaid
+```mermaid
 ---
 config:
   theme: redux
