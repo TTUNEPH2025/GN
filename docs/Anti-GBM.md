@@ -105,3 +105,8 @@ flowchart TD
  * [Prophylaxis](Prophylaxis.md)
 ## **Sources**
 * [KDIGO GN Guidlines](https://kdigo.org/guidelines/gd/)
+
+
+---
+*Last updated: 9/2025 by Ashley Kinder, D.O.*
+*Next review: 9/2026*
