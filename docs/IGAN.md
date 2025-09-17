@@ -2,7 +2,7 @@
 ## **Overview**
  * IgAN
       1. Glomerular Disease w/co-dominant IgA Glomerular staining
-      2. Three types: Primary, Secondary, and Systemic forms
+      2. Three types: Primary, Secondary, and Systemic forms (IgA Vasculitis)
       3. Most commen pattern of primary glomerular disease world wide
       4. Most prevalent in people of East Asian ancestry followed by Caucasians
       5. Mest-C Score: Risk tool/score provide earlier risk predicition in IgAN
@@ -17,10 +17,10 @@
       1. GN with co-dominant IgA glomerular staining with IgA deposistion in the Mesangial +/- Capillary
       2. IgG typically also presented along with C3
       3. 4 HIT Model
-         - Glactose deficient IgA1
-         - Anti-Gd-IgA1 IgG autoantibodies
-         - Glomerular deposition of IgG-IgA1
-         - Mesangial, Podocyte, Endothelial injury: Cytokine release, compliment activation, and inflammation causing injury
+         - Production of poorly glycosylated IgA1 (Gd-Ig-A1)
+         - Production Anti-Gd-IgA1 autoantibodies (anti-Gd-IgA1 autoantibodies)
+         - Formation of Glomerular deposition of Immuncomplexes
+         - Deposition of circulating immunce complexes --> Mesangial, Podocyte, Endothelial inducingc cytokine release, compliment activation, and inflammation causing injury
     4. Acute Lesion
          - Mesangial Hypercellularity
          - Endocapillary Hypercellularity
@@ -64,7 +64,7 @@
  * [Proteinuria Trajectory and Disease Progression in Children and Adults w/IgA Nephropathy/Vasculitis](https://renal.videomed.live/videos/069bdab11e1ce0c48c/2025-07-17-10-20-pathology-of-ig-a-nephropathy-and-ig-a-vasculitis-m-barry-stokes-md)
  * [Indications for Corticosteroids in IgA Nephropathy](https://pubmed.ncbi.nlm.nih.gov/35108391/)
  * [Oxford Classification of IgA Nephropathy](https://pubmed.ncbi.nlm.nih.gov/19571790/)
- * 
+ * [Uptodate IgA nephropathology](https://www-uptodate-com.ezproxy.ttuhsc.edu/contents/iga-nephropathy-pathogenesis?search=drug%20associated%20iga%20nephropathy&source=search_result&selectedTitle=5~103&usage_type=default&display_rank=5)
 ---
 *Last updated: 9/2025 by Ashley Kinder, D.O.*
 *Next review: 9/2026*
