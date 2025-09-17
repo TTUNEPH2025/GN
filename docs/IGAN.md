@@ -1,45 +1,45 @@
 # **Immunoglobulin A Nephropathy (IgAN)/Immunoglobulin A Vasculitis (IgAV)**
 ## **Overview**
  * IgAN
-   1. Glomerular Disease w/co-dominant IgA Glomerular staining
-   2. Three types: Primary, Secondary, and Systemic forms
-   3. Most commen pattern of primary glomerular disease world wide
-   4. Most prevalent in people of East Asian ancestry followed by Caucasians
-   5. Mest-C Score: Risk tool/score provide earlier risk predicition in IgAN
+      1. Glomerular Disease w/co-dominant IgA Glomerular staining
+      2. Three types: Primary, Secondary, and Systemic forms
+      3. Most commen pattern of primary glomerular disease world wide
+      4. Most prevalent in people of East Asian ancestry followed by Caucasians
+      5. Mest-C Score: Risk tool/score provide earlier risk predicition in IgAN
  * IgA Vasculitis
-   1. IgA autoantibodies deposition in the vessels
-   2. Children < 16 years of age, often self limitting
-   3. Glomerular disease 30% children, 60% Adults
-   4. Worse GN in children, worse outcomes in Adults
-   5. Adults typicaly more severe and relapsing disease
+      1. IgA autoantibodies deposition in the vessels
+      2. Children < 16 years of age, often self limitting
+      3. Glomerular disease 30% children, 60% Adults
+      4. Worse GN in children, worse outcomes in Adults
+      5. Adults typicaly more severe and relapsing disease
 ## **Pathophysiology**
  * IgAN
-   1. GN with co-dominant IgA glomerular staining with IgA deposistion in the Mesangial +/- Capillary
-   2. IgG typically also presented along with C3
-   3. 4 HIT Model
-      - Glactose deficient IgA1
-      - Anti-Gd-IgA1 IgG autoantibodies
-      - Glomerular deposition of IgG-IgA1
-      - Mesangial, Podocyte, Endothelial injury: Cytokine release, compliment activation, and inflammation causing injury
-  4. Acute Lesion
-      - Mesangial Hypercellularity
-      - Endocapillary Hypercellularity
-      - Crescent
-      - FSGS and podocytopathy
-  5. Chronic lesions: corelate with outcome
-     - IFTA
-     - FSGS
-     - Global Sclerosis
-     - Arteriosclerosis
- * Mest-C
-   1. T score: Most Consistent predictor of Renal Survival
-   2. M1, S1, T1/2: Worse outcomes, Regardless of Immunosupression status
-   3. E1 and C1: Poor out comes in patient not treated w/Immunosupression
-   4. C2: Predicitive of poor outcomes regardless of Immunosupression (not synonymous w/RPGN)
-   5. S1 w/podocytopathy: heavier proteinuria and Rapid eGFR loss --> Better response to steroids 
+      1. GN with co-dominant IgA glomerular staining with IgA deposistion in the Mesangial +/- Capillary
+      2. IgG typically also presented along with C3
+      3. 4 HIT Model
+         - Glactose deficient IgA1
+         - Anti-Gd-IgA1 IgG autoantibodies
+         - Glomerular deposition of IgG-IgA1
+         - Mesangial, Podocyte, Endothelial injury: Cytokine release, compliment activation, and inflammation causing injury
+    4. Acute Lesion
+         - Mesangial Hypercellularity
+         - Endocapillary Hypercellularity
+         - Crescent
+         - FSGS and podocytopathy
+     5. Chronic lesions: corelate with outcome
+        - IFTA
+        - FSGS
+        - Global Sclerosis
+        - Arteriosclerosis
+    * Mest-C
+      1. T score: Most Consistent predictor of Renal Survival
+      2. M1, S1, T1/2: Worse outcomes, Regardless of Immunosupression status
+      3. E1 and C1: Poor out comes in patient not treated w/Immunosupression
+      4. C2: Predicitive of poor outcomes regardless of Immunosupression (not synonymous w/RPGN)
+      5. S1 w/podocytopathy: heavier proteinuria and Rapid eGFR loss --> Better response to steroids 
  * IgAV
-   1. Systemic vasculities IgA1-dominant deposits
-   2. IgA autoantibodies desposition in the small vessels affecting: skin, joints, intestines, and kidney (rarely affects lungs and CNS)
+      1. Systemic vasculities IgA1-dominant deposits
+      2. IgA autoantibodies desposition in the small vessels affecting: skin, joints, intestines, and kidney (rarely affects lungs and CNS)
 ## **Clinical Presentation**
  * Hematuria
  * Proteinuria
