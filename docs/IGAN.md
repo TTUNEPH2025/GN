@@ -45,7 +45,7 @@
  * Proteinuria
  * Edema
  * HTN
-## **Drugs and Diseases Associated with IgAN/IgAV**
+## **Diseases Associated with IgAN/IgAV**
 * Diseases
   1. Cirrhosis
   2. Portal HTN
@@ -61,6 +61,10 @@
 ## **Deffinitions of Treatment Response**
 ## **Treatment**
 ## **Sources**
+ * [Proteinuria Trajectory and Disease Progression in Children and Adults w/IgA Nephropathy/Vasculitis](https://renal.videomed.live/videos/069bdab11e1ce0c48c/2025-07-17-10-20-pathology-of-ig-a-nephropathy-and-ig-a-vasculitis-m-barry-stokes-md)
+ * [Indications for Corticosteroids in IgA Nephropathy](https://pubmed.ncbi.nlm.nih.gov/35108391/)
+ * [Oxford Classification of IgA Nephropathy](https://pubmed.ncbi.nlm.nih.gov/19571790/)
+ * 
 ---
 *Last updated: 9/2025 by Ashley Kinder, D.O.*
 *Next review: 9/2026*
