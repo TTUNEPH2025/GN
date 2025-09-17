@@ -6,3 +6,6 @@
 ## **Deffinitions of Treatment Response**
 ## **Treatment**
 ## **Sources**
+---
+*Last updated: 9/2025 by Ashley Kinder, D.O.*
+*Next review: 9/2026*
