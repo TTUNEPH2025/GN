@@ -31,7 +31,7 @@
         - FSGS
         - Global Sclerosis
         - Arteriosclerosis
-    * Mest-C
+ * Mest-C
       1. T score: Most Consistent predictor of Renal Survival
       2. M1, S1, T1/2: Worse outcomes, Regardless of Immunosupression status
       3. E1 and C1: Poor out comes in patient not treated w/Immunosupression
