@@ -41,6 +41,7 @@
     8. Bone loss
     9. Gastric Ulcers
     10. Cataractes
+    11. Psychosis
  * Calcineurin inhibitors (CNI)
     1. HTN
     2. HLD
@@ -62,4 +63,4 @@
  * [Uptodate Cyclosporine](https://www-uptodate-com.ezproxy.ttuhsc.edu/contents/cyclophosphamide-drug-information?source=auto_suggest&selectedTitle=1~1---1~4---cyclopho&search=cyclophosphamide#F49296864)
  * [Uptodate Rituximab](https://www-uptodate-com.ezproxy.ttuhsc.edu/contents/rituximab-including-biosimilars-drug-information?search=rituximab&selectedTitle=1~150&usage_type=panel&display_rank=1&kp_tab=drug_general&source=panel_search_result#F53464448) 
   * [Filspar](https://filspari.com/igan/?gad_source=1&gad_campaignid=22843261910&gbraid=0AAAAApUXvhWXhW9XBRteosvkf8vWuiK7d&gclid=Cj0KCQjw267GBhCSARIsAOjVJ4F-AB6TSHTh2J4GsE0V-ePMaSM3pyllO6sWlHIuY68_M_xCxw6tXFAaAoMWEALw_wcB)
-  * [UPtodate: SGLT2i in heartfailure during pregnancy](https://www-uptodate-com.ezproxy.ttuhsc.edu/contents/management-of-heart-failure-during-pregnancy?search=sglt2%20inhibitors%20in%20pregnancy&topicRef=121086&source=see_link)
+  * [Uptodate: SGLT2i in heartfailure during pregnancy](https://www-uptodate-com.ezproxy.ttuhsc.edu/contents/management-of-heart-failure-during-pregnancy?search=sglt2%20inhibitors%20in%20pregnancy&topicRef=121086&source=see_link)
