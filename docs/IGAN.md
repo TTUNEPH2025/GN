@@ -100,8 +100,7 @@ flowchart TD
  • Taper Methylpred by 4 mg/day for 6-9months
 • Can sub Methylpred for prednison: Methylprednisone 1mg = Prednisone 1.25mg
 • PJP ppx"] & n12@{ label: "• MMF: can be used as glucocorticoid sparring agent in Chinese patients only\n    • Hydroxychloroquine: For patients at high risk of progression inspite of supportive care
-in Chinese patients only\n
-   • Tonsillectomy: For Japanese patient's (not studied in any other group)" }
+in Chinese patients only\n   • Tonsillectomy: For Japanese patient's (not studied in any other group)" }
     n1@{ shape: rounded}
     n4@{ shape: rounded}
     n5@{ shape: rounded}
