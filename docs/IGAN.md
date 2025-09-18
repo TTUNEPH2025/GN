@@ -104,18 +104,18 @@ flowchart TD
     n8@{ shape: rect}
     n12@{ shape: rect}
     style A fill:#C8E6C9,color:#000000
-    style n1 fill:#FFF9C4,text-align:left,white-space:nowrap
-    style n2 fill:#FFE0B2,text-align:left,white-space:nowrap
-    style n3 fill:#C8E6C9,text-align:left,white-space:nowrap
-    style n4 fill:#FFF9C4,text-align:left,white-space:nowrap
-    style n5 fill:#FFF9C4,text-align:left,white-space:nowrap
-    style n6 fill:#FFF9C4,text-align:left,white-space:nowrap
-    style n9 fill:#C8E6C9,text-align:left,white-space:nowrap
-    style n7 fill:#FFF9C4,text-align:left,white-space:nowrap
-    style n8 fill:#FFE0B2,text-align:left,white-space:nowrap
-    style n10 fill:#FFE0B2,text-align:left,white-space:nowrap
-    style n11 fill:#FFE0B2,text-align:left,white-space:nowrap
-    style n12 fill:#FFE0B2,text-align:left,white-space:nowrap
+    style n1 fill:#FFF9C4,text-align:left
+    style n2 fill:#FFE0B2,text-align:left
+    style n3 fill:#C8E6C9,text-align:left
+    style n4 fill:#FFF9C4,text-align:left
+    style n5 fill:#FFF9C4,text-align:left
+    style n6 fill:#FFF9C4,text-align:left
+    style n9 fill:#C8E6C9,text-align:left
+    style n7 fill:#FFF9C4,text-align:left
+    style n8 fill:#FFE0B2,text-align:left
+    style n10 fill:#FFE0B2,text-align:left
+    style n11 fill:#FFE0B2,text-align:left
+    style n12 fill:#FFE0B2,text-align:left
 ```
 ## **Sources**
  * [Proteinuria Trajectory and Disease Progression in Children and Adults w/IgA Nephropathy/Vasculitis](https://renal.videomed.live/videos/069bdab11e1ce0c48c/2025-07-17-10-20-pathology-of-ig-a-nephropathy-and-ig-a-vasculitis-m-barry-stokes-md)
