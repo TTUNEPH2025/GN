@@ -126,8 +126,12 @@ flowchart TD
 ### Medicaions approved recently by FDA for IgAN
   * Nefecon (TRF-Budesonide, 2021)
   * Sparsentan (2023)
+    1. Should avoid use with ACEi/ARB due to DEARA
+    2. REMS: Requires Monthly liver testing for first 12month, then every 3 months thereafter 
   * Iptocopan (2024)
   * Atrasentan (2025)
+    1. Endothelial Antagonist only an be used with ACEi/ARB
+    2. No REMS
 ### New therapies currently being studied 
   * Target: APRIL
     1. Sibeprenlimab (Trial: VISIONARY)
@@ -152,6 +156,26 @@ flowchart TD
  * [Indications for Corticosteroids in IgA Nephropathy](https://pubmed.ncbi.nlm.nih.gov/35108391/)
  * [Oxford Classification of IgA Nephropathy](https://pubmed.ncbi.nlm.nih.gov/19571790/)
  * [Uptodate IgA nephropathology](https://www-uptodate-com.ezproxy.ttuhsc.edu/contents/iga-nephropathy-pathogenesis?search=drug%20associated%20iga%20nephropathy&source=search_result&selectedTitle=5~103&usage_type=default&display_rank=5)
+ * [Atrasentan in patients w/IgAN; ALIGN](https://www.nejm.org/doi/full/10.1056/NEJMoa2409415)
+ * [Iptacopan in IgAN; APPLAUSE](https://www.nejm.org/doi/full/10.1056/NEJMoa2410316
+ * [Sibeprenlimab in IgAN; ENVISION](https://pubmed.ncbi.nlm.nih.gov/37916620/)
+ * [Sparsentan in IgAN; PROTECT](https://pubmed.ncbi.nlm.nih.gov/37931634/)
+ * [NEFECON in IgA; NEfIGArd](https://pubmed.ncbi.nlm.nih.gov/39724565/)
+ * [Efficacy and safety of Nefecon](https://www.sciencedirect.com/science/article/abs/pii/S0140673623015544)
+ * [Steroids in IgA; TESTING](https://pubmed.ncbi.nlm.nih.gov/34731857/)
+ * [Intensive supportive care plus immunosuprerssion in IgAN; STOP-IgAN](https://www.nejm.org/doi/full/10.1056/NEJMoa1415463)
+ * [Henoch-Schonlein purpura in adults](https://www.scopus.com/pages/publications/0036232277)
+ * [Sparsentanin patietn with IgA, interim analysis](https://www.sciencedirect.com/science/article/abs/pii/S014067362300569X)
+ * [Targeting Endothelin A receptor in IgAN](https://www.sciencedirect.com/science/article/pii/S246802492301402X)
+ * [Empagliflozin in CKD](https://scholar.google.com/scholar_lookup?title=Empagliflozin%20in%20patients%20with%20chronic%20kidney%20disease&author=The%20EMPA-KIDNEY%20Collaborative%20Group&publication_year=2023&pages=117-127)
+ * [ACEi in children and young people w/IgAN](https://www.scopus.com/pages/publications/34249897747)
+ * [Risk-Predicition tool evaluation](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2730331)
+ * [MMF in IgA](https://www.sciencedirect.com/science/article/pii/S008525381549917X)
+ * [MMF w/prednisone in IgA](https://www.sciencedirect.com/science/article/abs/pii/S0272638617300082)
+ * [Prednisone and ACEi vs ACE alone in IgAN](https://www.sciencedirect.com/science/article/abs/pii/S0272638608012304)
+ * [10 year follow up in IgA supportive care vs supportive care and immunosupression](https://www.sciencedirect.com/science/article/pii/S0085253820305494)
+ * [Methylprednisolone on decline in kidney function or failure in IgAN](https://jamanetwork.com/journals/jama/fullarticle/2792252)
+ * [Key pathogenic biomarkers in IgAN with Nefecon](https://www.sciencedirect.com/science/article/pii/S0085253823007780)
 ---
 *Last updated: 9/2025 by Ashley Kinder, D.O.*
 *Next review: 9/2026*
