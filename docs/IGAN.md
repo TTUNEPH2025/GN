@@ -82,7 +82,7 @@ flowchart TD
     n1 -- Secondary cause found --> n2["Treat primary Disease State"]
     n1 -- Secondary cause not found --> n3(["Ideopathic IgAN"])
     n3 --> n4["• MEST-C Score
-    •Risk Prediction tool"]
+    • Risk Prediction tool"]
     n4 --> n5["• Report in Disease registry if available
     • Give patient resources for patient advocacy groups
     • Consider enrollment in Trials"] & n6["Consider treatment for Patients at risk of progressive kidney function loss w/supportive therapy and Targeted therapy"] & n9(["IgAN w/RPGN"])
@@ -94,7 +94,8 @@ flowchart TD
     • SGLT2i"]
     n9 --> n10["Offer Treatement with cyclophosphamide and systemic steroids in accordance ANCA-associated Treatement"]
     n7 --> n11["• Nefecon: Recommend 9 month course
-    • Methylprednisonolone: 0.4 mg/kg/day (max 32mg/day) for 2 months and then taper by 4 mg/day for 6-9months"] & n12@{ label: "• MMF: can be used as glucocorticoid sparring agent in Chinese patients only\n    • Hydroxychloroquine: For patients at high risk of progression in spite of supportive care in Chinese patients only\n    • Tonsillectomy: For Japanese patient's (not studied in any other group)" }
+    • Methylprednisonolone: 0.4 mg/kg/day (max 32mg/day) for 2 months
+ • taper by 4 mg/day for 6-9months"] & n12@{ label: "• MMF: can be used as glucocorticoid sparring agent in Chinese patients only\n    • Hydroxychloroquine: For patients at high risk of progression in spite of supportive care in Chinese patients only\n    • Tonsillectomy: For Japanese patient's (not studied in any other group)" }
     n1@{ shape: rounded}
     n4@{ shape: rounded}
     n5@{ shape: rounded}
