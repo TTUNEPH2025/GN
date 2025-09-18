@@ -93,7 +93,7 @@ flowchart TD
     n6 -- Supportive Therapy --> n8["• Life style changes
     • RASi or DEARA/Sparsentan
     • SGLT2i"]
-    n9 --> n10["Should be offered Treatement with cyclophosphamide and systemic steroids in accordance ANCA-associated Treatement"]
+    n9 --> n10["Offer Treatement with cyclophosphamide and systemic steroids in accordance ANCA-associated Treatement"]
     n7 --> n11["• Nefecon: Recommend 9 month course
     • Methylprednisonolone: 0.4 mg/kg/day (max 32mg/day) for 2 months and then taper by 4 mg/day for 6-9months"] & n12@{ label: "• MMF: can be used as glucocorticoid sparring agent in Chinese patients only\n    • Hydroxychloroquine: For patients at high risk of progression in spite of supportive care in Chinese patients only\n    • Tonsillectomy: For Japanese patient's (not studied in any other group)" }
     n1@{ shape: rounded}
@@ -109,13 +109,13 @@ flowchart TD
     style n3 fill:#C8E6C9,text-align:left
     style n4 fill:#FFF9C4,text-align:left
     style n5 fill:#FFF9C4,text-align:left
-    style n6 fill:#FFF9C4,text-align:left
+    style n6 fill:#FFF9C4,text-align:left,white-space:nowrap
     style n9 fill:#C8E6C9,text-align:left
     style n7 fill:#FFF9C4,text-align:left
-    style n8 fill:#FFE0B2,text-align:left
+    style n8 fill:#FFE0B2,text-align:left,white-space:nowrap
     style n10 fill:#FFE0B2,text-align:left
     style n11 fill:#FFE0B2,text-align:left
-    style n12 fill:#FFE0B2,text-align:left
+    style n12 fill:#FFE0B2,text-align:left,white-space:nowrap
 ```
 ## **Sources**
  * [Proteinuria Trajectory and Disease Progression in Children and Adults w/IgA Nephropathy/Vasculitis](https://renal.videomed.live/videos/069bdab11e1ce0c48c/2025-07-17-10-20-pathology-of-ig-a-nephropathy-and-ig-a-vasculitis-m-barry-stokes-md)
