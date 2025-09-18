@@ -6,7 +6,7 @@
     2. In Men treated with mycophenolate condom use recommend during intercourse with women who might become pregnant and should be continue for a minimum of 90 days after discontinuation of medication
  * Cyclophosphamide
  * Rituximab
- * Sparsentan (should continue with birth control for two weeks after stopping treatment)
+ * Sparsentan (should continue with birth control for two weeks after stopping treatment and avoided while breastfeeding)
  * Atrasentan 
  * Aprocitentan
  * Nefecon pregnancy not advised (budesonide Pregnancy class C)
@@ -24,10 +24,6 @@
  * Discontinued if pregnancy confirmed
  * Safety data in pregnancy limited
  * Manufacture recommends avoidance of rituximab in breastfeeding mothers; however limited data sugest rituximab may be compatible with breastfeeding as rituximab is minimally found breast milk and is unlikely to be absorbed in infant GI tract. Shared decision making recommended.
-### Endothelial antogonist 
-  * Sparsentan (Duel endothelelian and angiotensin II receptor antagonist): Should not be taken while breastfeeding
-  * Atrasentan
-  * Aprocitentan
 ### Other
  * Due to high risk of preeclampsia in glomerular disease, consider low dose aspirin after first trimester
  * Control of glomerular disease and BP recommend prior to planning pregnancy
