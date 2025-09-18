@@ -23,13 +23,6 @@
 * [Minimal Change Disease](MCD.md)
 * [MPGN (Membranoproliferative GN)/C3GN](MPGN-C3GN.md)
 * [IgAN](IGAN.md)
-### **Familial**
-* Alport's Syndrome
-* Familial FSGS
-### **Other**
-* Diabetic Nephropathy
-* TMA (Thrombotic Microangiopathy)
-* MGRS???
 ## **Things to Consider**
 * [Prophylaxis Recommendations](Prophylaxis.md)
 * [Screening Exams](Screening.md)
