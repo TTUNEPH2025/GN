@@ -53,19 +53,18 @@
  * HTN
 ## **Diseases Associated with IgAN/IgAV**
 * Diseases
-  1. Cirrhosis
-  2. Portal HTN
-  3. Inflammatory Bowel Disease
-  4. Celiac
-  5. Dermatits Herpetiformis
-  6. Psoriasis
+        1. Cirrhosis
+        2. Portal HTN
+        3. Inflammatory Bowel Disease
+        4. Celiac
+        5. Dermatits Herpetiformis
+       6. Psoriasis
 * Infections
-  1. HIV
-  2. Hepatitis 
-  3. TB
-  4. Brucellosis
-  5. Lerosy 
-## **Deffinitions of Treatment Response**
+        1. HIV
+        2. Hepatitis 
+        3. TB
+        4. Brucellosis
+        5. Lerosy 
 ## **Treatment**
 ```mermaid
 ---
