@@ -6,7 +6,7 @@
     2. In Men treated with mycophenolate condom use recommend during intercourse with women who might become pregnant and should be continue for a minimum of 90 days after discontinuation of medication
  * Cyclophosphamide
  * Rituximab
- * Sparsentan(should continue with birth control for two weeks after stopping treatment)
+ * Sparsentan (should continue with birth control for two weeks after stopping treatment)
  * Atrasentan 
  * Aprocitentan
  * Nefecon pregnancy not advised (budesonide Pregnancy class C)
