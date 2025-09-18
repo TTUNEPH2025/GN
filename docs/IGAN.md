@@ -66,6 +66,7 @@
     4. Brucellosis
     5. Lerosy 
 ## **Treatment**
+### IgAN
 ```mermaid
 ---
 config:
@@ -119,8 +120,32 @@ flowchart TD
     style n11 fill:#FFE0B2,text-align:left,white-space:nowrap
     style n12 fill:#FFE0B2,text-align:left,white-space:nowrap
 ```
-# Medicaions approved in 2025, not in Recommendations
-# New therapies currently being studied 
+
+  * [IgAN prediction tool at biopsy - Adult](https://qxmd.com/calculate/calculator_499/international-igan-prediction-tool-at-biopsy-adults)
+  * [IgAN prediction tool post-biopsy - Adult](https://qxmd.com/calculate/calculator_839/international-igan-prediction-tool-post-biopsy-adults)
+### Medicaions approved recently by FDA for IgAN
+  * Nefecon (TRF-Budesonide, 2021)
+  * Sparsentan (2023)
+  * Iptocopan (2024)
+  * Atrasentan (2025)
+### New therapies currently being studied 
+  * Target: APRIL
+    1. Sibeprenlimab (Trial: VISIONARY)
+    2. Zigakibart (Trial: BEYOND)
+  * Target: APRIL/BAFF
+    1. Telitacicept (Trial: NCT05799287)
+    2. Povetacicept (Trial: APPLAUSE-IgAN)
+  * Target: Alternative pathway, factor B
+    1. Sefaxersen (Trial: IMAGINATION)
+  * Target: Terminal point in Complement pathway, C5
+    1. Ravulizumab (Trial: I CAN)
+### IgAV
+  * No proven therapy at this time
+  * Age appropiate Malignancy Screening
+  * Consider Glucocorticoid therapy
+  * Supportive Therapy: RASi, Life style changes (diet, exercise, < 2g salt per day), SGLT2i
+  * Recommend enrolling in clinical trials
+  * RPGN: Offer Treatement with cyclophosphamide and systemic steroids in accordance ANCA-associated Treatement
 ## **Sources**
  * [KDIGO Guidlines IgAN 2025](https://kdigo.org/wp-content/uploads/2024/08/KDIGO-2025-IgAN-IgAV-Guideline.pdf)
  * [Proteinuria Trajectory and Disease Progression in Children and Adults w/IgA Nephropathy/Vasculitis](https://renal.videomed.live/videos/069bdab11e1ce0c48c/2025-07-17-10-20-pathology-of-ig-a-nephropathy-and-ig-a-vasculitis-m-barry-stokes-md)
