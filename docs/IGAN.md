@@ -13,7 +13,7 @@
          - S --> Segmental Sclerosis
          - T --> Interstitial fibrosis/Tubular atrophy
          - C --> Crescents 
- * IgA Vasculitis
+ * IgA Vasculitis (Henoch-Schonlein purpura)
       1. IgA autoantibodies deposition in the vessels
       2. Children < 16 years of age, often self limitting
       3. Glomerular disease 30% children, 60% Adults
