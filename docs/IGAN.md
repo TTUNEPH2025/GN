@@ -5,7 +5,13 @@
       2. Three types: Primary, Secondary, and Systemic forms (IgA Vasculitis)
       3. Most commen pattern of primary glomerular disease world wide
       4. Most prevalent in people of East Asian ancestry followed by Caucasians
-      5. Mest-C Score: Risk tool/score provide earlier risk predicition in IgAN
+      5. IgA deposistion can be found in MCD: if IgA found o kidney biopsy but otherwise consistent w/MCD, patient should be treated with therapy directed towards MCD
+      6. Mest-C Score: Risk tool/score provide earlier risk predicition in IgAN
+         - M --> Mesangial hypercellularity
+         - E --> Endocapillary hypercellularity
+         - S --> Segmental Sclerosis
+         - T --> Interstitial fibrosis/Tubular atrophy
+         - C --> Crescents 
  * IgA Vasculitis
       1. IgA autoantibodies deposition in the vessels
       2. Children < 16 years of age, often self limitting
@@ -42,7 +48,7 @@
       2. IgA autoantibodies desposition in the small vessels affecting: skin, joints, intestines, and kidney (rarely affects lungs and CNS)
 ## **Clinical Presentation**
  * Hematuria
- * Proteinuria
+ * Proteinuria: Rarely > 3.5g/d
  * Edema
  * HTN
 ## **Diseases Associated with IgAN/IgAV**
@@ -55,9 +61,10 @@
   6. Psoriasis
 * Infections
   1. HIV
-  2. TB
-  3. Brucellosis
-  4. Lerosy 
+  2. Hepatitis 
+  3. TB
+  4. Brucellosis
+  5. Lerosy 
 ## **Deffinitions of Treatment Response**
 ## **Treatment**
 ## **Sources**
