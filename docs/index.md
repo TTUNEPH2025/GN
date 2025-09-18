@@ -14,7 +14,7 @@
     1. Acute (post-infectious GN)
     2. [Anti-GBM](Anti-GBM.md)
     3. ANCA associated GN
-    4. IgAN
+    4. [IgAN](IGAN.md)
     5. Lupus Nephritis 
     6. [MPGN (Membranoproliferative GN)/C3GN](MPGN-C3GN.md)
 ### **Secondary**
