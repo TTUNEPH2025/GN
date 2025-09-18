@@ -181,7 +181,7 @@ flowchart TD
     classDef Class_01 fill:#FFCDD2
     style n6 fill:#FFCDD2,stroke:#000000
     style n7 fill:#FFCDD2,stroke:#000000
-    style n10 fill:#FFCDD2,stroke:#000000,white-space:nowrap
+    style n10 fill:#FFCDD2,stroke:#000000
     style n11 fill:#FFCDD2,stroke:#000000
     style n15 fill:#FFCDD2,stroke:#000000,text-align:left
     style n16 fill:#FFCDD2,stroke:#000000,text-align:left
