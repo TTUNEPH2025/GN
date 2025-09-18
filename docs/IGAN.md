@@ -113,7 +113,7 @@ flowchart TD
     style n7 fill:#FFF9C4,text-align:left,white-space:nowrap
     style n8 fill:#FFE0B2,text-align:left,white-space:nowrap
     style n10 fill:#FFE0B2,text-align:left
-    style n11 fill:#FFE0B2,text-align:left
+    style n11 fill:#FFE0B2,text-align:left,white-space:nowrap
     style n12 fill:#FFE0B2,text-align:left,white-space:nowrap
 ```
 ## **Sources**
