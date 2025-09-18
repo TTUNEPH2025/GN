@@ -104,7 +104,7 @@ flowchart TD
     n8@{ shape: rect}
     n12@{ shape: rect}
     style A fill:#C8E6C9,color:#000000
-    style n1 fill:#FFF9C4,text-align:left
+    style n1 fill:#FFF9C4,text-align:left,white-space:nowrap
     style n2 fill:#FFE0B2,text-align:left
     style n3 fill:#C8E6C9,text-align:left
     style n4 fill:#FFF9C4,text-align:left
