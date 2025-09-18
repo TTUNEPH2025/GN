@@ -27,7 +27,7 @@
          - Production of poorly glycosylated IgA1 (Gd-Ig-A1)
          - Production Anti-Gd-IgA1 autoantibodies (anti-Gd-IgA1 autoantibodies)
          - Formation of Glomerular deposition of Immuncomplexes
-         - Deposition of circulating immunce complexes --> Mesangial, Podocyte, Endothelial inducingc cytokine release, compliment activation, and inflammation causing injury
+         - Deposition of circulating immunce complexes --> Mesangial, Podocyte, Endothelial inducing cytokine release, compliment activation, and inflammation causing injury
     4. Acute Lesion
          - Mesangial Hypercellularity
          - Endocapillary Hypercellularity
@@ -127,7 +127,7 @@ flowchart TD
 ### Medicaions approved recently by FDA for IgAN
   * Nefecon (TRF-Budesonide, 2021)
   * Sparsentan (2023)
-    1. Should avoid use with ACEi/ARB due to DEARA
+    1. Should avoid use with ACEi/ARB due class DEARA
     2. REMS: Requires Monthly liver testing for first 12month, then every 3 months thereafter 
   * Iptocopan (2024)
   * Atrasentan (2025)
@@ -158,7 +158,7 @@ flowchart TD
  * [Oxford Classification of IgA Nephropathy](https://pubmed.ncbi.nlm.nih.gov/19571790/)
  * [Uptodate IgA nephropathology](https://www-uptodate-com.ezproxy.ttuhsc.edu/contents/iga-nephropathy-pathogenesis?search=drug%20associated%20iga%20nephropathy&source=search_result&selectedTitle=5~103&usage_type=default&display_rank=5)
  * [Atrasentan in patients w/IgAN; ALIGN](https://www.nejm.org/doi/full/10.1056/NEJMoa2409415)
- * [Iptacopan in IgAN; APPLAUSE](https://www.nejm.org/doi/full/10.1056/NEJMoa2410316
+ * [Iptacopan in IgAN; APPLAUSE](https://www.nejm.org/doi/full/10.1056/NEJMoa2410316)
  * [Sibeprenlimab in IgAN; ENVISION](https://pubmed.ncbi.nlm.nih.gov/37916620/)
  * [Sparsentan in IgAN; PROTECT](https://pubmed.ncbi.nlm.nih.gov/37931634/)
  * [NEFECON in IgA; NEfIGArd](https://pubmed.ncbi.nlm.nih.gov/39724565/)
