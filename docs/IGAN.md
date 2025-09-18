@@ -86,8 +86,7 @@ flowchart TD
     n4 --> n5["• Report in Disease registry if available
     • Give patient resources for patient advocacy groups
     • Consider enrollment in Trials"] & n6["Consider treatment for Patients at risk of progressive kidney function loss w/supportive therapy and Targeted therapy"] & n9(["IgAN w/RPGN"])
-    n6 -- Targeted Therapy --> n7["• Nefecon/
-    Glucocorticoids
+    n6 -- Targeted Therapy --> n7["• Nefecon/Glucocorticoids
     • MMF/Hydroxychloroquine
     • Tonsillectomy"]
     n6 -- Supportive Therapy --> n8["• Life style changes
@@ -109,9 +108,9 @@ flowchart TD
     style n3 fill:#C8E6C9,text-align:left
     style n4 fill:#FFF9C4,text-align:left
     style n5 fill:#FFF9C4,text-align:left
-    style n6 fill:#FFF9C4,text-align:left,white-space:nowrap
+    style n6 fill:#FFF9C4,text-align:left
     style n9 fill:#C8E6C9,text-align:left
-    style n7 fill:#FFF9C4,text-align:left
+    style n7 fill:#FFF9C4,text-align:left,white-space:nowrap
     style n8 fill:#FFE0B2,text-align:left,white-space:nowrap
     style n10 fill:#FFE0B2,text-align:left
     style n11 fill:#FFE0B2,text-align:left
