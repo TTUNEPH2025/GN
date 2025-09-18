@@ -67,6 +67,57 @@
   5. Lerosy 
 ## **Deffinitions of Treatment Response**
 ## **Treatment**
+```mermaid
+---
+config:
+  theme: redux
+---
+flowchart TD
+    A(["IgA Dominant on Bx"]) --> n1["**Consider Secondary Causes**
+    • IgA Vasculitis
+    • Viral causes
+    • IBD
+    • Autoimmune Disease
+    • Cirrhosis 
+    • IgA dominant Infection related GN"]
+    n1 -- Secondary cause found --> n2["Treat primary Disease State"]
+    n1 -- Secondary cause not found --> n3(["Ideopathic IgAN"])
+    n3 --> n4["• MEST-C Score
+    •Risk Prediction tool"]
+    n4 --> n5["• Report in Disease registry if available
+    • Give patient resources for patient advocacy groups
+    • Consider enrollment in Trials"] & n6["Consider treatment for Patients at risk of progressive kidney function loss w/supportive therapy and Targeted therapy"] & n9(["IgAN w/RPGN"])
+    n6 -- Targeted Therapy --> n7["• Nefecon/
+    Glucocorticoids
+    • MMF/Hydroxychloroquine
+    • Tonsillectomy"]
+    n6 -- Supportive Therapy --> n8["• Life style changes
+    • RASi or DEARA/Sparsentan
+    • SGLT2i"]
+    n9 --> n10["Should be offered Treatement with cyclophosphamide and systemic steroids in accordance ANCA-associated Treatement"]
+    n7 --> n11["• Nefecon: Recommend 9 month course
+    • Methylprednisonolone: 0.4 mg/kg/day (max 32mg/day) for 2 months and then taper by 4 mg/day for 6-9months"] & n12@{ label: "• MMF: can be used as glucocorticoid sparring agent in Chinese patients only\n    • Hydroxychloroquine: For patients at high risk of progression in spite of supportive care in Chinese patients only\n    • Tonsillectomy: For Japanese patient's (not studied in any other group)" }
+    n1@{ shape: rounded}
+    n4@{ shape: rounded}
+    n5@{ shape: rounded}
+    n6@{ shape: rounded}
+    n7@{ shape: rounded}
+    n8@{ shape: rect}
+    n12@{ shape: rect}
+    style A fill:#C8E6C9,color:#000000
+    style n1 fill:#FFF9C4
+    style n2 fill:#FFE0B2
+    style n3 fill:#C8E6C9
+    style n4 fill:#FFF9C4
+    style n5 fill:#FFF9C4
+    style n6 fill:#FFF9C4
+    style n9 fill:#C8E6C9
+    style n7 fill:#FFF9C4
+    style n8 fill:#FFE0B2
+    style n10 fill:#FFE0B2
+    style n11 fill:#FFE0B2
+    style n12 fill:#FFE0B2
+```
 ## **Sources**
  * [Proteinuria Trajectory and Disease Progression in Children and Adults w/IgA Nephropathy/Vasculitis](https://renal.videomed.live/videos/069bdab11e1ce0c48c/2025-07-17-10-20-pathology-of-ig-a-nephropathy-and-ig-a-vasculitis-m-barry-stokes-md)
  * [Indications for Corticosteroids in IgA Nephropathy](https://pubmed.ncbi.nlm.nih.gov/35108391/)
