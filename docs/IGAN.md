@@ -5,8 +5,9 @@
       2. Three types: Primary, Secondary, and Systemic forms (IgA Vasculitis)
       3. Most commen pattern of primary glomerular disease world wide
       4. Most prevalent in people of East Asian ancestry followed by Caucasians
-      5. IgA deposistion can be found in MCD: if IgA found on kidney biopsy but otherwise consistent w/MCD, patient should be treated with therapy directed towards MCD
-      6. Mest-C Score: Risk tool/score provide earlier risk predicition in IgAN
+      5. Slowly progressive w/25-30% of patients developing kidney failure w/in 20-25years
+      6. IgA deposistion can be found in MCD: if IgA found on kidney biopsy but otherwise consistent w/MCD, patient should be treated with therapy directed towards MCD
+      7. Mest-C Score: Risk tool/score provide earlier risk predicition in IgAN
          - M --> Mesangial hypercellularity
          - E --> Endocapillary hypercellularity
          - S --> Segmental Sclerosis
