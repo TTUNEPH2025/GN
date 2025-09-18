@@ -33,7 +33,7 @@
     3. Neither guidline give direct recommendations on time of DEXA scan need in setting of long term steroids though general consensus that prolonged treatment with glucocorticoids causes bone loss
 * Recommend pregancy testing for female patients of child bearing age prior to initation of most immunosupression medications
 * Sparsentan
-    1. REMS: Requires mondly liver testing for first 12months of use and then every 3 months therafter
+    1. REMS: Requires monthly liver testing for first 12months of use and then every 3 months therafter
     2. Is a DEARA --> not recommended to take with ACEi/ARB
 ## **Sources**
  * [KDIGO GN Guidlines](https://kdigo.org/guidelines/gd/)
