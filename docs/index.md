@@ -22,6 +22,7 @@
 * [Membranous Nephropathy](Membranous.md)
 * [Minimal Change Disease](MCD.md)
 * [MPGN (Membranoproliferative GN)/C3GN](MPGN-C3GN.md)
+* [IgAN](IGAN.md)
 ### **Familial**
 * Alport's Syndrome
 * Familial FSGS
