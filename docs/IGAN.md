@@ -96,7 +96,8 @@ flowchart TD
     n7 --> n11["• Nefecon: Recommend 9 month course
     • Methylprednisonolone: 0.4 mg/kg/day (max 32mg/day) for 2 months
  • Taper Methylpred by 4 mg/day for 6-9months
-• Can sub Methylpred for prednison: Methylprednisone 1mg = Prednisone 1.25mg"] & n12@{ label: "• MMF: can be used as glucocorticoid sparring agent in Chinese patients only\n    • Hydroxychloroquine: For patients at high risk of progression inspite of supportive care in Chinese patients only\n    • Tonsillectomy: For Japanese patient's (not studied in any other group)" }
+• Can sub Methylpred for prednison: Methylprednisone 1mg = Prednisone 1.25mg
+• PJP ppx"] & n12@{ label: "• MMF: can be used as glucocorticoid sparring agent in Chinese patients only\n    • Hydroxychloroquine: For patients at high risk of progression inspite of supportive care in Chinese patients only\n    • Tonsillectomy: For Japanese patient's (not studied in any other group)" }
     n1@{ shape: rounded}
     n4@{ shape: rounded}
     n5@{ shape: rounded}
@@ -118,7 +119,10 @@ flowchart TD
     style n11 fill:#FFE0B2,text-align:left,white-space:nowrap
     style n12 fill:#FFE0B2,text-align:left,white-space:nowrap
 ```
+# Medicaions approved in 2025, not in Recommendations
+# New therapies currently being studied 
 ## **Sources**
+ * [KDIGO Guidlines IgAN 2025](https://kdigo.org/wp-content/uploads/2024/08/KDIGO-2025-IgAN-IgAV-Guideline.pdf)
  * [Proteinuria Trajectory and Disease Progression in Children and Adults w/IgA Nephropathy/Vasculitis](https://renal.videomed.live/videos/069bdab11e1ce0c48c/2025-07-17-10-20-pathology-of-ig-a-nephropathy-and-ig-a-vasculitis-m-barry-stokes-md)
  * [Indications for Corticosteroids in IgA Nephropathy](https://pubmed.ncbi.nlm.nih.gov/35108391/)
  * [Oxford Classification of IgA Nephropathy](https://pubmed.ncbi.nlm.nih.gov/19571790/)
