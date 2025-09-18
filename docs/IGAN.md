@@ -95,7 +95,8 @@ flowchart TD
     n9 --> n10["Offer Treatement with cyclophosphamide and systemic steroids in accordance ANCA-associated Treatement"]
     n7 --> n11["• Nefecon: Recommend 9 month course
     • Methylprednisonolone: 0.4 mg/kg/day (max 32mg/day) for 2 months
- • taper by 4 mg/day for 6-9months"] & n12@{ label: "• MMF: can be used as glucocorticoid sparring agent in Chinese patients only\n    • Hydroxychloroquine: For patients at high risk of progression in spite of supportive care in Chinese patients only\n    • Tonsillectomy: For Japanese patient's (not studied in any other group)" }
+ • Taper Methylpred by 4 mg/day for 6-9months
+• Can sub Methylpred for prednison: Methylprednisone 1mg = Prednisone 1.25mg"] & n12@{ label: "• MMF: can be used as glucocorticoid sparring agent in Chinese patients only\n    • Hydroxychloroquine: For patients at high risk of progression inspite of supportive care in Chinese patients only\n    • Tonsillectomy: For Japanese patient's (not studied in any other group)" }
     n1@{ shape: rounded}
     n4@{ shape: rounded}
     n5@{ shape: rounded}
