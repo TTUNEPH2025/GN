@@ -1,4 +1,4 @@
-# **Infection Related Glomerulonephritis (IRGN) **
+# **Infection Related Glomerulonephritis (IRGN)**
 ## **Overview**
 ## **Pathophysiology**
 ## **Clinical Presentation**
