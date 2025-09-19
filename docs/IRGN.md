@@ -1,9 +1,8 @@
-# **Postinfectious Glomerulonephritis**
+# **Infection Related Glomerulonephritis (IRGN) **
 ## **Overview**
 ## **Pathophysiology**
 ## **Clinical Presentation**
-## **Drugs and Diseases Associated with IgAN/IgAV**
-## **Deffinitions of Treatment Response**
+## **Infections commonly assoicated with IRGN**
 ## **Treatment**
 ## **Sources**
 ---
