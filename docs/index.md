@@ -11,7 +11,7 @@
     2. [Membranous Nephropathy](Membranous.md)
     3. [Minimal Change Disease](MCD.md)
 - **Proliferative** 
-    1. [Infection-Related Glomerulonephritis (IRGN)](IGAN.md) 
+    1. [Infection-Related Glomerulonephritis (IRGN)](IRGN.md) 
     2. [Anti-GBM](Anti-GBM.md)
     3. ANCA associated GN
     4. [IgAN](IGAN.md)
