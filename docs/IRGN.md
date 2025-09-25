@@ -63,7 +63,30 @@
     1. HCV, HBV, and HIV --> known cause of virally meditated GN
     2. Malaria, Schistosomaiasis, mycoplasma, leishmaniasis, filariasis, histoplasmosis
 ## **Treatment**
+  * Treat underlying infection
+  * General supportive care for kidney injury
+  * Immunosupresion generally not advised
+  * HBV: pegylated interferon regimens should not be used to treate patients with replicative HBV infection and GN --> can aggravate autoimmune phenomenia and as there are newer antiviral regimens that are effective IFN-alpha-based regimens should be avoided
+  * Plasma exchange may be tried in patient with accompaning cryoglobulinemic vasculitis in related to hepatitis infections
+  * Recommend to assess for viral coinfections in patient's supspected to have schistosomal GN
+  * Recommend treating HIV regardless of CD4 count in setting of HIVAN
 ## **Sources**
+* [KDIGO GN Guidlines](https://kdigo.org/guidelines/gd/)
+* [Anti-Factor B in acute postinfectious GN in children](https://journals.lww.com/jasn/pages/articleviewer.aspx?year=2020&issue=04000&article=00016&type=Fulltext)
+* [Postinfectious GN in elderly](https://www.scopus.com/pages/publications/78651385711)
+* [Spectrum of infectious GN](https://www.scopus.com/pages/publications/0028934119)
+* [Post-infectious GN and C3GN](https://academic.oup.com/ckj/article/9/3/397/2918847)
+* [Steroids in postinfectious GN](https://indianjnephrol.org/postinfectious-glomerulonephritis-is-there-a-role-for-steroids/)
+* [IgA dominant postinfectious GN](https://www.sciencedirect.com/science/article/abs/pii/S0046817708001135)
+* [HIV type-1 viral suppressio and non-viral factors on quantitative proteinuria](https://journals.sagepub.com/doi/10.1177/135965350901400406)
+* [Antiretroviral therpay o albuminuria in HIV patients](https://academic.oup.com/ndt/article-abstract/20/10/2237/1934842?redirectedFrom=fulltext)
+* [Suppression of HIV replication improves renal function in persons with low CD4 counts](https://www.scopus.com/pages/publications/39849088865)
+* [CD4 count guided interruption of antiretroviral treatment](https://www.scopus.com/pages/publications/33751515147)
+* [Hep B and C co-infection are independed predictors of progressive kidney disease in HIV posistive adults](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0040245)
+* [Efficacy of anti-viral therapy on Hep B GN](https://www.sciencedirect.com/science/article/pii/S1665268119315650)
+* [Meta-analysis of antiviral therapy for hep B associated membranous](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0160437)
+* [Viral-associated GN Hepatitis B and other viral infections](https://www.scopus.com/pages/publications/85029594102)
+* [Influence of anti-parasitic therapy on course of glomerulopathy associated with Schistosomaisis mansoni](https://www.scopus.com/pages/publications/0023198027)
 ---
 *Last updated: 9/2025 by Ashley Kinder, D.O.*
 *Next review: 9/2026*
