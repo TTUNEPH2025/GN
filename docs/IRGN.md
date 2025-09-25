@@ -32,7 +32,13 @@
     4. C3 dominent or co-dominent on IF (Immunofluorescents)
     5. Hump-shaped subepithelial on EM (Electron Microscopy)
   * Post-Streptoccal GN
-    1. 
+    1. typically low C3 levels in ~90% of patients
+    2. Throat or skin culture positive in about 25% of cass
+    3. Pathophysiology: SPEB (streptococcal pyrogenic exotoxin B) --> can be found in humplike deposites; NAPLr (nephritis associated plasmin Receptor) may activate C3; Transient anti-factor B likely promots activation of all three complement pathways
+    4. Path
+       * LM: diffuse proliferation, exudative wiht PMN
+       * IF: C3 dominant or co-dominant staining (stary sky, garland pattern)
+       * EM: subendothelial humps and small supendothelial deposite
 ## **Clinical Presentation**
   * Hematuria (microscopic or gross)
   * AKI
@@ -46,10 +52,16 @@
     2. C3 normalizes in about 6-8wk --> hypocomplementima lasting about >2-3months on is an indication for biopsy
     3. Hematuria typically resolves by about 6 months
 ## **Infections commonly assoicated with IRGN**
+  * Streptococcal infections about 28-47%
+  * Staphylococcus aureus or staphlococcus epidermidis around 12-24% of cases
+  * Gram negative about 22% of cases
   * Endocarditis GN
     1. Staphyloccus aureus
     2. Streptococcal
     3. Bartoonella hensele, Coxiella burnetti (Q fever); These typically very difficult to grow from Blood culture
+  * Viral and Parasitic infection
+    1. HCV, HBV, and HIV --> known cause of virally meditated GN
+    2. Malaria, Schistosomaiasis, mycoplasma, leishmaniasis, filariasis, histoplasmosis
 ## **Treatment**
 ## **Sources**
 ---
