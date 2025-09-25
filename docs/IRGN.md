@@ -25,7 +25,7 @@
     3. Diffuse proliferative
     4. Necrotizing and Crescentic GN: common with intravascular infection espically endocarditis
     5. MPGN: consider Shunt nephritis(Immune complex nephritis as a complication of chronic infection from ventriculoatrial shunt, ventriculojuglar shunt, ventriculoperitoneal shunt), endocarditis, parasitic --> often IgM dominent and a chronic infection
-  * Incluse Criteria: need 3 out of 5
+  * Inclusion Criteria: need 3 out of 5
     1. Clinical or lab evidence of infection
     2. Low Serum C3
     3. Exudative GN
@@ -36,9 +36,9 @@
     2. Throat or skin culture positive in about 25% of cass
     3. Pathophysiology: SPEB (streptococcal pyrogenic exotoxin B) --> can be found in humplike deposites; NAPLr (nephritis associated plasmin Receptor) may activate C3; Transient anti-factor B likely promots activation of all three complement pathways
     4. Path
-       * LM: diffuse proliferation, exudative wiht PMN
-       * IF: C3 dominant or co-dominant staining (stary sky, garland pattern)
-       * EM: subendothelial humps and small supendothelial deposite
+        * LM: diffuse proliferation, exudative wiht PMN
+        * IF: C3 dominant or co-dominant staining (stary sky, garland pattern)
+        * EM: subendothelial humps and small supendothelial deposite
 ## **Clinical Presentation**
   * Hematuria (microscopic or gross)
   * AKI
@@ -53,7 +53,7 @@
     3. Hematuria typically resolves by about 6 months
 ## **Infections commonly assoicated with IRGN**
   * Streptococcal infections about 28-47%
-  * Staphylococcus aureus or staphlococcus epidermidis around 12-24% of cases
+  * Staphylococcus aureus or Staphlococcus epidermidis around 12-24% of cases
   * Gram negative about 22% of cases
   * Endocarditis GN
     1. Staphyloccus aureus
