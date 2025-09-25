@@ -19,8 +19,22 @@
     5. Recurrence rare
     6. Prognosis: typically all improve
 ## **Pathophysiology**
+  * Multiple histologic patterns seend
+    1. Mesangial proliferative  (often found in resolving injury)
+    2. Focal Proliferative
+    3. Diffuse proliferative
+    4. Necrotizing and Crescentic GN: common with intravascular infection espically endocarditis
+    5. MPGN: consider Shunt nephritis(Immune complex nephritis as a complication of chronic infection from ventriculoatrial shunt, ventriculojuglar shunt, ventriculoperitoneal shunt), endocarditis, parasitic --> often IgM dominent and a chronic infection
+  * Incluse Criteria: need 3 out of 5
+    1. Clinical or lab evidence of infection
+    2. Low Serum C3
+    3. Exudative GN
+    4. C3 dominent or co-dominent on IF (Immunofluorescents)
+    5. Hump-shaped subepithelial on EM (Electron Microscopy)
+  * Post-Streptoccal GN
+    1. 
 ## **Clinical Presentation**
-    * Hematuria (microscopic or gross)
+  * Hematuria (microscopic or gross)
   * AKI
   * Proteinuria
   * Edema
