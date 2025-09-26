@@ -56,7 +56,7 @@ flowchart TD
     • Prednisone 20mg Daily by week 6"]
     n7 --> n10["• 2-3mg/kg daily (reduce dose for pt >55 to 2mg/kg)
     • Data with IV cyclophosphamide limited, but can be used"]
-    n8 --> n11["To be continue to be continue until anti-GBM titers are negative
+    n8 --> n11["To be continued until anti-GBM titers are negative
     • typically after 14 days of treatment"]
     n9 --> n12["Continue for a duration of 6 months"]
     n10 --> n13["Continue for a duration of 3 months"] & n14["If patient not able to tolerate or not responding to cyclophosphamide consider
