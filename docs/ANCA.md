@@ -69,6 +69,7 @@
   * Treatment-resistent Disease
     1. Persistence of or appearance of kidney and/or systemic manifestation of vasculitis, while recieving treatment equal in intensity to induction therapy
 ## **Treatment**
+### Evaluation
 ```mermaid
 ---
 config:
@@ -107,6 +108,60 @@ flowchart TD
     style n6 stroke:#000000,fill:#BBDEFB,text-align:left,white-space:nowrap
     style n7 fill:#BBDEFB,stroke:#000000,text-align:left
     style n8 fill:#BBDEFB,stroke:#000000,text-align:left
+```
+### Induction
+```mermaid
+---
+config:
+  theme: redux
+---
+flowchart TD
+    A(["Dx of ANCA associated GN"]) --> n2["• Diffuse Aveolar Hemorrhage
+    • Positive ANCA and Anti-GBM serology
+    • Serum Cr > 3.4 or rapidly increasing Cr
+    • Requiring RRT"]
+    n2 -- Negative --> n1["Induction Therapy Alone"]
+    n2 -- Positive --> n3["Consider Addition of PLEX to Induction Therapy"]
+    n3 --> n4["ANCA Vasculiti w/Severe kidney disease"] & n5["Vasculitis w/aveolar hemorrhage"] & n6["ANCA pos and Anti-GMB pos"]
+    n1 --> n7["Induction Theray"]
+    n4 --> n10["7 treatments over 14 days
+    • 60ml/kg volume replacement with albumin substitution"]
+    n6 --> n11["Daily for 14 days or until Anti-GBM antibodies undetectable"]
+    n5 --> n12["Daily until bleeding stops
+    • Replace with albumin and FFP"]
+    n10 --> n7
+    n11 --> n7
+    n12 --> n7
+    n7 --> n13["Markedly Reduced eGFR or SCr > 4"]
+    n13 --> n14["No"] & n15["Yes"]
+    n15 --> n16["• Cyclophosphamide + Glucocorticoids taper
+    or
+    •Cyclophosphamide + Glucocorticoids taper + Rituximab"]
+    n14 --> n17["• Rituximab + Glucocorticoid taper/Avacopan 
+    or
+    • Cyclophosphamide + Glucocorticoids taper/Avacopan
+    or
+    •Cyclophosphamide + Glucocorticoids taper + Rituximab"]
+    n17 --> n18["<ins>Rituximab Preferred</ins>
+    • Children/Adolescents
+    • Concerns for fertility
+    • Frail older adults
+    • Glucocorticoid sparing
+    • Relapsing disease
+    • PR3-ANCA"] & n19["<ins>Cyclophosamide Preferred</ins>
+    • Rituximab difficult to access
+    • SCr &gt;4"] & n20@{ label: "<ins>Glucocorticoids vs Avacopan</ins>\n    • Avacopan preferred with patient's at increase risk of steroid toxicity\n    • Avacopan preferred with patient's with lower eGFR" }
+    n18 --> n21["Evaluate Disease response"]
+    n19 --> n21
+    n20 --> n21
+    n21 --> n22["Remission"] & n23["Resistent/Refractory"]
+    n22 --> n24["Maintence Therapy"]
+    n23 --> n25["On RRT after 3months of tx and no extrarenal signs/symptoms"]
+    n25 --Yes --> n26["Consider DC of Immunotherapy"]
+    n25 --No --> n27["• Consider increasing glucocorticoid dosing
+    • Addition of Rituximab or Cyclophosphamide to iniatial therapy
+    • Consider PLEX"]
+    n20@{ shape: rect}
 ```
 
 ## **Sources**
