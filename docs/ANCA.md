@@ -122,7 +122,7 @@ flowchart TD
     • Requiring RRT"]
     n2 -- Negative --> n1["Induction Therapy Alone"]
     n2 -- Positive --> n3["Consider Addition of PLEX to Induction Therapy"]
-    n3 --> n4["ANCA Vasculiti w/Severe kidney disease"] & n5["Vasculitis w/aveolar hemorrhage"] & n6["ANCA pos and Anti-GMB pos"]
+    n3 --> n4(["ANCA Vasculiti w/Severe kidney disease"]) & n5(["Vasculitis w/aveolar hemorrhage"]) & n6(["ANCA pos and Anti-GMB pos"])
     n1 --> n7["Induction Theray"]
     n4 --> n10["7 treatments over 14 days
     • 60ml/kg volume replacement with albumin substitution"]
@@ -133,11 +133,10 @@ flowchart TD
     n11 --> n7
     n12 --> n7
     n7 --> n13["Markedly Reduced eGFR or SCr > 4"]
-    n13 --> n14["No"] & n15["Yes"]
-    n15 --> n16["• Cyclophosphamide + Glucocorticoids taper
+    n13 -- Yes --> n16["• Cyclophosphamide + Glucocorticoids taper
     or
     •Cyclophosphamide + Glucocorticoids taper + Rituximab"]
-    n14 --> n17["• Rituximab + Glucocorticoid taper/Avacopan 
+    n13 -- No --> n17["• Rituximab + Glucocorticoid taper/Avacopan 
     or
     • Cyclophosphamide + Glucocorticoids taper/Avacopan
     or
@@ -167,6 +166,46 @@ flowchart TD
     or
     • MMF or/Methotrexate (only if azathioprine not tolerated and avoid Methotrexate if eGFR &lt; 60)"]
     n28 --> n29["Continue therapy for any from 18months to 4 years after induction of remission"]
+    n2@{ shape: rounded}
+    n1@{ shape: rounded}
+    n3@{ shape: rounded}
+    n7@{ shape: rounded}
+    n13@{ shape: rounded}
+    n18@{ shape: rounded}
+    n19@{ shape: rounded}
+    n20@{ shape: rounded}
+    n21@{ shape: rounded}
+    n22@{ shape: rounded}
+    n23@{ shape: rounded}
+    n24@{ shape: rounded}
+    n25@{ shape: rounded}
+    n29@{ shape: rounded}
+    style A fill:#E1BEE7
+    style n2 fill:#E1BEE7
+    style n1 fill:#E1BEE7
+    style n3 fill:#E1BEE7
+    style n4 fill:#E1BEE7
+    style n5 fill:#E1BEE7
+    style n6 fill:#E1BEE7
+    style n7 fill:#E1BEE7
+    style n10 fill:#FFCDD2
+    style n11 fill:#FFCDD2
+    style n12 fill:#FFCDD2
+    style n13 fill:#E1BEE7
+    style n16 fill:#FFCDD2
+    style n17 fill:#FFCDD2
+    style n18 fill:#E1BEE7
+    style n19 fill:#E1BEE7
+    style n20 fill:#E1BEE7
+    style n21 fill:#E1BEE7
+    style n22 fill:#E1BEE7
+    style n23 fill:#E1BEE7
+    style n24 fill:#E1BEE7
+    style n25 fill:#E1BEE7
+    style n26 fill:#FFCDD2
+    style n27 fill:#FFCDD2
+    style n28 fill:#FFCDD2
+    style n29 fill:#E1BEE7
 ```
 
 ## **Sources**
