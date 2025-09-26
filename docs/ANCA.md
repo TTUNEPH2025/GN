@@ -69,6 +69,37 @@
   * Treatment-resistent Disease
     1. Persistence of or appearance of kidney and/or systemic manifestation of vasculitis, while recieving treatment equal in intensity to induction therapy
 ## **Treatment**
+```mermaid
+---
+config:
+  theme: redux
+---
+flowchart TD
+    A(["Rapidly Declining eGFR
+        &
+        UA Positive for Blood and Protein"]) --> n1["Evaluate if urine sediment present (w/or w/out pyuria in abcence of infection)"]
+    n1 -- Present --> n2["<ins>Evaluate</ins>
+    • Serology: ANA, ANCA, Complement levels
+    • Eval for signs and symtpoms of vasculitis
+    • r/o infectious causes
+    • obtain kidney biopsy if able"]
+    n1 -- Abscent --> n3["Evaluate for other causes of AKI"]
+    n2 --> n4(["Rapidly Progressive"])
+    n4 -- Yes --> n5["• Positive clinical presentation of ANCA vasculitis
+    • PR3-ANCA and/or MPO-ANCA"]
+    n4 -- No --> n6["Wait for biospy results"]
+    n5 --> n7["Can initiate treatment for ANCA associated disease
+    • Do not have to wait for biopsy results prior to treatment if high clinical suspision and Rapid loss of kidney function"]
+    n6 --> n8["Treat as indicated by results from biopsy, serology, and clinical presentation"]
+    n1@{ shape: rounded}
+    n2@{ shape: rounded}
+    n3@{ shape: rounded}
+    n5@{ shape: rounded}
+    n6@{ shape: rounded}
+    n7@{ shape: rounded}
+    n8@{ shape: rounded}
+```
+
 ## **Sources**
   * [KDIGO Guidlines](https://www.kidney-international.org/action/showPdf?pii=S0085-2538%2823%2900744-5)
   * [Signs and symtpoms of ANCA vascultitis](https://www-uptodate-com.ezproxy.ttuhsc.edu/contents/granulomatosis-with-polyangiitis-and-microscopic-polyangiitis-clinical-manifestations-and-diagnosis?search=signs%20and%20symptoms%20of%20anca%20vasculitis&sectionRank=1&usage_type=default&anchor=H1522363621&source=machineLearning&selectedTitle=1~150&display_rank=1#H2879736833)
