@@ -57,9 +57,21 @@
   * Subacute bacterial endocarditis and other forms of chronic bacteremia demonstrated positivity for ANCA
   * ANCA positivity seening 60-80% of UC patients and patient with primary sclerosing cholangitis
 ## **Deffinitions of Treatment Response**
+  * Disease activity
+    1. ANCA-associated vasculitis represented in sings or symtpoms oattributable to active disease in any organ system
+  * Remission
+    1. The abscense of manifestation of vasculitis and GN
+    2. GN: stable or improved eGFR while <ins>hematuria and proteinuria are present at time of active disease and can resolve completely, their persistence does not necessarily imply active disease </ins>
+  * Relapse
+    1. occurrence of increased disease activity after a period of partial or complete remission
+    2. Return or increase of hematuria w/proteinuria may indicate relapse
+    3. Major replase: life or organ threating disease (examples include diffuse alveolar hemorrhage, subglottic stenosis, GN, or vascultitis threatening vision)
+  * Treatment-resistent Disease
+    1. Persistence of or appearance of kidney and/or systemic manifestation of vasculitis, while recieving treatment equal in intensity to induction therapy
 ## **Treatment**
 ## **Sources**
-  * [signs and symtpoms of ANCA vascultitis](https://www-uptodate-com.ezproxy.ttuhsc.edu/contents/granulomatosis-with-polyangiitis-and-microscopic-polyangiitis-clinical-manifestations-and-diagnosis?search=signs%20and%20symptoms%20of%20anca%20vasculitis&sectionRank=1&usage_type=default&anchor=H1522363621&source=machineLearning&selectedTitle=1~150&display_rank=1#H2879736833)
+  * [KDIGO Guidlines](https://www.kidney-international.org/action/showPdf?pii=S0085-2538%2823%2900744-5)
+  * [Signs and symtpoms of ANCA vascultitis](https://www-uptodate-com.ezproxy.ttuhsc.edu/contents/granulomatosis-with-polyangiitis-and-microscopic-polyangiitis-clinical-manifestations-and-diagnosis?search=signs%20and%20symptoms%20of%20anca%20vasculitis&sectionRank=1&usage_type=default&anchor=H1522363621&source=machineLearning&selectedTitle=1~150&display_rank=1#H2879736833)
   * [Clinical spectrum of ANCA associated Disease](https://www-uptodate-com.ezproxy.ttuhsc.edu/contents/clinical-spectrum-of-antineutrophil-cytoplasmic-autoantibodies?search=drug%20that%20cause%20anca&source=search_result&selectedTitle=2~150&usage_type=default&display_rank=2#H20)
 ---
 *Last updated: 9/2025 by Ashley Kinder, D.O.*
