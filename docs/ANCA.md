@@ -99,11 +99,11 @@ flowchart TD
     n6@{ shape: rounded}
     n7@{ shape: rounded}
     n8@{ shape: rounded}
-    style A fill:#E1BEE7
+    style A fill:#E1BEE7,stroke:#000000
     style n1 fill:#BBDEFB,stroke:#000000
     style n2 stroke:#000000,fill:#BBDEFB,text-align:left,white-space:nowrap
     style n3 stroke:#000000,fill:#BBDEFB,text-align:left,white-space:nowrap
-    style n4 fill:#E1BEE7
+    style n4 fill:#E1BEE7,stroke:#000000
     style n5 fill:#BBDEFB,stroke:#000000,text-align:left,white-space:nowrap
     style n6 stroke:#000000,fill:#BBDEFB,text-align:left,white-space:nowrap
     style n7 fill:#BBDEFB,stroke:#000000,text-align:left
@@ -157,11 +157,16 @@ flowchart TD
     n21 --> n22["Remission"] & n23["Resistent/Refractory"]
     n22 --> n24["Maintence Therapy"]
     n23 --> n25["On RRT after 3months of tx and no extrarenal signs/symptoms"]
-    n25 --Yes --> n26["Consider DC of Immunotherapy"]
-    n25 --No --> n27["• Consider increasing glucocorticoid dosing
+    n25 -- Yes --> n26["Consider DC of Immunotherapy"]
+    n25 -- No --> n27["• Consider increasing glucocorticoid dosing
     • Addition of Rituximab or Cyclophosphamide to iniatial therapy
     • Consider PLEX"]
-    n20@{ shape: rect}
+    n24 --> n28["• Rituximab 
+    or
+    • Azathioprine
+    or
+    • MMF or/Methotrexate (only if azathioprine not tolerated and avoid Methotrexate if eGFR &lt; 60)"]
+    n28 --> n29["Continue therapy for any from 18months to 4 years after induction of remission"]
 ```
 
 ## **Sources**
