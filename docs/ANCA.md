@@ -68,6 +68,17 @@
     3. Major replase: life or organ threating disease (examples include diffuse alveolar hemorrhage, subglottic stenosis, GN, or vascultitis threatening vision)
   * Treatment-resistent Disease
     1. Persistence of or appearance of kidney and/or systemic manifestation of vasculitis, while recieving treatment equal in intensity to induction therapy
+  * Factors that increase risk of relapse
+    1. Diagnosis of GPA
+    2. PR3-ANCA
+    3. Lower Serum Cr
+    4. More extensive disease
+    5. Ear, nose, and throat disease
+    6. History of relapse
+    7. ANCA positive at end of induction/Rise in ANCA
+    8. Lower cyclophosphamide exposure
+    9. Immunosuppressive therapy w/drawal
+    10. Glucocorticoid w/drawl
 ## **Evaluation and Treatment**
 ### Evaluation
 ```mermaid
@@ -215,6 +226,12 @@ flowchart TD
 |• 1g at weeks 0 and 2|• 1g after induction of remission at months 4, 8, 12, 16|
   * Maintance dosing of Rituximab can be based on fixed dosing as listed above or upon reappearance of CD19+ Bcells and/or ANCA
     1. In study groups where Rituximab dosed via CD19+ Bcells levels patients required fewer infusions of rituximab
+  * Rituximab preferred for Maintenance therapy
+    1. Relapsing disease
+    2. PR3-ANCA
+    3. Frail older adults
+    4. Glucocorticoid-sparing
+    5. Azathioprine allergy
 ### Cyclophosphamide Dosing
 
 |Oral Cyclophosphamide|IV Cyclophosphamide|
@@ -225,6 +242,8 @@ flowchart TD
 | • 70 y/o: 1mg/kg/day| • 70 y/o: 10mg/kg/day|
 | • Reduce by 0.5mg/kg/day for eGFR < 30| • Reduce by 2.5mg/kg for eGFR < 30|
 
+### Avacopan
+  * 30mg BID as alternative to glucocorticoids in combination w/rituximab or cyclophosphamide 
 
 ### Prednisone Taper
 |Week|Patient's <50kg|Patient's 50-70kg|Patient's >75kg|
@@ -243,6 +262,14 @@ flowchart TD
 |21-22|5mg|5mg|5mg|
 |23-52|5mg|5mg|5mg|
 |>52|Investigator's local practice|Investigator's local practice|Investigator's local practice|
+
+### Azatioprine
+|Reduced Therapy|Extended Therapy|
+|---------------|----------------|
+|1.5-2mg/kg/day at complete remission until 1 year after diagnosis|1.5-2mg/kg/day for 18-24months|
+|Then decrease by 25mg every 3 months|Then Decrease by 1mg/kg/day until 4 years after diagnosis|
+|  | Then taper by 25mg every 3 months|
+|  | Glucocorticoids shuld be continue at 5-7.5mg/day for years then slowly reduced by 1mg every 2 months |
 
 ## **Sources**
   * [KDIGO Guidlines](https://www.kidney-international.org/action/showPdf?pii=S0085-2538%2823%2900744-5)
