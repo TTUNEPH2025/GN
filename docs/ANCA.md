@@ -30,6 +30,12 @@
     2. Crescentic: 50% or more glomerulic have cellular cresents
     3. Sclerotic: 50% or more glomeruli globally sclerotic
     4. Mixed: does not fit any of the above classifications
+### Cresentic GN
+ * Cresents are etiologically and pathogenically a nonspecific response to glomerular capilary rupture that is typically caused by inflammmatory injury
+ * Types: Cellular, fibrocellular, fibrous, and pseudocrescent
+   1. Higher number of fibrous cresents present on biopsy--> less likely to have recovery
+ * Cresentic lesions can be found on wide range of GN with varying percentages of glomerulus
+ * Anti-GBM and ANCA vasculitis are considered "rapidly progressive cresentic gn". Both of which are typically severe and agressive with greater than 50% Crescents found on light microscopy
 ## **Clinical Presentation**
   * Persistent Hematuria and proteinuria seen in 50% of patients after treatment
 ## **Drugs and Diseases Associated with ANCA**
