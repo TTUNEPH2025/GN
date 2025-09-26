@@ -38,19 +38,29 @@
  * Anti-GBM and ANCA vasculitis are considered "rapidly progressive cresentic gn". Both of which are typically severe and agressive with greater than 50% Crescents found on light microscopy
 ## **Clinical Presentation**
   * Signs and Symptoms of Vasculitis
-    1. Upper and Lower respiratory symtpoms (including alveolar hemorrhage)
-    2. Skin (Rashes)
-    3. Eyes
-    4. CNS
+    1. Nasal, sinus, and ear disease: sinus pain, chronic rhinosinusitis, nasal obstruction, purulent/bloody nasal discharge, etc
+    2. Airway and lung involvement: cough, hemoptsys (alveolar hemorrhage), dyspnea, and pleuritic pain
+    4. Skin: purpura, possible focal necrosis and ulceration, etc
+    5. Eyes: conjunctivitis, corneal ulceration, retinal vasculitis, uvitis, etc
+    6. CNS: mononeuropathy, scranial nerve abnormalitis, sensorineural hearing loss, meningeal disease, etc
   * Renal manifestation
     1. Microscopic hematuria w/dysmorphic RBC
     2. Rapidly declining eGFR
     3. Proteinuria
     4. Persistent Hematuria and proteinuria seen in 50% of patients after treatment
 ## **Drugs and Diseases Associated with ANCA**
+  * Drugs
+    1. Hydralazine (frequently high titers of MPO)
+    2. Prophylthiouracil (frequently MPO positive)
+    3. Minocycline
+    4. Cocaine and levamisole (associated with duel positivity with PR3 and MPO)
+  * Subacute bacterial endocarditis and other forms of chronic bacteremia demonstrated positivity for ANCA
+  * ANCA positivity seening 60-80% of UC patients and patient with primary sclerosing cholangitis
 ## **Deffinitions of Treatment Response**
 ## **Treatment**
 ## **Sources**
+  * [signs and symtpoms of ANCA vascultitis](https://www-uptodate-com.ezproxy.ttuhsc.edu/contents/granulomatosis-with-polyangiitis-and-microscopic-polyangiitis-clinical-manifestations-and-diagnosis?search=signs%20and%20symptoms%20of%20anca%20vasculitis&sectionRank=1&usage_type=default&anchor=H1522363621&source=machineLearning&selectedTitle=1~150&display_rank=1#H2879736833)
+  * [Clinical spectrum of ANCA associated Disease](https://www-uptodate-com.ezproxy.ttuhsc.edu/contents/clinical-spectrum-of-antineutrophil-cytoplasmic-autoantibodies?search=drug%20that%20cause%20anca&source=search_result&selectedTitle=2~150&usage_type=default&display_rank=2#H20)
 ---
 *Last updated: 9/2025 by Ashley Kinder, D.O.*
 *Next review: 9/2026*
