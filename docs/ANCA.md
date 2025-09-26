@@ -99,15 +99,14 @@ flowchart TD
     n7@{ shape: rounded}
     n8@{ shape: rounded}
     style A fill:#E1BEE7
-    style n1 fill:#FFFFFF,stroke:#000000
-    style n2 stroke:#000000,fill:#FFFFFF
-    style n3 stroke:#000000,fill:#FFFFFF
+    style n1 fill:#BBDEFB,stroke:#000000
+    style n2 stroke:#000000,fill:#BBDEFB,text-align:left,white-space:nowrap
+    style n3 stroke:#000000,fill:#BBDEFB,text-align:left,white-space:nowrap
     style n4 fill:#E1BEE7
-    style n5 fill:#FFFFFF,stroke:#000000
-    style n6 stroke:#000000,fill:#FFFFFF
-    style n7 fill:#FFFFFF,stroke:#000000
-    style n8 fill:#FFFFFF,stroke:#000000
-
+    style n5 fill:#BBDEFB,stroke:#000000,text-align:left,white-space:nowrap
+    style n6 stroke:#000000,fill:#BBDEFB,text-align:left,white-space:nowrap
+    style n7 fill:#BBDEFB,stroke:#000000,text-align:left
+    style n8 fill:#BBDEFB,stroke:#000000,text-align:left
 ```
 
 ## **Sources**
