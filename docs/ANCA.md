@@ -192,30 +192,30 @@ flowchart TD
     n25@{ shape: rounded}
     n29@{ shape: rounded}
     style A fill:#E1BEE7
-    style n2 fill:#E1BEE7
+    style n2 fill:#E1BEE7,text-align:left,white-space:nowrap
     style n1 fill:#E1BEE7
     style n3 fill:#E1BEE7
     style n4 fill:#E1BEE7
     style n5 fill:#E1BEE7
     style n6 fill:#E1BEE7
     style n7 fill:#E1BEE7
-    style n10 fill:#FFCDD2
-    style n11 fill:#FFCDD2
-    style n12 fill:#FFCDD2
+    style n10 fill:#FFCDD2,text-align:left
+    style n11 fill:#FFCDD2,text-align:left
+    style n12 fill:#FFCDD2,text-align:left
     style n13 fill:#E1BEE7
-    style n16 fill:#FFCDD2
-    style n17 fill:#FFCDD2
-    style n18 fill:#E1BEE7
-    style n19 fill:#E1BEE7
-    style n20 fill:#E1BEE7
+    style n16 fill:#FFCDD2,text-align:left,white-space:nowrap
+    style n17 fill:#FFCDD2,text-align:left,white-space:nowrap
+    style n18 fill:#E1BEE7,text-align:left
+    style n19 fill:#E1BEE7,text-align:left
+    style n20 fill:#E1BEE7,text-align:left
     style n21 fill:#E1BEE7
     style n22 fill:#E1BEE7
     style n23 fill:#E1BEE7
     style n24 fill:#E1BEE7
-    style n25 fill:#E1BEE7
+    style n25 fill:#E1BEE7,text-align:left
     style n26 fill:#FFCDD2
-    style n27 fill:#FFCDD2
-    style n28 fill:#FFCDD2
+    style n27 fill:#FFCDD2,text-align:left,white-space:nowrap
+    style n28 fill:#FFCDD2,text-align:left
     style n29 fill:#E1BEE7
 ```
 ### Rituximab Dosing
