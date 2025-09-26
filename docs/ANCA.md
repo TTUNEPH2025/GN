@@ -68,7 +68,7 @@
     3. Major replase: life or organ threating disease (examples include diffuse alveolar hemorrhage, subglottic stenosis, GN, or vascultitis threatening vision)
   * Treatment-resistent Disease
     1. Persistence of or appearance of kidney and/or systemic manifestation of vasculitis, while recieving treatment equal in intensity to induction therapy
-## **Treatment**
+## **Evaluation and Treatment**
 ### Evaluation
 ```mermaid
 ---
@@ -109,7 +109,7 @@ flowchart TD
     style n7 fill:#BBDEFB,stroke:#000000,text-align:left
     style n8 fill:#BBDEFB,stroke:#000000,text-align:left
 ```
-### Induction
+### Treatment
 ```mermaid
 ---
 config:
@@ -207,6 +207,7 @@ flowchart TD
     style n28 fill:#FFCDD2
     style n29 fill:#E1BEE7
 ```
+### Dosing of Drug therapies
 
 ## **Sources**
   * [KDIGO Guidlines](https://www.kidney-international.org/action/showPdf?pii=S0085-2538%2823%2900744-5)
