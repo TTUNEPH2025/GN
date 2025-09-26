@@ -207,7 +207,42 @@ flowchart TD
     style n28 fill:#FFCDD2
     style n29 fill:#E1BEE7
 ```
-### Dosing of Drug therapies
+### Rituximab Dosing
+|Induction|Maintance|
+|---------|---------|
+|• 375mg/m<sup>2</sup>/week x 4 weeks|• 500mg x2 at complete remission and 500mg at months 6, 12, and 18|
+|or|or|
+|• 1g at weeks 0 and 2|• 1g after induction of remission at months 4, 8, 12, 16|
+  * Maintance dosing of Rituximab can be based on fixed dosing as listed above or upon reappearance of CD19+ Bcells and/or ANCA
+    1. In study groups where Rituximab dosed via CD19+ Bcells levels patients required fewer infusions of rituximab
+### Cyclophosphamide Dosing
+
+|Oral Cyclophosphamide|IV Cyclophosphamide|
+|---------------------|-------------------|
+|• 2mg/kg/day for 3months|• 15mg/kg at weeks: 0, 2, 4, 7, 10, 13 (16, 19, 21, 24 if required)|
+|<ins>Reduction for Age and function</ins>|<ins>Reduction for Age and function</ins>|
+| • 60 y/o: 1.5mg/kg/day|• 60 y/o: 12.5mg/kg/day|
+| • 70 y/o: 1mg/kg/day| • 70 y/o: 10mg/kg/day|
+| • Reduce by 0.5mg/kg/day for eGFR < 30| • Reduce by 2.5mg/kg for eGFR < 30|
+
+
+### Prednisone Taper
+|Week|Patient's <50kg|Patient's 50-70kg|Patient's >75kg|
+|----|-----|-------|-----|
+|1   |50mg |60mg   |75mg |
+|2   |25mg |30mg   |40mg |
+|3-4|20mg|25mg|30mg|
+|5-6|15mg|20mg|25mg|
+|7-8|12.5mg|15mg|20mg|
+|9-10|10mg|12.5mg|15mg|
+|11-12|7.5mg|10mg|12.5mg|
+|13-14|5mg|7.5mg|10mg|
+|15-16|5mg|5mg|7.5mg|
+|17-18|5mg|5mg|7.5mg|
+|19-20|5mg|5mg|5mg|
+|21-22|5mg|5mg|5mg|
+|23-52|5mg|5mg|5mg|
+|>52|Investigator's local practice|Investigator's local practice|Investigator's local practice|
 
 ## **Sources**
   * [KDIGO Guidlines](https://www.kidney-international.org/action/showPdf?pii=S0085-2538%2823%2900744-5)
