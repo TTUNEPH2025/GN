@@ -37,7 +37,16 @@
  * Cresentic lesions can be found on wide range of GN with varying percentages of glomerulus
  * Anti-GBM and ANCA vasculitis are considered "rapidly progressive cresentic gn". Both of which are typically severe and agressive with greater than 50% Crescents found on light microscopy
 ## **Clinical Presentation**
-  * Persistent Hematuria and proteinuria seen in 50% of patients after treatment
+  * Signs and Symptoms of Vasculitis
+    1. Upper and Lower respiratory symtpoms (including alveolar hemorrhage)
+    2. Skin (Rashes)
+    3. Eyes
+    4. CNS
+  * Renal manifestation
+    1. Microscopic hematuria w/dysmorphic RBC
+    2. Rapidly declining eGFR
+    3. Proteinuria
+    4. Persistent Hematuria and proteinuria seen in 50% of patients after treatment
 ## **Drugs and Diseases Associated with ANCA**
 ## **Deffinitions of Treatment Response**
 ## **Treatment**
