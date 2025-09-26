@@ -98,6 +98,16 @@ flowchart TD
     n6@{ shape: rounded}
     n7@{ shape: rounded}
     n8@{ shape: rounded}
+    style A fill:#E1BEE7
+    style n1 fill:#FFFFFF,stroke:#000000
+    style n2 stroke:#000000,fill:#FFFFFF
+    style n3 stroke:#000000,fill:#FFFFFF
+    style n4 fill:#E1BEE7
+    style n5 fill:#FFFFFF,stroke:#000000
+    style n6 stroke:#000000,fill:#FFFFFF
+    style n7 fill:#FFFFFF,stroke:#000000
+    style n8 fill:#FFFFFF,stroke:#000000
+
 ```
 
 ## **Sources**
