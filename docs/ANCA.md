@@ -224,6 +224,8 @@ flowchart TD
 |• 375mg/m<sup>2</sup>/week x 4 weeks|• 500mg x2 at complete remission and 500mg at months 6, 12, and 18|
 |or|or|
 |• 1g at weeks 0 and 2|• 1g after induction of remission at months 4, 8, 12, 16|
+
+  
   * Maintance dosing of Rituximab can be based on fixed dosing as listed above or upon reappearance of CD19+ Bcells and/or ANCA
     1. In study groups where Rituximab dosed via CD19+ Bcells levels patients required fewer infusions of rituximab
   * Rituximab preferred for Maintenance therapy
