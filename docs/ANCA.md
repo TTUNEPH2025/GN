@@ -226,7 +226,6 @@ flowchart TD
 |• 1g at weeks 0 and 2|• 1g after induction of remission at months 4, 8, 12, 16|
 <br/>
 
----
   
   * Maintance dosing of Rituximab can be based on fixed dosing as listed above or upon reappearance of CD19+ Bcells and/or ANCA
     1. In study groups where Rituximab dosed via CD19+ Bcells levels patients required fewer infusions of rituximab
