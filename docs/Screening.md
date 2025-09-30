@@ -35,6 +35,8 @@
 * Sparsentan
     1. REMS: Requires monthly liver testing for first 12months of use and then every 3 months therafter
     2. Is a DEARA --> not recommended to take with ACEi/ARB
+ * Avacopan
+    1. Can cause hepatic imparments, not recommed in patient with active, untreated, and/or uncotrolled Hep B, Hep C, or cirrhosis
 ## **Sources**
  * [KDIGO GN Guidlines](https://kdigo.org/guidelines/gd/)
  * [USPSTF](https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/osteoporosis-screening#fullrecommendationstart)
