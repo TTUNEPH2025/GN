@@ -11,6 +11,7 @@
  * Aprocitentan
  * Nefecon pregnancy not advised (budesonide Pregnancy class C)
  * SGLT2i (avoid taking while breastfeeding as well)
+ * Avacopan (some adverse events in animal reproduction studies, unknown in humans; also unknown if safe with breastfeeding)
 ### Cyclophosphamide specific
  * Female patients should use effective contraception while receiving cyclophosphamide. 
  * Male patients with a partner who could become pregnant should use a condom during and for at least 12wks after cyclophosphamide treatment discontinued
@@ -57,6 +58,8 @@
  * Rituximab
     1. Increased risk of bacteral infection
     2. Leukopenia or/pancytopenia
+  * Avacopan
+    1. Can cause hepatic imparments, not recommed in patient with active, untreated, and/or uncotrolled Hep B, Hep C, or cirrhosis
 ## **Sources**
  * [KDIGO GN Guidlines](https://kdigo.org/guidelines/gd/)
  * [KDIGO IgAN Guidlines 2025](https://kdigo.org/wp-content/uploads/2024/08/KDIGO-2025-IgAN-IgAV-Guideline.pdf)
@@ -64,3 +67,4 @@
  * [Uptodate Rituximab](https://www-uptodate-com.ezproxy.ttuhsc.edu/contents/rituximab-including-biosimilars-drug-information?search=rituximab&selectedTitle=1~150&usage_type=panel&display_rank=1&kp_tab=drug_general&source=panel_search_result#F53464448) 
   * [Filspar](https://filspari.com/igan/?gad_source=1&gad_campaignid=22843261910&gbraid=0AAAAApUXvhWXhW9XBRteosvkf8vWuiK7d&gclid=Cj0KCQjw267GBhCSARIsAOjVJ4F-AB6TSHTh2J4GsE0V-ePMaSM3pyllO6sWlHIuY68_M_xCxw6tXFAaAoMWEALw_wcB)
   * [Uptodate: SGLT2i in heartfailure during pregnancy](https://www-uptodate-com.ezproxy.ttuhsc.edu/contents/management-of-heart-failure-during-pregnancy?search=sglt2%20inhibitors%20in%20pregnancy&topicRef=121086&source=see_link)
+  * [Avacopan safety information](https://www.tavneos.com/?gclsrc=aw.ds&gad_source=1&gad_campaignid=22929563953&gbraid=0AAAAAoPeKq6yiAa-yHJl9HTybFMJc4DYX&gclid=CjwKCAjw_-3GBhAYEiwAjh9fULN2oDHLvCOUXrqb3gJUT7wfb5XW38G3Wloc5P2Bm6-ffy7bsNzyhBoCIQcQAvD_BwE)
