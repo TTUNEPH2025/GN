@@ -38,6 +38,7 @@
  * Avacopan
     1. Can cause hepatic imparments, not recommed in patient with active, untreated, and/or uncotrolled Hep B, Hep C, or cirrhosis
 ## **Sources**
- * [KDIGO GN Guidlines](https://kdigo.org/guidelines/gd/)
- * [USPSTF](https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/osteoporosis-screening#fullrecommendationstart)
- * [American Cancer Society](https://www.cancer.org/cancer/screening/american-cancer-society-guidelines-for-the-early-detection-of-cancer.html) 
+  * [KDIGO GN Guidlines](https://kdigo.org/guidelines/gd/)
+  * [USPSTF](https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/osteoporosis-screening#fullrecommendationstart)
+  * [American Cancer Society](https://www.cancer.org/cancer/screening/american-cancer-society-guidelines-for-the-early-detection-of-cancer.html)
+  * [Avacopan safety information](https://www.tavneos.com/?gclsrc=aw.ds&gad_source=1&gad_campaignid=22929563953&gbraid=0AAAAAoPeKq6yiAa-yHJl9HTybFMJc4DYX&gclid=CjwKCAjw_-3GBhAYEiwAjh9fULN2oDHLvCOUXrqb3gJUT7wfb5XW38G3Wloc5P2Bm6-ffy7bsNzyhBoCIQcQAvD_BwE)
