@@ -64,9 +64,10 @@
 ## **Deffinitions of Treatment Response**
 |Criteria|Definition|
 |--------|----------|
-|Complete Response| • Reduction in proteinuria < 0.5g/g measured as PCR from 24hr urine
-• Stabilization or improvement in kidney function (± 10-15% of baseline)
-• W/in 6-12mo of starting therapy, but could take more than 12mo|
+|Complete Response| • Reduction in proteinuria < 0.5g/g measured as PCR from 24hr urine; • Stabilization or improvement in kidney function (± 10-15% of baseline);• W/in 6-12mo of starting therapy, but could take more than 12mo|
+|Primary Efficacy Renal Response| • PCR ≤ 0.7 g/g; • eGFR that was no worse than 20% below the pre-flare value or ≥ 60mL/min per 1.73m²; • No use of rescue therapy for treatment failure|
+|Partial response| • Reduction in progeinuria by at least 50% and < 3g/g measured as teh PCR from 24hr urine; • Stabilization or improvement in kidney function (± 10-15% of baseline); • W/in 6-12mo of starting therapy|
+|No Kidney response| Failure to achieve a partial or complete response w/in 6-12mo of starting therapy|
 ## **Treatment**
 ## **Sources**
   * [KDIGO 2024 Lupus Guidelines](https://www.kidney-international.org/action/showPdf?pii=S0085-2538%2823%2900627-0)
