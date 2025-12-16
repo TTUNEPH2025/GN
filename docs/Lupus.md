@@ -50,6 +50,8 @@
 ## **Sources**
   * [KDIGO 2024 Lupus Guidelines](https://www.kidney-international.org/action/showPdf?pii=S0085-2538%2823%2900627-0)
   * [Risk of CV events and mortality in LN](https://pubmed.ncbi.nlm.nih.gov/28053276/)
+  * [UPToDate Drug induced lupus](https://www-uptodate-com.ezproxy.ttuhsc.edu/contents/drug-induced-lupus?search=drug%20indued%20lupus&source=search_result&selectedTitle=4~150&usage_type=default&display_rank=4#H16)
+  * [UpToDate diagnosis of SLE](https://www-uptodate-com.ezproxy.ttuhsc.edu/contents/systemic-lupus-erythematosus-in-adults-clinical-manifestations-and-diagnosis?search=symptoms%20of%20lupus&source=search_result&selectedTitle=1~150&usage_type=default&display_rank=1#H914180)
 ---
-*Last updated: 9/2025 by Ashley Kinder, D.O.*
-*Next review: 9/2026*
+*Last updated: 12/2025 by Ashley Kinder, D.O.*
+*Next review: 12/2026*
