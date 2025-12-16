@@ -16,6 +16,21 @@
   * Early decrease i nprotenuria predicts improved kidney function outcomes
   * Childhood onset of SLE is a ssociated wtih increased risk of LN and more severe disease
 ## **Pathophysiology**
+  * Pathogenesis
+    1. Abnormal B lymphocyte hyperactivity --> mounting an immune response to dying cells
+       - Any environment where there is delayed clearance of dying cells (e,g. infections, hormonal responces, drughs) along with genetic mutations that may account for predisposition to hyperactive immune responce may be associated with SLE
+    3. Immunity
+       - Inate: interferon regulation and production, Nucleic acid sensitivity, Increased TLR (toll-like receptors) signaling (activate immune responce and increase cell recruitment)
+       - Adaptive: HLA-DR2, HLA-DR3, Bcell and Tcell activation and signialing
+       - Immune Complex: Iincreased phagocytosis, cell adhesion, and compliment activation forming immunce complexes
+       - Insitue Immune complex formation or pre-formed immune complex formation causing injury
+  * Classes
+    1. Class I and II: gnerally normal kidney function. May have low grade protienuria
+    2. Class III
+       - 
+    4. Class IV
+    5. Class V
+    6. Class VI
   * TMA
     1. Causes most revelant to LN: TTP, Antiphospholipid, and compliment medicated diesease
     2. can occure due to shiga-toxin-HUS, Infections, drugs, or malignancies
