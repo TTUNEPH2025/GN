@@ -1,5 +1,6 @@
 # **Lupus Nephritis**
 ## **Overview**
+  * 6 Classes
 ## **Pathophysiology**
 ## **Clinical Presentation**
 ## **Drugs and Diseases Associated with IgAN/IgAV**
