@@ -12,14 +12,19 @@
   * Females > Males (90% of LN is females)
   * LN typically occurs more often in Black, Asian, and Hispanic Ethnicities
   * Up to 30% of LN patients progres to kidney failure w/in 15 years of diagnosis
-  * Patient's SLE are at higher risk of cardiovascular events and have an increased mortality when diagnosised with LN
+  * Patient's SLE are at higher risk of cardiovascular events and mortality when diagnosised with LN
+  * Early decrease i nprotenuria predicts improved kidney function outcomes
+  * Childhood onset of SLE is a ssociated wtih increased risk of LN and more severe disease
 ## **Pathophysiology**
+  * TMA
+    1. Causes most revelant to LN: TTP, Antiphospholipid, and compliment medicated diesease
+    2. can occure due to shiga-toxin-HUS, Infections, drugs, or malignancies
 ## **Clinical Presentation**
 ## **Drugs and Diseases Associated with IgAN/IgAV**
 ## **Deffinitions of Treatment Response**
 ## **Treatment**
 ## **Sources**
-  * https://pubmed.ncbi.nlm.nih.gov/28053276/
+  * [Risk of CV events and mortality in LN](https://pubmed.ncbi.nlm.nih.gov/28053276/)
 ---
 *Last updated: 9/2025 by Ashley Kinder, D.O.*
 *Next review: 9/2026*
