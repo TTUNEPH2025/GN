@@ -6,7 +6,7 @@
       3. Focal LN (< 50% of glomeruli)
       4. Diffuse LN (≥ 50% of glomeruli)
       5. Membranouse Lupus
-      6. Advanced Sclerosing LN (≥ 90% global sclerosied glomeruli)
+      6. Advanced Sclerosing LN (≥ 90% global sclerosed glomeruli)
   * Can have mixed classes of LN
   * LN rare disease (20-60% of SLE cases)
   * Females > Males (90% of LN is females)
@@ -27,10 +27,19 @@
   * Classes
     1. Class I and II: gnerally normal kidney function. May have low grade protienuria
     2. Class III
-       - 
+       - Active or inactive focal, segmental and/or global endocapillary and/or extracapillary GN involving < 50% glomeruli
+       - Typically w/focal subendothelial deposites w/or w/out mesangial alteration
     4. Class IV
-    5. Class V
-    6. Class VI
+       - Active or inactive focal, segmental and/or global endocapillary and/or extracapillary GN involving ≥ 50% glomeruli
+       - Typically w/focal subendothelial deposites w/or w/out mesangial alteration
+    6. Class V
+       - Global or segmental subepithelial immune deposites or their morphologic sequela w/or w/out mesangial alteration
+       - May have advanced sclerosis
+       - Can be added to class III or IV when subepithelial deposites involve at least 50% of glomerular capillary surface area in at least 50% of glomeruli
+       - Patients with immunofluorescent staining positive for Ext 1/2 typically have overall better response to treatment
+    8. Class VI
+       - 90% or more of global sclerosed glomeruli
+       - Classification classification for advanced disease, not likely to benefit from increased immune supression
   * TMA
     1. Causes most revelant to LN: TTP, Antiphospholipid, and compliment medicated diesease
     2. can occure due to shiga-toxin-HUS, Infections, drugs, or malignancies
@@ -39,6 +48,7 @@
 ## **Deffinitions of Treatment Response**
 ## **Treatment**
 ## **Sources**
+  * [KDIGO 2024 Lupus Guidelines](https://www.kidney-international.org/action/showPdf?pii=S0085-2538%2823%2900627-0)
   * [Risk of CV events and mortality in LN](https://pubmed.ncbi.nlm.nih.gov/28053276/)
 ---
 *Last updated: 9/2025 by Ashley Kinder, D.O.*
