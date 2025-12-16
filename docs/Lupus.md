@@ -44,6 +44,14 @@
     1. Causes most revelant to LN: TTP, Antiphospholipid, and compliment medicated diesease
     2. can occure due to shiga-toxin-HUS, Infections, drugs, or malignancies
 ## **Clinical Presentation**
+  * Range of symptoms of SLE (including but not limited to) 
+      - fatigue, fever, weight loss, Arthritis/arthralgia, butterfly rash, photosensitivity, alpecia, raynaud, pleurisy, pericarditis, lymphadenopathy, psychosis, etc.
+      - LN symptoms: edema, hypoalbumiinemia, proteinuria, hyperlipidemia, frothy urine, hematuria
+  * Patient's with lupus should be screen yearly for proteinura: progeinuria of 500mg/dL or great should prompt further infestigation  
+  * Labs:
+      - Auto-ab: Anti-dsDNA, Anti-Smith, anti-U1 ribonucleoprotein, anti-ro/SSA and anti-La/SSB, Anti-histone, anti-phospholipid
+      - General: CBC, CMP, CK, UA, SPEP, ANA, ESR/CRP, Compolement levels
+  * Drug induced lupus: anti-dsDNA or Anti-smith positive very rare, Anti-histone very commenly positive
 ## **Drugs and Diseases Associated with IgAN/IgAV**
 ## **Deffinitions of Treatment Response**
 ## **Treatment**
