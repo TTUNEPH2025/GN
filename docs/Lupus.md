@@ -46,13 +46,21 @@
 ## **Clinical Presentation**
   * Range of symptoms of SLE (including but not limited to) 
       - fatigue, fever, weight loss, Arthritis/arthralgia, butterfly rash, photosensitivity, alpecia, raynaud, pleurisy, pericarditis, lymphadenopathy, psychosis, etc.
-      - LN symptoms: edema, hypoalbumiinemia, proteinuria, hyperlipidemia, frothy urine, hematuria
+      - LN symptoms: edema, hypoalbuminemia, proteinuria, hyperlipidemia, frothy urine, hematuria
   * Patient's with lupus should be screen yearly for proteinura: progeinuria of 500mg/dL or great should prompt further infestigation  
   * Labs:
-      - Auto-ab: Anti-dsDNA, Anti-Smith, anti-U1 ribonucleoprotein, anti-ro/SSA and anti-La/SSB, Anti-histone, anti-phospholipid
+      - Auto-ab: Anti-dsDNA, Anti-Smith, Anti-U1 ribonucleoprotein, anti-ro/SSA and anti-La/SSB, Anti-histone, anti-phospholipid
       - General: CBC, CMP, CK, UA, SPEP, ANA, ESR/CRP, Compolement levels
   * Drug induced lupus: anti-dsDNA or Anti-smith positive very rare, Anti-histone very commenly positive
-## **Drugs and Diseases Associated with IgAN/IgAV**
+  * In EULAR (European Alliance of Association for Rheumatology)/ACR (American College of Rheumatology) Criteria for diagnosis of lupus, Renal biopsy demonstrating class III or IV is susificiant on it's own to diagnosis SLE with no other clinical or immunologic criteria required. 
+## **Drugs and Diseases Associated with Lupus**
+  * Kidney disease in drug-induced lupus is rare
+  * Some drugs commenly associated with drug-induced lupus are as follows: 
+    - Minocycline
+    - Hydralazine
+    - Isoniazid
+    - Procainamide
+    - TNF therapies
 ## **Deffinitions of Treatment Response**
 ## **Treatment**
 ## **Sources**
