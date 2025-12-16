@@ -20,26 +20,26 @@
     1. Abnormal B lymphocyte hyperactivity --> mounting an immune response to dying cells
           - Any environment where there is delayed clearance of dying cells (e,g. infections, hormonal responces, drughs) along with genetic mutations that may account for predisposition to hyperactive immune responce may be associated with SLE
     3. Immunity
-       - Inate: interferon regulation and production, Nucleic acid sensitivity, Increased TLR (toll-like receptors) signaling (activate immune responce and increase cell recruitment)
-       - Adaptive: HLA-DR2, HLA-DR3, Bcell and Tcell activation and signialing
-       - Immune Complex: Iincreased phagocytosis, cell adhesion, and compliment activation forming immunce complexes
-       - Insitue Immune complex formation or pre-formed immune complex formation causing injury
+         - Inate: interferon regulation and production, Nucleic acid sensitivity, Increased TLR (toll-like receptors) signaling (activate immune responce and increase cell recruitment)
+         - Adaptive: HLA-DR2, HLA-DR3, Bcell and Tcell activation and signialing
+         - Immune Complex: Iincreased phagocytosis, cell adhesion, and compliment activation forming immunce complexes
+         - Insitue Immune complex formation or pre-formed immune complex formation causing injury
   * Classes
     1. Class I and II: gnerally normal kidney function. May have low grade protienuria
     2. Class III
-       - Active or inactive focal, segmental and/or global endocapillary and/or extracapillary GN involving < 50% glomeruli
-       - Typically w/focal subendothelial deposites w/or w/out mesangial alteration
+         - Active or inactive focal, segmental and/or global endocapillary and/or extracapillary GN involving < 50% glomeruli
+         - Typically w/focal subendothelial deposites w/or w/out mesangial alteration
     4. Class IV
-       - Active or inactive focal, segmental and/or global endocapillary and/or extracapillary GN involving ≥ 50% glomeruli
-       - Typically w/focal subendothelial deposites w/or w/out mesangial alteration
+         - Active or inactive focal, segmental and/or global endocapillary and/or extracapillary GN involving ≥ 50% glomeruli
+         - Typically w/focal subendothelial deposites w/or w/out mesangial alteration
     6. Class V
-       - Global or segmental subepithelial immune deposites or their morphologic sequela w/or w/out mesangial alteration
-       - May have advanced sclerosis
-       - Can be added to class III or IV when subepithelial deposites involve at least 50% of glomerular capillary surface area in at least 50% of glomeruli
-       - Patients with immunofluorescent staining positive for Ext 1/2 typically have overall better response to treatment
+         - Global or segmental subepithelial immune deposites or their morphologic sequela w/or w/out mesangial alteration
+         - May have advanced sclerosis
+         - Can be added to class III or IV when subepithelial deposites involve at least 50% of glomerular capillary surface area in at least 50% of glomeruli
+         - Patients with immunofluorescent staining positive for Ext 1/2 typically have overall better response to treatment
     8. Class VI
-       - 90% or more of global sclerosed glomeruli
-       - Classification classification for advanced disease, not likely to benefit from increased immune supression
+         - 90% or more of global sclerosed glomeruli
+         - Classification classification for advanced disease, not likely to benefit from increased immune supression
   * TMA
     1. Causes most revelant to LN: TTP, Antiphospholipid, and compliment medicated diesease
     2. can occure due to shiga-toxin-HUS, Infections, drugs, or malignancies
