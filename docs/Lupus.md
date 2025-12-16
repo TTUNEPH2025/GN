@@ -18,7 +18,7 @@
 ## **Pathophysiology**
   * Pathogenesis
     1. Abnormal B lymphocyte hyperactivity --> mounting an immune response to dying cells
-       - Any environment where there is delayed clearance of dying cells (e,g. infections, hormonal responces, drughs) along with genetic mutations that may account for predisposition to hyperactive immune responce may be associated with SLE
+          - Any environment where there is delayed clearance of dying cells (e,g. infections, hormonal responces, drughs) along with genetic mutations that may account for predisposition to hyperactive immune responce may be associated with SLE
     3. Immunity
        - Inate: interferon regulation and production, Nucleic acid sensitivity, Increased TLR (toll-like receptors) signaling (activate immune responce and increase cell recruitment)
        - Adaptive: HLA-DR2, HLA-DR3, Bcell and Tcell activation and signialing
