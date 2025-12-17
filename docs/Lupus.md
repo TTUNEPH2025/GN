@@ -69,7 +69,10 @@
 |Partial response| • Reduction in progeinuria by at least 50% and < 3g/g measured as teh PCR from 24hr urine; • Stabilization or improvement in kidney function (± 10-15% of baseline); • W/in 6-12mo of starting therapy|
 |No Kidney response| Failure to achieve a partial or complete response w/in 6-12mo of starting therapy|
 
-
+  * Goals of tx
+      - 25% reduction of protienuria at 3mo
+      - 50% reduction of protienuria at 6mo
+      - UPCR below 0.5-0.7mg/mg at 12mo
 
 ## **Treatment**
 ## **Sources**
