@@ -297,6 +297,23 @@ flowchart TB
     style n12 fill:#C8E6C9
     style n13 fill:#C8E6C9
 ```
+### Glucocorticoid Regimens
+|  |High-Dose Scheme|Moderate-Dose Scheme|Reduced-Dose Scheme|
+|----|-----|-------|-----|
+|Methylprednisolone IV Pulse Dose|Nil or 0.25-0.5g/d up to 3 days|0.25-0.5g/d up to 3 days|0.25-0.5g/d up to 3 days|
+|Oral Prednisone| |   | |
+|wk 0-2|0.8-1 mg/kg (max 80mg)| 0.6-0.7mg/kg (max 50mg)|0.5-0.6mg/kg (max 40mg)|
+|wk 3-4|0.6-0.7mg/kg|0.5-0.6mg/kg|0.3-0.4mg/kg|
+|wk5-6|30mg|20mg|15mg|
+|wk7-8|25mg|15mg|10mg|
+|wk 9-10|20mg|12.5mg|7.5mg|
+|wk 11-12|15mg|10mg|5mg|
+|wk 13-14|12.5mg|7.5mg|2.5mg|
+|wk 15-16|10mg|7.5mg|2.5mg|
+|wk 17-18|7.5mg|5mg|2.5mg|
+|wk 19-20|7.5mg|5mg|2.5mg|
+|wk 21-24|5mg|<5mg|2.5mg|
+|wk >25|<5mg|<5mg|<2.5mg|
 ### A word on Pregnancy in LN patient
   * Medications safe in pregnancy: Hydroxychloroquine, Steroids, Azathioprine, Tacrolimus, and cyclosporine
   * Not enough data on Voclosporin or Belimumab in pregnancy, recommend to avoid at this time
