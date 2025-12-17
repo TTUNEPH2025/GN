@@ -15,7 +15,7 @@
     2. [Anti-GBM](Anti-GBM.md)
     3. [ANCA associated GN](ANCA.md)
     4. [IgAN](IGAN.md)
-    5. Lupus Nephritis 
+    5. [Lupus Nephritis](Lupus.md)
     6. [MPGN (Membranoproliferative GN)/C3GN](MPGN-C3GN.md)
 ### **Secondary**
 * [FSGS (Focal Sclerosing Glomerulonephritis)](FSGS.md)
