@@ -98,7 +98,7 @@ flowchart TB
     • Optimal duation of therapy unknown"]
     n6 --> n7["Relapse"]
     n7 --> n8["Condisder Steroid therapy + MMF or Azathioprine, CNI"]
-    n4 --> n9["Nephrotic range prteinuria"]
+    n4 --> n9["Nephrotic Range prteinuria"]
     n9 --> n5
 
     n4@{ shape: rounded}
@@ -107,13 +107,13 @@ flowchart TB
     style A fill:#C8E6C9
     style n1 fill:#C8E6C9
     style n2 fill:#C8E6C9
-    style n3 fill:#C8E6C9
-    style n4 fill:#FFF9C4
-    style n5 fill:#FFF9C4
-    style n6 fill:#C8E6C9
+    style n3 fill:#C8E6C9,white-space:nowrap
+    style n4 fill:#FFF9C4,text-align:left,white-space:nowrap
+    style n5 fill:#FFF9C4,text-align:left,white-space:nowrap
+    style n6 fill:#C8E6C9,text-align:left,white-space:nowrap
     style n7 fill:#C8E6C9
-    style n8 fill:#FFF9C4
-    style n9 fill:#C8E6C9
+    style n8 fill:#FFF9C4,text-align:left,white-space:nowrap
+    style n9 fill:#C8E6C9,white-space:nowrap
 ```
 ### Class III and IV ± V
 ### TMA and LN
