@@ -80,6 +80,41 @@
   * Anti-Proteinuria: RASS blockade (ACE/ARB) and SGLT2i
   * Life style changes: smoking cessation, exercise, body weight management, ect.
 ### Class I and II LN
+```mermaid
+---
+config:
+  theme: redux
+  layout: dagre
+---
+flowchart TB
+    A(["Class I or II on Bx"]) --> n1["Evaluate level of Proteinuria"]
+    n1 --> n2["Low level Proteinuria"] & n3["Nephrotic Range Proteinuria"]
+    n2 --> n4["• Lupus treatment guided by extra-renal symptoms
+    • Hydroxychloroquine, RAAS blockade, SGLT2
+    • Monitor proteinuria"]
+    n3 --> n5["• Tx as MCD
+    • Hydroxychloroquine, RAAS blockade, SGLT2"]
+    n5 --> n6["• Remission typically seen in 4wk
+    • Optimal duation of therapy unknown"]
+    n6 --> n7["Relapse"]
+    n7 --> n8["Condisder Steroid therapy + MMF or Azathioprine, CNI"]
+    n4 --> n9["Nephrotic range prteinuria"]
+    n9 --> n5
+
+    n4@{ shape: rounded}
+    n5@{ shape: rounded}
+    n8@{ shape: rounded}
+    style A fill:#C8E6C9
+    style n1 fill:#C8E6C9
+    style n2 fill:#C8E6C9
+    style n3 fill:#C8E6C9
+    style n4 fill:#FFF9C4
+    style n5 fill:#FFF9C4
+    style n6 fill:#C8E6C9
+    style n7 fill:#C8E6C9
+    style n8 fill:#FFF9C4
+    style n9 fill:#C8E6C9
+```
 ### Class III and IV ± V
 ### TMA and LN
 ### Class V
