@@ -136,7 +136,7 @@ flowchart TB
     • Tacrolimus goal trough 5.5ng/mL 
     • Cyclosporine when volcosorin or tacrolimus no available
     • For duration of 3 years"]
-    n10 --> n14["•For at least 6months
+    n10 --> n14["• For at least 6months
     • MMF 1-1.5g BID or Mycophenolic Acid 720-1080mg BID"]
     n11 --> n15["• tx for up to 6mo
     • IV 500mg q2wk for 6mo or 0.5-1g/m² for 6mo
