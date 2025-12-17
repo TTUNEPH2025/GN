@@ -117,6 +117,81 @@ flowchart TB
     click n5 "https://ttuneph2025.github.io/GN/MCD/"
 ```
 ### Class III and IV ± V
+```mermaid
+---
+config:
+  theme: redux
+---
+flowchart TB
+    A(["Class III/IV ± V on Bx"]) --> n1["TMA present on Bx?"]
+    n1 -- Positive --> n2["See treatment plan below"]
+    n1 -- Negative --> n3["Assess Chronicity"]
+    n3 --> n4["Active Disease"] & n5["Chronic Disease w/out Activity"]
+    n4 --> n6["Pulse dose steroids + one of the following"]
+    n5 --> n7["• Supportive therapy 
+    • Hydroxychloroquine, RAAS blockade, SGLT2
+    • Monitor proteinuriaUntitled Node"] & n8["If Class V present on Bx, treat as Class V"]
+    n6 --> n9["CNI + MPAA"] & n10["MPA"] & n11["Cyclosphosphamide"] & n12["Belimumab + MPAA or/reduced-dose cyclophosphamide"]
+    n9 --> n13["• Voclosporin 23.7mg BID and MPAA in pt w/eGFR &gt;45
+    • Tacrolimus goal trough 5.5ng/mL 
+    • Cyclosporine when volcosorin or tacrolimus no available
+    • For duration of 3 years"]
+    n10 --> n14["•For at least 6months
+    • MMF 1-1.5g BID or Mycophenolic Acid 720-1080mg BID"]
+    n11 --> n15["• tx for up to 6mo
+    • IV 500mg q2wk for 6mo or 0.5-1g/m² for 6mo
+    • PO 1-1.5mg/kg/d for 3mo (max 150mg/d) for 2-6mo"]
+    n12 --> n16["• Belimumab: 10mg/kg q2wk for 3 doses, then q4wks
+    • MPAA: MMF or MPA
+    • Cyclophosphamide 500mg q2wk for 3mo"]
+    n13 --> n17["• Preferred in patient w/nephrotic syndrome and relatively preserved renal function
+    • If pt can not tolerate full dose of MPAA or unfit for cyclophosphamide"]
+    n16 --> n18@{ label: "• May be preferred in patient's with repeat flairs or high risk kidney failure\n    • Not as effective in patients with severely elevated proteniura<br/>• Belimumab duration up to 2.5 years" }
+    n17 --> n19["Assess Response to Therapy"]
+    n14 --> n19
+    n15 --> n19
+    n18 --> n19
+    n19 -- Adequate --> n20["Complete Therapy (≥36mo)"]
+    n19 -- Inadequate --> n21["Consider Rituximab, Ocrelizumab, abatacep, enrol in trials"]
+    n20 --> n22["Transition to Maintance Therapy"]
+    n22 --> n23["• Taper steroids quickly and may be able to DC after > 12mo
+    • Hydroxychloroquine and MPAA
+    • CNI and Belimumab may be used as maintance therapy"]
+    n9@{ shape: rounded}
+    n10@{ shape: rounded}
+    n11@{ shape: rounded}
+    n12@{ shape: rounded}
+    n13@{ shape: rounded}
+    n14@{ shape: rounded}
+    n15@{ shape: rounded}
+    n16@{ shape: rounded}
+    n21@{ shape: rounded}
+    n23@{ shape: rounded}
+    style A fill:#C8E6C9
+    style n1 fill:#C8E6C9
+    style n2 fill:#C8E6C9
+    style n3 fill:#C8E6C9
+    style n4 fill:#C8E6C9
+    style n5 fill:#C8E6C9
+    style n6 fill:#C8E6C9
+    style n7 fill:#C8E6C9
+    style n8 fill:#C8E6C9
+    style n9 fill:#FFF9C4
+    style n10 fill:#FFF9C4
+    style n11 fill:#FFF9C4
+    style n12 fill:#FFF9C4
+    style n13 fill:#FFF9C4
+    style n14 fill:#FFF9C4
+    style n15 fill:#FFF9C4
+    style n16 fill:#FFF9C4
+    style n17 fill:#C8E6C9
+    style n18 fill:#C8E6C9
+    style n19 fill:#C8E6C9
+    style n20 fill:#C8E6C9
+    style n21 fill:#FFF9C4
+    style n22 fill:#C8E6C9
+    style n23 fill:#FFF9C4
+```
 ### TMA and LN
 ### Class V
 ## **Sources**
