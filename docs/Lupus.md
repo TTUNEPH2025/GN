@@ -173,7 +173,7 @@ flowchart TB
     style n3 fill:#C8E6C9
     style n4 fill:#C8E6C9
     style n5 fill:#C8E6C9
-    style n6 fill:#C8E6C9,text-align:left,white-space:nowrap
+    style n6 fill:#C8E6C9,white-space:nowrap
     style n7 fill:#C8E6C9,text-align:left,white-space:nowrap
     style n8 fill:#C8E6C9,text-align:left,white-space:nowrap
     style n9 fill:#FFF9C4,text-align:left,white-space:nowrap
@@ -184,7 +184,7 @@ flowchart TB
     style n14 fill:#FFF9C4,text-align:left,white-space:nowrap
     style n15 fill:#FFF9C4,text-align:left,white-space:nowrap
     style n16 fill:#FFF9C4,text-align:left,white-space:nowrap
-    style n17 fill:#C8E6C9
+    style n17 fill:#C8E6C9,text-align:left
     style n18 fill:#C8E6C9
     style n19 fill:#C8E6C9
     style n20 fill:#C8E6C9
