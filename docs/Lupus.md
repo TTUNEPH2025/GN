@@ -92,7 +92,7 @@ flowchart TB
     n2 --> n4["• Lupus treatment guided by extra-renal symptoms
     • Hydroxychloroquine, RAAS blockade, SGLT2
     • Monitor proteinuria"]
-    n3 --> n5["• Tx as [MCD](MCD.md)
+    n3 --> n5["• Tx as MCD 
     • Hydroxychloroquine, RAAS blockade, SGLT2"]
     n5 --> n6["• Remission typically seen in 4wk
     • Optimal duation of therapy unknown"]
@@ -114,6 +114,7 @@ flowchart TB
     style n7 fill:#C8E6C9
     style n8 fill:#FFF9C4,text-align:left,white-space:nowrap
     style n9 fill:#C8E6C9,white-space:nowrap
+    click n5 "https://ttuneph2025.github.io/GN/MCD/"
 ```
 ### Class III and IV ± V
 ### TMA and LN
