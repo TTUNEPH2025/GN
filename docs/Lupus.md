@@ -255,6 +255,58 @@ flowchart TB
     click n2 "https://www.mdcalc.com/calc/10200/plasmic-score-ttp"
 ```
 ### Class V
+```mermaid
+---
+config:
+  theme: redux
+---
+flowchart TB
+    A(["Class V on Bx"]) --> n1["Evaluate level of Proteinuria"]
+    n1 --> n2["Low level Proteinuria"] & n3["Nephrotic Range Proteinuria"]
+    n2 --> n4["Immunosupression chosen by Extra-Renal Symptoms"] & n5["•  Hydroxychloroquine: 200-400mg as a single daily dose or divided into two doses
+  •  Anti-Proteinuria: RASS blockade (ACE/ARB) and SGLT2i
+  •  Life style changes: smoking cessation, exercise, body weight management, ect."]
+    n3 --> n5 & n6["Glucocorticoid and other agent"]
+    n6 --> n7["Moderte or Reduced dose preferred"] & n8["• MPAA
+    • cyclophosphamide
+    • CNI
+    • Rituximab
+    • Azathioprine"]
+    n4 --> n9["Monitor"]
+    n9 --> n10["Improved/Stable"] & n11["Worsening Progeinuria"]
+    n11 --> n6
+    n10 --> n12["Routine Monitoring"]
+    n7 --> n13["Insufficient data for recommendation fo steroid dosing"]
+
+    n5@{ shape: rounded}
+    n6@{ shape: rounded}
+    n7@{ shape: rounded}
+    n8@{ shape: rounded}
+    style A fill:#C8E6C9
+    style n1 fill:#C8E6C9
+    style n2 fill:#C8E6C9
+    style n3 fill:#C8E6C9
+    style n4 fill:#C8E6C9
+    style n5 fill:#FFF9C4
+    style n6 fill:#C8E6C9
+    style n7 fill:#FFF9C4
+    style n8 fill:#FFF9C4
+    style n9 fill:#C8E6C9
+    style n10 fill:#C8E6C9
+    style n11 fill:#C8E6C9
+    style n12 fill:#C8E6C9
+    style n13 fill:#C8E6C9
+```
+### A word on Pregnancy in LN patient
+  * Medications safe in pregnancy: Hydroxychloroquine, Steroids, Azathioprine, Tacrolimus, and cyclosporine
+  * Not enough data on Voclosporin or Belimumab in pregnancy, recommend to avoid at this time
+  * Teratogenic Cyclophosphamide and MPAA
+  * All pregnant patients with LN should be started on low dose aspirin
+  * Women of Childbearing Age
+      - Recommend Pregnancy testing prior to initation of treatments
+      - Recommend birth control prior to initiation of treatments
+      - Recommend Family planning Education with patient --> Active flairs resolved and transitioned to pregnancy safe maintance medication prior withdrawal of birth control
+
 ## **Sources**
   * [KDIGO 2024 Lupus Guidelines](https://www.kidney-international.org/action/showPdf?pii=S0085-2538%2823%2900627-0)
   * [Risk of CV events and mortality in LN](https://pubmed.ncbi.nlm.nih.gov/28053276/)
