@@ -173,9 +173,9 @@ flowchart TB
     style n3 fill:#C8E6C9
     style n4 fill:#C8E6C9
     style n5 fill:#C8E6C9
-    style n6 fill:#C8E6C9
-    style n7 fill:#C8E6C9
-    style n8 fill:#C8E6C9
+    style n6 fill:#C8E6C9,text-align:left,white-space:nowrap
+    style n7 fill:#C8E6C9,text-align:left,white-space:nowrap
+    style n8 fill:#C8E6C9,text-align:left,white-space:nowrap
     style n9 fill:#FFF9C4,text-align:left,white-space:nowrap
     style n10 fill:#FFF9C4,text-align:left,white-space:nowrap
     style n11 fill:#FFF9C4,text-align:left,white-space:nowrap
