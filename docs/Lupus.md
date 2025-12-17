@@ -193,6 +193,65 @@ flowchart TB
     style n23 fill:#FFF9C4,text-align:left,white-space:nowrap
 ```
 ### TMA and LN
+```mermaid
+---
+config:
+  theme: redux
+---
+flowchart TB
+    A(["LN + LN on Bx"]) --> n1["Obtain the following
+    • ADAMTS13 activity
+    • Antibody to ADAMTS13
+    • Antiphospholipid Antibody
+    • Heme/Onc consult if available"]
+    n1 --> n2["Risk stratify while waiting on labs with PLASMIC Score"]
+    n2 --> n3["Moderate/High risk (>5)"] & n4["Low Risk (0-4)"]
+    n3 --> n5["Start PLEX and Glucocorticoid while awaiting lab results"]
+    n4 --> n6["Wait for lab results"]
+    n5 --> n7["Evaluate labs"]
+    n6 --> n7
+    n7 --> n8["Low ADAMTS 13 Activity (&lt;10%)"] & n9["• Normal ADAMTS13
+    • Negative Antiphospholipids"] & n10["• Normal ADAMTS13 activit
+    • Positive Antiphospholipids"]
+    n8 --> n11["SLE associated TTP"]
+    n9 --> n12["Eval for other TMA etiologies"]
+    n10 --> n13["Antiphospholipid syndrome Nephropathy"]
+    n11 --> n14["PLEX + Glucocorticoid + Rituximab ± Caplacizumab"]
+    n12 --> n15["Primary or Secondary Complement-mediated TMA"] & n16["Treat other etiology"]
+    n13 --> n17["Anticoagulation (Wafarin) ± PLEX"]
+    n15 --> n18["Consider Eclizumab"]
+    n18 --> n19["• Optimal dose and duration controversial
+    • Typically does not respond well with PLEX, steroids, or cyclophosphamide"]
+    n17 --> n20["PLEX and high-dose Glucocorticoids often used in catastropic APS and is associated with iproved patient survival"]
+
+    n5@{ shape: rounded}
+    n14@{ shape: rounded}
+    n17@{ shape: rounded}
+    n18@{ shape: rounded}
+    n20@{ shape: rounded}
+    style A fill:#C8E6C9
+    style n1 fill:#C8E6C9
+    style n2 fill:#C8E6C9
+    style n3 fill:#C8E6C9
+    style n4 fill:#C8E6C9
+    style n5 fill:#FFF9C4
+    style n6 fill:#C8E6C9
+    style n7 fill:#C8E6C9
+    style n8 fill:#C8E6C9
+    style n9 fill:#C8E6C9
+    style n10 fill:#C8E6C9
+    style n11 fill:#C8E6C9
+    style n12 fill:#C8E6C9
+    style n13 fill:#C8E6C9
+    style n14 fill:#C8E6C9
+    style n15 fill:#C8E6C9
+    style n16 fill:#C8E6C9
+    style n17 fill:#FFF9C4
+    style n18 fill:#FFF9C4
+    style n19 fill:#C8E6C9
+    style n20 fill:#FFF9C4
+    click n2 "https://www.mdcalc.com/calc/10200/plasmic-score-ttp"
+```
 ### Class V
 ## **Sources**
   * [KDIGO 2024 Lupus Guidelines](https://www.kidney-international.org/action/showPdf?pii=S0085-2538%2823%2900627-0)
