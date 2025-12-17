@@ -75,6 +75,14 @@
       - UPCR below 0.5-0.7mg/mg at 12mo
 
 ## **Treatment**
+### All Lupus Nephritis patients
+  * Hydroxychloroquine: 200-400mg as a single daily dose or divided into two doses
+  * Anti-Proteinuria: RASS blockade (ACE/ARB) and SGLT2i
+  * Life style changes: smoking cessation, exercise, body weight management, ect.
+### Class I and II LN
+### Class III and IV ± V
+### TMA and LN
+### Class V
 ## **Sources**
   * [KDIGO 2024 Lupus Guidelines](https://www.kidney-international.org/action/showPdf?pii=S0085-2538%2823%2900627-0)
   * [Risk of CV events and mortality in LN](https://pubmed.ncbi.nlm.nih.gov/28053276/)
