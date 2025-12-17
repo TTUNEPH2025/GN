@@ -176,21 +176,21 @@ flowchart TB
     style n6 fill:#C8E6C9
     style n7 fill:#C8E6C9
     style n8 fill:#C8E6C9
-    style n9 fill:#FFF9C4
-    style n10 fill:#FFF9C4
-    style n11 fill:#FFF9C4
-    style n12 fill:#FFF9C4
-    style n13 fill:#FFF9C4
-    style n14 fill:#FFF9C4
-    style n15 fill:#FFF9C4
-    style n16 fill:#FFF9C4
+    style n9 fill:#FFF9C4,text-align:left,white-space:nowrap
+    style n10 fill:#FFF9C4,text-align:left,white-space:nowrap
+    style n11 fill:#FFF9C4,text-align:left,white-space:nowrap
+    style n12 fill:#FFF9C4,text-align:left,white-space:nowrap
+    style n13 fill:#FFF9C4,text-align:left,white-space:nowrap
+    style n14 fill:#FFF9C4,text-align:left,white-space:nowrap
+    style n15 fill:#FFF9C4,text-align:left,white-space:nowrap
+    style n16 fill:#FFF9C4,text-align:left,white-space:nowrap
     style n17 fill:#C8E6C9
     style n18 fill:#C8E6C9
     style n19 fill:#C8E6C9
     style n20 fill:#C8E6C9
     style n21 fill:#FFF9C4
-    style n22 fill:#C8E6C9
-    style n23 fill:#FFF9C4
+    style n22 fill:#C8E6C9,text-align:left,white-space:nowrap
+    style n23 fill:#FFF9C4,text-align:left,white-space:nowrap
 ```
 ### TMA and LN
 ### Class V
