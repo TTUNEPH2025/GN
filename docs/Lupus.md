@@ -301,7 +301,7 @@ flowchart TB
 |  |High-Dose Scheme|Moderate-Dose Scheme|Reduced-Dose Scheme|
 |----|-----|-------|-----|
 |Methylprednisolone IV Pulse Dose|Nil or 0.25-0.5g/d up to 3 days|0.25-0.5g/d up to 3 days|0.25-0.5g/d up to 3 days|
-|Oral Prednisone| |   | |
+|Oral Prednisone per day| |   | |
 |wk 0-2|0.8-1 mg/kg (max 80mg)| 0.6-0.7mg/kg (max 50mg)|0.5-0.6mg/kg (max 40mg)|
 |wk 3-4|0.6-0.7mg/kg|0.5-0.6mg/kg|0.3-0.4mg/kg|
 |wk5-6|30mg|20mg|15mg|
