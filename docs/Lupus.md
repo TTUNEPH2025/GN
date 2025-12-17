@@ -267,7 +267,7 @@ flowchart TB
   •  Anti-Proteinuria: RASS blockade (ACE/ARB) and SGLT2i
   •  Life style changes: smoking cessation, exercise, body weight management, ect."]
     n3 --> n5 & n6["Glucocorticoid and other agent"]
-    n6 --> n7["Moderte or Reduced dose preferred"] & n8["• MPAA
+    n6 --> n7["Moderate or Reduced dose preferred"] & n8["• MPAA
     • cyclophosphamide
     • CNI
     • Rituximab
@@ -277,7 +277,6 @@ flowchart TB
     n11 --> n6
     n10 --> n12["Routine Monitoring"]
     n7 --> n13["Insufficient data for recommendation fo steroid dosing"]
-
     n5@{ shape: rounded}
     n6@{ shape: rounded}
     n7@{ shape: rounded}
@@ -287,10 +286,10 @@ flowchart TB
     style n2 fill:#C8E6C9
     style n3 fill:#C8E6C9
     style n4 fill:#C8E6C9
-    style n5 fill:#FFF9C4
+    style n5 fill:#FFF9C4,text-align:left,white-space:nowrap
     style n6 fill:#C8E6C9
-    style n7 fill:#FFF9C4
-    style n8 fill:#FFF9C4
+    style n7 fill:#FFF9C4,text-align:left,white-space:nowrap
+    style n8 fill:#FFF9C4,text-align:left,white-space:nowrap
     style n9 fill:#C8E6C9
     style n10 fill:#C8E6C9
     style n11 fill:#C8E6C9
@@ -314,6 +313,9 @@ flowchart TB
 |wk 19-20|7.5mg|5mg|2.5mg|
 |wk 21-24|5mg|<5mg|2.5mg|
 |wk >25|<5mg|<5mg|<2.5mg|
+
+
+
 ### A word on Pregnancy in LN patient
   * Medications safe in pregnancy: Hydroxychloroquine, Steroids, Azathioprine, Tacrolimus, and cyclosporine
   * Not enough data on Voclosporin or Belimumab in pregnancy, recommend to avoid at this time
