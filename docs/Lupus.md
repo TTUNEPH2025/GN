@@ -92,7 +92,7 @@ flowchart TB
     n2 --> n4["• Lupus treatment guided by extra-renal symptoms
     • Hydroxychloroquine, RAAS blockade, SGLT2
     • Monitor proteinuria"]
-    n3 --> n5["• Tx as MCD
+    n3 --> n5["• Tx as [MCD](MCD.md)
     • Hydroxychloroquine, RAAS blockade, SGLT2"]
     n5 --> n6["• Remission typically seen in 4wk
     • Optimal duation of therapy unknown"]
