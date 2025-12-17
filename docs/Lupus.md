@@ -216,9 +216,10 @@ flowchart TB
     n8 --> n11["SLE associated TTP"]
     n9 --> n12["Eval for other TMA etiologies"]
     n10 --> n13["Antiphospholipid syndrome Nephropathy"]
-    n11 --> n14["PLEX + Glucocorticoid + Rituximab ± Caplacizumab"]
+    n11 --> n14["PLEX + Glucocorticoid + Rituximab ± Caplacizumab (von Willebrand factor inhibitor)"]
     n12 --> n15["Primary or Secondary Complement-mediated TMA"] & n16["Treat other etiology"]
     n13 --> n17["Anticoagulation (Wafarin) ± PLEX"]
+    n14 --> n21["Treatment extrapolated from that of acquired TTP"]
     n15 --> n18["Consider Eclizumab"]
     n18 --> n19["• Optimal dose and duration controversial
     • Typically does not respond well with PLEX, steroids, or cyclophosphamide"]
@@ -243,13 +244,14 @@ flowchart TB
     style n11 fill:#C8E6C9
     style n12 fill:#C8E6C9
     style n13 fill:#C8E6C9
-    style n14 fill:#C8E6C9
+    style n14 fill:#FFF9C4
     style n15 fill:#C8E6C9
     style n16 fill:#C8E6C9
     style n17 fill:#FFF9C4
     style n18 fill:#FFF9C4
     style n19 fill:#C8E6C9
     style n20 fill:#FFF9C4
+    style n21 fill:#C8E6C9
     click n2 "https://www.mdcalc.com/calc/10200/plasmic-score-ttp"
 ```
 ### Class V
