@@ -5,27 +5,27 @@
       2. Mesangial Proliferative LN
       3. Focal LN (< 50% of glomeruli)
       4. Diffuse LN (≥ 50% of glomeruli)
-      5. Membranouse Lupus
+      5. Membranous Lupus
       6. Advanced Sclerosing LN (≥ 90% global sclerosed glomeruli)
   * Can have mixed classes of LN
   * LN rare disease (20-60% of SLE cases)
   * Females > Males (90% of LN is females)
   * LN typically occurs more often in Black, Asian, and Hispanic Ethnicities
-  * Up to 30% of LN patients progres to kidney failure w/in 15 years of diagnosis
+  * Up to 30% of LN patients progress to kidney failure w/in 15 years of diagnosis
   * Patient's SLE are at higher risk of cardiovascular events and mortality when diagnosised with LN
-  * Early decrease i nprotenuria predicts improved kidney function outcomes
-  * Childhood onset of SLE is a ssociated wtih increased risk of LN and more severe disease
+  * Early decrease in protenuria predicts improved kidney function outcomes
+  * Childhood onset of SLE is associated wtih increased risk of LN and more severe disease
 ## **Pathophysiology**
   * Pathogenesis
     1. Abnormal B lymphocyte hyperactivity --> mounting an immune response to dying cells
-          - Any environment where there is delayed clearance of dying cells (e,g. infections, hormonal responces, drughs) along with genetic mutations that may account for predisposition to hyperactive immune responce may be associated with SLE
+          - Any environment where there is delayed clearance of dying cells (e,g. infections, hormonal response, drugs) along with genetic mutations that may account for predisposition to hyperactive immune response may be associated with SLE
     3. Immunity
          - Inate: interferon regulation and production, Nucleic acid sensitivity, Increased TLR (toll-like receptors) signaling (activate immune responce and increase cell recruitment)
-         - Adaptive: HLA-DR2, HLA-DR3, Bcell and Tcell activation and signialing
-         - Immune Complex: Iincreased phagocytosis, cell adhesion, and compliment activation forming immunce complexes
-         - Insitue Immune complex formation or pre-formed immune complex formation causing injury
+         - Adaptive: HLA-DR2, HLA-DR3, B-cell and T-cell activation and signialing
+         - Immune Complex: Increased phagocytosis, cell adhesion, and compliment activation forming immunne complexes
+         - In situe Immune complex formation or pre-formed immune complex formation causing injury
   * Classes
-    1. Class I and II: gnerally normal kidney function. May have low grade protienuria
+    1. Class I and II: generally normal kidney function. May have low grade proteinuria
     2. Class III
          - Active or inactive focal, segmental and/or global endocapillary and/or extracapillary GN involving < 50% glomeruli
          - Typically w/focal subendothelial deposites w/or w/out mesangial alteration
@@ -39,20 +39,20 @@
          - Patients with immunofluorescent staining positive for Ext 1/2 typically have overall better response to treatment
     8. Class VI
          - 90% or more of global sclerosed glomeruli
-         - Classification classification for advanced disease, not likely to benefit from increased immune supression
+         - Classification for advanced disease, not likely to benefit from increased immune suppression
   * TMA
     1. Causes most revelant to LN: TTP, Antiphospholipid, and compliment medicated diesease
-    2. can occure due to shiga-toxin-HUS, Infections, drugs, or malignancies
+    2. can occur due to shiga-toxin-HUS, Infections, drugs, or malignancies
 ## **Clinical Presentation**
   * Range of symptoms of SLE (including but not limited to) 
       - fatigue, fever, weight loss, Arthritis/arthralgia, butterfly rash, photosensitivity, alpecia, raynaud, pleurisy, pericarditis, lymphadenopathy, psychosis, etc.
       - LN symptoms: edema, hypoalbuminemia, proteinuria, hyperlipidemia, frothy urine, hematuria
-  * Patient's with lupus should be screen yearly for proteinura: progeinuria of 500mg/dL or great should prompt further infestigation  
+  * Patient's with lupus should be screen yearly for proteinura: proteinuria of 500mg/dL or great should prompt further investigation  
   * Labs:
       - Auto-ab: Anti-dsDNA, Anti-Smith, Anti-U1 ribonucleoprotein, anti-ro/SSA and anti-La/SSB, Anti-histone, anti-phospholipid
       - General: CBC, CMP, CK, UA, SPEP, ANA, ESR/CRP, Compolement levels
   * Drug induced lupus: anti-dsDNA or Anti-smith positive very rare, Anti-histone very commenly positive
-  * In EULAR (European Alliance of Association for Rheumatology)/ACR (American College of Rheumatology) Criteria for diagnosis of lupus, Renal biopsy demonstrating class III or IV is susificiant on it's own to diagnosis SLE with no other clinical or immunologic criteria required. 
+  * In EULAR (European Alliance of Association for Rheumatology)/ACR (American College of Rheumatology) Criteria for diagnosis of lupus, Renal biopsy demonstrating class III or IV is sufficient on it's own to diagnosis SLE with no other clinical or immunologic criteria required. 
 ## **Drugs and Diseases Associated with Lupus**
   * Kidney disease in drug-induced lupus is rare
   * Some drugs commenly associated with drug-induced lupus are as follows: 
@@ -61,17 +61,17 @@
     - Isoniazid
     - Procainamide
     - TNF therapies
-## **Deffinitions of Treatment Response**
+## **Definitions of Treatment Response**
 |Criteria|Definition|
 |--------|----------|
 |Complete Response| • Reduction in proteinuria < 0.5g/g measured as PCR from 24hr urine; • Stabilization or improvement in kidney function (± 10-15% of baseline);• W/in 6-12mo of starting therapy, but could take more than 12mo|
 |Primary Efficacy Renal Response| • PCR ≤ 0.7 g/g; • eGFR that was no worse than 20% below the pre-flare value or ≥ 60mL/min per 1.73m²; • No use of rescue therapy for treatment failure|
-|Partial response| • Reduction in progeinuria by at least 50% and < 3g/g measured as teh PCR from 24hr urine; • Stabilization or improvement in kidney function (± 10-15% of baseline); • W/in 6-12mo of starting therapy|
+|Partial response| • Reduction in proteinuria by at least 50% and < 3g/g measured as the PCR from 24hr urine; • Stabilization or improvement in kidney function (± 10-15% of baseline); • W/in 6-12mo of starting therapy|
 |No Kidney response| Failure to achieve a partial or complete response w/in 6-12mo of starting therapy|
 
   * Goals of tx
-      - 25% reduction of protienuria at 3mo
-      - 50% reduction of protienuria at 6mo
+      - 25% reduction of proteinuria at 3mo
+      - 50% reduction of proteinuria at 6mo
       - UPCR below 0.5-0.7mg/mg at 12mo
 
 ## **Treatment**
@@ -95,10 +95,10 @@ flowchart TB
     n3 --> n5["• Tx as MCD 
     • Hydroxychloroquine, RAAS blockade, SGLT2"]
     n5 --> n6["• Remission typically seen in 4wk
-    • Optimal duation of therapy unknown"]
+    • Optimal duration of therapy unknown"]
     n6 --> n7["Relapse"]
-    n7 --> n8["Condisder Steroid therapy + MMF or Azathioprine, CNI"]
-    n4 --> n9["Nephrotic Range prteinuria"]
+    n7 --> n8["Consider Steroid therapy + MMF or Azathioprine, CNI"]
+    n4 --> n9["Nephrotic Range proteinuria"]
     n9 --> n5
 
     n4@{ shape: rounded}
@@ -130,11 +130,11 @@ flowchart TB
     n4 --> n6["Pulse dose steroids + one of the following"]
     n5 --> n7["• Supportive therapy 
     • Hydroxychloroquine, RAAS blockade, SGLT2
-    • Monitor proteinuriaUntitled Node"] & n8["If Class V present on Bx, treat as Class V"]
+    • Monitor proteinuria"] & n8["If Class V present on Bx, treat as Class V"]
     n6 --> n9["CNI + MPAA"] & n10["MPA"] & n11["Cyclosphosphamide"] & n12["Belimumab + MPAA or/reduced-dose cyclophosphamide"]
     n9 --> n13["• Voclosporin 23.7mg BID and MPAA in pt w/eGFR &gt;45
     • Tacrolimus goal trough 5.5ng/mL 
-    • Cyclosporine when volcosorin or tacrolimus no available
+    • Cyclosporine when volcosorin or tacrolimus not available
     • For duration of 3 years"]
     n10 --> n14["• For at least 6months
     • MMF 1-1.5g BID or Mycophenolic Acid 720-1080mg BID"]
@@ -152,7 +152,7 @@ flowchart TB
     n15 --> n19
     n18 --> n19
     n19 -- Adequate --> n20["Complete Therapy (≥36mo)"]
-    n19 -- Inadequate --> n21["Consider Rituximab, Ocrelizumab, abatacep, enrol in trials"]
+    n19 -- Inadequate --> n21["Consider Rituximab, Ocrelizumab, abatacep, enroll in trials"]
     n20 --> n22["Transition to Maintance Therapy"]
     n22 --> n23["• Taper steroids quickly and may be able to DC after > 12mo
     • Hydroxychloroquine and MPAA
@@ -211,7 +211,7 @@ flowchart TB
     n5 --> n7["Evaluate labs"]
     n6 --> n7
     n7 --> n8["Low ADAMTS 13 Activity (&lt;10%)"] & n9["• Normal ADAMTS13
-    • Negative Antiphospholipids"] & n10["• Normal ADAMTS13 activit
+    • Negative Antiphospholipids"] & n10["• Normal ADAMTS13 activity
     • Positive Antiphospholipids"]
     n8 --> n11["SLE associated TTP"]
     n9 --> n12["Eval for other TMA etiologies"]
@@ -223,7 +223,7 @@ flowchart TB
     n15 --> n18["Consider Eclizumab"]
     n18 --> n19["• Optimal dose and duration controversial
     • Typically does not respond well with PLEX, steroids, or cyclophosphamide"]
-    n17 --> n20["PLEX and high-dose Glucocorticoids often used in catastropic APS and is associated with iproved patient survival"]
+    n17 --> n20["PLEX and high-dose Glucocorticoids often used in catastropic APS and is associated with improved patient survival"]
 
     n5@{ shape: rounded}
     n14@{ shape: rounded}
@@ -268,12 +268,12 @@ flowchart TB
   •  Life style changes: smoking cessation, exercise, body weight management, ect."]
     n3 --> n5 & n6["Glucocorticoid and other agent"]
     n6 --> n7["Moderate or Reduced dose preferred"] & n8["• MPAA
-    • cyclophosphamide
+    • Cyclophosphamide
     • CNI
     • Rituximab
     • Azathioprine"]
     n4 --> n9["Monitor"]
-    n9 --> n10["Improved/Stable"] & n11["Worsening Progeinuria"]
+    n9 --> n10["Improved/Stable"] & n11["Worsening Proteinuria"]
     n11 --> n6
     n10 --> n12["Routine Monitoring"]
     n7 --> n13["Insufficient data for recommendation fo steroid dosing"]
@@ -317,14 +317,14 @@ flowchart TB
 
 
 ### A word on Pregnancy in LN patient
-  * Medications safe in pregnancy: Hydroxychloroquine, Steroids, Azathioprine, Tacrolimus, and cyclosporine
+  * Medications safe in pregnancy: Hydroxychloroquine, Steroids, Azathioprine, Tacrolimus, and Cyclosporine
   * Not enough data on Voclosporin or Belimumab in pregnancy, recommend to avoid at this time
   * Teratogenic Cyclophosphamide and MPAA
   * All pregnant patients with LN should be started on low dose aspirin
   * Women of Childbearing Age
-      - Recommend Pregnancy testing prior to initation of treatments
+      - Recommend Pregnancy testing prior to initiation of treatments
       - Recommend birth control prior to initiation of treatments
-      - Recommend Family planning Education with patient --> Active flairs resolved and transitioned to pregnancy safe maintance medication prior withdrawal of birth control
+      - Recommend Family Planning Education with patient --> Active flares resolved and transition to pregnancy safe maintance medication prior to withdrawal of birth control
 
 ## **Sources**
   * [KDIGO 2024 Lupus Guidelines](https://www.kidney-international.org/action/showPdf?pii=S0085-2538%2823%2900627-0)
