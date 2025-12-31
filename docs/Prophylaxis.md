@@ -91,14 +91,14 @@ flowchart TD
     * Serogroup B menigococcal Vaccine
         1. Requires 3 doses
         2. Booster doses one year after completion of series and every 2-3 years therafter for duration of complement inhibitor therapy
-    * Shingrix vaccine is safe should be given to patient, but immunosuppression may reduce its efficacy
+    * Shingrix vaccine is safe and should be given to these patients (immunosuppression may reduce its efficacy)
 ## **Antibiotics in setting of Immunosuppression**
  * Bactrim (TMP-SMX)
-   * While patient on high dose prednisone or other immunosuppressive agents (rituximab, cyclophosphamide)
+   * Should be given while patient on high dose prednisone or other immunosuppressive agents (rituximab, cyclophosphamide)
    * Atovaquone or pentamidine may be substituted for patient's with sulfa-allergy --> recommendation based on immunosuppressed patient w/out glomerular disease
 ## **Other**
  * H2 blockers or PPI while on steroids --> prevention of Peptic ulcer disease
- * Limit UV exposure and appropiate use of Broad spectrum sunscreent
+ * Limit UV exposure and appropiate use of Broad spectrum sunscreen
  * Effective contraception
 ## **Sources**
 * [KDIGO GN Guidlines](https://kdigo.org/guidelines/gd/)
