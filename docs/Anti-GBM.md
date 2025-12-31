@@ -10,28 +10,28 @@
     1. 40-60% of patient have alveolar invovlement --> predomintly young males with pulm and renal involvement
     2. Alveolar involvement more likely with smokers 
   * Biphasic distribution: 20-30's and 60-70
-  * Typically do no flair after treatment from disease
-     1. If flair occurs should conisder ANCA associated disease
+  * Typically do no flare after treatment from disease
+     1. If flare occurs should conisder ANCA associated disease
   * Timming of treatment matters --> early treament the better
   * Prior to immunosupression therapy had a 96 mortality rate which has dropped to 47 with immunosupression therapy
-    1. This mortality rate drops further for those patient's with pulmonary hemorrhage who recieve Plasmaphoresis and immunotherapy to 8.5% mortality 
-  * Disease can re-occur in transplant if ant-gbm titer still detectable
+    1. This mortality rate drops further for those patient's with pulmonary hemorrhage who recieve plasmaphoresis and immunotherapy to 8.5% mortality 
+  * Disease can re-occur in transplant if anti-gbm titer still detectable
     1. Typically recommend 6 months or more of undetectable anti-gbm levels prior to transplant
 ## **Pathophysiology**
  * Autoantibody against the non-collagenous domain of the alpha3 chain of type IV collagen which can be found in the glomerlous and the alveoli 
    1. With alveolar hemorrhage: Goodpasture Syndrome
-   2. W/out alveolar hemorrhage: Anti-GBM GN
+   2. Without alveolar hemorrhage: Anti-GBM GN
  * Pathology: Linear staining for IgG or rarely IgA on IM
  * Alloimune ANti-GBM: patients w/type 4 collagen mutation recieve a kidney transplant from done w/out mutation: Antibodies form against GBM of transplanted kidney (typically occurs in some genetic variation of Alport syndrome)
 ### Cresentic GN
- * Cresents are etiologically and pathogenically a nonspecific response to glomerular capilary rupture that is typically caused by inflammmatory injury
+ * Cresents are etiologically and pathogenically a nonspecific response to glomerular capillary rupture that is typically caused by inflammmatory injury
  * Types: Cellular, fibrocellular, fibrous, and pseudocrescent
    1. Higher number of fibrous cresents present on biopsy--> less likely to have recovery
  * Cresentic lesions can be found on wide range of GN with varying percentages of glomerulus
  * Anti-GBM and ANCA vasculitis are considered "rapidly progressive cresentic gn". Both of which are typically severe and agressive with greater than 50% Crescents found on light microscopy
 ## **Clinical Presentation**
  * Hematuria/Proteinuria 
- * W/ or w/out alveolar hemorrhage: dignosed clinical or with high resolution CT
+ * With or without alveolar hemorrhage: dignosed clinical or with high resolution CT
  * Rapidly rising Cr/Dropping eGFR: rapidly crescent GN
 ## **Treatment**
 ```mermaid
@@ -99,9 +99,9 @@ flowchart TD
 ```
 
 
- * Most Anti-GBM is cleared in the first 8 weeks of treatment after PLEX and Immunsupression initiated
- * Relapses uncommon --> may occure in patient who smoke or are exposed to lun irritants
- * If serious infection during treatment can add IVIG post PLEX treatment with abx
+ * Most Anti-GBM is cleared in the first 8 weeks of treatment after PLEX and Immunsuppression initiated
+ * Relapses uncommon --> may occure in patients who smoke or are exposed to lung irritants
+ * If serious infection occurs during treatment can add IVIG post PLEX treatment with abx
  * [Prophylaxis](Prophylaxis.md)
 ## **Sources**
 * [KDIGO GN Guidlines](https://kdigo.org/guidelines/gd/)
