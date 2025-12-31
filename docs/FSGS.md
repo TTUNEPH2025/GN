@@ -3,7 +3,7 @@
   * Most common cause of Nephrotic Syndrome in U.S.
   * Three types: Idiopathic, Secondary, and Genetic
   * Idiopathic can reoccur in transplant patients (typically rapid course in the first months)
-  * Patient's with APOL1 varient: increased incidence of FSGS typical lesions and collapsing lesions 
+  * Patients with APOL1 varient: increased incidence of FSGS typical lesions and collapsing lesions 
 ## **Pathophysiology** 
   * Primary: Circulating permeability factors yet to identified
      1. Pathology: Focal segmental glomerulosclerosis and foot process effacement (may be diffuse or variable)
