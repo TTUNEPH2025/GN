@@ -1,30 +1,30 @@
 # **Focal Segmental Glomerulosclerosis (FSGS)** 
 ## **Overview**
-  * Most common cause of Nephrotic syndrome in U.S.
-  * 3 types: Idiopathic, Secondary, and Genetic
-  * Idiopathic can reoccur in  Transplant patients (typically rapid coures in the first months)
-  * Patient's with APOL1 varient: increase incidence of FSGS typical lesions and collapsing lesions 
+  * Most common cause of Nephrotic Syndrome in U.S.
+  * Three types: Idiopathic, Secondary, and Genetic
+  * Idiopathic can reoccur in transplant patients (typically rapid course in the first months)
+  * Patient's with APOL1 varient: increased incidence of FSGS typical lesions and collapsing lesions 
 ## **Pathophysiology** 
-  * Primary: Circulating Permeability factors yet to identified
-     1. Pathology: Focal segmental glomerulosclerosis and foot process effacement (may be duffuse or variable)
-     2. Reoccurs in transplant patients
-     3. Responds to Plasmapheresis in transplant patient
+  * Primary: Circulating permeability factors yet to identified
+     1. Pathology: Focal segmental glomerulosclerosis and foot process effacement (may be diffuse or variable)
+     2. Re-occurs in transplant patients
+     3. Responds to plasmapheresis in transplant patient
   * Secondary: has a known cause
      1. Pathology: FSGS lesions, with or without  foot process effacement
      2. Adaptive changes to glomerular hyperfiltration typicallly in the setting of reduced nephron mass (low birth weight, reflux nephropathy, renal dysplasia secondary to other renal disease)
-     3. Direct podocyt injury: HIV, Parvo, ect. 
+     3. Direct podocyte injury: HIV, Parvo, ect. 
   * Genetic
      1. Mutations in podocyte or glomular basement membrane
      2. Not routinely tested in adults
-     3. Should be considered in adults resistent to steroid therapy
-     4. Patient's with APOL1 are more susceptible to develop these lesions
-  * MCD vs FSGS
+     3. Should be considered in adults resistant to steroid therapy
+     4. Patient's with APOL1 are more susceptible to develop FSGS lesions
+  * MCD (Minimal Change Disease) vs FSGS
      1. Both have foot process effacement
      2. FSGS: presence of segmental sclerosis and early findings demonstrate tubulointerstitial fibrosis and glomerular hypertrophy 
   * Circulating factors currently under investigation for primary FSGS
      1. Anti-Nephrin Ab
      2. SuPAR (not specific  for FSGS)
-     3. Cardiotropphine-like cytokine 
+     3. Cardiotrophine-like cytokine 
 ## **Clinical Presentation**
   * Proteniuria > 3.5g/d
   * Hypoalbuminemia <30g/L
@@ -36,11 +36,11 @@ flowchart TD
     A(["FSGS on Biopsy"]) --> C["**Nephrotic Syndrome**
     • Protenuria &gt; 3.5g/d
       and
-    • Serum albuming &lt;30g/L (w/or w/out edema)
+    • Serum albuming &lt;30g/L (w/or w/o edema)
     • Diffuse foot process effacement"] & n2["**Abscence of Nephrotic syndrome**
     • Proteinuria &gt;3.5g/d and serum albumin &gt;30g/L 
              or
-    • Protenuira &lt;3.5g/d w/or w/out hypoalbumina"]
+    • Protenuira &lt;3.5g/d w/or w/o hypoalbumina"]
     C --> n3["**Likely Primary FSGS**
     • tx w/immunosuppression
     • If no response, consider genetic testing"]
@@ -56,9 +56,9 @@ flowchart TD
     style n3 white-space:nowrap
 ```
 ### **Genetic testing consideration**
-  * Younger patient's with FSGS
-  * Patient's w/family members w/FSGS
-  * FSGS patient's resistent to therapy
+  * Younger patients with FSGS
+  * Patients w/family members w/FSGS
+  * FSGS patients resistent to therapy
   * Benefits of Genetic testing: avoid immunosuppressives, guide tx for transplant (who can donate), guide for recurrence
 ## **Drugs and Disease Associated with FSGS**
   * Infectious
@@ -76,7 +76,7 @@ flowchart TD
   * Drugs
     1. Interferon
     2. Pamidronate
-    3. anabolic steroids
+    3. Anabolic steroids
     4. CNI
     5. NSAIDs
     6. Lithium
@@ -86,11 +86,11 @@ flowchart TD
 ## **Definitions of Treatment Response**
   * Complete remission
      1. Reduction of proteinuria to <0.3g/d or PCR <300mg/d (or 30mg/mmol)
-     2. Stable serume Creatinine
+     2. Stable serum Creatinine
      3. Serum albumin >3.5 g/dL (or 35g/L)
-  * Partial REmission
+  * Partial Remission
      1. Reduction of proteinuria to 0.3-3.5g/d or PCR 300-3500mg/g (or 30-350mg/mmol)
-     2. decrease >50% from baseline
+     2. Decrease greaterthan 50% from baseline
   * Relapse
      1. Proteinuria of >3.5g/d or PCR >3500mg/d (or 350mg/mmol) after complete remission achieved
      2. Increase in proteinuria by >50% during partial remission
@@ -162,7 +162,7 @@ flowchart TD
      • Enroll in trials
      • MMF, high dose dexamethasone, Rituximab, and ACTH (concsiderable lack of quality of evidence)"]
     n21 --> n20
-    n22(["Persistent/Unremiting"]) --> n30["Do not need to complete 16wk tx"] & n23["Genetic testing"]
+    n22(["Persistent/Unremitting"]) --> n30["Do not need to complete 16wk tx"] & n23["Genetic testing"]
     n28 --> n15
     n29(["Remission"]) --> n6
      n8:::Peach
@@ -193,14 +193,14 @@ flowchart TD
 ### Other considerations
   * Rituximab
      1. Emerging as a secondline therapy
-     2. Consider in patient's with multiple Treatment failures
+     2. Consider in patients with multiple Treatment failures
      3. Consider using Rituximab +/- CNI
-  * Endotheline Blockade: Sparsent vs Irbesartan pending FDA approval --> Reduction in UPCR
+  * Endothelin Blockade: Sparsent vs Irbesartan pending FDA approval --> Reduction in UPCR
 ## **Sources** 
 * [KDIGO GN Guidlines](https://kdigo.org/guidelines/gd/)
 * [CNI w/Reduced-dose steroids as firstline therpay for FSGS](https://pubmed.ncbi.nlm.nih.gov/30596167/)
 * [Long-Term Outcoms of Rituxiimab-treated Adul Patients w/Podocytopathies](https://pubmed.ncbi.nlm.nih.gov/39431468/)
-* [Treatment of primary FSGS in aduls](https://www.scopus.com/pages/publications/84868624922)
+* [Treatment of primary FSGS in adults](https://www.scopus.com/pages/publications/84868624922)
 * [Recurrence of FSGS after Kidney Transplant in Adults](https://journals.lww.com/cjasn/pages/articleviewer.aspx?year=2020&issue=02000&article=00014&type=Fulltext)
 * [Efficacy and Safety of Sparsentan in patients with FSGS](https://journals.lww.com/jasn/fulltext/2018/11000/duet__a_phase_2_study_evaluating_the_efficacy_and.17.aspx)
 * [Differentiating primary, genetic, and secondary FSGS in adults](https://journals.lww.com/jasn/fulltext/2018/03000/differentiating_primary,_genetic,_and_secondary.8.aspx)
