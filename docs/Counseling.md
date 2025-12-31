@@ -3,20 +3,20 @@
  * ACE/ARB
  * Mycophenolate
     1. Birth control should be continue for a minimum of 6wks after discontinuation of medication
-    2. In Men treated with mycophenolate condom use recommend during intercourse with women who might become pregnant and should be continue for a minimum of 90 days after discontinuation of medication
+    2. In Men treated with mycophenolate, condom use recommend during intercourse with women who might become pregnant and should be continue for a minimum of 90 days after discontinuation of medication
  * Cyclophosphamide
  * Rituximab
- * Sparsentan (should continue with birth control for two weeks after stopping treatment and avoided while breastfeeding)
+ * Sparsentan (should continue with birth control for two weeks after stopping treatment and avoid while breastfeeding)
  * Atrasentan 
  * Aprocitentan
- * Nefecon pregnancy not advised (budesonide Pregnancy class C)
+ * Nefecon: pregnancy not advised (budesonide Pregnancy class C)
  * SGLT2i (avoid taking while breastfeeding as well)
  * Avacopan (some adverse events in animal reproduction studies, unknown in humans; also unknown if safe with breastfeeding)
 ### Cyclophosphamide specific
  * Female patients should use effective contraception while receiving cyclophosphamide. 
  * Male patients with a partner who could become pregnant should use a condom during and for at least 12wks after cyclophosphamide treatment discontinued
  * Female patients who wish to concieve, should discontinue cyclophosphamide 3-6 months prior to conception
- * May cause ovarian insuficiency, infertility, and longterm gonadal damage
+ * May cause ovarian insufficiency, infertility, and longterm gonadal damage
  * Recommend patient referred to Fertility specilities for possible oocyte/sperm cryopreservation
  * Should not be given in first trimester, can be used in second or third trimester only when alternative therapy is not available
  * Not recommend for use in breastfeeding mothers
@@ -33,7 +33,7 @@
  * Oral glucose tolerance test (especially import in women taking glucocorticoids or CNI) 
 ## **Drug side effects**
  * Glucocorticoids
-    1. Factors that increase risk of Glucocorticoid toxicity: eGFR < 30, Diabetes, Pre-diabetes, Obesity, Latent infections, Active PUD, Uncontrolled psychiatric illness, Osteoporosis, cataractes
+    1. Factors that increase risk of Glucocorticoid toxicity: eGFR < 30, Diabetes, Pre-diabetes, Obesity, Latent infections, Active PUD, Uncontrolled psychiatric illness, osteoporosis, cataracts
     2. Weight gain
     4. Thinning skin
     5. Purpura, Muscle atrophy
@@ -41,7 +41,7 @@
     7. HTN
     8. Bone loss
     9. Gastric Ulcers
-    10. Cataractes
+    10. Cataracts
     11. Psychosis
  * Calcineurin inhibitors (CNI)
     1. HTN
@@ -59,7 +59,7 @@
     1. Increased risk of bacteral infection
     2. Leukopenia or/pancytopenia
   * Avacopan
-    1. Can cause hepatic imparments, not recommed in patient with active, untreated, and/or uncotrolled Hep B, Hep C, or cirrhosis
+    1. Can cause hepatic imparments, not recommended in patient with active, untreated, and/or uncotrolled Hep B, Hep C, or cirrhosis
 ## **Sources**
  * [KDIGO GN Guidlines](https://kdigo.org/guidelines/gd/)
  * [KDIGO IgAN Guidlines 2025](https://kdigo.org/wp-content/uploads/2024/08/KDIGO-2025-IgAN-IgAV-Guideline.pdf)
