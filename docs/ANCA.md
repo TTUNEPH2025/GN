@@ -2,47 +2,47 @@
 ## **Overview**
   * Occurs most often in older patietn's 50 years and older
   * Has ongoing acute injury until complete remission is achieved
-  * Four forms of disease presentation: Renal limitted, MPA, GPA, and EGPA
+  * Four forms of disease presentation: Renal limited, MPA, GPA, and EGPA
   * Two autoantibodies: PR3-ANCA (proteinase 3) and MPO-ANCA (myeloperodixase)
   * 90% of patient have crescents on kidney biopsy
-  * Poor prognosis w/out immunosuppressive therapy
+  * Poor prognosis w/o immunosuppressive therapy
   * ANCA titers should not guide treatment
   * Can recur after kidney transplant
-  * Need to have complete clinical remission for 6 months or more pior to kidney transplant
+  * Need to have complete clinical remission for 6 months or more prior to kidney transplant
 ## **Pathophysiology**
-  * Small vesculitis: necrotizine inflammation of small vessels and little to no deposition of immune complexes (pauci-immune)
+  * Small vesculitis: necrotizing inflammation of small vessels and little to no deposition of immune complexes (pauci-immune)
   * Four forms of disease presentation
-    1. Renal Limitted Vasculitis (RLV): pauci-immune Crescent GN
-    2. Microscopic Polyangitis (MPA): Vasculitis w/no asthma or ganulomas
-    3. Granulomatosis w/polyangitis (GPA): Granulomas and no astman
-    4. Eosinophilic GPA: eosinophilia, athma, and granulomas
+    1. Renal limited Vasculitis (RLV): pauci-immune Crescent GN
+    2. Microscopic Polyangitis (MPA): Vasculitis with no asthma or ganulomas
+    3. Granulomatosis w/polyangitis (GPA): Granulomas and no asthma
+    4. Eosinophilic GPA: eosinophilia, asthma, and granulomas
   * Autoantibodies: PR3-ANCA and MPO-ANCA
-    1. Both cause same sprectrum of diasea
+    1. Both cause same spectrum of disease
     2. Organ system distribution and pathologic patterns differ by Antigen specificity
     3. PR3-ANCA more associated with lung involvement
-    4. MPO-ANC more associated w/renal limitted involvement
-    5. Duel positive patient's consider drug induced ANCA disease
+    4. MPO-ANC more associated w/renal limited involvement
+    5. Duel positive patients consider drug induced ANCA disease
     6. PR3-ANCA positive patients higher relapse rate than MPO-ANCA positive patients
-  * Histologic activity unlikely in the abscense of hematuria
-    1. Patient's with hematuria more likely to relapse than those w/out, but difference in occurance of kidney failure
+  * Histologic activity unlikely in the abscence of hematuria
+    1. Patients with hematuria more likely to relapse than those w/o, but difference in occurence of kidney failure
   * Four histologic Classes
     1. Focal: 50% or more glomeruli normal 
     2. Crescentic: 50% or more glomerulic have cellular cresents
     3. Sclerotic: 50% or more glomeruli globally sclerotic
     4. Mixed: does not fit any of the above classifications
 ### Cresentic GN
- * Cresents are etiologically and pathogenically a nonspecific response to glomerular capilary rupture that is typically caused by inflammmatory injury
+ * Cresents are etiologically and pathogenically a nonspecific response to glomerular capillary rupture that is typically caused by inflammmatory injury
  * Types: Cellular, fibrocellular, fibrous, and pseudocrescent
    1. Higher number of fibrous cresents present on biopsy--> less likely to have recovery
  * Cresentic lesions can be found on wide range of GN with varying percentages of glomerulus
- * Anti-GBM and ANCA vasculitis are considered "rapidly progressive cresentic gn". Both of which are typically severe and agressive with greater than 50% Crescents found on light microscopy
+ * Anti-GBM and ANCA vasculitis are considered "rapidly progressive cresentic gn". Both of which are typically severe and agressive with greater than 50% crescents found on light microscopy
 ## **Clinical Presentation**
   * Signs and Symptoms of Vasculitis
     1. Nasal, sinus, and ear disease: sinus pain, chronic rhinosinusitis, nasal obstruction, purulent/bloody nasal discharge, etc
-    2. Airway and lung involvement: cough, hemoptsys (alveolar hemorrhage), dyspnea, and pleuritic pain
+    2. Airway and lung involvement: cough, hemoptysis (alveolar hemorrhage), dyspnea, and pleuritic pain
     4. Skin: purpura, possible focal necrosis and ulceration, etc
     5. Eyes: conjunctivitis, corneal ulceration, retinal vasculitis, uvitis, etc
-    6. CNS: mononeuropathy, scranial nerve abnormalitis, sensorineural hearing loss, meningeal disease, etc
+    6. CNS: mononeuropathy, cranial nerve abnormalitis, sensorineural hearing loss, meningeal disease, etc
   * Renal manifestation
     1. Microscopic hematuria w/dysmorphic RBC
     2. Rapidly declining eGFR
@@ -63,7 +63,7 @@
     1. The abscense of manifestation of vasculitis and GN
     2. GN: stable or improved eGFR while <ins>hematuria and proteinuria are present at time of active disease and can resolve completely, their persistence does not necessarily imply active disease </ins>
   * Relapse
-    1. occurrence of increased disease activity after a period of partial or complete remission
+    1. Occurrence of increased disease activity after a period of partial or complete remission
     2. Return or increase of hematuria w/proteinuria may indicate relapse
     3. Major replase: life or organ threating disease (examples include diffuse alveolar hemorrhage, subglottic stenosis, GN, or vascultitis threatening vision)
   * Treatment-resistent Disease
@@ -75,10 +75,10 @@
     4. More extensive disease
     5. Ear, nose, and throat disease
     6. History of relapse
-    7. ANCA positive at end of induction/Rise in ANCA
+    7. ANCA positive at end of induction/rise in ANCA
     8. Lower cyclophosphamide exposure
-    9. Immunosuppressive therapy w/drawal
-    10. Glucocorticoid w/drawl
+    9. Immunosuppressive therapy with drawal
+    10. Glucocorticoid with drawal
 ## **Evaluation and Treatment**
 ### Evaluation
 ```mermaid
@@ -89,19 +89,19 @@ config:
 flowchart TD
     A(["Rapidly Declining eGFR
         &
-        UA Positive for Blood and Protein"]) --> n1["Evaluate if urine sediment present (w/or w/out pyuria in abcence of infection)"]
+        UA Positive for Blood and Protein"]) --> n1["Evaluate if urine sediment present (w/or w/o pyuria in abcence of infection)"]
     n1 -- Present --> n2["<ins>Evaluate</ins>
     • Serology: ANA, ANCA, Complement levels
     • Eval for signs and symtpoms of vasculitis
     • r/o infectious causes
     • obtain kidney biopsy if able"]
-    n1 -- Abscent --> n3["Evaluate for other causes of AKI"]
+    n1 -- Absent --> n3["Evaluate for other causes of AKI"]
     n2 --> n4(["Rapidly Progressive"])
     n4 -- Yes --> n5["• Positive clinical presentation of ANCA vasculitis
     • PR3-ANCA and/or MPO-ANCA"]
     n4 -- No --> n6["Wait for biospy results"]
     n5 --> n7["Can initiate treatment for ANCA associated disease
-    • Do not have to wait for biopsy results prior to treatment if high clinical suspision and Rapid loss of kidney function"]
+    • Do not have to wait for biopsy results prior to treatment if high clinical suspicion and Rapid loss of kidney function"]
     n6 --> n8["Treat as indicated by results from biopsy, serology, and clinical presentation"]
     n1@{ shape: rounded}
     n2@{ shape: rounded}
@@ -270,7 +270,7 @@ flowchart TD
 |Reduced Therapy|Extended Therapy|
 |---------------|----------------|
 |1.5-2mg/kg/day at complete remission until 1 year after diagnosis|1.5-2mg/kg/day for 18-24months|
-|Then decrease by 25mg every 3 months|Then Decrease by 1mg/kg/day until 4 years after diagnosis|
+|Then decrease by 25mg every 3 months|Then decrease by 1mg/kg/day until 4 years after diagnosis|
 |  | Then taper by 25mg every 3 months|
 |  | Glucocorticoids shuld be continue at 5-7.5mg/day for years then slowly reduced by 1mg every 2 months |
 
@@ -281,7 +281,7 @@ flowchart TD
   * [Rituximab as therapy to induce remission after relapse in ANCA vasculitis](https://pubmed.ncbi.nlm.nih.gov/32581088/)
   * [Rituximab bs azathoprine for mainence of remission for patients with relapsing disease](https://pubmed.ncbi.nlm.nih.gov/36958796/)
   * [Rituximab vs cyclophosphamide in ANCA](https://www.nejm.org/doi/full/10.1056/NEJMoa0909169)
-  * [ADVOCATE REnal recovery in trial of Avacopan](https://pubmed.ncbi.nlm.nih.gov/37069984/)
+  * [ADVOCATE Renal recovery in trial of Avacopan](https://pubmed.ncbi.nlm.nih.gov/37069984/)
   * [Avocopan for treatment of ANCA vasculitis, ADVOCATE](https://www.nejm.org/doi/full/10.1056/NEJMoa2023386)
   * [EULAR recommendation for ANCA 2022 update](https://ard.bmj.com/content/annrheumdis/83/1/30.full.pdf)
   * [Reduced dose vs High dose glucocorticoids added to rituximab on remission of ANCA 2 year follow up](https://pubmed.ncbi.nlm.nih.gov/37734880/)
