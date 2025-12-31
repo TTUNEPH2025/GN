@@ -47,7 +47,7 @@
   * Range of symptoms of SLE (including but not limited to) 
       - fatigue, fever, weight loss, Arthritis/arthralgia, butterfly rash, photosensitivity, alpecia, raynaud, pleurisy, pericarditis, lymphadenopathy, psychosis, etc.
       - LN symptoms: edema, hypoalbuminemia, proteinuria, hyperlipidemia, frothy urine, hematuria
-  * Patient's with lupus should be screen yearly for proteinura: proteinuria of 500mg/dL or great should prompt further investigation  
+  * Patients with lupus should be screen yearly for proteinura: proteinuria of 500mg/dL or great should prompt further investigation  
   * Labs:
       - Auto-ab: Anti-dsDNA, Anti-Smith, Anti-U1 ribonucleoprotein, anti-ro/SSA and anti-La/SSB, Anti-histone, anti-phospholipid
       - General: CBC, CMP, CK, UA, SPEP, ANA, ESR/CRP, Compolement levels
