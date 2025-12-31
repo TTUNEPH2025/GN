@@ -15,9 +15,9 @@
          - C --> Crescents 
  * IgA Vasculitis (Henoch-Schonlein purpura)
       1. IgA autoantibodies deposition in the vessels
-      2. Children < 16 years of age, often self limitting
-      3. Glomerular disease 30% children, 60% Adults
-      4. Worse GN in children, worse outcomes in Adults
+      2. Children < 16 years of age, often self-limitting
+      3. Glomerular disease 30% children, 60% adults
+      4. Worse GN in children, worse outcomes in adults
       5. Adults typicaly more severe and relapsing disease
 ## **Pathophysiology**
  * IgAN
@@ -27,7 +27,7 @@
          - Production of poorly glycosylated IgA1 (Gd-Ig-A1)
          - Production Anti-Gd-IgA1 autoantibodies (anti-Gd-IgA1 autoantibodies)
          - Formation of Glomerular deposition of Immuncomplexes
-         - Deposition of circulating immunce complexes --> Mesangial, Podocyte, Endothelial inducing cytokine release, compliment activation, and inflammation causing injury
+         - Deposition of circulating immune complexes --> Mesangial, Podocyte, Endothelial inducing cytokine release, compliment activation, and inflammation causing injury
     4. Acute Lesion
          - Mesangial Hypercellularity
          - Endocapillary Hypercellularity
@@ -39,17 +39,17 @@
         - Global Sclerosis
         - Arteriosclerosis
  * Mest-C
-      1. T score: Most Consistent predictor of Renal Survival
-      2. M1, S1, T1/2: Worse outcomes, Regardless of Immunosupression status
-      3. E1 and C1: Poor out comes in patient not treated w/Immunosupression
-      4. C2: Predicitive of poor outcomes regardless of Immunosupression (not synonymous w/RPGN)
-      5. S1 w/podocytopathy: heavier proteinuria and Rapid eGFR loss --> Better response to steroids 
+      1. T score: Most Consistent predictor of renal survival
+      2. M1, S1, T1/2: Worse outcomes, regardless of immunosupression status
+      3. E1 and C1: Poor out comes in patient not treated with immunosupression
+      4. C2: Predicitive of poor outcomes regardless of immunosupression (not synonymous w/RPGN)
+      5. S1 w/podocytopathy: heavier proteinuria and rapid eGFR loss --> better response to steroids 
  * IgAV
       1. Systemic vasculities IgA1-dominant deposits
       2. IgA autoantibodies desposition in the small vessels affecting: skin, joints, intestines, and kidney (rarely affects lungs and CNS)
 ## **Clinical Presentation**
  * Hematuria
- * Proteinuria: Rarely > 3.5g/d
+ * Proteinuria: Rarely >3.5g/d
  * Edema
  * HTN
 ## **Diseases Associated with IgAN/IgAV**
@@ -99,7 +99,7 @@ flowchart TD
     • Methylprednisonolone: 0.4 mg/kg/day (max 32mg/day) for 2 months
  • Taper Methylpred by 4 mg/day for 6-9months
 • Can sub Methylpred for prednison: Methylprednisone 1mg = Prednisone 1.25mg
-• PJP ppx"] & n12@{ label: "• MMF: can be used as glucocorticoid sparring agent in Chinese patients only\n    • Hydroxychloroquine: For patients at high risk of progression inspite of supportive care
+• PJP ppx"] & n12@{ label: "• MMF: can be used as glucocorticoid sparring agent in Chinese patients only\n    • Hydroxychloroquine: For patients at high risk of progression in spite of supportive care
 in Chinese patients only\n   • Tonsillectomy: For Japanese patient's (not studied in any other group)" }
     n1@{ shape: rounded}
     n4@{ shape: rounded}
@@ -147,7 +147,7 @@ in Chinese patients only\n   • Tonsillectomy: For Japanese patient's (not stud
     1. Ravulizumab (Trial: I CAN)
 ### IgAV
   * No proven therapy at this time
-  * Age appropiate Malignancy Screening
+  * Age appropiate malignancy screening
   * Consider Glucocorticoid therapy
   * Supportive Therapy: RASi, Life style changes (diet, exercise, < 2g salt per day), SGLT2i
   * Recommend enrolling in clinical trials
