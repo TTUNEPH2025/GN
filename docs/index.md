@@ -1,6 +1,6 @@
 # **Welcome to the Glomerulonephritis Treatment Guide**
 ## **How to use this Guide**
-* Click on the Disease names to see detailed information
+* Click on the disease name to see detailed information
 * Use the search function to find specific information
 * Follow treatment algorithms and diagnostic flowcharts
 * All references are located at the bottom of each page and linked to supporting articles for review as desired
