@@ -5,30 +5,30 @@
 * Risk factors for progression: Male, >60 years of age, high levels of proteinuria, and elevated Cr levels
 * Two types: Primary and Secondary
 * Primary MN about 70% of cases, Secondaary about 30%
-* PLA2R antigen is most comming antigen in Primary MN
+* PLA2R antigen is most common antigen in Primary MN
 * Secondary MN: Autoimmune/CVD, Drug associated, Infection related, Malignancy
     1. Children < 16 years of age commonly: SLE, HBV, congenital syphilis
     2. Adults > 60 years of age commonly: Drug associated and Malignancy
 * Biopsy not required for diagnosis PLA2R positive Primary MN
 * Spontaneous Remission Relatively common (about 30% of Cases)
 * Transplant
-    1. occurs most frequently ~2 years post transplant
-    2. Is most commonly sub nephrotic 
+    1. occurs most frequently ~2 years post-transplant
+    2. Is most commonly sub-nephrotic 
 ## **Pathophysiology**
  * Pathology: Subepithelial deposits
-    1. Immuncomplex formation in situ of the subepitheial layers of the basement membrane
+    1. Immuncomplex formation in situ of the subepithelial layers of the basement membrane
     2. IgG granulated pattern on IF
     3. Well seen in EM and IF
     4. Spike formation and thickened Basement membrane 
- * Rarely Crescents --> if present should test instigate further testing: ANCA, ANA, Anti-GMB
+ * Rarely Crescents --> if present, should initiate further testing: ANCA, ANA, Anti-GMB
  * Primary MN Antigen association
     1. PLA2R: Most commen antigen/anti-body in Primary MN, anti-body testing excellent correleatio w/5-10 excess compaired to tissue staining
     2. THSD7A: No antibody testing available at this time, also found in secondary and should invoke age approiate cancer screenings
  * Secondary MN Antigen association
-    1. Exostosin 1/Exostosin 2 (EXT1/EXT2): ofent associated with Autimmune disease
+    1. Exostosin 1/Exostosin 2 (EXT1/EXT2): often associated with Autimmune disease
     2. NELL 1: most heterogenous of all antigens, associated in many disease states (drugs, malignancy, autoiummune, infection), should invoke age approiate cancer screenings
     3. THSD7A: can be associated with malignancy
-    4. NDNF: associaged with syphylsis
+    4. NDNF: associated with syphilsis
     5. PCSK6: NSAID
     6. Protocadherin 7: primary older patients, minimal complement activation and high rates of spontaneous remission
     7. FAT1: associated with stemcell transplant patients, progressive and can re-occur in allograft
@@ -39,7 +39,7 @@
  * Normotensive
  * Normal/perserved renal function
  * 50% of cases with microscopic hematuria
-## **Drugs and Diseases Associated with Membranous**
+## **Drugs and Diseases Associated with Membranous Nephropathy**
  * Drugs
     1. Gold salts
     2. Mercury (can occasionaly be found in creams meant to lighten skin)
@@ -68,7 +68,7 @@
     3. Sjogren
     4. Mixed connective tissues
     5. Graves
-    6. Hashimoto's
+    6. Hashimotos
  * Other
     1. Allogenic hematopoietic SCT
     2. IgG4RD
@@ -77,15 +77,15 @@
     5. Sarcoidosis
     6. Renal Vein Thrombosis 
 ## **Deffinitions of Treatment Response**
- * No formal definition of Resistent Disease currently accepted. Current guidelines put forth that patient's with persistent/increasing levles PLA2R ab after 1st round of immunotherapy be treated as Resistent
- * Resistance Disease in PLA2R negative patient's with primary MN is difficult to define
+ * No formal definition of Resistent Disease currently accepted. Current guidelines put forth that patients with persistent/increasing levles PLA2R ab after 1st round of immunotherapy be treated as Resistent
+ * Resistance Disease in PLA2R negative patients with primary MN is difficult to define
     1. Persistent Nephrotic Syndrome
     2. Or increased, but still reduced serum albumin levels as markers for resistent disease
   * Best Model for predicitive of response to treatment is PLA2R ab titer w/serum Albumin at 3months of treatment 
 ## **Treatment**
 ### General Information
  * It is reasonable to wait 6 months, while patient is on maximal anti-proteinuric therapy, before starting immunosupressive therapy due to high rates of spontaneous remission.
- * PLA2R-ab testing with ELIZA and/or IFA is cleared by FDA for aid in diagnosis only. Use for PLA2R-ab testing in monitoring is off lable use, though used extensively in guidline recomendations
+ * PLA2R-ab testing with ELISA and/or IFA is cleared by FDA for aid in diagnosis only. Use for PLA2R-ab testing in monitoring is off lalbe use, though used extensively in guidline recomendations
  * Proteinuria can persist for 12-24 months after start of treatment
  * High rates of thrombosis; [Prophylaxis page](Prophylaxis.md)
  * When to Biopsy
@@ -105,7 +105,7 @@ flowchart TD
     C --> n1["Renal Bx"]
     n1 --> n2["MN on Bx"]
     n2 --> n3["PLA2R ag Positive"] & n4["PLA2R ag Negative"]
-    n4 --> n5["Screen for contitions associated with MN"]
+    n4 --> n5["Screen for conditions associated with MN"]
     n3 --> n6["• RAS Blockade (ACEi/ARB)
     • BP Control (SBP&lt;120)
     • Low Salt Diet
@@ -115,13 +115,13 @@ flowchart TD
     • BP Control (SBP&lt;120)
     • Low Salt Diet
     • Diuretics/SGLT2i
-    • Statin"] & n8["Screen for contitions associated with MN"]
+    • Statin"] & n8["Screen for conditions associated with MN"]
     n7 --> n9["Monitor PLA2R ab every 3months for 6 months
     [High ab titers may (>150RU/mL) may require short testing internvals]"]
     n8 --> n9
     n9 --> n10["Stratify Risk Category: Low, Moderate, high, high risk"] & n11["• Life-threatening nephrotic syndrome
     or
-    • Rapid Deterioration of kidney function not otherwise explain"]
+    • Rapid Deterioration of kidney function not otherwise explained"]
     n11 --> n12[" • Can skip 3-6month waiting period and initate treatement with Cyclophosphamide + glucocortidcoids 
     • Consider Kidney biopsy"]
     B@{ shape: rounded}
@@ -160,11 +160,11 @@ config:
 ---
 kanban
   Low risk
-    docs[ • Normal eGFR, proteinuria <3.5g/d and serume albumin >30g/last
+    docs[ • Normal eGFR, proteinuria <3.5g/d and serum albumin >30g/last
     or
     • Normal eGFR, or a decrease >50% after 6 months of conserative therapy with ACEi/ARB]
   [Moderate Risk]
-    id6[• Normal eGFR, proteinuria, and no decrease >50% after 6 months of conserative therapy with ACEi/ARB
+    id6[• Normal eGFR, proteinuria, and no decrease >50% after 6 months of conservative therapy with ACEi/ARB
     and
     • Not fulfilling high-risk criteria ]
   [High risk]
@@ -209,9 +209,9 @@ config:
   theme: redux
 ---
 flowchart TD
-    n9["Monitor PLA2R ab every 3months for 6 months
-    [High ab titers may (>150RU/mL) may require short testing internvals]"] --> n10["Low Risk"] & n11["Moderate Risk"] & n12["High Risk"] & n13["Very High Risk"]
-    n11 --> n15["PLA2R ab negative/ Decreasing or low levles of ab"] & n16["Persistent/increasing PLA2R ab after 3-6months"]
+    n9["Monitor PLA2R ab every 3 months for 6 months
+    [High ab titers may (>150RU/mL) may require short testing intervals]"] --> n10["Low Risk"] & n11["Moderate Risk"] & n12["High Risk"] & n13["Very High Risk"]
+    n11 --> n15["PLA2R ab negative/ Decreasing or low levels of ab"] & n16["Persistent/increasing PLA2R ab after 3-6 months"]
     n15 --> n75["• Continue supportive therapy
     • Continue to monitor"]
     n12 --> n18["• Consider kidney Bx
@@ -244,7 +244,7 @@ flowchart TD
     • Cyclophosphamide + glucocorticoids --> DC cyclophosphamide taper glucocorticoids
     •CNI --> Taper CNI and glucocorticoids"] & n31["PLA2R ab Persistent"]
     n31 --> n32(["Resistent Disease"])
-    n27 --> n32 & n73["• Rituximab --> continue with Rituximab 2g (see treatment tabel)
+    n27 --> n32 & n73["• Rituximab --> continue with Rituximab 2g (see treatment table)
     • Cyclophosphamide + glucocorticoids --> Stop cyclophosphamide and taper glucocorticoids and start Rituximab
     •CNI --> Taper CNI and glucocorticoids and re-evaluate at 6 months"]
     n73 --> n74["Persistent PLA2R ab at 3 or 6 months"]
@@ -349,13 +349,13 @@ flowchart TD
 
 ---
 
- * Expert centers: may use more immunospuression; may trial bortezomib, anti-CD38 therapies, or Belimumab
+ * Expert centers: may use more immunosuppression; may trial bortezomib, anti-CD38 therapies, or Belimumab
  * Cumulative doses of Cyclosphosphamide should not exceed a total of 36g due to increased cancer risk
  * Cumulative doses of Cyclosphosphamide should not exceed a total of 10g in Females with concerns for fertility 
 preservation
 
-### Comming Therapies
- * Obinutuzumab vs tac in Majesty trial --> Primary partial complet date December 2025, Expected completion Date December 2027
+### Coming Therapies
+ * Obinutuzumab vs tac in Majesty trial --> Primary partial complete date December 2025, Expected completion Date December 2027
  * Combo therapy with short course cyclosporin and glucocorticoids with Rituximab
 ## **Sources**
 * [KDIGO GN Guidlines](https://kdigo.org/guidelines/gd/)
