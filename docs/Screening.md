@@ -1,6 +1,6 @@
 ## **Infectious Screening**
-* Screening should be based on indepented exposures based on patient history, geographic region, and occupations
-* Exhaustive list not provided; However, several infectious disease that may have benefit to screening prior to initiation of immunosupression are as follows:
+* Screening should be based on independant exposures based on patient history, geographic region, and occupations
+* Exhaustive list not provided; however, several infectious disease that may have benefit to screening prior to initiation of immunosupression are:
     1. Syphilis
     2. HIV
     3. Hepatitis B (HBV) --> if not treated prior to initiation of steroids or cytotix/immunomodulating agents can induce serious exacerbation of HBV replication and aggravate liver disease
@@ -8,10 +8,10 @@
     5. Quantiferon for TB screening
     6. Strongyloides Stercoralix for at risk individuals --> asymptomatic infection has potential to transform into lethal systemic disease after exposure to steroid therapy
 ## **Cancer Screening**
- * Risk of bladder cancer (and other cancers) is greater if the cumulative dose of cyclophosphamid exceeds 36g (about 500mg/kg in adults) in a patient's life time. Yearly urologic screening is recommended in high-risk individuals
+ * Risk of bladder cancer (and other cancers) is greater if the cumulative dose of cyclophosphamide exceeds 36g (about 500mg/kg in adults) in a patient's life time. Yearly urologic screening is recommended in high-risk individuals
  * Annual Dermatology exam
 ### Age specific malignancy screening
-* List of common malignancy screening, not comprenhensive, is as follows:
+* List of common malignancy screening, not comprehensive, is as follows:
  * Breast Cancer
     1. Women age 40-45 annual mammograms as patient wishes
     2. Women age 45-54 annual mammograms
@@ -28,15 +28,15 @@
     1.  Start screening with PSA at 50 years old
 ## **Other**
 * DEXA
-    1. KDIGO: recommended individual fracture risk assessment/bone mineral diase for prolonged steroid use
+    1. KDIGO: recommended individual fracture risk assessment/bone mineral disease for prolonged steroid use
     2. USPSTF: women over 65 years old and postmenopausal women youner than 65 with one or more risk factors for osteoporosis
-    3. Neither guidline give direct recommendations on time of DEXA scan need in setting of long term steroids though general consensus that prolonged treatment with glucocorticoids causes bone loss
-* Recommend pregancy testing for female patients of child bearing age prior to initation of most immunosupression medications
+    3. Neither guidline gives direct recommendations on time of DEXA scan need in setting of long term steroids though the general consensus is that prolonged treatment with glucocorticoids causes bone loss
+* Recommend pregancy testing for female patients of child bearing age prior to initation of most immunosuppression medications
 * Sparsentan
-    1. REMS: Requires monthly liver testing for first 12months of use and then every 3 months therafter
+    1. REMS: Requires monthly liver testing for first 12 months of use and then every 3 months thereafter
     2. Is a DEARA --> not recommended to take with ACEi/ARB
  * Avacopan
-    1. Can cause hepatic imparments, not recommed in patient with active, untreated, and/or uncotrolled Hep B, Hep C, or cirrhosis
+    1. Can cause hepatic impairments, not recommed in patient with active, untreated, and/or uncontrolled Hep B, Hep C, or cirrhosis
 ## **Sources**
   * [KDIGO GN Guidlines](https://kdigo.org/guidelines/gd/)
   * [USPSTF](https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/osteoporosis-screening#fullrecommendationstart)
