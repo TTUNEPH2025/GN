@@ -1,20 +1,20 @@
 ## **Anticoagulation**
 ### **General Information**
 * Risk of thrombosis is higher with patients with Nephrotic Syndrome than the general population
-* DVT and Renal Vein thrombosis are the most commen, with Pulmonary embolus common as well
+* DVT and Renal Vein thrombosis are the most common, with Pulmonary embolus common as well
 * Thrombotic events are most common with Membranous Nephropathy, but can occur with other Nephrotic diseases
 * Degree of Proteinuria and serum albumin are best predictors of thrombotic risk
-* Additional risk factors: prior thrombosis, gentic predisposition, antiphospholipid antibodies, immobility, obesity, maligangcy, pregnancy, or surgery
+* Additional risk factors: prior thrombosis, genetic predisposition, antiphospholipid antibodies, immobility, obesity, malignangcy, pregnancy, or surgery
 * Heparin and Warfarin are medications or choice for prophylaxis and/or treatment of thrombosis
-    1. No studies currently avaible comparing DOAC or LMW Heparin
+    1. No studies currently available comparing DOAC or LMW Heparin
     2. DOAC are heavily albumin-bound and dosing in low albumin states has not been studied
 ### **Anticoagulation in Nephrotic syndrome**
 * For thromboembolic events Full dose anticoagulation is required for 6-12 months and/or the duration of the nephrotic syndrome
     1. Venous thrombosis
     2. Arterial throbosis
     3. PE
-    4. Nonvalvular atrial Fibrillation
-* Prophylactic full dose anticoagulation should be consider if
+    4. Nonvalvular Atrial Fibrillation
+* Prophylactic full dose anticoagulation should be considered if
     1. Serum albumin < 20-25g/l
     2. BMI > 35 kg/m2
     3. Genetic disposition for thrombosis
@@ -22,7 +22,7 @@
     5. Recent orthopedic or abdominal surgery
     6. prolonged immobilization
 * Relative or absolute contraindications to prophylactic anticoagulation
-    1. Patient preference/abilit to adhere to medications
+    1. Patient preference/ability to adhere to medications
     2. Hx of bleeding
     3. CNS lesion prone to hemorrhage
     4. Genetic mutations influencing warfarin metabolism
@@ -38,7 +38,7 @@ flowchart TD
     n2["Estimate arterial thrombus risk"] --> n3["Framingam risk score, eGFR, diabetes, hx of arterial embolism"]
     C --> n19["Low bleeding risk"] & n20["High bleeding risk"]
     n3 --> n23["Risk > 20/1000 patient-year"] & n24["Risk &lt; 20/1000 patient-year"]
-    n5["No Warfarin"] --> n6["Aspirn"]
+    n5["No Warfarin"] --> n6["Aspirin"]
     n17 --> B
     n18 --> n1
     n19 --> n4["Warfarin"]
@@ -81,10 +81,10 @@ flowchart TD
 *[GN tool/Risk Calculator](https://www.med.unc.edu/gntools/bleedrisk.html)
 ## **Vaccinations**
  * Pneumococcal Vaccinatation
-   * Patient and entire house hold should recieve both 7vPCV and 23vPPV
-* Anual Influenza
-* Avoid all live Vaccinations (MMR, Varicella, rotavirus, yellow fever) should be deferred until prednisone dose is < 20mg/d or immunosuppressive agents have been stopped for at least 1-3months
-* Patient recieving complement antagonists should have
+   * Patient and entire household should recieve both 7vPCV and 23vPPV
+* Annual Influenza
+* All live Vaccinations (MMR, Varicella, rotavirus, yellow fever) should be deferred or avoided until prednisone dose is < 20mg/d or immunosuppressive agents have been stopped for at least 1-3 months
+* Patient recieving complement antagonists should have:
    * Menigococcal Conjugate Vacine
        1. depending the brand and age of patient may require 2,3, or 4 doses
        2. Booster dose every 5 years for the duration of complement inhibitor therapy
@@ -92,7 +92,7 @@ flowchart TD
        1. Requires 3 doses
        2. Booster doses one year after completion of series and every 2-3 years therafter for duration of complement inhibitor therapy
  * Shingrix vaccine is safe should be given to patient, but immunosuppression may reduce its efficacy
-## **Antibiotics in setting of Immunosupression**
+## **Antibiotics in setting of Immunosuppression**
  * Bactrim (TMP-SMX)
    * While patient on high dose prednisone or other immunosuppressive agents (rituximab, cyclophosphamide)
    * Atovaquone or pentamidine may be substituted for patient's with sulfa-allergy --> recommendation based on immunosuppressed patient w/out glomerular disease
