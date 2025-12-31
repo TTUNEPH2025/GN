@@ -3,7 +3,7 @@
   * MPGN
     1. Is a descripter of a pattern of injury that can be associated with different disease states
     2. Implies that the pathogenic process has been occuring for some time and other patterns of injury may present as well (endocapillary proliferative, mesangioproliferative, and crescent GN)
-    3. Historically had three classifications, but such nominclature/classification has fallen out of favor due to rise of immunflorscent staining increase in understanding of how the injury occurs
+    3. Historically had three classifications, but such nomenclature/classification has fallen out of favor due to rise of immunfluorscent staining, and an increase in knowledege and understanding of how the injury occurs
   * Cases of MPGN w/sole or dominant C3/C4 staining are classified as primary GN
   * C3 glomerulopathy is a rare entity that commenly presents in an MPGN pattern of injury and can be delinated in to two categories: C3 glmerulonephritis (C3GN) and Dense Deposition Disease (DDD)
     1. C3GN
