@@ -86,12 +86,12 @@ flowchart TD
 * All live Vaccinations (MMR, Varicella, rotavirus, yellow fever) should be deferred or avoided until prednisone dose is < 20mg/d or immunosuppressive agents have been stopped for at least 1-3 months
 * Patient recieving complement antagonists should have:
     * Menigococcal Conjugate Vacine
-        1. depending the brand and age of patient may require 2,3, or 4 doses
+        1. Depending the brand and age of patient may require 2, 3, or 4 doses
         2. Booster dose every 5 years for the duration of complement inhibitor therapy
     * Serogroup B menigococcal Vaccine
         1. Requires 3 doses
         2. Booster doses one year after completion of series and every 2-3 years therafter for duration of complement inhibitor therapy
- * Shingrix vaccine is safe should be given to patient, but immunosuppression may reduce its efficacy
+    * Shingrix vaccine is safe should be given to patient, but immunosuppression may reduce its efficacy
 ## **Antibiotics in setting of Immunosuppression**
  * Bactrim (TMP-SMX)
    * While patient on high dose prednisone or other immunosuppressive agents (rituximab, cyclophosphamide)
