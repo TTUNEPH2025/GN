@@ -199,7 +199,7 @@ config:
   theme: redux
 ---
 flowchart TB
-    A(["LN + LN on Bx"]) --> n1["Obtain the following
+    A(["TMA + LN on Bx"]) --> n1["Obtain the following
     • ADAMTS13 activity
     • Antibody to ADAMTS13
     • Antiphospholipid Antibody
