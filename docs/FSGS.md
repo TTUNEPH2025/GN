@@ -9,6 +9,15 @@
       3. Perihilar
       4. Cellular
   * One of the most common forms of glomerular dx worldwide and is the leading cause of kidney failure in the US
+  * FSGS vs Focal global glomerulosclerosis (global glomerulosclerosis)
+    1. Global Glomerulosclerosis:
+       - frequently a sign of normal aging and or HTN.
+       - Typically seen in Older adults
+       - Glomerulomegally usually absent with minimal or no foot process effacement in unaffected glomeruli
+    3. FSGS:
+       - typically involves entire glomerulare tufts with
+       - tubulointerstitial fibrosis and vascular sclerosis
+       - Glomerulomegally present 
 ## **Pathophysiology** 
   * Primary: Circulating permeability factors yet to be identified
      1. Pathology: Focal segmental glomerulosclerosis and foot process effacement (may be diffuse or variable, thought primary disease is typically diffuse with 80% or greater of glomeruli)
