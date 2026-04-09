@@ -3,16 +3,22 @@
   * Most common cause of Nephrotic Syndrome in U.S.
   * Three types: Idiopathic, Secondary, and Genetic
   * Idiopathic can reoccur in transplant patients (typically rapid course in the first months)
-  * Patients with APOL1 varient: increased incidence of FSGS typical lesions and collapsing lesions 
+  * Patients with APOL1 varient: increased incidence of FSGS typical lesions and collapsing lesions
+      1. Collapsing
+      2. TIP
+      3. Perihilar
+      4. Cellular
+  * One of the most common forms of glomerular dx worldwide and is the leading cause of kidney failure in the US
 ## **Pathophysiology** 
-  * Primary: Circulating permeability factors yet to identified
-     1. Pathology: Focal segmental glomerulosclerosis and foot process effacement (may be diffuse or variable)
+  * Primary: Circulating permeability factors yet to be identified
+     1. Pathology: Focal segmental glomerulosclerosis and foot process effacement (my be diffuse or variable, thought primary disease is typically diffuse with 80% or greater of glomeruli)
      2. Re-occurs in transplant patients
      3. Responds to plasmapheresis in transplant patient
-  * Secondary: has a known cause
+  * Secondary: typically has a known cause 
      1. Pathology: FSGS lesions, with or without  foot process effacement
-     2. Adaptive changes to glomerular hyperfiltration typicallly in the setting of reduced nephron mass (low birth weight, reflux nephropathy, renal dysplasia secondary to other renal disease)
-     3. Direct podocyte injury: HIV, Parvo, ect. 
+        - subtotal/partial podocyte foot process effacemtn (<80% on EM plus or minus glomerulomegaly if hyperfiltration)
+     3. Adaptive changes to glomerular hyperfiltration typicallly in the setting of reduced nephron mass (low birth weight, reflux nephropathy, renal dysplasia secondary to other renal disease)
+     4. Direct podocyte injury: HIV, Parvo, ect. 
   * Genetic
      1. Mutations in podocyte or glomular basement membrane
      2. Not routinely tested in adults
