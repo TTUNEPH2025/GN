@@ -223,6 +223,7 @@ flowchart TD
 * [Efficacy and Safety of Sparsentan in patients with FSGS](https://journals.lww.com/jasn/fulltext/2018/11000/duet__a_phase_2_study_evaluating_the_efficacy_and.17.aspx)
 * [Differentiating primary, genetic, and secondary FSGS in adults](https://journals.lww.com/jasn/fulltext/2018/03000/differentiating_primary,_genetic,_and_secondary.8.aspx)
 * [FSGS clincal trial on treatment of steroid-resistant FSGS](https://academic.oup.com/ndt/article-abstract/28/3/527/1815080?redirectedFrom=fulltext)
+* [UptoDate](https://www-uptodate-com.ezproxy.ttuhsc.edu/contents/focal-segmental-glomerulosclerosis-clinical-features-and-diagnosis?search=FSGS%20vs%20global%20glomerular%20sclerosis&sectionRank=1&usage_type=default&anchor=H2342039964&source=machineLearning&selectedTitle=1~150&display_rank=1#H2342039964)
 
 ---
 *Last updated: 9/2025 by Ashley Kinder, D.O.*
