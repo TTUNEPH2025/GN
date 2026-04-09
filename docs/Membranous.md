@@ -1,22 +1,26 @@
 # **Membranous Nephropathy (MN)**
 ## **Overview**
 * Occurs in all ages, but most common in ages 30-60 years old
-* Male:Female ratio 2:1
+* Most common cause of nephrotic syndrome in middle aged and older adults
+* Male:female ratio 2:1
 * Risk factors for progression: Male, >60 years of age, high levels of proteinuria, and elevated Cr levels
-* Two types: Primary and Secondary
-* Primary MN about 70% of cases, Secondaary about 30%
-* PLA2R antigen is most common antigen in Primary MN
-* Secondary MN: Autoimmune/CVD, Drug associated, Infection related, Malignancy
+* Two types: primary and secondary
+* Primary MN about 70% of cases, secondary about 30%
+* PLA2R antigen is most common antigen in primary MN (70%)
+  1. followed by NELL-1 and THSD7A
+* Secondary MN: Autoimmune/CVD, drug associated, infection related, malignancy
     1. Children < 16 years of age commonly: SLE, HBV, congenital syphilis
-    2. Adults > 60 years of age commonly: Drug associated and Malignancy
-* Biopsy not required for diagnosis PLA2R positive Primary MN
-* Spontaneous Remission Relatively common (about 30% of Cases)
+    2. Adults > 60 years of age commonly: drug associated and malignancy
+* Biopsy not required for diagnosis PLA2R positive primary MN
+* Spontaneous remission relatively common (about 30% of cases)
 * Transplant
     1. occurs most frequently ~2 years post-transplant
-    2. Is most commonly sub-nephrotic 
+    2. Occurs in 30% at a median of 10 years
+    3. Is most commonly sub-nephrotic
+    4. Graft failure is uncommon
 ## **Pathophysiology**
  * Pathology: Subepithelial deposits
-    1. Immuncomplex formation in situ of the subepithelial layers of the basement membrane
+    1. The immunecomplex formation in situ of the subepithelial layers of the basement membrane
     2. IgG granulated pattern on IF
     3. Well seen in EM and IF
     4. Spike formation and thickened Basement membrane 
