@@ -18,18 +18,19 @@
     2. Occurs in 30% at a median of 10 years
     3. Is most commonly sub-nephrotic
     4. Graft failure is uncommon
+    5. Recurrent disease treatment usually includes Rituximab 
 ## **Pathophysiology**
  * Pathology: Subepithelial deposits
-    1. The immunecomplex formation in situ of the subepithelial layers of the basement membrane
+    1. The immunecomplex is mostly formed in situ by circulating auto-ab targeting podocyte antigens and inducing complement activation. IgG deposits in the subepithelial layers of the basement membrane or intramembranous
     2. IgG granulated pattern on IF
     3. Well seen in EM and IF
-    4. Spike formation and thickened Basement membrane 
+    4. Thickend basement membran w/spikes (can appear normal in early stages of disease)
  * Rarely Crescents --> if present, should initiate further testing: ANCA, ANA, Anti-GMB
- * Primary MN Antigen association
-    1. PLA2R: Most commen antigen/anti-body in Primary MN, anti-body testing excellent correleatio w/5-10 excess compaired to tissue staining
-    2. THSD7A: No antibody testing available at this time, also found in secondary and should invoke age approiate cancer screenings
- * Secondary MN Antigen association
-    1. Exostosin 1/Exostosin 2 (EXT1/EXT2): often associated with Autimmune disease
+ * Primary MN antigen association
+    1. PLA2R: most commen antigen in primary MN
+    2. THSD7A: also found in secondary and should invoke age approiate cancer screenings
+ * Secondary MN Antigen association (over 30 target antigens account for >90% of MN cases)
+    1. Exostosin 1/Exostosin 2 (EXT1/EXT2): often associated with autoimmune disease
     2. NELL 1: most heterogenous of all antigens, associated in many disease states (drugs, malignancy, autoiummune, infection), should invoke age approiate cancer screenings
     3. THSD7A: can be associated with malignancy
     4. NDNF: associated with syphilsis
