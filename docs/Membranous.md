@@ -33,17 +33,17 @@
     1. Exostosin 1/Exostosin 2 (EXT1/EXT2): often associated with autoimmune disease
     2. NELL 1: most heterogenous of all antigens, associated in many disease states (drugs, malignancy, autoiummune, infection), should invoke age approiate cancer screenings
     3. THSD7A: can be associated with malignancy
-    4. NDNF: associated with syphilsis
+    4. NDNF: associated with syphilis
     5. PCSK6: NSAID
-    6. Protocadherin 7: primary older patients, minimal complement activation and high rates of spontaneous remission
+    6. Protocadherin 7 (PCHD7): primary older patients, minimal complement activation and high rates of spontaneous remission
     7. FAT1: associated with stemcell transplant patients, progressive and can re-occur in allograft
     8. Semaphorin 3b: pediatric patients w/onset <2 years old
- * Most common Secondary MN found in SLE patients
+ * Most common secondary MN found in SLE patients
 ## **Clinical Presentation**
  * Proteniuria --> 75% of cases fully nephrotic
- * Normotensive
  * Normal/perserved renal function
- * 50% of cases with microscopic hematuria
+ * 50% of cases with microscopic hematuria and HTN
+ * Thromboembolism occurs in 7%, mostly in the first 6 months
 ## **Drugs and Diseases Associated with Membranous Nephropathy**
  * Drugs
     1. Gold salts
@@ -51,12 +51,12 @@
     3. Penicillamine
     4. Bucillamin
     5. Catopril (sulfhydryl group)
-    6. Lipoic Acid (found in supplaments)
+    6. Lipoic acid (found in supplaments)
     7. NSAID (assoicated with PCSK6 antigen)
     8. Tiopronin
     9. Trimethadione
  * Malignancy
-    1. Mainly Carcinomas
+    1. Mainly carcinomas
     2. MC lung (highly associated with older patients who have a smoking history)
     3. GI 
     4. Prostate 
@@ -78,26 +78,27 @@
     1. Allogenic hematopoietic SCT
     2. IgG4RD
     3. Guillain Barre
-    4. Chronic inflammatory Demyelinatio polyneuropathy (CIDP)
+    4. Chronic inflammatory demyelinatio polyneuropathy (CIDP) (associated with CNTN1 Ag)
     5. Sarcoidosis
-    6. Renal Vein Thrombosis 
+    6. Renal vein thrombosis 
 ## **Deffinitions of Treatment Response**
- * No formal definition of Resistent Disease currently accepted. Current guidelines put forth that patients with persistent/increasing levles PLA2R ab after 1st round of immunotherapy be treated as Resistent
- * Resistance Disease in PLA2R negative patients with primary MN is difficult to define
-    1. Persistent Nephrotic Syndrome
+ * No formal definition of resistent disease currently accepted. Current guidelines put forth that patients with persistent/increasing levels of PLA2R ab after 1st round of immunotherapy be treated as resistent
+ * Resistance disease in PLA2R negative patients with primary MN is difficult to define
+    1. Persistent nephrotic syndrome
     2. Or increased, but still reduced serum albumin levels as markers for resistent disease
-  * Best Model for predicitive of response to treatment is PLA2R ab titer w/serum Albumin at 3months of treatment 
+  * Best model for predicitive of response to treatment is PLA2R ab titer w/serum albumin at 3 months of treatment 
 ## **Treatment**
 ### General Information
- * It is reasonable to wait 6 months, while patient is on maximal anti-proteinuric therapy, before starting immunosupressive therapy due to high rates of spontaneous remission.
- * PLA2R-ab testing with ELISA and/or IFA is cleared by FDA for aid in diagnosis only. Use for PLA2R-ab testing in monitoring is off lalbe use, though used extensively in guidline recomendations
+ * It is reasonable to wait 6 months, while patient is on maximal anti-proteinuric therapy, before starting immunosupressive therapy due to high rates of spontaneous remission. (30% with in 6 months)
+ * PLA2R-ab testing with ELISA and/or IFA is cleared by FDA for aid in diagnosis only. Use for PLA2R-ab testing in monitoring is off lable use, though used extensively in guidline recomendations
  * Proteinuria can persist for 12-24 months after start of treatment
  * High rates of thrombosis; [Prophylaxis page](Prophylaxis.md)
- * When to Biopsy
+ * When to biopsy (the gold standard of diagnosis)
     1. Unusual clinical course; rapid decrease in eGFR
     2. Serological abnormalities (positive ANA, ect.)
     3. Unresponsive to immunosuppressive therapy and progressive kidney injury
     4. Persistent nephrotic syndrome despite disappearance of PLA2Rab
+    5. eGFR < 60
 ### Initial Investigation and Management
 ```mermaid
 ---
