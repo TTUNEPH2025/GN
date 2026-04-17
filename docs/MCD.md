@@ -22,9 +22,9 @@
 
 |Clinical manifestation|Adults|Children|
 |---------|------|--------|
-|NS|&check;|:heavy_check_mark:|
-|AKI at presentation|:heavy_check_mark:|rare|
-|HTN|:heavy_check_mark:|rare|
+|NS|&check;|&check;|
+|AKI at presentation|&check;|rare|
+|HTN|&check;|rare|
 |Hematuria|25% of pt|not present|
 
 ## **Some Drugs and Disease Associated with MCD**
