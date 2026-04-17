@@ -19,11 +19,14 @@
  * Hypoalbuminemia
  * Hypercholesterolemia
  * AKI on presentation frequently
-```
+
 |Clinical manifestation|Adults|Children|
 |---------|------|--------|
-|NS|x|x|
-```
+|NS|:heavy_check_mark:|:heavy_check_mark:|
+|AKI at presentation|:heavy_check_mark:|rare|
+|HTN|:heavy_check_mark:|rare|
+|Hematuria|25% of pt|not present|
+
 ## **Some Drugs and Disease Associated with MCD**
  * Lithium
  * NSAIDS
