@@ -27,17 +27,18 @@
     4. Thickend basement membran w/spikes (can appear normal in early stages of disease)
  * Rarely Crescents --> if present, should initiate further testing: ANCA, ANA, Anti-GMB
  * Primary MN antigen association
-    1. PLA2R: most commen antigen in primary MN
+    1. PLA2R: most commen antigen in primary MN; has >90% specificity
     2. THSD7A: also found in secondary and should invoke age approiate cancer screenings
  * Secondary MN Antigen association (over 30 target antigens account for >90% of MN cases)
-    1. Exostosin 1/Exostosin 2 (EXT1/EXT2): often associated with autoimmune disease
-    2. NELL 1: most heterogenous of all antigens, associated in many disease states (drugs, malignancy, autoiummune, infection), should invoke age approiate cancer screenings
-    3. THSD7A: can be associated with malignancy
-    4. NDNF: associated with syphilis
-    5. PCSK6: NSAID
-    6. Protocadherin 7 (PCHD7): primary older patients, minimal complement activation and high rates of spontaneous remission
-    7. FAT1: associated with stemcell transplant patients, progressive and can re-occur in allograft
-    8. Semaphorin 3b: pediatric patients w/onset <2 years old
+    1. Exostosin 1/Exostosin 2 (EXT1/EXT2): often associated with autoimmune disease (Lupus nephritis)
+    2. NELL 1: most heterogenous of all antigens, associated in many disease states (drugs: mercury, lipoic acid; malignancy: prostate, breast, lung, kidney; autoiummune;infection), should invoke age approiate cancer screenings
+    3. THSD7A: can be associated with malignancy (typically GI/GU cancers)
+    4. PCHD7: can be associated with malignancy (typically endometrial cancer)
+    5. NDNF: associated with syphilis
+    6. PCSK6: NSAID
+    7. Protocadherin 7 (PCHD7): primary older patients, minimal complement activation and high rates of spontaneous remission
+    8. FAT1: associated with stemcell transplant patients, progressive and can re-occur in allograft
+    9. Semaphorin 3b: pediatric patients w/onset <2 years old
  * Most common secondary MN found in SLE patients
 ## **Clinical Presentation**
  * Proteniuria --> 75% of cases fully nephrotic
@@ -86,7 +87,11 @@
  * Resistance disease in PLA2R negative patients with primary MN is difficult to define
     1. Persistent nephrotic syndrome
     2. Or increased, but still reduced serum albumin levels as markers for resistent disease
-  * Best model for predicitive of response to treatment is PLA2R ab titer w/serum albumin at 3 months of treatment 
+  * Best model for predicitive of response to treatment is PLA2R ab titer w/serum albumin at 3 months of treatment
+  * Testing for PLA2R
+    1. Western blot: Most sensitive, not commercially available
+    2. Elisa Assay: Least senisitive, lowest cut off value of 14ru/mL
+    3. Immunofluorscence: reported as positivity (+/-, +, ++, +++) or semiquantitative scores based on dilution (1/10, 1/100, 1/320, 1/1000) 
 ## **Treatment**
 ### General Information
  * It is reasonable to wait 6 months, while patient is on maximal anti-proteinuric therapy, before starting immunosupressive therapy due to high rates of spontaneous remission. (30% with in 6 months)
