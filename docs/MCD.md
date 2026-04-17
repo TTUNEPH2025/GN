@@ -30,11 +30,17 @@
 ## **Some Drugs and Disease Associated with MCD**
  * Lithium
  * NSAIDS
- * Antibiotics
+ * Antibiotics (ampicillin, rifampin, cephalosporins, sulfasalazine)
+ * Immune checkpoitn inhibitors
+ * Pamidronate
  * Lymphoma
  * HIV
  * Hep C
  * Syphilis
+ * Lyme (borreliosis)
+ * Mycoplasma
+ * Ehrlichiosis
+ * Echinococcus
 ## **Definitions of Treatment Response**
  * Complete remission
     1. Reduction of proteinuria to <0.3g/d or PCR <300mg/g, stable serum creatine and serum albumin >3.5g/dl
