@@ -21,8 +21,8 @@
  * AKI on presentation frequently
 ```
 |Clinical manifestation|Adults|Children|
-|----------------------|------|--------|
-|NS| heavy_check_mark|heavy_check_mark|
+|---------|------|--------|
+|NS|x|x|
 ```
 ## **Some Drugs and Disease Associated with MCD**
  * Lithium
