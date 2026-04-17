@@ -5,15 +5,17 @@
  * Steroid responsiveness demonstrates good long term prognosis
  * Adults typically have slower response than children
  * Up to 33% of patients will be frequent relapsers (11-29%), or steroid dependent (14-30%)
- * 50-75% glucocorticoid-repsonsive adusl
+ * 50-75% glucocorticoid-repsonsive adults will have a relapse
+ * Most relapses occur with in 1 year after steroids have be tapered/DC
+ * Relapse may be triggered by allergies or infections (esp viral)
 ## **Pathophysiology** 
  * Pathogensis currently unclear; however, it is thought that T-cell dysregululation may play a part in podocyte injury. Improvement with B cell-depleting medications support a role for B cells as well
  * Pathology: Podocyte foot process effacement on LM and EM
  * In adults MCD may be superimposed on pre-existing chronic lesions
- * Antibiodies to Nephrine may be associated with podocyte injury in MCD and FSGS, though still under study at this time
+ * Antibiodies to nephrine may be associated with podocyte injury in MCD and FSGS, though still under study at this time
 ## **Clinical Presentation**
  * Nephrotic range proteinuria --> typically large amount of protein in urine, in the range of 10g/g
- * Signs of Volume overload. (e.g lower extremty edema, peri-orbital edema, ect.)
+ * Signs of volume overload. (e.g lower extremty edema, peri-orbital edema, ect.)
  * Hypoalbuminemia
  * Hypercholesterolemia
  * AKI on presentation frequently
