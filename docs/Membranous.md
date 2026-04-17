@@ -230,7 +230,7 @@ kanban
     5. Remission rate at 2 years is about 20-40%
     6. Relapse rate at 2-3 years 12%
   * Rituximab + tacrolimus
-    1. Tacrolimus 0.05 mg/kg/day for 6 months followed by a 6 months taper + Rituximab 1g at iniatiation of treatment and again at 6 months
+    1. Tacrolimus 0.05 mg/kg/day for 6 months followed by a 6 months taper + Rituximab 1g at 6 months [STARMAN TRIAL](https://www.kidney-international.org/action/showPdf?pii=S0085-2538%2820%2931251-5)
     2. Total duration of treatment 1 year
     3. Remission rate at 2 years is about 58%
     4. Relapse rate at 2-3 years is about 12%
