@@ -1,10 +1,11 @@
 # **Minimal Change Disease (MCD)** 
 ## **Overview**
- * Previously known as lipiod Nephrosis, nil disease, and minimal change nephropathy
- * Podocytopathy most commenly seen in children; seen with 10-25% of Adults with Nephrotic syndrome
+ * Previously known as lipiod nephrosis, nil disease, and minimal change nephropathy
+ * Podocytopathy most commonly seen in children
  * Steroid responsiveness demonstrates good long term prognosis
  * Adults typically have slower response than children
- * Relapses infrequent after remission, Up to 33% of patients will be frequent relapsers (11-29%), or steroid dependent (14-30%) 
+ * Up to 33% of patients will be frequent relapsers (11-29%), or steroid dependent (14-30%)
+ * 50-75% glucocorticoid-repsonsive adusl
 ## **Pathophysiology** 
  * Pathogensis currently unclear; however, it is thought that T-cell dysregululation may play a part in podocyte injury. Improvement with B cell-depleting medications support a role for B cells as well
  * Pathology: Podocyte foot process effacement on LM and EM
