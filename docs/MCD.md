@@ -22,7 +22,7 @@
 
 |Clinical manifestation|Adults|Children|
 |---------|------|--------|
-|NS|:heavy_check_mark:|:heavy_check_mark:|
+|NS|&check;|:heavy_check_mark:|
 |AKI at presentation|:heavy_check_mark:|rare|
 |HTN|:heavy_check_mark:|rare|
 |Hematuria|25% of pt|not present|
