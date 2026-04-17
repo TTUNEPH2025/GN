@@ -195,24 +195,45 @@ kanban
     • Rapid deterioration of kidney function not otherwise explained]
 ```
 ### Treatment Regimens 
- * Cyclophosphamide (cyclical)(Modified ponticell)
+ * Cyclophosphamide (cyclical)(Modified ponticell) + Gllucocorticoids 
     1. Methylprednisolone 1g IV for 3 consecutive days at start of Month 1, 3, and 5
     2. Prednisone 0.5mg/kg/day in months 1, 3, 5, after finishing doses of methylprednisolone
     3. Cyclophosphamide 2.5mg/kg day in months 2, 4, and 6
+    4. Total duration of treatment 6 months
+    5. Remission rate at 2 years is about 70-90%
+    6. Relapse rate at 2-3 years is about 10-20%
  * Cyclophosphamide (continuous)
     1. Methylprednisolone 1g IV for 3 consecutive days at start of Month 1, 3, and 5
     2. Prednisone 0.5mg/kg/day every other day in months 1-6
     3. Cyclophophosphamide 1.5mg/kg/day in months 1-6
+    4. Total duration of 6 months
+    5. Remission rate at 2 years is about 70-90%
+    6. Relapse rate at 2-3 years is about 10-20%
  * Rituximab
-    1. Rituximab 1g IV administered twice w/in 2 weeks or
-    2. Rituximab 375mg/m2 given 1-4 times at weekly intervals 
+    1. Rituximab 1g IV administered twice w/in 2 weeks (eg. day 1 + 14)
+       - +/- optional dose at 6 months if proteinuria is down >25% 
+    3. Or Rituximab 375mg/m2 given 1-4 times at weekly intervals
+    4. Remission rate at 2 years is about 6-85%
+    5. Relapse at about 2-3 years rate 5-10%
  * Tacrolimus
     1. Tacrolimus 0.05-0.1mg/kg/day
     2. Target trough 3-8ng/mL(3.7-9.9nmol/l)
-    3. Duration of 12 months
+    3. Duration of 12 months followed by a 6 month taper
+    4. Total duration of treatement 12-18 months
+    5. Remission rate at 2 years is about 30%
+    6. Relapse rate at 2-3 years is about 50%
  * Cyclosporine
     1. Cyclosporine 3.5mg/kg/day
     2. Target trough level 125-225 ng/ml (104-187nmol/l)
+    3. Duration for 6 months plus another 6 months if proteinuria is down by >25%
+    4. Total duration of treatement 1 year
+    5. Remission rate at 2 years is about 20-40%
+    6. Relapse rate at 2-3 years 12%
+  * Rituximab + tacrolimus
+    1. Tacrolimus 0.05 mg/kg/day for 6 months followed by a 6 months taper + Rituximab 1g at iniatiation of treatment and again at 6 months
+    2. Total duration of treatment 1 year
+    3. Remission rate at 2 years is about 58%
+    4. Relapse rate at 2-3 years is about 12%
 ### Initial immunosupressive therapy
 ```mermaid
 ---
@@ -242,7 +263,7 @@ flowchart TD
     n18 --> n24["Measure PLA2R ab at 3 or 6 months
     (Most patient start responding at 3 months of therapy)"]
     n19 --> n24
-    n22 --> n24
+    n22 --> n2420%
     n24 --> n26["PLA2R ab Present, but low or decreasing"] & n27["PLA2R ab Persistent"] & n28["**PLA2R ab negative**
     • supportive therapy
     • Rituximab --> no additional tx
