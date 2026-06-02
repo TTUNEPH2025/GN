@@ -7,14 +7,16 @@
     3. Malignancy
     4. IV drug use
     5. Synthetic heart valves
-  * Diabetics with diabetic npehropathy typically have poor renal prognosis
+    6. Malnutrition
+    7. Immunosuppressed 
+  * Diabetics with diabetic nephropathy typically have poor renal prognosis
   * Strep and staph make up about 12-24%
   * Gram negative about 10% of infections
-  * Not all infections are clinically evident in abotu 10-20% of patients (in US and Europe)
-  * Post-Streptoccal GN
+  * Not all infections are clinically evident in about 10-20% of patients (in US and Europe)
+  * Post-streptoccal GN
     1. Typicallly children and young adults
     2. Male:female --> 2-3:1
-    3. Most common acute GN infection in children and much high incidence in resource limited countries
+    3. Most common acute GN infection in children and much higher incidence in resource limited countries
     4. Has a latency period of 10-21 days before evidence of GN
     5. Recurrence rare
     6. Prognosis: typically all improve
