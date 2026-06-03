@@ -26,7 +26,8 @@
     6. Prognosis: typically all improve
 ## **Pathophysiology**
   * Mechanism
- ```mermaid 
+ ```mermaid
+
 ---
 config:
   theme: redux
@@ -53,6 +54,7 @@ flowchart TB
     style n4 fill:#FFCDD2,text-align:left,white-space:nowrap
     style n5 fill:#BBDEFB,text-align:left,white-space:nowrap
 ```
+
   * Multiple histologic patterns seen
     1. Mesangial proliferative (often found in resolving injury)
     2. Focal proliferative
