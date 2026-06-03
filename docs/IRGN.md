@@ -46,12 +46,12 @@ flowchart TB
     n3@{ shape: rounded}
     n4@{ shape: rounded}
     n5@{ shape: rounded}
-    style A color:#000000,fill:#FFCDD2,text-align:left
-    style n1 fill:#BBDEFB,text-align:left
-    style n2 fill:#BBDEFB,text-align:left
+    style A color:#000000,fill:#FFCDD2,text-align:left,stroke:#000000
+    style n1 fill:#BBDEFB,text-align:left,stroke:#000000
+    style n2 fill:#BBDEFB,text-align:left,stroke:#000000
     style n3 stroke:#000000,fill:#FFCDD2,text-align:left,white-space:nowrap
-    style n4 fill:#FFCDD2,text-align:left,white-space:nowrap
-    style n5 fill:#BBDEFB,text-align:left,white-space:nowrap
+    style n4 fill:#FFCDD2,text-align:left,white-space:nowrap,stroke:#000000
+    style n5 fill:#BBDEFB,text-align:left,white-space:nowrap,stroke:#000000
 ```
 
   * Multiple histologic patterns seen
