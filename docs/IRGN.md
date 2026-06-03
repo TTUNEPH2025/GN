@@ -65,7 +65,9 @@ flowchart TB
     2. Low serum complement (primary low C3)
     3. Exudative GN
     4. C3 dominent or co-dominent on IF (Immunofluorescence)
-    5. Hump-shaped subepithelial on EM (Electron Microscopy)
+       * IF: coarsely granular mesangial and glomerular wall staining ("starry sky pattern"); full house rarrly occurs
+    6. Hump-shaped subepithelial on EM (Electron Microscopy)
+       *small mesangial, subendothelial, and/or intramembranous deposits (not common in adult IRGN)
   * Post-Streptoccal GN
     1. typically low C3 levels in ~90% of patients
     2. Throat or skin culture positive in about 25% of cass
