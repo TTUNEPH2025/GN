@@ -25,6 +25,35 @@
     5. Recurrence rare
     6. Prognosis: typically all improve
 ## **Pathophysiology**
+  * Mechanism
+ ```
+Mermaid 
+---
+config:
+  theme: redux
+  layout: dagre
+---
+flowchart TB
+    A["Glomerular deposition of circulating immune complexes antibodies form against bacterial antigens"] --> n1["Activate Complement"]
+    n1 --> n2["Leukocyte infiltration, cytokin release, proliferation of mesangial and endothelial cells"]
+    n3["In situe formation"] --> n1
+    n4["In situ localization of bacterial antigens w/out antibodies"] --> n1
+    n2 --> n5["• Subendothelia/Supepithelia deposits
+    • GBM Damage"]
+
+    A@{ shape: rounded}
+    n1@{ shape: rounded}
+    n2@{ shape: rounded}
+    n3@{ shape: rounded}
+    n4@{ shape: rounded}
+    n5@{ shape: rounded}
+    style A color:#000000,fill:#FFCDD2,text-align:left
+    style n1 fill:#BBDEFB,text-align:left
+    style n2 fill:#BBDEFB,text-align:left
+    style n3 stroke:#000000,fill:#FFCDD2,text-align:left,white-space:nowrap
+    style n4 fill:#FFCDD2,text-align:left,white-space:nowrap
+    style n5 fill:#BBDEFB,text-align:left,white-space:nowrap
+```
   * Multiple histologic patterns seen
     1. Mesangial proliferative (often found in resolving injury)
     2. Focal proliferative
