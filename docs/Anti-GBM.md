@@ -1,16 +1,16 @@
 # **Anti-Glomerular Basement Membrane (Anti-GBM)**
 ## **Overview**
-  * Rapidly progressive Crescent GN
+  * Rapidly progressive crescent GN
     1. 95% of patients present with crescents
   * One wave of acute injury
   * Incidence of 0.5-1 per million
   * Equal Male:Female ratio
   * Most common in Caucasians and older Asians 
-  * Occurs as isolated kidney disease or Pulm-renal syndrome (Goodpasture's)
+  * Occurs as isolated kidney disease or pulm-renal syndrome (Goodpasture's)
     1. 40-60% of patient have alveolar invovlement --> predomintly young males with pulm and renal involvement
     2. Alveolar involvement more likely with smokers 
-  * Biphasic distribution: 20-30's and 60-70
-  * Typically do no flare after treatment from disease
+  * Biphasic distribution: 20-30s and 60-70s
+  * Typically do no flare after treatment from disease (<3%)
      1. If flare occurs should conisder ANCA associated disease
   * Timming of treatment matters --> early treament the better
   * Prior to immunosupression therapy had a 96 mortality rate which has dropped to 47 with immunosupression therapy
