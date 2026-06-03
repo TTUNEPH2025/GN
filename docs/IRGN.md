@@ -27,7 +27,6 @@
 ## **Pathophysiology**
   * Mechanism
  ```mermaid
-
 ---
 config:
   theme: redux
