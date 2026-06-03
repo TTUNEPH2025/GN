@@ -26,8 +26,7 @@
     6. Prognosis: typically all improve
 ## **Pathophysiology**
   * Mechanism
- ```
-Mermaid 
+ ```mermaid 
 ---
 config:
   theme: redux
