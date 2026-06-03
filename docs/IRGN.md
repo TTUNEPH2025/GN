@@ -13,6 +13,10 @@
   * Strep and staph make up about 12-24%
   * Gram negative about 10% of infections
   * Not all infections are clinically evident in about 10-20% of patients (in US and Europe)
+  * Adults: staphylococcus 3x more common in elderly; MRSA > MSSA
+  * Prognosis:
+    1. Children: usually good
+    2. Adults: significant proportion develp CKD 
   * Post-streptoccal GN
     1. Typicallly children and young adults
     2. Male:female --> 2-3:1
@@ -21,30 +25,30 @@
     5. Recurrence rare
     6. Prognosis: typically all improve
 ## **Pathophysiology**
-  * Multiple histologic patterns seend
+  * Multiple histologic patterns seen
     1. Mesangial proliferative (often found in resolving injury)
-    2. Focal Proliferative
+    2. Focal proliferative
     3. Diffuse proliferative
     4. Necrotizing and Crescentic GN: common with intravascular infection espically endocarditis
-    5. MPGN: consider Shunt nephritis (Immune complex nephritis as a complication of chronic infection from ventriculoatrial shunt, ventriculojuglar shunt, ventriculoperitoneal shunt), endocarditis, parasitic --> often IgM dominent and a chronic infection
+    5. MPGN: consider shunt nephritis (immune complex nephritis as a complication of chronic infection from ventriculoatrial shunt, ventriculojuglar shunt, ventriculoperitoneal shunt), endocarditis, parasitic --> often IgM dominent and a chronic infection
   * Inclusion Criteria: need 3 out of 5
     1. Clinical or lab evidence of infection
-    2. Low Serum C3
+    2. Low serum complement (primary low C3)
     3. Exudative GN
     4. C3 dominent or co-dominent on IF (Immunofluorescence)
     5. Hump-shaped subepithelial on EM (Electron Microscopy)
   * Post-Streptoccal GN
     1. typically low C3 levels in ~90% of patients
     2. Throat or skin culture positive in about 25% of cass
-    3. Pathophysiology: SPEB (streptococcal pyrogenic exotoxin B) --> can be found in humplike deposits; NAPLr (nephritis associated plasmin Receptor) may activate C3; Transient anti-factor B likely promots activation of all three complement pathways
+    3. Pathophysiology: SPEB (streptococcal pyrogenic exotoxin B) --> can be found in humplike deposits; NAPLr (nephritis associated plasmin Receptor) may activate C3;Transient anti-factor B likely promots activation of all three complement pathways
     4. Path
         * LM: diffuse proliferation, exudative with PMN
         * IF: C3 dominant or co-dominant staining (stary sky, garland pattern)
         * EM: subendothelial humps and small subendothelial deposit
 ## **Clinical Presentation**
-  * Hematuria (microscopic or gross)
+  * Hematuria (microscopic or gross)(15-56% of patients)
   * AKI
-  * Proteinuria
+  * Proteinuria (1/4-1/3 have full nephrotix syndrome)
   * Edema
   * New onset/worsening HTN
   * Can have positive serologies of: ANCA and ANA with low C3/C4
@@ -53,6 +57,8 @@
     1. Nephritic syndrome typically last less than 2 weeks
     2. C3 normalizes in about 6-8wk --> hypocomplementemia lasting about >2-3months on is an indication for biopsy
     3. Hematuria typically resolves by about 6 months
+  * Purpura present in ~18% of adults
+  * Heart failure
 ## **Infections commonly assoicated with IRGN**
   * Streptococcal infections about 28-47%
   * Staphylococcus aureus or Staphlococcus epidermidis around 12-24% of cases
@@ -67,7 +73,7 @@
 ## **Treatment**
   * Treat underlying infection
   * General supportive care for kidney injury
-  * Immunosuppression generally not advised
+  * Immunosuppression generally not advised; limited role for steroids if at all
   * HBV: pegylated interferon regimens should not be used to treat patients with replicative HBV infection and GN --> can aggravate autoimmune phenomenia and as there are newer antiviral regimens that are effective, IFN-alpha-based regimens should be avoided
   * Plasma exchange may be tried in patient with accompaning cryoglobulinemic vasculitis in related to hepatitis infections
   * Recommend to assess for viral co-infections in patients supspected to have schistosomal GN
