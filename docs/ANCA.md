@@ -259,9 +259,9 @@ flowchart TD
 <br/>
 
   
-  * Maintance dosing of Rituximab can be based on fixed dosing as listed above or upon reappearance of CD19+ Bcells and/or ANCA
-    1. In study groups where Rituximab dosed via CD19+ Bcells levels patients required fewer infusions of rituximab
-  * Rituximab preferred for Maintenance therapy
+  * Maintance dosing of rituximab can be based on fixed dosing as listed above or upon reappearance of CD19+ Bcells and/or ANCA
+    1. In study groups where Rituximab dosed via CD19+ B cells levels patients required fewer infusions of rituximab
+  * Rituximab preferred for maintenance therapy
     1. Relapsing disease
     2. PR3-ANCA
     3. Frail older adults
@@ -278,7 +278,8 @@ flowchart TD
 | • Reduce by 0.5mg/kg/day for eGFR < 30| • Reduce by 2.5mg/kg for eGFR < 30|
 
 ### Avacopan
-  * 30mg BID as alternative to glucocorticoids in combination w/rituximab or cyclophosphamide 
+  * 30mg BID as alternative to glucocorticoids in combination w/rituximab or cyclophosphamide
+  * **FDA has asked for voluntary withdrawal currently due to hepatotoxicty concerns and readjudication concerns of some patient**
 
 ### Prednisone Taper
 |Week|Patient's <50kg|Patient's 50-70kg|Patient's >75kg|
