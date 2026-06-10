@@ -7,10 +7,17 @@
   * 90% of patient have crescents on kidney biopsy
   * Poor prognosis w/o immunosuppressive therapy
   * ANCA titers should not guide treatment
+  * kidney failure in 20-40% of cases
   * Can recur after kidney transplant
   * Need to have complete clinical remission for 6 months or more prior to kidney transplant
 ## **Pathophysiology**
   * Small vesculitis: necrotizing inflammation of small vessels and little to no deposition of immune complexes (pauci-immune)
+  * Mechanism
+    1. Loss of tolerance to neutrophil angtigens (e.g genetic, environmental, infex, etc.)
+    2. Dentritic cell presentes antigens to CD4 T cells --> activation of B lymphocytes
+    3. Priming of neuptrophil by cytokins --> exteriorization of MPO and PR3
+    4. ANCA binds to PR3/MPO --> neutrophils activation + degradation --> formation of neutrophil extracellular traps (NETS) and ROS
+    5. RElease of lytic enzymes, antigens, and complement activation --> endothelial and GBM injury
   * Four forms of disease presentation
     1. Renal limited Vasculitis (RLV): pauci-immune Crescent GN
     2. Microscopic Polyangitis (MPA): Vasculitis with no asthma or ganulomas
