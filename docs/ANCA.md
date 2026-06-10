@@ -62,9 +62,11 @@
   * Renal manifestations
     1. Microscopic hematuria w/dysmorphic RBC
     2. Rapidly declining eGFR
-    3. Proteinuria
-    4. Persistent Hematuria and proteinuria seen in 50% of patients after treatment
-    5. Kidney involvement in 75-100% of MPA and GPA
+    3. Proteinuria (subnephrotic) 
+    4. Persistent hematuria and proteinuria seen in 50% of patients after treatment
+    5. HTN
+    6. Edema
+    7. Kidney involvement in 75-100% of MPA and GPA
   * Disease specific
     1. MPA: vasculitic manifestation like RPGN, monoeuritis multiplex, and alveolar hemorrhage
     2. GPA: sinusitis, pulmonary noduoles, vasculitic manifestions
@@ -74,7 +76,7 @@
     1. Hydralazine (frequently high titers of MPO)
     2. Prophylthiouracil (frequently MPO positive)
     3. Minocycline
-    4. Cocaine and levamisole (associated with duel positivity with PR3 and MPO)
+    4. Levamisole (associated with duel positivity with PR3 and MPO)
   * Subacute bacterial endocarditis and other forms of chronic bacteremia demonstrated positivity for ANCA
   * ANCA positivity seening 60-80% of UC patients and patient with primary sclerosing cholangitis
 ## **Deffinitions of Treatment Response**
@@ -87,12 +89,12 @@
     1. Occurrence of increased disease activity after a period of partial or complete remission
     2. Return or increase of hematuria w/proteinuria may indicate relapse
     3. Major replase: life or organ threating disease (examples include diffuse alveolar hemorrhage, subglottic stenosis, GN, or vascultitis threatening vision)
-  * Treatment-resistent Disease
+  * Treatment-resistent disease
     1. Persistence of or appearance of kidney and/or systemic manifestation of vasculitis, while recieving treatment equal in intensity to induction therapy
   * Factors that increase risk of relapse
     1. Diagnosis of GPA
     2. PR3-ANCA
-    3. Lower Serum Cr
+    3. Lower serum Cr
     4. More extensive disease
     5. Ear, nose, and throat disease
     6. History of relapse
@@ -100,6 +102,15 @@
     8. Lower cyclophosphamide exposure
     9. Immunosuppressive therapy with drawal
     10. Glucocorticoid with drawal
+    11. Genetic:
+        * PR3: SERPINA1, PTRN, HLA-DP4
+        * MPO: HLA-DQ
+    12. Environmental
+        * Staph aureus (nasal carriage)
+        * smoking
+        * silica exposure
+    13. Drugs: listed above
+          
 ## **Evaluation and Treatment**
 ### Evaluation
 ```mermaid
