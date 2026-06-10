@@ -81,7 +81,7 @@
   * ANCA positivity seening 60-80% of UC patients and patient with primary sclerosing cholangitis
 ## **Deffinitions of Treatment Response**
   * Disease activity
-    1. ANCA-associated vasculitis represented in sings or symtpoms oattributable to active disease in any organ system
+    1. ANCA-associated vasculitis represented in sings or symtpoms attributable to active disease in any organ system
   * Remission
     1. The abscense of manifestation of vasculitis and GN
     2. GN: stable or improved eGFR while <ins>hematuria and proteinuria are present at time of active disease and can resolve completely, their persistence does not necessarily imply active disease </ins>
