@@ -22,7 +22,7 @@
     2. Dentritic cell presentes antigens to CD4 T cells --> activation of B lymphocytes
     3. Priming of neuptrophil by cytokins --> exteriorization of MPO and PR3
     4. ANCA binds to PR3/MPO --> neutrophils activation + degradation --> formation of neutrophil extracellular traps (NETS) and ROS
-    5. RElease of lytic enzymes, antigens, and complement activation --> endothelial and GBM injury
+    5. Release of lytic enzymes, antigens, and complement activation --> endothelial and GBM injury
   * Four forms of disease presentation/clinicaopathologic variants
     1. Renal limited vasculitis (RLV): Pauci-immune Crescent GN
     2. Microscopic polyangitis (MPA): Vasculitis with no asthma or ganulomas (more common in east asians)
@@ -55,13 +55,19 @@
     1. Nasal, sinus, and ear disease: Sinus pain, chronic rhinosinusitis, nasal obstruction, purulent/bloody nasal discharge, nasal crusting/ulcers, sinusitis, epistaxis, saddle nose deformityetc, ect.
     2. Airway and lung involvement: Cough, hemoptysis (alveolar hemorrhage), dyspnea, pleuritic pain, sub-glotic stenosis, interstial lung disease, and cavitary lesions
     3. Skin: Purpura, possible focal necrosis, ulceration, cutaneous nodules, etc
-    4. Eyes: Conjunctivitis, corneal ulceration, retinal vasculitis, uvitis, vision loss, episcleritis, etc
-    5. CNS: Mononeuropathy, cranial nerve abnormalitis, sensorineural hearing loss, meningeal disease, stroke etc
+    4. Eyes: Conjunctivitis, corneal ulceration, retinal vasculitis, uvitis, vision loss, episcleritis, etc.
+    5. CNS: Mononeuropathy, cranial nerve abnormalitis, sensorineural hearing loss, meningeal disease, stroke etc.
+    6. Constitutional sys: fever, weight loss, malaises, arthralgias
   * Renal manifestations
     1. Microscopic hematuria w/dysmorphic RBC
     2. Rapidly declining eGFR
     3. Proteinuria
     4. Persistent Hematuria and proteinuria seen in 50% of patients after treatment
+    5. Kidney involvement in 75-100% of MPA and GPA
+  * Disease specific
+    1. MPA: vasculitic manifestation like RPGN, monoeuritis multiplex, and alveolar hemorrhage
+    2. GPA: sinusitis, pulmonary noduoles, vasculitic manifestions
+    3. EGPa: Astham, vasculitic manifestions
 ## **Drugs and Diseases Associated with ANCA**
   * Drugs
     1. Hydralazine (frequently high titers of MPO)
