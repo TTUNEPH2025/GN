@@ -8,51 +8,60 @@
       5. Membranous Lupus
       6. Advanced Sclerosing LN (≥ 90% global sclerosed glomeruli)
   * Can have mixed classes of LN
-  * LN rare disease (20-60% of SLE cases)
-  * Females > Males (90% of LN is females)
-  * LN typically occurs more often in Black, Asian, and Hispanic Ethnicities
+  * LN typically occurs more often in Black, Asian, and Hispanic ethnicities
+    1. Blacks and hispanics have a higher incidence of pooer outcoms
   * Up to 30% of LN patients progress to kidney failure w/in 15 years of diagnosis
-  * Patient's SLE are at higher risk of cardiovascular events and mortality when diagnosised with LN
+  * Patient's with SLE are at higher risk of cardiovascular events and mortality when diagnosised with LN
   * Early decrease in protenuria predicts improved kidney function outcomes
   * Childhood onset of SLE is associated wtih increased risk of LN and more severe disease
 ## **Pathophysiology**
   * Pathogenesis
     1. Abnormal B lymphocyte hyperactivity --> mounting an immune response to dying cells
           - Any environment where there is delayed clearance of dying cells (e,g. infections, hormonal response, drugs) along with genetic mutations that may account for predisposition to hyperactive immune response may be associated with SLE
-    3. Immunity
-         - Inate: interferon regulation and production, Nucleic acid sensitivity, Increased TLR (toll-like receptors) signaling (activate immune responce and increase cell recruitment)
-         - Adaptive: HLA-DR2, HLA-DR3, B-cell and T-cell activation and signialing
-         - Immune Complex: Increased phagocytosis, cell adhesion, and compliment activation forming immunne complexes
-         - In situe Immune complex formation or pre-formed immune complex formation causing injury
+    2. Immunity
+         - Inate: Interferon regulation and production, nucleic acid sensitivity, increased TLR (toll-like receptors) signaling (activate immune responce and increase cell recruitment)
+         - Adaptive: HLA-DR2, HLA-DR3, B-cell and T-cell activation
+         - Immune complex: Increased phagocytosis, cell adhesion, and compliment activation forming immunne complexes
+         - In situe immune complex formation or pre-formed immune complex formation causing injury
+    3. Genetics
+       * HLA-DR3 + HLA-DR15: increase risk of LN
+       * HLA-DR4 + HLA DR11 offers some protection against LN
+       * Multiple genetic pocymorphiisms are associated with LN, but their individual contribution is small and genetics alone cannot fully explain LN development        
   * Classes
-    1. Class I and II: generally normal kidney function. May have low grade proteinuria
-    2. Class III
+    1. Class I (Minimal Mesangial Lupus Nephritis) and II (Mesangial Proliferative Lupus Nephritis): generally normal kidney function. May have low grade proteinuria
+    2. Class III (Focal Lupus Nephritis)
          - Active or inactive focal, segmental and/or global endocapillary and/or extracapillary GN involving < 50% glomeruli
          - Typically w/focal subendothelial deposites w/or w/out mesangial alteration
-    4. Class IV
+    4. Class IV (Diffuse Lupus Nephritis)
          - Active or inactive focal, segmental and/or global endocapillary and/or extracapillary GN involving ≥ 50% glomeruli
          - Typically w/focal subendothelial deposites w/or w/out mesangial alteration
-    6. Class V
+    6. Class V (Membranous Lupus Nephritis)
          - Global or segmental subepithelial immune deposites or their morphologic sequela w/or w/out mesangial alteration
          - May have advanced sclerosis
          - Can be added to class III or IV when subepithelial deposites involve at least 50% of glomerular capillary surface area in at least 50% of glomeruli
          - Patients with immunofluorescent staining positive for Ext 1/2 typically have overall better response to treatment
-    8. Class VI
+    8. Class VI (Advanced Sclerosin Lupus Nephritis)
          - 90% or more of global sclerosed glomeruli
          - Classification for advanced disease, not likely to benefit from increased immune suppression
+  * Modified NIH lupus nephritis activity and chronicity indices
+    1. a semi-quantitating grading system of pathologic features
+    2. Indicators: endocapillary hypercellularity, neutrophils or karyorrhexis within glomerular capillary loops, fibrinoid necrosis, hyaline deposits, cellular or fibrocellular crescents, and interstitial inflammation
+    3. Crescents and fibroid necrosis are weighted twice as they have worse prognosis
+    4. Activity scorded from 0-14 and Chronicity scorded 0-12
   * TMA
-    1. Causes most revelant to LN: TTP, Antiphospholipid, and compliment medicated diesease
-    2. can occur due to shiga-toxin-HUS, Infections, drugs, or malignancies
+    1. Causes most revelant to LN: TTP, antiphospholipid, and compliment medicated diesease
+    2. can occur due to shiga-toxin-HUS, infections, drugs, or malignancies
 ## **Clinical Presentation**
   * Range of symptoms of SLE (including but not limited to) 
-      - fatigue, fever, weight loss, Arthritis/arthralgia, butterfly rash, photosensitivity, alpecia, raynaud, pleurisy, pericarditis, lymphadenopathy, psychosis, etc.
+      - Fatigue, fever, weight loss, arthritis/arthralgia, butterfly rash, photosensitivity, alopecia, raynaud, pleurisy, pericarditis, lymphadenopathy, psychosis, etc.
       - LN symptoms: edema, hypoalbuminemia, proteinuria, hyperlipidemia, frothy urine, hematuria
-  * Patients with lupus should be screen yearly for proteinura: proteinuria of 500mg/dL or great should prompt further investigation  
+  * Patients with lupus should be screened yearly for proteinura: proteinuria of 500mg/g or greater should prompt further investigation with or withoutabnormal urinary sediment
   * Labs:
-      - Auto-ab: Anti-dsDNA, Anti-Smith, Anti-U1 ribonucleoprotein, anti-ro/SSA and anti-La/SSB, Anti-histone, anti-phospholipid
-      - General: CBC, CMP, CK, UA, SPEP, ANA, ESR/CRP, Compolement levels
-  * Drug induced lupus: anti-dsDNA or Anti-smith positive very rare, Anti-histone very commenly positive
-  * In EULAR (European Alliance of Association for Rheumatology)/ACR (American College of Rheumatology) Criteria for diagnosis of lupus, Renal biopsy demonstrating class III or IV is sufficient on it's own to diagnosis SLE with no other clinical or immunologic criteria required. 
+      - Auto-ab: Anti-dsDNA, Anti-Smith, Anti-U1 ribonucleoprotein, anti-ro/SSA, anti-La/SSB, Anti-histone, anti-phospholipid
+      - General: CBC, CMP, CK, UA, SPEP, ANA, ESR/CRP, compolement levels
+  * Drug induced lupus: anti-dsDNA or anti-smith positive very rare, anti-histone very commonly positive
+  * In EULAR (European Alliance of Association for Rheumatology)/ACR (American College of Rheumatology) criteria for diagnosis of lupus, renal biopsy demonstrating class III or IV is sufficient on it's own to diagnosis SLE with no other clinical or immunologic criteria required.
+  * Studies have shown discordance between clinical and histological status. Relying solely on proteinuria may miss early stage LN
 ## **Drugs and Diseases Associated with Lupus**
   * Kidney disease in drug-induced lupus is rare
   * Some drugs commenly associated with drug-induced lupus are as follows: 
@@ -64,10 +73,10 @@
 ## **Definitions of Treatment Response**
 |Criteria|Definition|
 |--------|----------|
-|Complete Response| • Reduction in proteinuria < 0.5g/g measured as PCR from 24hr urine; • Stabilization or improvement in kidney function (± 10-15% of baseline);• W/in 6-12mo of starting therapy, but could take more than 12mo|
-|Primary Efficacy Renal Response| • PCR ≤ 0.7 g/g; • eGFR that was no worse than 20% below the pre-flare value or ≥ 60mL/min per 1.73m²; • No use of rescue therapy for treatment failure|
+|Complete response| • Reduction in proteinuria < 0.5g/g measured as PCR from 24hr urine; • Stabilization or improvement in kidney function (± 10-15% of baseline);• W/in 6-12mo of starting therapy, but could take more than 12mo|
+|Primary efficacy renal response| • PCR ≤ 0.7 g/g; • eGFR that was no worse than 20% below the pre-flare value or ≥ 60mL/min per 1.73m²; • No use of rescue therapy for treatment failure|
 |Partial response| • Reduction in proteinuria by at least 50% and < 3g/g measured as the PCR from 24hr urine; • Stabilization or improvement in kidney function (± 10-15% of baseline); • W/in 6-12mo of starting therapy|
-|No Kidney response| Failure to achieve a partial or complete response w/in 6-12mo of starting therapy|
+|No kidney response| Failure to achieve a partial or complete response w/in 6-12mo of starting therapy|
 
   * Goals of tx
       - 25% reduction of proteinuria at 3mo
@@ -77,8 +86,11 @@
 ## **Treatment**
 ### All Lupus Nephritis patients
   * Hydroxychloroquine: 200-400mg as a single daily dose or divided into two doses
+    1. Antimalarial therapy: less disease activity and improve proteinuria and survival in SLE patient with LN
+    2. Safe during pregnancy for bothe mother and fetus with improved pregnancy outcomes
   * Anti-Proteinuria: RASS blockade (ACE/ARB) and SGLT2i
-  * Life style changes: smoking cessation, exercise, body weight management, ect.
+  * Life style changes: smoking cessation, exercise, body weight management
+  * Recommended surveilance by an opthalmologist annually for retinal toxicity monitoring
 ### Class I and II LN
 ```mermaid
 ---
@@ -321,10 +333,11 @@ flowchart TB
   * Not enough data on Voclosporin or Belimumab in pregnancy, recommend to avoid at this time
   * Teratogenic Cyclophosphamide and MPAA
   * All pregnant patients with LN should be started on low dose aspirin
-  * Women of Childbearing Age
-      - Recommend Pregnancy testing prior to initiation of treatments
+  * Women of childbearing age
+      - Recommend pregnancy testing prior to initiation of treatments
       - Recommend birth control prior to initiation of treatments
-      - Recommend Family Planning Education with patient --> Active flares resolved and transition to pregnancy safe maintance medication prior to withdrawal of birth control
+      - Recommend family planning education with patient --> active flares resolved and transition to pregnancy safe maintance medication prior to withdrawal of birth control
+      - Improved pregnancy outcomes in pregnancy when LN is in remission for at least 6 months before conception 
 
 ## **Sources**
   * [KDIGO 2024 Lupus Guidelines](https://www.kidney-international.org/action/showPdf?pii=S0085-2538%2823%2900627-0)
@@ -380,6 +393,7 @@ flowchart TB
   * [Eculizumab in refractory Catastrophic APS case report and literature review](https://link.springer.com/article/10.1007/s10238-019-00565-8)
   * [Efficacy and safety of eculizumab in aHUS](https://www.sciencedirect.com/science/article/pii/S008525381530106X)
   * [Low dose ASA in preventing preeclampsia and its complications](https://onlinelibrary.wiley.com/doi/10.1111/jch.12541)
+  * [Arkanalabs Lupus activity score](https://www.arkanalabs.com/nih-lupus-nephritis-activity-and-chronicity-indices/)
 ---
 *Last updated: 12/2025 by Ashley Kinder, D.O.*
 *Next review: 12/2026*
