@@ -12,36 +12,42 @@
   * Need to have complete clinical remission for 6 months or more prior to kidney transplant
 ## **Pathophysiology**
   * Small vesculitis: necrotizing inflammation of small vessels and little to no deposition of immune complexes (pauci-immune)
+    1. Four histologic classes (Berden Classification)
+       - Focal: 50% or more glomeruli normal
+       - Crescentic: 50% or more glomerulic have cellular cresents
+       - Sclerotic: 50% or more glomeruli globally sclerotic
+       - Mixed: Does not fit any of the above classifications
   * Mechanism
     1. Loss of tolerance to neutrophil angtigens (e.g genetic, environmental, infex, etc.)
     2. Dentritic cell presentes antigens to CD4 T cells --> activation of B lymphocytes
     3. Priming of neuptrophil by cytokins --> exteriorization of MPO and PR3
     4. ANCA binds to PR3/MPO --> neutrophils activation + degradation --> formation of neutrophil extracellular traps (NETS) and ROS
     5. RElease of lytic enzymes, antigens, and complement activation --> endothelial and GBM injury
-  * Four forms of disease presentation
-    1. Renal limited Vasculitis (RLV): pauci-immune Crescent GN
-    2. Microscopic Polyangitis (MPA): Vasculitis with no asthma or ganulomas
-    3. Granulomatosis w/polyangitis (GPA): Granulomas and no asthma
-    4. Eosinophilic GPA: eosinophilia, asthma, and granulomas
+  * Four forms of disease presentation/clinicaopathologic variants
+    1. Renal limited vasculitis (RLV): Pauci-immune Crescent GN
+    2. Microscopic polyangitis (MPA): Vasculitis with no asthma or ganulomas (more common in east asians)
+    3. Granulomatosis with polyangitis (GPA): Granulomas and no asthma (more common in european descent; affects younger patient usually)
+    4. Eosinophilic GPA: Eosinophilia, asthma, and granulomas
   * Autoantibodies: PR3-ANCA and MPO-ANCA
     1. Both cause same spectrum of disease
-    2. Organ system distribution and pathologic patterns differ by Antigen specificity
-    3. PR3-ANCA more associated with lung involvement
-    4. MPO-ANC more associated w/renal limited involvement
+    2. Organ system distribution and pathologic patterns differ by antigen specificity
+    3. PR3-ANCA more associated with lung involvement (more likely to present with RPGN)
+    4. MPO-ANC more associated with renal limited involvement (more likely to present with smoldering disease and have a worse prognosis)
     5. Duel positive patients consider drug induced ANCA disease
     6. PR3-ANCA positive patients higher relapse rate than MPO-ANCA positive patients
+  * Classification
+    1. ANCA-asociated vasculitis is classified based on clinicolpatholic phenotypes and by ANCA antigen specificity
   * Histologic activity unlikely in the abscence of hematuria
     1. Patients with hematuria more likely to relapse than those w/o, but difference in occurence of kidney failure
-  * Four histologic Classes
-    1. Focal: 50% or more glomeruli normal 
-    2. Crescentic: 50% or more glomerulic have cellular cresents
-    3. Sclerotic: 50% or more glomeruli globally sclerotic
-    4. Mixed: does not fit any of the above classifications
 ### Cresentic GN
  * Cresents are etiologically and pathogenically a nonspecific response to glomerular capillary rupture that is typically caused by inflammmatory injury
  * Types: Cellular, fibrocellular, fibrous, and pseudocrescent
    1. Higher number of fibrous cresents present on biopsy--> less likely to have recovery
  * Cresentic lesions can be found on wide range of GN with varying percentages of glomerulus
+   1. Lupus nephritis
+   2. Cryoglobulinemic vasculitis
+   3. IgAN
+   4. IRGN
  * Anti-GBM and ANCA vasculitis are considered "rapidly progressive cresentic gn". Both of which are typically severe and agressive with greater than 50% crescents found on light microscopy
 ## **Clinical Presentation**
   * Signs and Symptoms of Vasculitis
