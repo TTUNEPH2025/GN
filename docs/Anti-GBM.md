@@ -20,9 +20,9 @@
   * Disease can re-occur in transplant if anti-gbm titer still detectable
     1. Typically recommend 6 months or more of undetectable anti-gbm levels prior to transplant
 ## Prognosis 
-  * Dialysis dependent AKI have poor kidney prognosis
-  * Good kidney outcomes: moderated AKI at presentation (Serum Cr less than 5.5mg/dL), non-dialysis depented AKD, greater than 25% normal glomeruli on biopsy
-  * Intermediate kidney outcomes 
+  * Poor kidney outcoms: dialysis on presentation, 100% cerscents, less than 10% kidney recovery, less than 10% normal glomeruli on biospys 
+  * Good kidney outcomes: moderated AKI at presentation: serum Cr less than 5.5mg/dL, non-dialysis depented AKD, greater than 25% normal glomeruli on biopsy
+  * Intermediate kidney outcomes: severe outcomes: serum Cr greater than 5.7, non-HD dependent 
 ## **Pathophysiology**
  * Autoantibody against the non-collagenous domain of the alpha3 chain of type IV collagen which can be found in the glomerlous and the alveoli
    1. With alveolar hemorrhage: Goodpasture Syndrome
