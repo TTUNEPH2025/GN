@@ -13,10 +13,10 @@
 ## **Pathophysiology**
   * Small vesculitis: necrotizing inflammation of small vessels and little to no deposition of immune complexes (pauci-immune)
     1. Four histologic classes (Berden Classification)
-        - Focal: 50% or more glomeruli normal
-        - Crescentic: 50% or more glomerulic have cellular cresents
-        - Sclerotic: 50% or more glomeruli globally sclerotic
-        - Mixed: Does not fit any of the above classifications
+        * Focal: 50% or more glomeruli normal
+        * Crescentic: 50% or more glomerulic have cellular cresents
+        * Sclerotic: 50% or more glomeruli globally sclerotic
+        * Mixed: Does not fit any of the above classifications
   * Mechanism
     1. Loss of tolerance to neutrophil angtigens (e.g genetic, environmental, infex, etc.)
     2. Dentritic cell presentes antigens to CD4 T cells --> activation of B lymphocytes
@@ -57,7 +57,7 @@
     3. Skin: Purpura, possible focal necrosis, ulceration, cutaneous nodules, etc
     4. Eyes: Conjunctivitis, corneal ulceration, retinal vasculitis, uvitis, vision loss, episcleritis, etc
     5. CNS: Mononeuropathy, cranial nerve abnormalitis, sensorineural hearing loss, meningeal disease, stroke etc
-  * Renal manifestation
+  * Renal manifestations
     1. Microscopic hematuria w/dysmorphic RBC
     2. Rapidly declining eGFR
     3. Proteinuria
