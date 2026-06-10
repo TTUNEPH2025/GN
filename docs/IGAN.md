@@ -1,13 +1,13 @@
 # **Immunoglobulin A Nephropathy (IgAN)/Immunoglobulin A Vasculitis (IgAV)**
 ## **Overview**
- * IgAN
-      1. Glomerular disease w/co-dominant IgA glomerular staining
-      2. Three types: Primary, Secondary, and Systemic forms (IgA Vasculitis)
-      3. Most common pattern of primary glomerular disease world wide
-      4. Most prevalent in people of East Asian ancestry followed by Caucasians
-      5. Slowly progressive w/25-30% of patients developing kidney failure w/in 20-25years
-      6. IgA deposistion can be found in MCD: if IgA found on kidney biopsy but otherwise consistent w/MCD, patient should be treated with therapy directed towards MCD
-      7. Mest-C Score: Risk tool/score provide earlier risk predicition in IgAN
+### IgAN (primary and secondary)
+   * Glomerular disease w/co-dominant IgA glomerular staining
+   * Most common pattern of primary glomerular disease world wide
+   * Most prevalent in people of East Asian ancestry followed by Caucasians
+   * Slowly progressive w/25-30% of patients developing kidney failure w/in 20-25years
+   * IgA deposistion can be found in MCD: if IgA found on kidney biopsy but otherwise consistent w/MCD, patient should be treated with therapy directed towards MCD
+   * [Internation IgAN predition tool: designed to predict the risk of a 50% decline in eGFR or ESRD after biopsy](https://qxmd.com/calculate/calculator_499/international-igan-prediction-tool-at-biopsy-adults)
+   * Mest-C Score: Risk tool/score provide earlier risk predicition in IgAN
    
 |Histology|MEST-C|
 |---------|------|
@@ -17,12 +17,12 @@
 |Interstitial fibrosis/tubular atrophty|T0: 0-25%; T1: 25-50%; T2: >50%|
 |Crescents| C0: abscent; C1 1-25%; C2 >25%|
 
- * IgA Vasculitis (Henoch-Schonlein purpura)
-      1. IgA autoantibodies deposition in the vessels
-      2. Children < 16 years of age, often self-limitting
-      3. Glomerular disease 30% children, 60% adults
-      4. Worse GN in children, worse outcomes in adults
-      5. Adults typicaly more severe and relapsing disease
+### IgA Vasculitis (Henoch-Schonlein purpura) (systemic for of IgAN)
+  * IgA autoantibodies deposition in the vessels
+  * Children < 16 years of age, often self-limitting
+  * Glomerular disease 30% children, 60% adults
+  * Worse GN in children, worse outcomes in adults
+  * Adults typicaly more severe and relapsing disease
 ## **Pathophysiology**
  * IgAN
       1. GN with co-dominant IgA glomerular staining with IgA deposistion in the Mesangial +/- Capillary
