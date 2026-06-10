@@ -2,8 +2,10 @@
 ## **Overview**
   * Rapidly progressive crescent GN
     1. 95% of patients present with crescents
+  * Small vessel Vasculitis
   * One wave of acute injury
   * Incidence of 0.5-1 per million
+  * Accounts for 15% of RPGN
   * Equal Male:Female ratio
   * Most common in Caucasians and older Asians 
   * Occurs as isolated kidney disease or pulm-renal syndrome (Goodpasture's)
@@ -17,22 +19,57 @@
     1. This mortality rate drops further for those patient's with pulmonary hemorrhage who recieve plasmaphoresis and immunotherapy to 8.5% mortality 
   * Disease can re-occur in transplant if anti-gbm titer still detectable
     1. Typically recommend 6 months or more of undetectable anti-gbm levels prior to transplant
+## Prognosis 
+  * Dialysis dependent AKI have poor kidney prognosis
+  * Good kidney outcomes: moderated AKI at presentation (Serum Cr less than 5.5mg/dL), non-dialysis depented AKD, greater than 25% normal glomeruli on biopsy
+  * Intermediate kidney outcomes 
 ## **Pathophysiology**
- * Autoantibody against the non-collagenous domain of the alpha3 chain of type IV collagen which can be found in the glomerlous and the alveoli 
+ * Autoantibody against the non-collagenous domain of the alpha3 chain of type IV collagen which can be found in the glomerlous and the alveoli
    1. With alveolar hemorrhage: Goodpasture Syndrome
-   2. Without alveolar hemorrhage: Anti-GBM GN
- * Pathology: Linear staining for IgG or rarely IgA on IM
- * Alloimune ANti-GBM: patients w/type 4 collagen mutation recieve a kidney transplant from done w/out mutation: Antibodies form against GBM of transplanted kidney (typically occurs in some genetic variation of Alport syndrome)
+   2. Without alveolar hemorrhage: anti-GBM GN
+   3. complement active + inflammatory cell recuritment + cell injury --> T-cell activation ahs been shown to contribute
+ * While the trigger is unknown, potential triggers: 
+   1. HLA-DR15 and HLD-DR4: seem to be more susceptable
+   2. Respiratory infection may cause 'bystandard activation' of autoreactive lymphocytes or exposre to alveolar antigens: Influenza A, SARS-COV-2, E. coli, Klebsiella
+   3. Environmental exposure to pulm irritants: hydrocarbons, smoking, cocaine
+   4. Medications: immunce checkpoint inhibitors, TNF antagonists, anti-CKD52 monclonal antibodies, SARs-Covid vaccines 
+ * Pathology: linear staining for IgG or rarely IgA or IgM on IM
+ * Alloimune ANti-GBM: Patients w/type 4 collagen mutation recieve a kidney transplant from done w/out mutation: Antibodies form against GBM of transplanted kidney (typically occurs in some genetic variation of Alport syndrome)
+ * Serological
+   1. Usually circulating IgG antibodies  with IgG1 and IgG3 subclass
+   2. False negative: around 10%, due to antigbm dx wit hlow circulating titers or rarely IgA or IgM anti-gbm
+   3. False positive: if elisa assay doesn't use purified antigents
 ### Cresentic GN
  * Cresents are etiologically and pathogenically a nonspecific response to glomerular capillary rupture that is typically caused by inflammmatory injury
  * Types: Cellular, fibrocellular, fibrous, and pseudocrescent
    1. Higher number of fibrous cresents present on biopsy--> less likely to have recovery
  * Cresentic lesions can be found on wide range of GN with varying percentages of glomerulus
- * Anti-GBM and ANCA vasculitis are considered "rapidly progressive cresentic gn". Both of which are typically severe and agressive with greater than 50% Crescents found on light microscopy
+ * Anti-GBM and ANCA vasculitis are considered "rapidly progressive cresentic gn". Both of which are typically severe and agressive with greater than 50% crescents found on light microscopy
+### ANCA vs Anti-GBM
+  * ANCA vs anti-GBM
+    1. Higher relpase rates
+    2. 10-40% of anti-gbm cases
+    3. Usually MPO-ANCA
+    4. Vascular involvement (arteritis, arteriolitis, medullary angiitis): is not part of anti-gbm dx --> if vasculitic features present consider overlap w/ANCA vascluitis
+    5. In active disease, all crescents are at the same stage (cellular/fibrocellular). (if asynbchronous cresecents and vascular lesions suggest ANCA positive Glomerulonephritis)
+  * Atypical anti-GBM
+    1. linear iGG staing of GBM on IF but with out crescentic involvements
+    2. Indolent course
+    3. Anti-gmb antibodies serology negative
+    4. No pulm involvements
+  * Concomitant MN
+    1. Usually PLA2R negative
+    2. May have better outcoms
 ## **Clinical Presentation**
  * Hematuria/Proteinuria 
  * With or without alveolar hemorrhage: dignosed clinical or with high resolution CT
  * Rapidly rising Cr/Dropping eGFR: rapidly crescent GN
+ * Fever
+ * Malaise
+ * Body aches
+ * Hemoptysis
+ * Shortness of Breath
+ * Anemia 
 ## **Treatment**
 ```mermaid
 ---
