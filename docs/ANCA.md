@@ -51,12 +51,13 @@
    5. IRGN
  * Anti-GBM and ANCA vasculitis are considered "rapidly progressive cresentic gn". Both of which are typically severe and agressive with greater than 50% crescents found on light microscopy
 ## **Clinical Presentation**
-  * Signs and Symptoms of Vasculitis
-    1. Nasal, sinus, and ear disease: sinus pain, chronic rhinosinusitis, nasal obstruction, purulent/bloody nasal discharge, etc
-    2. Airway and lung involvement: cough, hemoptysis (alveolar hemorrhage), dyspnea, and pleuritic pain
-    4. Skin: purpura, possible focal necrosis and ulceration, etc
-    5. Eyes: conjunctivitis, corneal ulceration, retinal vasculitis, uvitis, etc
-    6. CNS: mononeuropathy, cranial nerve abnormalitis, sensorineural hearing loss, meningeal disease, etc
+  * Signs and symptoms of vasculitis
+    1. Nasal, sinus, and ear disease: Sinus pain, chronic rhinosinusitis, nasal obstruction, purulent/bloody nasal discharge, etc
+      - nasal crusting/ulcers, sinusitis, epistaxis, saddle nose deformity
+    3. Airway and lung involvement: Cough, hemoptysis (alveolar hemorrhage), dyspnea, pleuritic pain, sub-glotic stenosis, interstial lung disease, and cavitary lesions
+    4. Skin: Purpura, possible focal necrosis, ulceration, cutaneous nodules, etc
+    5. Eyes: Conjunctivitis, corneal ulceration, retinal vasculitis, uvitis, vision loss, episcleritis, etc
+    6. CNS: Mononeuropathy, cranial nerve abnormalitis, sensorineural hearing loss, meningeal disease, stroke etc
   * Renal manifestation
     1. Microscopic hematuria w/dysmorphic RBC
     2. Rapidly declining eGFR
