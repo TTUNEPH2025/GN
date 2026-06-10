@@ -44,10 +44,11 @@
  * Types: Cellular, fibrocellular, fibrous, and pseudocrescent
    1. Higher number of fibrous cresents present on biopsy--> less likely to have recovery
  * Cresentic lesions can be found on wide range of GN with varying percentages of glomerulus
-   1. Lupus nephritis
-   2. Cryoglobulinemic vasculitis
-   3. IgAN
-   4. IRGN
+   1. ANCA vasculitis 
+   2. Lupus nephritis
+   3. Cryoglobulinemic vasculitis
+   4. IgAN
+   5. IRGN
  * Anti-GBM and ANCA vasculitis are considered "rapidly progressive cresentic gn". Both of which are typically severe and agressive with greater than 50% crescents found on light microscopy
 ## **Clinical Presentation**
   * Signs and Symptoms of Vasculitis
