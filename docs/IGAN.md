@@ -5,7 +5,6 @@
    * Most common pattern of primary glomerular disease world wide
    * Most prevalent in people of East Asian ancestry followed by Caucasians
    * Slowly progressive w/25-30% of patients developing kidney failure w/in 20-25years
-   * IgA deposistion can be found in MCD: if IgA found on kidney biopsy but otherwise consistent w/MCD, patient should be treated with therapy directed towards MCD
    * [Internation IgAN predition tool: designed to predict the risk of a 50% decline in eGFR or ESRD after biopsy](https://qxmd.com/calculate/calculator_499/international-igan-prediction-tool-at-biopsy-adults)
    * Mest-C Score: Risk tool/score provide earlier risk predicition in IgAN
    
@@ -17,6 +16,20 @@
 |Interstitial fibrosis/tubular atrophty|T0: 0-25%; T1: 25-50%; T2: >50%|
 |Crescents| C0: abscent; C1 1-25%; C2 >25%|
 
+  * Variant forms of IgAN
+    1. IgAN with RPGN
+       * greater than 50% decline in eGFR over three months or less plus the presence of crescents on kidney biopsy
+       * Greater than 30% crescents may be a marker for risk of rapid progression
+       * biopsy typicall demonstrates mesangial and endocapillary hypercellularity and a high proportion of glomeruli affected by crescents
+       * Generally poor coutcomes
+    2. IgAN with apparent minimal change disease
+       * IgA depositions can be found in MCD
+       * These patients typically benefit with therapy directedtowards MCD (steroids alone)
+       * Mesangial IgA deposits often disappear or are greatly reduced over time
+       * typically have acute nephrotic syndrome with little to no hematuria, preserved kidney function and minimal glomerular on light microscopy, and diffuse fusion of the foot process of glomerular epithelial cells on electron microscopy 
+    3. IgAN with AKI
+       * AKI can occure during episodes of gross hematuria --> tubular obstruction by red cell cast or acute tubulare necrosis from iron relased from lysed red cells
+       * typically the kidney biopsy reveals mesangial proliferation and segmental crescents in small amount of glomeruli (less than 25%) which are insufficient to account fo the AKI
 ### IgA Vasculitis (Henoch-Schonlein purpura) (systemic for of IgAN)
   * IgA autoantibodies deposition in the vessels
   * Children < 16 years of age, often self-limitting
@@ -182,6 +195,7 @@ in Chinese patients only\n   • Tonsillectomy: For Japanese patient's (not stud
  * [10 year follow up in IgA supportive care vs supportive care and immunosupression](https://www.sciencedirect.com/science/article/pii/S0085253820305494)
  * [Methylprednisolone on decline in kidney function or failure in IgAN](https://jamanetwork.com/journals/jama/fullarticle/2792252)
  * [Key pathogenic biomarkers in IgAN with Nefecon](https://www.sciencedirect.com/science/article/pii/S0085253823007780)
+ * [Uptodate IgAN](https://www-uptodate-com.ezproxy.ttuhsc.edu/contents/iga-nephropathy-treatment-and-prognosis?search=IgA%20nephropathy%20treat%2Cemt%20amd%20%5Brpgmpsos&source=search_result&selectedTitle=3~150&usage_type=default&display_rank=3&searchCorrelationId=2edb7a54-fc2a-416d-9864-e643b2324a1e&searchCorrelationTerm=IgA%20nephropathy%20treat%2Cemt%20amd%20%5Brpgmpsos#H349069588)
 ---
 *Last updated: 9/2025 by Ashley Kinder, D.O.*
 *Next review: 9/2026*
