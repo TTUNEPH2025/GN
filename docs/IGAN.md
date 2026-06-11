@@ -51,10 +51,13 @@
         - Arteriosclerosis
  * Mest-C: Risk tool/score provide earlier risk prediction in IgAN
       1. T score: Most consistent predictor of renal survival
-      2. M1, S1, T1/2: Worse outcomes, regardless of immunosupression status
-      3. E1 and C1: Poor outcomes in patient not treated with immunosupression
-      4. C2: Predicitive of poor outcomes regardless of immunosupression (not synonymous w/RPGN)
-      5. S1 w/podocytopathy: heavier proteinuria and rapid eGFR loss --> better response to steroids
+      2. E: Independently associated with increased proteinuria at the time of kidney biopsy
+      3. S: Independently associated with a longitudinal increase in proteinuria and decrease in eGFR
+      4. M1, S1, T1/2: Worse outcomes, regardless of immunosupression status
+      5. E1 and C1: Poor outcomes in patients not treated with immunosupression
+      6. C2: Predicitive of poor outcomes regardless of immunosupression (not synonymous w/RPGN)
+      7. C1 and C2: strongly associated with complement activation
+      8. S1 w/podocytopathy: heavier proteinuria and rapid eGFR loss --> better response to steroids
 
 |Histology|MEST-C|
 |---------|------|
