@@ -8,18 +8,18 @@
   * Two predicition tools: International IgAN prediction tool and the MEST-C score
   * Variant forms of IgAN
     1. IgAN with RPGN
-       * greater than 50% decline in eGFR over three months or less plus the presence of crescents on kidney biopsy
-       * Greater than 30% crescents may be a marker for risk of rapid progression
-       * biopsy typicall demonstrates mesangial and endocapillary hypercellularity and a high proportion of glomeruli affected by crescents
-       * Generally poor coutcomes
+        * greater than 50% decline in eGFR over three months or less plus the presence of crescents on kidney biopsy
+        * Greater than 30% crescents may be a marker for risk of rapid progression
+        * biopsy typicall demonstrates mesangial and endocapillary hypercellularity and a high proportion of glomeruli affected by crescents
+        * Generally poor coutcomes
     2. IgAN with apparent minimal change disease
-       * IgA depositions can be found in MCD
-       * These patients typically benefit with therapy directedtowards MCD (steroids alone)
-       * Mesangial IgA deposits often disappear or are greatly reduced over time
-       * typically have acute nephrotic syndrome with little to no hematuria, preserved kidney function and minimal glomerular on light microscopy, and diffuse fusion of the foot process of glomerular epithelial cells on electron microscopy 
+        * IgA depositions can be found in MCD
+        * These patients typically benefit with therapy directedtowards MCD (steroids alone)
+        * Mesangial IgA deposits often disappear or are greatly reduced over time
+        * typically have acute nephrotic syndrome with little to no hematuria, preserved kidney function and minimal glomerular on light microscopy, and diffuse fusion of the foot process of glomerular epithelial cells on electron microscopy 
     3. IgAN with AKI
-       * AKI can occure during episodes of gross hematuria --> tubular obstruction by red cell cast or acute tubulare necrosis from iron relased from lysed red cells
-       * typically the kidney biopsy reveals mesangial proliferation and segmental crescents in small amount of glomeruli (less than 25%) which are insufficient to account fo the AKI
+        * AKI can occure during episodes of gross hematuria --> tubular obstruction by red cell cast or acute tubulare necrosis from iron relased from lysed red cells
+        * typically the kidney biopsy reveals mesangial proliferation and segmental crescents in small amount of glomeruli (less than 25%) which are insufficient to account fo the AKI
 ### IgA Vasculitis (Henoch-Schonlein purpura) (systemic for of IgAN)
   * IgA autoantibodies deposition in the vessels
   * Children < 16 years of age, often self-limitting
@@ -63,8 +63,8 @@
   * [International IgAN predition tool: designed to predict the risk of a 50% decline in eGFR or ESRD after biopsy](https://qxmd.com/calculate/calculator_499/international-igan-prediction-tool-at-biopsy-adults)
 
 ### IgAV
-      1. Systemic vasculities IgA1-dominant deposits
-      2. IgA autoantibodies desposition in the small vessels affecting: skin, joints, intestines, and kidney (rarely affects lungs and CNS)
+  * Systemic vasculities IgA1-dominant deposits
+  * IgA autoantibodies desposition in the small vessels affecting: skin, joints, intestines, and kidney (rarely affects lungs and CNS)
 ## **Clinical Presentation**
  * Hematuria
  * Proteinuria: Rarely >3.5g/d
