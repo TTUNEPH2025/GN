@@ -1,12 +1,12 @@
 # **Membranoproliferative GN (MPGN)**
 ## **Overview**
   * MPGN is a descripter of a pattern of injury that can be associated with different disease states
+    1. Pattern of glomerular injury characterized by mesangial and endocapillary hypercellularity and double countour formation along the capillary walls
   * Implies that the pathogenic process has been occuring for some time and other patterns of injury may present as well (endocapillary proliferative, mesangioproliferative, and crescent GN)
   * Historically had three classifications, but such nomenclature/classification has fallen out of favor due to rise of immunfluorscent staining, and an increase in knowledege and understanding of how the injury occurs
   * Now classified based on etiopathogenesis
     1. Complement-mediated (C3 glomerulopathy with is further subclassified into dense deposite disease and C3 glomerulonephritis)
     2. Immune complex mediated MPGN
-
 ## **Pathophysiology**
   * MPGN
     1. Pathology:
