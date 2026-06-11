@@ -432,7 +432,7 @@ config:
   theme: redux
 ---
 flowchart TD
-    n32(["Resistent Disease"]) --> n54["eGFR stable"] & n55["eGFR decreasing"]
+    n32(["Resistant Disease"]) --> n54["eGFR stable"] & n55["eGFR decreasing"]
     n54 --> n57["Initial tx 
     Rituximab"] & n58["Initial tx
     CNI"] & n59["Initial tx
