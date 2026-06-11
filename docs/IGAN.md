@@ -1,21 +1,11 @@
 # **Immunoglobulin A Nephropathy (IgAN)/Immunoglobulin A Vasculitis (IgAV)**
 ## **Overview**
 ### IgAN (primary and secondary)
-   * Glomerular disease w/co-dominant IgA glomerular staining
-   * Most common pattern of primary glomerular disease world wide
-   * Most prevalent in people of East Asian ancestry followed by Caucasians
-   * Slowly progressive w/25-30% of patients developing kidney failure w/in 20-25years
-   * [Internation IgAN predition tool: designed to predict the risk of a 50% decline in eGFR or ESRD after biopsy](https://qxmd.com/calculate/calculator_499/international-igan-prediction-tool-at-biopsy-adults)
-   * Mest-C Score: Risk tool/score provide earlier risk predicition in IgAN
-   
-|Histology|MEST-C|
-|---------|------|
-|Mesangial hypercellularity| MO: < 50% glomeruli; M1: > 50% glomeruli|
-|Endocapillary hypercellularity| E0: absent; E1: present|
-|Segmental Sclerosis|S0: absent; S1: present|
-|Interstitial fibrosis/tubular atrophty|T0: 0-25%; T1: 25-50%; T2: >50%|
-|Crescents| C0: abscent; C1 1-25%; C2 >25%|
-
+  * Glomerular disease w/co-dominant IgA glomerular staining
+  * Most common pattern of primary glomerular disease world wide
+  * Most prevalent in people of East Asian ancestry followed by Caucasians
+  * Slowly progressive w/25-30% of patients developing kidney failure w/in 20-25years
+  * Two predicition tools: International IgAN prediction tool and the MEST-C score
   * Variant forms of IgAN
     1. IgAN with RPGN
        * greater than 50% decline in eGFR over three months or less plus the presence of crescents on kidney biopsy
@@ -37,31 +27,30 @@
   * Worse GN in children, worse outcomes in adults
   * Adults typicaly more severe and relapsing disease
 ## **Pathophysiology**
- * IgAN
-      1. GN with co-dominant IgA glomerular staining with IgA deposistion in the mesangial +/- capillary
-      2. IgG typically also presented along with C3
-      3. 4 HIT Model
-         - Production of poorly glycosylated IgA1 (Gd-Ig-A1)
-         - Production Anti-Gd-IgA1 autoantibodies (anti-Gd-IgA1 autoantibodies)
-         - Formation of glomerular deposition of immuncomplexes
-         - Deposition of circulating immune complexes --> mesangial, podocyte, endothelial inducing cytokine release, compliment activation, and inflammation causing injury
-    4. Acute lesion
-         - Mesangial hypercellularity
+### IgAN
+  * GN with co-dominant IgA glomerular staining with IgA deposistion in the mesangial +/- capillary
+  * IgG typically also presented along with C3
+  * 4 HIT Model
+    1. Production of poorly glycosylated IgA1 (Gd-Ig-A1)
+    2. Production Anti-Gd-IgA1 autoantibodies (anti-Gd-IgA1 autoantibodies)
+    3. Formation of glomerular deposition of immuncomplexes
+    4. Deposition of circulating immune complexes --> mesangial, podocyte, endothelial inducing cytokine release, compliment activation, and inflammation causing injury
+  * Acute lesion
+    1. Mesangial hypercellularity
          - Endocapillary hypercellularity
          - Crescent
          - FSGS and podocytopathy
-     5. Chronic lesions: correlate with outcome
+     2. Chronic lesions: correlate with outcome
         - IFTA
         - FSGS
         - Global sclerosis
         - Arteriosclerosis
- * Mest-C
+ * Mest-C: Risk tool/score provide earlier risk prediction in IgAN
       1. T score: Most Consistent predictor of renal survival
       2. M1, S1, T1/2: Worse outcomes, regardless of immunosupression status
       3. E1 and C1: Poor outcomes in patient not treated with immunosupression
       4. C2: Predicitive of poor outcomes regardless of immunosupression (not synonymous w/RPGN)
       5. S1 w/podocytopathy: heavier proteinuria and rapid eGFR loss --> better response to steroids
-  * [Internation IgAN predition tool: designed to predict the risk of a 50% decline in eGFR or ESRD after biopsy](https://qxmd.com/calculate/calculator_499/international-igan-prediction-tool-at-biopsy-adults)
 
 |Histology|MEST-C|
 |---------|------|
@@ -71,8 +60,9 @@
 |Interstitial fibrosis/tubular atrophty|T0: 0-25%; T1: 25-50%; T2: >50%|
 |Crescents| C0: abscent; C1 1-25%; C2 >25%|
 
+  * [International IgAN predition tool: designed to predict the risk of a 50% decline in eGFR or ESRD after biopsy](https://qxmd.com/calculate/calculator_499/international-igan-prediction-tool-at-biopsy-adults)
 
- * IgAV
+### IgAV
       1. Systemic vasculities IgA1-dominant deposits
       2. IgA autoantibodies desposition in the small vessels affecting: skin, joints, intestines, and kidney (rarely affects lungs and CNS)
 ## **Clinical Presentation**
