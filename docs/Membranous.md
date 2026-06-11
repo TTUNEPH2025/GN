@@ -110,6 +110,115 @@
 config:
   theme: redux
 ---
+flowchart TB
+    A(["Nephrotic Range Proteinuria"]) --> B["Screen appropiate antibodies"]
+    B --> C["PLA2R ab Negative"] & D["PLA2R ab Positive"]
+    C --> n1["Renal Bx"]
+    n1 --> n2["MN on Bx"]
+    n2 --> n3["PLA2R ag Positive"] & n4["PLA2R ag Negative"]
+    n3 --> n6["• RAS Blockade (ACEi/ARB)
+    • BP Control (SBP&lt;120)
+    • Low Salt Diet
+    • Diuretics/SGLT2i
+    • Statin +/-
+    • Screen for conditions associated with MN"]
+    n4 --> n6
+    D --> n7["PLA2R associated MN"]
+    n7 --> n8["Measure PLA2R ab at 3 &amp; 6 months (shorter if ab levles &gt;150ru/mL)"]
+    n8 --> n9["Disapperance of PLA2R"] & n10["Persistence of PLA2R after observation"]
+    n9 --> n11["No additional therapy"]
+    n10 --> n12["Reconsider therapy"]
+
+    B@{ shape: rounded}
+    C@{ shape: rounded}
+    D@{ shape: rounded}
+    n1@{ shape: rounded}
+    n3@{ shape: rounded}
+    n4@{ shape: rounded}
+    n7@{ shape: rounded}
+    n8@{ shape: rounded}
+    n9@{ shape: rounded}
+    n10@{ shape: rounded}
+    n11@{ shape: rect}
+    n12@{ shape: rect}
+    style A fill:#FFCDD2
+    style B fill:#E1BEE7
+    style C fill:#E1BEE7
+    style D fill:#E1BEE7
+    style n1 fill:#E1BEE7
+    style n2 fill:#BBDEFB
+    style n3 fill:#E1BEE7
+    style n4 fill:#E1BEE7
+    style n6 fill:#BBDEFB,text-align:left,white-space:nowrap
+    style n7 fill:#E1BEE7
+    style n8 fill:#E1BEE7
+    style n9 fill:#E1BEE7
+    style n10 fill:#E1BEE7
+    style n11 fill:#BBDEFB
+    style n12 fill:#BBDEFB
+```
+```mermaid
+---
+config:
+  theme: redux
+---
+flowchart TB
+    n11["• Life-threatening nephrotic syndrome
+    or
+    • Rapid Deterioration of kidney function not otherwise explained"] --> n12["• Can skip 3-6month waiting period and initate treatement with Cyclophosphamide + glucocortidcoids 
+    • Consider Kidney biopsy"]
+    n13["Nomal Kidney function and no immunosuppresive therapy"] --> n15["No Renal bx needed"]
+    n14["Immunosupresive therapy indicated"] --> n16["Consider Renal Bx"]
+    n16 --> n17@{ label: "<span style=\"background-color:\"• RAS Blockade (ACEi/ARB) <br/>• BP Control (SBP&lt;120) <br/>• Low Salt Diet <br/>• Diuretics/SGLT2i <br/>• Statin +/-<br/>• Screen for conditions associated with MN" }
+    n15 --> n17
+    n17 --> n10["Stratify Risk Category: Low, Moderate, high, high risk"] & n11
+    n18["• Unusual course
+    • Serologic abnormality
+    • Unresponsive to treatemtn
+    • Progressive decline
+    • Persistent NS despite PLA2R disaperance"] --> n19["Renal biopsy"]
+    n19 --> n17
+    n20["Disaperance of PLA2R after observation period"] --> n13
+    n21["Persistence of PLA2R after Observation period"] --> n14
+    n22(["PLA2R Associated MN"]) --> n21 & n20 & n18
+    n10 --> n23["Treat according to risk"]
+    n23 --> n24["• Rituximab<br>• Tacrolimus<br>• Cyclosporin<br>• Cyclophosphamide"]
+
+    n11@{ shape: rounded}
+    n13@{ shape: rounded}
+    n15@{ shape: rounded}
+    n14@{ shape: rounded}
+    n16@{ shape: rounded}
+    n17@{ shape: rect}
+    n10@{ shape: rounded}
+    n18@{ shape: rounded}
+    n19@{ shape: rounded}
+    n20@{ shape: rounded}
+    n21@{ shape: rounded}
+    n23@{ shape: rect}
+    n24@{ shape: rect}
+    style n11 fill:#E1BEE7,text-align:left
+    style n12 fill:#BBDEFB,text-align:left
+    style n13 fill:#E1BEE7
+    style n15 fill:#E1BEE7
+    style n14 fill:#E1BEE7
+    style n16 fill:#E1BEE7
+    style n17 fill:#BBDEFB,text-align:left,white-space:nowrap
+    style n10 fill:#E1BEE7
+    style n18 fill:#E1BEE7,text-align:left,white-space:nowrap
+    style n19 fill:#E1BEE7
+    style n20 fill:#E1BEE7
+    style n21 fill:#E1BEE7
+    style n22 fill:#FFCDD2
+    style n23 fill:#E1BEE7
+    style n24 fill:#BBDEFB,text-align:left,white-space:nowrap
+```
+
+```mermaid
+---
+config:
+  theme: redux
+---
 flowchart TD
     A(["Nephrotic Range Proteinuria"]) --> B["Screen appropiate antibodies"]
     B --> C["PLA2R ab Negative"] & D["PLA2R ab Positive"]
