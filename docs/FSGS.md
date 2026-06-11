@@ -54,7 +54,7 @@ flowchart TD
     A(["FSGS on Biopsy"]) --> C["**Nephrotic Syndrome**
     • Protenuria &gt; 3.5g/d
       and
-    • Serum albuming &lt;30g/L (w/or w/o edema)
+    • Serum albumin &lt;30g/L (w/or w/o edema)
     • Diffuse foot process effacement"] & n2["**Abscence of Nephrotic syndrome**
     • Proteinuria &gt;3.5g/d and serum albumin &gt;30g/L 
              or
