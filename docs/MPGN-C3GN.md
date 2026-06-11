@@ -283,15 +283,20 @@ flowchart TD
 ## **Pathophysiology** 
   * C3G (C3 Glomerulopathy)
     1. <ins>*Dysregulation of the alternative pathway*</ins> (genetic or auto-antibioty or monocolonal)
-    2. C3 dominant/only staining of glomerular deposits
-    3. Around 50% of cases have and MPGN pattern of injury
-    4.  C3GN
+        - Leads to uncontrolled glomerular deposition of C3 and cleavage products, resulting in inflammation and progressive kidney diseas
+        - May be preceeded by infection --> infection may "unmask" abnormalities in the alternative complement pathway 
+    2. Autoantibodies against complement components may be detected In 50% or greater of patients
+        - Mainly C3 nephritic fractor (C3NeF), which stabilizes a C3 convertase
+        - Other autoantibodies (C5NeF) and antibodies against factor H, factor B, or C3b. 
+    3. C3 dominant/only staining of glomerular deposits
+    4. Around 50% of cases have and MPGN pattern of injury 
+    5. C3GN
         - Mesangial or subendothelial deposits on EM
         - Mesangial deposits: 99%
         - Capillary wall deposits: 97%
         - With humps 49%
         - Post-infectious GN can mimic C3GN (hypocomplementemia and proteinuria tend to normalize and C4d staining is positive in post-infectious GN)
-    5. DDD
+    6. DDD
         - Intramembranous dense deposits: 100%
         - With humps 25%
         - "Saugage-like appearance" on EM due to dense deposition of the basement membrane
