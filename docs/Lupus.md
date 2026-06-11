@@ -8,6 +8,7 @@
       5. Membranous Lupus
       6. Advanced Sclerosing LN (≥ 90% global sclerosed glomeruli)
   * Can have mixed classes of LN
+  * Females > males (90% of LN is female)
   * LN typically occurs more often in Black, Asian, and Hispanic ethnicities
     1. Blacks and hispanics have a higher incidence of pooer outcoms
   * Up to 30% of LN patients progress to kidney failure w/in 15 years of diagnosis
