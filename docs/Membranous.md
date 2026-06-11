@@ -490,7 +490,7 @@ flowchart TD
 
 ---
 
- * Expert centers: may use more immunosuppression; may trial bortezomib, anti-CD38 therapies, or Belimumab
+ * Expert centers: may use more immunosuppression; may trial bortezomib, anti-CD38 therapies, Belimumab, Obinutuzumab, or Ofatumumab
  * Cumulative doses of Cyclosphosphamide should not exceed a total of 36g due to increased cancer risk
  * Cumulative doses of Cyclosphosphamide should not exceed a total of 10g in Females with concerns for fertility 
 preservation
