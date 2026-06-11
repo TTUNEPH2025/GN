@@ -25,7 +25,7 @@
         - less commonly, intramembranous and subepithelial deposits
         - Double countour of basement membrane
         - May suggest undrlying causes
-          * Tubuloreticular structures in endothelial 
+          * Tubuloreticular structures in endothelial cells suggestive of lupus nephritis
           * Fingerprint pattern with cryoprecipitates = cryoglobulinemia
           * Ribbon-like, dark, electron-dense matter inthe lamina densa of GBM = DDD
         - Abscence of any electron dense depositis may suggest a non-immune complex mediated etiology
@@ -37,7 +37,8 @@
         - Fibrillary GN
   * Paraprotein-mediated GN
      1. PGNMID (proliferative glomerulonephritis w/monoconol immunoglobulin deposits)
-     2. Cryoglobulinemia 
+        - paraproteins may impair alternative pathway regulation, leading to monocolonal gammopathy-associated C3G
+     3. Cryoglobulinemia 
   * Complement-mediated GN
     1. <ins>*Dysregulation of the alternative pathway*</ins> (genetic or auto-antibioty or monocolonal)
     2. C3GN
@@ -49,12 +50,11 @@
     3. Drug associated
     4. APS (antiphospholipid syndrome)
 ## **Clinical Presentation**
+  * Variable clinical presentation
   * Hematuria
-  * Worsening eGFR/rising serum Cr
-  * Severe Proteinuria
-  * C3GN: low serum C3 levels (50% of cases) and normal serum C4 levels
+  * Proteinuria
+  * RPGN
   * Chronic deterioration of renal function
-  * HTN
 ## **Drugs and Disease Associated with MPGN/C3GN**
   * ICGN
     1. SLE
