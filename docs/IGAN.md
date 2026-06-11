@@ -30,11 +30,15 @@
 ### IgAN
   * GN with co-dominant IgA glomerular staining with IgA deposistion in the mesangial +/- capillary
   * IgG typically also presented along with C3
+  * EM reveals typicall electone dense deposits, primarly in the mesangium
+    1. Subendothelial deposits can be present, typically in more active disease
+    2. Subepithelial deposits are rare and should raise the posibility of igA-dominant IRGN
   * 4 HIT Model
     1. Production of poorly glycosylated IgA1 (Gd-Ig-A1)
-    2. Production Anti-Gd-IgA1 autoantibodies (anti-Gd-IgA1 autoantibodies)
-    3. Formation of glomerular deposition of immuncomplexes
-    4. Deposition of circulating immune complexes --> mesangial, podocyte, endothelial inducing cytokine release, compliment activation, and inflammation causing injury
+        - likely produced by mucoally primed B-lymphocytes (mucol microbiome likely plays a role inmodulating gd-1Ga1 production)
+    3. Production Anti-Gd-IgA1 autoantibodies (anti-Gd-IgA1 autoantibodies)
+    4. Formation of glomerular deposition of immuncomplexes
+    5. Deposition of circulating immune complexes --> mesangial, podocyte, endothelial inducing cytokine release, compliment activation, and inflammation causing injury
   * Acute lesion
     1. Mesangial hypercellularity
          - Endocapillary hypercellularity
@@ -46,7 +50,7 @@
         - Global sclerosis
         - Arteriosclerosis
  * Mest-C: Risk tool/score provide earlier risk prediction in IgAN
-      1. T score: Most Consistent predictor of renal survival
+      1. T score: Most consistent predictor of renal survival
       2. M1, S1, T1/2: Worse outcomes, regardless of immunosupression status
       3. E1 and C1: Poor outcomes in patient not treated with immunosupression
       4. C2: Predicitive of poor outcomes regardless of immunosupression (not synonymous w/RPGN)
