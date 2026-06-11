@@ -24,7 +24,7 @@
             1. PGNMID (proliferative glomerulonephritis w/monoconol immunoglobulin deposits)
             2. Cryoglobulinemia 
         - Complement-mediated GN
-            1. <ins>*Dysregulation of the Alternative pathway*</ins> (genetic or auto-antibioty or monocolonal)
+            1. <ins>*Dysregulation of the alternative pathway*</ins> (genetic or auto-antibioty or monocolonal)
             2. C3GN
             3. DDD
             4. Novel/Rare C4 glomerulopathy
@@ -33,20 +33,6 @@
             2. aHUS/HUS
             3. Drug associated
             4. APS (antiphospholipid syndrome)
-  * C3
-    1. <ins>*Dysregulation of the Alternative pathway*</ins> (genetic or auto-antibioty or monocolonal)
-    2. C3 dominant/only staining of glomerular deposits
-    3. Around 50% of cases have and MPGN pattern of injury
-    4.  C3GN
-        - mesangial or subendothelial deposits on EM
-        - Mesangial Deposits: 99%
-        - Capillary wall deposits: 97%
-        - w/humps 49%
-        - Post-infectious GN can mimic C3GN (hypocomplementemia and proteinuria tend to normalize and C4d staining is positive in post-infectious GN)
-    5. DDD
-        - Intramembranous dense deposits: 100%
-        - w/humps 25%
-        - "saugage-like appearance" on EM due to dense deposition of the basement membrane
 ## **Clinical Presentation**
   * Hematuria
   * Worsening eGFR/rising serum Cr
@@ -258,7 +244,8 @@ flowchart TD
 |>52|Investigator's local practice|Investigator's local practice|Investigator's local practice|
 
 
-##C3GN
+#C3GN
+## Overview
   * Cases of MPGN with sole or dominant C3/C4 staining are classified as primary GN
   * C3 glomerulopathy (C3GN) is a rare entity that commonly presents in an MPGN pattern of injury and can be delinated into two categories: C3 glmerulonephritis (C3GN) and Dense Deposite Disease (DDD)
     1. C3GN
@@ -272,7 +259,21 @@ flowchart TD
     3. Typically leads to ESKD
     4. Has high reoccurance in transplant patients and is a cause of early graft failure
   * C4 glomerulopathy is more rare than C3, and has two catorgies similar to C3: C4GN and DDD
-
+## Pathophysiology 
+  * C3G (C3 Glomerulopathy)
+    1. <ins>*Dysregulation of the alternative pathway*</ins> (genetic or auto-antibioty or monocolonal)
+    2. C3 dominant/only staining of glomerular deposits
+    3. Around 50% of cases have and MPGN pattern of injury
+    4.  C3GN
+        - Mesangial or subendothelial deposits on EM
+        - Mesangial deposits: 99%
+        - Capillary wall deposits: 97%
+        - With humps 49%
+        - Post-infectious GN can mimic C3GN (hypocomplementemia and proteinuria tend to normalize and C4d staining is positive in post-infectious GN)
+    5. DDD
+        - Intramembranous dense deposits: 100%
+        - With humps 25%
+        - "Saugage-like appearance" on EM due to dense deposition of the basement membrane
 ## **Sources**
  * [KDIGO GN Guidlines](https://kdigo.org/guidelines/gd/)
  * [C3 glomerulopathies general info](https://pmc.ncbi.nlm.nih.gov/articles/PMC10704907/)
