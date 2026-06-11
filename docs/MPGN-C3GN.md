@@ -55,6 +55,12 @@
   * Proteinuria
   * RPGN
   * Chronic deterioration of renal function
+  * Labs
+    1. Low C3, C4 or both
+    2. Abnormal CH50 indicates a complement pathway activation
+    3. Work up demonstrated defects in complement pathways, including soluble factor and genetic abnormalities
+        - Soluble mediated testing: anti-complement factor antibodie (factor H, B/C3b), nephritic factors (C3NeF, 4NeF, C5NeF), SC5b-9)
+        - Genetic testing: CFG, CFI, CFB, C3, THBD, CD40, CFHR 1-5 
 ## **Drugs and Disease Associated with MPGN/C3GN**
   * ICGN
     1. SLE
