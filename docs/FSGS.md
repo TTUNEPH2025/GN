@@ -129,7 +129,7 @@ flowchart TD
      • BP control
      • Low Salt Diet
      • Diuretics/SGLT2i"
-     • Endothelin Antagonist] & n3["Find/tx Secondary cause"]
+     • Endothelin Antagonist (off lable)] & n3["Find/tx Secondary cause"]
     B --> n26["• RAS blockade
      • BP control
      • Low Salt Diet
