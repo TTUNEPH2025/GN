@@ -13,6 +13,22 @@
     2. Endocapillary proliferation/hypercellularity
     3. Subendothelial deposits
     4. Pathogenesis: Glomerular capillary injury from deposits mesangial or subendothelial found by EM
+    5. Light microscopy
+        - Mesangial and endocapillary hypercellularity
+        - GBM remodeling (double-contoured or tram-track)
+        - Lobular accentuation of the capillary tufts
+        - subepithelial spikes may be present
+     6. Immunofixation
+        - Pattern may suggest underlying etiology
+     7. Electron microscopy
+        - Mesagnial and subendothelial deposits
+        - less commonly, intramembranous and subepithelial deposits
+        - Double countour of basement membrane
+        - May suggest undrly ing causes
+          * Tubuloreticular structures in en***
+          * Fingerprint pattern with cryoprecipitates = cryoglobulinemia
+          * Ribbon-like, dark, electron-dense matter inthe lamina densa of GBM = DDD
+          * Abscence of any electron dense depositis may suggest a non-immune complex mediated etiology
   * Pathologic entities:
     1. Immune Complex GN (ICGN)
         - Ab triggers reation of classic and lectin pathway (cancers, infection, allergic auto-immune)
