@@ -134,7 +134,7 @@ flowchart TD
      • BP control
      • Low Salt Diet
      • Diuretics/SGLT2i
-     • Endothelin Antagonist"]
+     • Endothelin Antagonist (off lable)"]
     n4["•Predinsone 1mg/kg Daily (max 80mg/day)
     or
     • Prednisone 2mg/kg EOD (max 120mg/day)"] --> n5["•Continue for at least 4wk & complete remission 
