@@ -9,14 +9,14 @@
     2. Immune complex mediated MPGN
 ## **Pathophysiology**
   * Pathology:
-    1. Glomerular Capillary wall remodeling (double countour formation or "train track" appearance
+    1. Glomerular capillary wall remodeling (double countour formation or "train track" appearance
     2. Endocapillary proliferation/hypercellularity
     3. Subendothelial deposits
     4. Pathogenesis: Glomerular capillary injury from deposits mesangial or subendothelial found by EM
   * Pathologic entities:
     1. Immune Complex GN (ICGN)
-        - Ab triggers reation of classic and lectin pathway (cancers, Infection, allergic auto-immune)
-        - Systemic Autoimmune disease
+        - Ab triggers reation of classic and lectin pathway (cancers, infection, allergic auto-immune)
+        - Systemic autoimmune disease
         - Infection
         - Fibrillary GN
   * Paraprotein-mediated GN
@@ -243,8 +243,8 @@ flowchart TD
 |>52|Investigator's local practice|Investigator's local practice|Investigator's local practice|
 
 
-#C3GN
-## Overview
+# **C3GN**
+## **Overview**
   * Cases of MPGN with sole or dominant C3/C4 staining are classified as primary GN
   * C3 glomerulopathy (C3GN) is a rare entity that commonly presents in an MPGN pattern of injury and can be delinated into two categories: C3 glmerulonephritis (C3GN) and Dense Deposite Disease (DDD)
     1. C3GN
@@ -258,7 +258,7 @@ flowchart TD
     3. Typically leads to ESKD
     4. Has high reoccurance in transplant patients and is a cause of early graft failure
   * C4 glomerulopathy is more rare than C3, and has two catorgies similar to C3: C4GN and DDD
-## Pathophysiology 
+## **Pathophysiology** 
   * C3G (C3 Glomerulopathy)
     1. <ins>*Dysregulation of the alternative pathway*</ins> (genetic or auto-antibioty or monocolonal)
     2. C3 dominant/only staining of glomerular deposits
