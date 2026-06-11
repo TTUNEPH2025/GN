@@ -1,22 +1,12 @@
-# **Membranoproliferative GN (MPGN)/C3GN**
+# **Membranoproliferative GN (MPGN)**
 ## **Overview**
-  * MPGN
-    1. Is a descripter of a pattern of injury that can be associated with different disease states
-    2. Implies that the pathogenic process has been occuring for some time and other patterns of injury may present as well (endocapillary proliferative, mesangioproliferative, and crescent GN)
-    3. Historically had three classifications, but such nomenclature/classification has fallen out of favor due to rise of immunfluorscent staining, and an increase in knowledege and understanding of how the injury occurs
-  * Cases of MPGN with sole or dominant C3/C4 staining are classified as primary GN
-  * C3 glomerulopathy is a rare entity that commonly presents in an MPGN pattern of injury and can be delinated into two categories: C3 glmerulonephritis (C3GN) and Dense Deposition Disease (DDD)
-    1. C3GN
-        - Primarly found in adults
-        - Older age associateed more w/monocolonal gammopathy and has better outcomes
-        - Can be acquired or genetic
-        - Commonly induced by C3 nephritic factors
-    2. DDD
-        - Primarly children and adolescents of both genders
-        - Typically very aggressive disease with deterioration of renal function ending ESKD
-    3. Typically leads to ESKD
-    4. Has high reoccurance in transplant patients and is a cause of early graft failure
-  * C4 glomerulopathy is more rare than C3, and has two catorgies similar to C3: C4GN and DDD
+  * MPGN is a descripter of a pattern of injury that can be associated with different disease states
+  * Implies that the pathogenic process has been occuring for some time and other patterns of injury may present as well (endocapillary proliferative, mesangioproliferative, and crescent GN)
+  * Historically had three classifications, but such nomenclature/classification has fallen out of favor due to rise of immunfluorscent staining, and an increase in knowledege and understanding of how the injury occurs
+  * Now classified based on etiopathogenesis
+    1. Complement-mediated (C3 glomerulopathy with is further subclassified into dense deposite disease and C3 glomerulonephritis)
+    2. Immune complex mediated MPGN
+
 ## **Pathophysiology**
   * MPGN
     1. Pathology:
@@ -268,6 +258,20 @@ flowchart TD
 |>52|Investigator's local practice|Investigator's local practice|Investigator's local practice|
 
 
+##C3GN
+  * Cases of MPGN with sole or dominant C3/C4 staining are classified as primary GN
+  * C3 glomerulopathy (C3GN) is a rare entity that commonly presents in an MPGN pattern of injury and can be delinated into two categories: C3 glmerulonephritis (C3GN) and Dense Deposite Disease (DDD)
+    1. C3GN
+        - Primarly found in adults
+        - Older age associateed more w/monocolonal gammopathy and has better outcomes
+        - Can be acquired or genetic
+        - Commonly induced by C3 nephritic factors
+    2. DDD
+        - Primarly children and adolescents of both genders
+        - Typically very aggressive disease with deterioration of renal function ending ESKD
+    3. Typically leads to ESKD
+    4. Has high reoccurance in transplant patients and is a cause of early graft failure
+  * C4 glomerulopathy is more rare than C3, and has two catorgies similar to C3: C4GN and DDD
 
 ## **Sources**
  * [KDIGO GN Guidlines](https://kdigo.org/guidelines/gd/)
