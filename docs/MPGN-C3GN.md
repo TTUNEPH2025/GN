@@ -8,31 +8,30 @@
     1. Complement-mediated (C3 glomerulopathy with is further subclassified into dense deposite disease and C3 glomerulonephritis)
     2. Immune complex mediated MPGN
 ## **Pathophysiology**
-  * MPGN
-    1. Pathology:
-        - Glomerular Capillary wall remodeling (double countour formation or "train track" appearance
-        - Endocapillary proliferation/hypercellularity
-        - Subendothelial deposits
-        - Pathogenesis: Glomerular capillary injury from deposits mesangial or subendothelial found by EM
-    3. Pathologic entities:
-        - Immune Complex GN (ICGN)
-            1. Ab triggers reation of classic and lectin pathway (cancers, Infection, allergic auto-immune)
-            2. Systemic Autoimmune disease
-            3. Infection
-            4. Fibrillary GN
-        - Paraprotein-mediated GN
-            1. PGNMID (proliferative glomerulonephritis w/monoconol immunoglobulin deposits)
-            2. Cryoglobulinemia 
-        - Complement-mediated GN
-            1. <ins>*Dysregulation of the alternative pathway*</ins> (genetic or auto-antibioty or monocolonal)
-            2. C3GN
-            3. DDD
-            4. Novel/Rare C4 glomerulopathy
-        - Chronic TMA
-            1. Membrane double contour, but no proliferation
-            2. aHUS/HUS
-            3. Drug associated
-            4. APS (antiphospholipid syndrome)
+  * Pathology:
+    1. Glomerular Capillary wall remodeling (double countour formation or "train track" appearance
+    2. Endocapillary proliferation/hypercellularity
+    3. Subendothelial deposits
+    4. Pathogenesis: Glomerular capillary injury from deposits mesangial or subendothelial found by EM
+  * Pathologic entities:
+    1. Immune Complex GN (ICGN)
+        - Ab triggers reation of classic and lectin pathway (cancers, Infection, allergic auto-immune)
+        - Systemic Autoimmune disease
+        - Infection
+        - Fibrillary GN
+  * Paraprotein-mediated GN
+     1. PGNMID (proliferative glomerulonephritis w/monoconol immunoglobulin deposits)
+     2. Cryoglobulinemia 
+  * Complement-mediated GN
+    1. <ins>*Dysregulation of the alternative pathway*</ins> (genetic or auto-antibioty or monocolonal)
+    2. C3GN
+    3. DDD
+    4. Novel/Rare C4 glomerulopathy
+  * Chronic TMA
+    1. Membrane double contour, but no proliferation
+    2. aHUS/HUS
+    3. Drug associated
+    4. APS (antiphospholipid syndrome)
 ## **Clinical Presentation**
   * Hematuria
   * Worsening eGFR/rising serum Cr
