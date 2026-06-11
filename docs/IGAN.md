@@ -153,15 +153,20 @@ in Chinese patients only\n   • Tonsillectomy: For Japanese patient's (not stud
 
   * [IgAN prediction tool at biopsy - Adult](https://qxmd.com/calculate/calculator_499/international-igan-prediction-tool-at-biopsy-adults)
   * [IgAN prediction tool post-biopsy - Adult](https://qxmd.com/calculate/calculator_839/international-igan-prediction-tool-post-biopsy-adults)
-### Medicaions approved recently by FDA for IgAN
+### Medications approved recently by FDA for IgAN
   * Nefecon (TRF-Budesonide, 2021)
+    1. 16mg daily for 9 months then reduce to 8mg dialy for 2 weeks before session 
   * Sparsentan (2023)
     1. Should avoid use with ACEi/ARB due class DEARA
-    2. REMS: Requires Monthly liver testing for first 12month, then every 3 months thereafter 
+    2. Patients must be vaccinated against encapsulated bacteria at least 2 weeks prior to first dose
+    3. Do not start during active infections
+    4. REMS: Requires monthly liver testing for first 12 months, then every 3 months thereafter
+    5. 200mg BID, duration uncertain
   * Iptocopan (2024)
   * Atrasentan (2025)
-    1. Endothelial Antagonist only an be used with ACEi/ARB
+    1. Endothelial antagonist only and can be used with ACEi/ARB
     2. No REMS
+    3. 0.75mg daily, life long treatemtn
 ### New therapies currently being studied 
   * Target: APRIL
     1. Sibeprenlimab (Trial: VISIONARY)
