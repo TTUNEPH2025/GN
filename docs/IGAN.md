@@ -74,23 +74,26 @@
   * IgA autoantibodies desposition in the small vessels affecting: skin, joints, intestines, and kidney (rarely affects lungs and CNS)
 ## **Clinical Presentation**
  * Hematuria
- * Proteinuria: Rarely >3.5g/d
+ * Proteinuria: rarely >3.5g/d
  * Edema
  * HTN
+ * Rash
+ * Arthraligia
+ * Abdominal pain
 ## **Diseases Associated with IgAN/IgAV**
   * Diseases
     1. Cirrhosis
     2. Portal HTN
-    3. Inflammatory Bowel Disease
+    3. Inflammatory bowel disease
     4. Celiac
-    5. Dermatits Herpetiformis
+    5. Dermatits herpetiformis
     6. Psoriasis
   * Infections
     1. HIV
     2. Hepatitis 
     3. TB
     4. Brucellosis
-    5. Lerosy 
+    5. Leprosy 
 ## **Treatment**
 ### IgAN
 ```mermaid
@@ -173,10 +176,10 @@ in Chinese patients only\n   • Tonsillectomy: For Japanese patient's (not stud
 ### IgAV
   * No proven therapy at this time
   * Age appropiate malignancy screening
-  * Consider Glucocorticoid therapy
-  * Supportive Therapy: RASi, Life style changes (diet, exercise, < 2g salt per day), SGLT2i
+  * Consider glucocorticoid therapy
+  * Supportive therapy: RASi, life style changes (diet, exercise, < 2g salt per day), SGLT2i
   * Recommend enrolling in clinical trials
-  * RPGN: Offer Treatement with cyclophosphamide and systemic steroids in accordance ANCA-associated Treatement
+  * RPGN: Offer treatement with cyclophosphamide and systemic steroids in accordance ANCA-associated Treatement
 ## **Sources**
  * [KDIGO Guidlines IgAN 2025](https://kdigo.org/wp-content/uploads/2024/08/KDIGO-2025-IgAN-IgAV-Guideline.pdf)
  * [Proteinuria Trajectory and Disease Progression in Children and Adults w/IgA Nephropathy/Vasculitis](https://renal.videomed.live/videos/069bdab11e1ce0c48c/2025-07-17-10-20-pathology-of-ig-a-nephropathy-and-ig-a-vasculitis-m-barry-stokes-md)
