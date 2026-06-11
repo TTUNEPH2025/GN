@@ -69,7 +69,7 @@
     4. Mixed connective tissues disease
     5. Drug induced
   * Infectous
-    1. Bacterial: post strep
+    1. Bacterial: Post-strep
     2. Viral: HCV (including HCV -mixed cryogloblinemia), HBV
     3. Paracytic: Malaria, schistosomiosis, mycoplasma, leishmaniasis, filariasis, histoplasmosis
   * Fibrillary GN
