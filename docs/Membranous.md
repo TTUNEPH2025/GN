@@ -182,7 +182,7 @@ flowchart TB
     n21["Persistence of PLA2R after Observation period"] --> n14
     n22(["PLA2R Associated MN"]) --> n21 & n20 & n18
     n10 --> n23["Treat according to risk"]
-    n23 --> n24["• Rituximab<br>• Tacrolimus<br>• Cyclosporin<br>• Cyclophosphamide"]
+    n23 --> n24["• Rituximab<br>• Tacrolimus<br>• Cyclosporine<br>• Cyclophosphamide"]
 
     n11@{ shape: rounded}
     n13@{ shape: rounded}
@@ -212,63 +212,6 @@ flowchart TB
     style n22 fill:#FFCDD2
     style n23 fill:#E1BEE7
     style n24 fill:#BBDEFB,text-align:left,white-space:nowrap
-```
-
-```mermaid
----
-config:
-  theme: redux
----
-flowchart TD
-    A(["Nephrotic Range Proteinuria"]) --> B["Screen appropiate antibodies"]
-    B --> C["PLA2R ab Negative"] & D["PLA2R ab Positive"]
-    C --> n1["Renal Bx"]
-    n1 --> n2["MN on Bx"]
-    n2 --> n3["PLA2R ag Positive"] & n4["PLA2R ag Negative"]
-    n4 --> n5["Screen for conditions associated with MN"]
-    n3 --> n6["• RAS Blockade (ACEi/ARB)
-    • BP Control (SBP&lt;120)
-    • Low Salt Diet
-    • Diuretics/SGLT2i
-    • Statin"] & n5
-    D --> n7["• RAS Blockade (ACEi/ARB)
-    • BP Control (SBP&lt;120)
-    • Low Salt Diet
-    • Diuretics/SGLT2i
-    • Statin"] & n8["Screen for conditions associated with MN"]
-    n7 --> n9["Monitor PLA2R ab every 3months for 6 months
-    [High ab titers may (>150RU/mL) may require short testing internvals]"]
-    n8 --> n9
-    n9 --> n10["Stratify Risk Category: Low, Moderate, high, high risk"] & n11["• Life-threatening nephrotic syndrome
-    or
-    • Rapid Deterioration of kidney function not otherwise explained"]
-    n11 --> n12[" • Can skip 3-6month waiting period and initate treatement with Cyclophosphamide + glucocortidcoids 
-    • Consider Kidney biopsy"]
-    B@{ shape: rounded}
-    C@{ shape: rounded}
-    D@{ shape: rounded}
-    n1@{ shape: rounded}
-    n3@{ shape: rounded}
-    n4@{ shape: rounded}
-    n5@{ shape: rounded}
-    n8@{ shape: rounded}
-    n9@{ shape: rounded}
-    style A fill:#FFCDD2
-    style B fill:#E1BEE7
-    style C fill:#E1BEE7
-    style D fill:#E1BEE7
-    style n1 fill:#E1BEE7
-    style n2 fill:#BBDEFB
-    style n3 fill:#E1BEE7
-    style n4 fill:#E1BEE7
-    style n5 fill:#E1BEE7
-    style n6 fill:#BBDEFB,text-align:left,white-space:nowrap
-    style n7 fill:#BBDEFB,text-align:left,white-space:nowrap
-    style n8 fill:#E1BEE7
-    style n9 fill:#E1BEE7,white-space:nowrap
-    style n10 fill:#BBDEFB
-    style n11 fill:#BBDEFB,text-align:left
-    style n12 fill:#BBDEFB,text-align:left
 ```
 ### Risk Categories
 ```mermaid
