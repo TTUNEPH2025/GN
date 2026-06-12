@@ -20,6 +20,8 @@
     3. IgAN with AKI
         * AKI can occure during episodes of gross hematuria --> tubular obstruction by red cell cast or acute tubulare necrosis from iron relased from lysed red cells
         * typically the kidney biopsy reveals mesangial proliferation and segmental crescents in small amount of glomeruli (less than 25%) which are insufficient to account fo the AKI
+        * Serum Cr typically returns to baseline with in weeks to months, though some patients may have incomplete recovery
+        * Riskfactors for incomplete recovery: Hematuria lasting greater than 10 days, age > 50, low eGFR at baseline, and more severe ATN on biopsy
 ### IgA Vasculitis (Henoch-Schonlein purpura) (systemic for of IgAN)
   * IgA autoantibodies deposition in the vessels
   * Children < 16 years of age, often self-limitting
@@ -153,6 +155,9 @@ in Chinese patients only\n   • Tonsillectomy: For Japanese patient's (not stud
 
   * [IgAN prediction tool at biopsy - Adult](https://qxmd.com/calculate/calculator_499/international-igan-prediction-tool-at-biopsy-adults)
   * [IgAN prediction tool post-biopsy - Adult](https://qxmd.com/calculate/calculator_839/international-igan-prediction-tool-post-biopsy-adults)
+  * Life style changes: low salt diet (less 2g/day), smoking cessations, and BP < 120/75
+  * Of note: Steroids are becoming less favored, beyond supportive care
+    1. The TESTING trial points towards only temporary benefit regarding eGFR preservation over duration of use
 ### Medications approved recently by FDA for IgAN
   * Nefecon (TRF-Budesonide, 2021)
     1. 16mg daily for 9 months then reduce to 8mg dialy for 2 weeks before session 
