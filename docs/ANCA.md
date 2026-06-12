@@ -112,13 +112,13 @@
     13. Drugs: listed above
           
 ## **Evaluation and Treatment**
-### Evaluation
+### Initial evaluation of RPGN
 ```mermaid
 ---
 config:
   theme: redux
 ---
-flowchart TD
+flowchart TB
     A(["Rapidly Declining eGFR
         &
         UA Positive for Blood and Protein"]) --> n1["Evaluate if urine sediment present (w/or w/o pyuria in abcence of infection)"]
@@ -128,29 +128,22 @@ flowchart TD
     • r/o infectious causes
     • obtain kidney biopsy if able"]
     n1 -- Absent --> n3["Evaluate for other causes of AKI"]
-    n2 --> n4(["Rapidly Progressive"])
-    n4 -- Yes --> n5["• Positive clinical presentation of ANCA vasculitis
-    • PR3-ANCA and/or MPO-ANCA"]
-    n4 -- No --> n6["Wait for biospy results"]
-    n5 --> n7["Can initiate treatment for ANCA associated disease
+    n5["• Positive clinical presentation of ANCA vasculitis
+    • PR3-ANCA and/or MPO-ANCA"] --> n7["Can initiate treatment for ANCA associated disease
     • Do not have to wait for biopsy results prior to treatment if high clinical suspicion and Rapid loss of kidney function"]
-    n6 --> n8["Treat as indicated by results from biopsy, serology, and clinical presentation"]
+    n2 --> n5
+
     n1@{ shape: rounded}
     n2@{ shape: rounded}
     n3@{ shape: rounded}
     n5@{ shape: rounded}
-    n6@{ shape: rounded}
     n7@{ shape: rounded}
-    n8@{ shape: rounded}
     style A fill:#E1BEE7,stroke:#000000
     style n1 fill:#BBDEFB,stroke:#000000
     style n2 stroke:#000000,fill:#BBDEFB,text-align:left,white-space:nowrap
     style n3 stroke:#000000,fill:#BBDEFB,text-align:left,white-space:nowrap
-    style n4 fill:#E1BEE7,stroke:#000000
     style n5 fill:#BBDEFB,stroke:#000000,text-align:left,white-space:nowrap
-    style n6 stroke:#000000,fill:#BBDEFB,text-align:left,white-space:nowrap
     style n7 fill:#BBDEFB,stroke:#000000,text-align:left
-    style n8 fill:#BBDEFB,stroke:#000000,text-align:left
 ```
 ### Treatment
 ```mermaid
