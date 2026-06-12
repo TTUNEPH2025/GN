@@ -49,6 +49,42 @@
     2. aHUS/HUS
     3. Drug associated
     4. APS (antiphospholipid syndrome)
+
+```mermaid
+---
+config:
+  theme: redux
+---
+flowchart TB
+    n1(["Classification of MPGN"]) --> n2["Immunoglobulin + complement deposition"] & n3["Complement deposition alone"] & n4["No immunoglobulin or complement deposition"]
+    n2 --> n5["Polyconal (IgM, IgA +/- IgG, C1q, C3, kappa and lambda)"] & n6["Monoclonal (IgG, IgM or IgA, C1q, C3 with light chain restriction)"] & n7["Full-house pattern (IgG, IgM, IgA, C1q, C3, kappa and lambda)"]
+    n3 --> n8["C3GN"] & n9["C4GN"]
+    n4 --> n10["Chronic thrombotic microangiopathy, chronic transplant glomerulopathy, radiation nephritis, or myeloproliferative neoplasms"]
+    n5 --> n11["Infections"]
+    n6 --> n12["Paraproteinemias"]
+    n7 --> n13["Autoimmune disease"]
+    n8 --> n14["C3 Dense Deposite Disease"] & n15["C3GN"]
+    n9 --> n16["C4 Dense Deposite Disease"]
+    n9 --> n17["C4GN"]
+
+    n2@{ shape: rounded}
+    n3@{ shape: rounded}
+    n4@{ shape: rounded}
+    n5@{ shape: rounded}
+    n6@{ shape: rounded}
+    n7@{ shape: rounded}
+    n8@{ shape: rounded}
+    n9@{ shape: rounded}
+    n10@{ shape: rounded}
+    n11@{ shape: rounded}
+    n12@{ shape: rounded}
+    n13@{ shape: rounded}
+    n14@{ shape: rounded}
+    n15@{ shape: rounded}
+    n16@{ shape: rounded}
+    n17@{ shape: rounded}
+```
+
 ## **Clinical Presentation**
   * Variable clinical presentation
   * Hematuria
