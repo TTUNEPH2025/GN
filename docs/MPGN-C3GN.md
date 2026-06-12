@@ -110,6 +110,13 @@ flowchart TB
     n15@{ shape: rounded}
     n16@{ shape: rounded}
     n17@{ shape: rounded}
+    style n3 fill:#E1BEE7
+    style n8 fill:#FFF9C4
+    style n9 fill:#FFF9C4
+    style n14 fill:#FFE0B2
+    style n15 fill:#FFE0B2
+    style n16 fill:#FFE0B2
+    style n17 fill:#FFE0B2
 ```
 
 ## **Clinical Presentation**
