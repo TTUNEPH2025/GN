@@ -152,14 +152,14 @@ config:
   theme: redux
 ---
 flowchart TD
-    A(["Dx of ANCA associated GN"]) --> n2["• Diffuse Aveolar Hemorrhage
+    A(["Dx of ANCA Associated GN"]) --> n2["• Diffuse aveolar hemorrhage
     • Positive ANCA and Anti-GBM serology
     • Serum Cr > 3.4 or rapidly increasing Cr
     • Requiring RRT"]
-    n2 -- Negative --> n1["Induction Therapy Alone"]
-    n2 -- Positive --> n3["Consider Addition of PLEX to Induction Therapy"]
+    n2 -- Negative --> n1["Induction therapy alone"]
+    n2 -- Positive --> n3["Consider addition of PLEX to Induction Therapy"]
     n3 --> n4(["ANCA Vasculiti w/Severe kidney disease"]) & n5(["Vasculitis w/aveolar hemorrhage"]) & n6(["ANCA pos and Anti-GMB pos"])
-    n1 --> n7["Induction Theray"]
+    n1 --> n7["Induction theray"]
     n4 --> n10["7 treatments over 14 days
     • 60ml/kg volume replacement with albumin substitution"]
     n6 --> n11["Daily for 14 days or until Anti-GBM antibodies undetectable"]
@@ -168,15 +168,15 @@ flowchart TD
     n10 --> n7
     n11 --> n7
     n12 --> n7
-    n7 --> n13["Markedly Reduced eGFR or SCr > 4"]
-    n13 -- Yes --> n16["• Cyclophosphamide + Glucocorticoids taper
+    n7 --> n13["Markedly reduced eGFR or SCr > 4"]
+    n13 -- Yes --> n16["• Cyclophosphamide + glucocorticoids taper
     or
-    •Cyclophosphamide + Glucocorticoids taper + Rituximab"]
-    n13 -- No --> n17["• Rituximab + Glucocorticoid taper/Avacopan 
+    •Cyclophosphamide + glucocorticoids taper + Rituximab"]
+    n13 -- No --> n17["• Rituximab + glucocorticoid taper/avacopan 
     or
-    • Cyclophosphamide + Glucocorticoids taper/Avacopan
+    • Cyclophosphamide + glucocorticoids taper/avacopan
     or
-    •Cyclophosphamide + Glucocorticoids taper + Rituximab"]
+    •Cyclophosphamide + glucocorticoids taper + rituximab"]
     n17 --> n18["<ins>Rituximab Preferred</ins>
     • Children/Adolescents
     • Concerns for fertility
@@ -185,22 +185,22 @@ flowchart TD
     • Relapsing disease
     • PR3-ANCA"] & n19["<ins>Cyclophosamide Preferred</ins>
     • Rituximab difficult to access
-    • SCr &gt;4"] & n20@{ label: "<ins>Glucocorticoids vs Avacopan</ins>\n    • Avacopan preferred with patient's at increase risk of steroid toxicity\n    • Avacopan preferred with patient's with lower eGFR" }
-    n18 --> n21["Evaluate Disease response"]
+    • SCr &gt;4"] & n20@{ label: "<ins>Glucocorticoids vs avacopan</ins>\n    • Avacopan preferred with patient's at increase risk of steroid toxicity, DM I/II and osteoporosis\n    • Avacopan preferred with patient's with lower eGFR" }
+    n18 --> n21["Evaluate disease response"]
     n19 --> n21
     n20 --> n21
     n21 --> n22["Remission"] & n23["Resistent/Refractory"]
     n22 --> n24["Maintence Therapy"]
     n23 --> n25["On RRT after 3months of tx and no extrarenal signs/symptoms"]
-    n25 -- Yes --> n26["Consider DC of Immunotherapy"]
+    n25 -- Yes --> n26["Consider DC of immunotherapy"]
     n25 -- No --> n27["• Consider increasing glucocorticoid dosing
-    • Addition of Rituximab or Cyclophosphamide to iniatial therapy
+    • Addition of rituximab or cyclophosphamide to initial therapy
     • Consider PLEX"]
     n24 --> n28["• Rituximab 
     or
-    • Azathioprine
+    • azathioprine
     or
-    • MMF or/Methotrexate (only if azathioprine not tolerated and avoid Methotrexate if eGFR &lt; 60)"]
+    • MMF or/methotrexate (only if azathioprine not tolerated and avoid methotrexate if eGFR &lt; 60)"]
     n28 --> n29["Continue therapy for any from 18months to 4 years after induction of remission"]
     n2@{ shape: rounded}
     n1@{ shape: rounded}
