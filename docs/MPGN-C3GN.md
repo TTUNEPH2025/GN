@@ -163,19 +163,26 @@ flowchart TB
     • Compliment activation (C3d, Bb, sMAC)
     • Genetic testing"]
     n24 --> n30["• No Monoclonal Gammopathy
-    • moderate to severe disease
+    • Moderate to severe disease
     • >1g/d Proteinuria
     • Declining function for at least 6 months"] & n31(["Monoclonal Gammopathy found"])
     n31 --> n32["Consult appropriate Specialist and Treat Underlying Illness"]
     n30 --> n33["• MMF + steroids
-    • Supportive Therapy"] & n34["`**Recently FDA approved therapy not yet in guidlines**
+    • Supportive Therapy (RAASi, SGLT2i, titrate to achieve SBP &lt; 120"] & n34["`**Recently FDA approved therapy not yet in guidlines**
     • Iptocopan (Factor B inhibtor): approved for C3GN 3/2025
     • Pegcetocoplan (C3 ingibitor): approved for C3GN 7/2025`"]
     n2 --> n8
+    n33 -- &lt;1 g/d of proteinuria --> n35["No additional treatment"]
+    n33 -- >1g/d of proteinuria, hematuria/declineing function --> n36["Eculizumab"]
+    n36 -- &lt;1 g/d of proteinuria --> n35
+    n36 --> n37["Clinical trial/newer agents"]
 
     n2@{ shape: rounded}
     n8@{ shape: rounded}
     n30@{ shape: rounded}
+    n35@{ shape: rounded}
+    n36@{ shape: rect}
+    n37@{ shape: rounded}
     style A color:#000000,fill:#FFF9C4,text-align:left
     style n2 color:#000000,fill:#FFF9C4,text-align:left
     style n8 color:#000000,fill:#FFF9C4,text-align:left
@@ -186,6 +193,9 @@ flowchart TB
     style n32 fill:#FFCDD2,color:#000000,text-align:left
     style n33 fill:#FFCDD2,color:#000000,text-align:left
     style n34 fill:#FFCDD2,color:#000000,text-align:left
+    style n35 fill:#FFF9C4
+    style n36 fill:#FFCDD2
+    style n37 fill:#FFF9C4
 ```
 
 ### ICGN
