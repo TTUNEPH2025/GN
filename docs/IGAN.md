@@ -130,12 +130,13 @@ flowchart TB
 • PJP ppx"] & n12["• MMF: Can be used as glucocorticoid sparring agent in Chinese patients only<br>    • Hydroxychloroquine: For patients at high risk of progression in spite of supportive care<br>in Chinese patients only<br>   • Tonsillectomy: For Japanese patients (not studied in any other group)"]
     n15 --> n5["• Report in Disease registry if available
     • Give patient resources for patient advocacy groups
-    • Consider enrollment in Trials"] & n6
+    • Consider enrollment in Trials"] & n6 & n21["eGFR &lt;20 for &gt;3 months"]
     n14 --> n16["Supportive care"]
     n16 --> n17["No improvement in AKI with in one week"] & n18["Cr returns to baseline"]
     n18 --> n15
     n17 --> n19["Kidney biopsy to rule out RPGN"]
     n13 --> n20["Treat like MCD"]
+    n21 --> n22["Immunosupression not recommended"]
 
     n1@{ shape: rounded}
     n4@{ shape: rounded}
@@ -144,11 +145,13 @@ flowchart TB
     n8@{ shape: rect}
     n12@{ shape: rect}
     n5@{ shape: rounded}
+    n21@{ shape: rounded}
     n16@{ shape: rect}
     n17@{ shape: rounded}
     n18@{ shape: rounded}
     n19@{ shape: rect}
     n20@{ shape: rect}
+    n22@{ shape: rect}
     style A fill:#C8E6C9,color:#000000
     style n1 fill:#FFF9C4,text-align:left,white-space:nowrap
     style n2 fill:#FFE0B2,text-align:left
@@ -165,11 +168,13 @@ flowchart TB
     style n11 fill:#FFE0B2,text-align:left
     style n12 fill:#FFE0B2,text-align:left
     style n5 fill:#FFF9C4,text-align:left
+    style n21 fill:#FFF9C4
     style n16 fill:#FFE0B2
     style n17 fill:#FFF9C4
     style n18 fill:#FFF9C4
     style n19 fill:#FFE0B2
     style n20 fill:#FFE0B2
+    style n22 fill:#FFE0B2
 ```
 
   * [IgAN prediction tool at biopsy - Adult](https://qxmd.com/calculate/calculator_499/international-igan-prediction-tool-at-biopsy-adults)
