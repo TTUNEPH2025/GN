@@ -57,19 +57,10 @@ config:
 ---
 flowchart TB
     n1(["Classification of MPGN"]) --> n2["Immunoglobulin + complement deposition"] & n3["Complement deposition alone"] & n4["No immunoglobulin or complement deposition"]
-    n2 --> n5["Polyconal (IgM, IgA +/- IgG, C1q, C3, kappa and lambda)"] & n6["Monoclonal (IgG, IgM or IgA, C1q, C3 with light chain restriction)"] & n7["Full-house pattern (IgG, IgM, IgA, C1q, C3, kappa and lambda)"]
-    n3 --> n8["C3GN"] & n9["C4GN"]
-    n4 --> n10["Chronic thrombotic microangiopathy, chronic transplant glomerulopathy, radiation nephritis, or myeloproliferative neoplasms"]
 
     n2@{ shape: rounded}
     n3@{ shape: rounded}
     n4@{ shape: rounded}
-    n5@{ shape: rounded}
-    n6@{ shape: rounded}
-    n7@{ shape: rounded}
-    n8@{ shape: rounded}
-    n9@{ shape: rounded}
-    n10@{ shape: rounded}
 ```
 
 ```mermaid
