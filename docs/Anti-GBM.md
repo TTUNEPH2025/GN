@@ -136,6 +136,7 @@ flowchart TD
 ```
 
 
+ * Diagnosis should be made ASAP if anti-gbm is suspected and treatment should be initiated with out delay, even if diagnosis is not confirmed
  * Most Anti-GBM is cleared in the first 8 weeks of treatment after PLEX and Immunsuppression initiated
  * Relapses uncommon --> may occure in patients who smoke or are exposed to lung irritants
  * If serious infection occurs during treatment can add IVIG post PLEX treatment with abx
