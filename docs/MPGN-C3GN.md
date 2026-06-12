@@ -139,7 +139,7 @@ flowchart TB
     style A color:#000000,fill:#FFF9C4,text-align:left
     style n1 color:#000000,fill:#FFF9C4,text-align:left
     style n3 color:#000000,fill:#FFF9C4,text-align:left
-    style n7 color:#000000,fill:#FFF9C4,text-align:left
+    style n7 color:#000000,fill:#FFCDD2,text-align:left
     style n9 fill:#FFCDD2,color:#000000,text-align:left
     style n10 color:#000000,fill:#FFF9C4,text-align:left
     style n11 color:#000000,fill:#FFF9C4,text-align:left
