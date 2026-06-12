@@ -91,7 +91,24 @@ flowchart TB
     n12@{ shape: rounded}
     n13@{ shape: rounded}
 ```
+```mermaid
+---
+config:
+  theme: redux
+---
+flowchart TB
+    n3["Complement deposition alone"] --> n8["C3GN"] & n9["C4GN"]
+    n8 --> n14["C3 Dense Deposite Disease"] & n15["C3GN"]
+    n9 --> n16["C4 Dense Deposite Disease"] & n17["C4GN"]
 
+    n3@{ shape: rounded}
+    n8@{ shape: rounded}
+    n9@{ shape: rounded}
+    n14@{ shape: rounded}
+    n15@{ shape: rounded}
+    n16@{ shape: rounded}
+    n17@{ shape: rounded}
+```
 
 ## **Clinical Presentation**
   * Variable clinical presentation
