@@ -466,6 +466,45 @@ flowchart TB
     style n22 color:#000000,fill:#FFF9C4,text-align:left
 ```
 
+```mermaid
+---
+config:
+  theme: redux
+---
+flowchart TB
+    A(["MGPN Pattern on Bx"]) --> n2["Complement deposition alone"]
+    n8["Rule Out Infectious causes"] -- infection present --> n23["Treat Underlying Illness"]
+    n8 -- no infection --> n24["<ins>Screen for for Monocolonoal Gammopathy (SPEP/UPEP/FLC) </ins>
+    • Complement levels
+    • Compliment activation (C3d, Bb, sMAC)
+    • Genetic testing"]
+    n24 --> n30["• No Monoclonal Gammopathy
+    • moderate to severe disease
+    • >1g/d Proteinuria
+    • Declining function for at least 6 months"] & n31(["Monoclonal Gammopathy found"])
+    n31 --> n32["Consult appropriate Specialist and Treat Underlying Illness"]
+    n30 --> n33["• MMF + steroids
+    • Supportive Therapy"] & n34["`**Recently FDA approved therapy not yet in guidlines**
+    • Iptocopan (Factor B inhibtor): approved for C3GN 3/2025
+    • Pegcetocoplan (C3 ingibitor): approved for C3GN 7/2025`"]
+    n2 --> n8
+
+    n2@{ shape: rounded}
+    n8@{ shape: rounded}
+    n30@{ shape: rounded}
+    style A color:#000000,fill:#FFF9C4,text-align:left
+    style n2 color:#000000,fill:#FFF9C4,text-align:left
+    style n8 color:#000000,fill:#FFF9C4,text-align:left
+    style n23 fill:#FFCDD2,color:#000000,text-align:left
+    style n24 fill:#FFCDD2,color:#000000,text-align:left
+    style n30 fill:#FFCDD2,color:#000000,text-align:left
+    style n31 color:#000000,fill:#FFF9C4,text-align:left
+    style n32 fill:#FFCDD2,color:#000000,text-align:left
+    style n33 fill:#FFCDD2,color:#000000,text-align:left
+    style n34 fill:#FFCDD2,color:#000000,text-align:left
+```
+
+
 ### Cyclophosphamide Dosing
 
 |Oral Cyclophosphamide|IV Cyclophosphamide|
