@@ -72,6 +72,27 @@ flowchart TB
     n10@{ shape: rounded}
 ```
 
+```mermaid
+---
+config:
+  theme: redux
+---
+flowchart TB
+    n2["Immunoglobulin + complement deposition"] --> n5["Polyconal (IgM, IgA +/- IgG, C1q, C3, kappa and lambda)"] & n6["Monoclonal (IgG, IgM or IgA, C1q, C3 with light chain restriction)"] & n7["Full-house pattern (IgG, IgM, IgA, C1q, C3, kappa and lambda)"]
+    n5 --> n11["Infections"]
+    n6 --> n12["Paraproteinemias"]
+    n7 --> n13["Autoimmune disease"]
+
+    n2@{ shape: rounded}
+    n5@{ shape: rounded}
+    n6@{ shape: rounded}
+    n7@{ shape: rounded}
+    n11@{ shape: rounded}
+    n12@{ shape: rounded}
+    n13@{ shape: rounded}
+```
+
+
 ## **Clinical Presentation**
   * Variable clinical presentation
   * Hematuria
