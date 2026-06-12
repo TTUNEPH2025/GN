@@ -140,70 +140,75 @@ flowchart TB
     n1 -- Positive --> n2["See treatment plan below"]
     n1 -- Negative --> n3["Assess Chronicity"]
     n3 --> n4["Active Disease"] & n5["Chronic Disease w/out Activity"]
-    n4 --> n6["Methylpred 250-500mg/day for 1-3 days, followed by steroid taper + hydroxychloroquine + one of the following"]
+    n4 --> n6["Methylpred 250-500mg/day for 1-3 days, followed by steroid taper + MPAA + one of the following"] & n24["Crescentic GN"]
     n5 --> n7["• Supportive therapy 
     • Hydroxychloroquine, RAAS blockade, SGLT2
     • Monitor proteinuria"] & n8["If Class V present on Bx, treat as Class V"]
-    n6 --> n9["CNI + MPAA"] & n10["MPA"] & n11["Cyclosphosphamide + Euro Lupus steroid protocol"] & n12["Belimumab + MPAA or/reduced-dose cyclophosphamide"]
-    n9 --> n13["• Voclosporin 23.7mg BID and MPAA in pt w/eGFR &gt;45
+    n6 --> n9["CNI"] & n10["Obinutuzumab"] & n12["Belimumab"]
+    n9 --> n13["• Voclosporin 23.7mg BID w/eGFR &gt;45
     • Tacrolimus goal trough 5.5ng/mL 
     • Cyclosporine when volcosorin or tacrolimus not available
     • For duration of 3 years"]
-    n10 --> n14["• For at least 6months
-    • MMF 1-1.5g BID or Mycophenolic Acid 720-1080mg BID"]
-    n11 --> n15["• tx for up to 6mo
+    n10 --> n14["1000mg infusion at day 1, wk 2,24,26, 52, 80, 106, 132, and every 6 months"]
+    n11["Cyclosphosphamide + Euro Lupus steroid protocol"] --> n15["• tx for up to 6mo
     • IV 500mg q2wk for 6mo or 0.5-1g/m² for 6mo
     • PO 1-1.5mg/kg/d for 3mo (max 150mg/d) for 2-6mo"]
-    n12 --> n16["• Belimumab: 10mg/kg q2wk for 3 doses, then q4wks
-    • MPAA: MMF or MPA
-    • Cyclophosphamide 500mg q2wk for 3mo"]
+    n12 --> n16["• Belimumab: 10mg/kg q2wk for 3 doses, then q4wks"]
     n13 --> n17["• Preferred in patient w/nephrotic syndrome and relatively preserved renal function
     • If pt can not tolerate full dose of MPAA or unfit for cyclophosphamide"]
-    n16 --> n18@{ label: "• May be preferred in patient's with repeat flairs or high risk kidney failure\n    • Not as effective in patients with severely elevated proteniura<br/>• Belimumab duration up to 2.5 years" }
+    n16 --> n18@{ label: "• May be preferred in patient's with repeat flairs or high risk kidney failure<br/>    • Not as effective in patients with severely elevated proteniura<br/>• Belimumab duration up to 2.5 years" }
     n17 --> n19["Assess Response to Therapy"]
-    n14 --> n19
     n15 --> n19
     n18 --> n19
     n19 -- Adequate --> n20["Complete Therapy (≥36mo)"]
-    n19 -- Inadequate --> n21["Consider Obinotizumab, ocrelizumab, abatacep, enroll in trials"]
+    n19 -- Inadequate --> n21["Refractory LN"]
     n20 --> n22["Transition to Maintance Therapy"]
     n22 --> n23["• Taper steroids quickly and may be able to DC after > 12mo
     • Hydroxychloroquine and MPAA (MPAA over azathioprine)
     • CNI and Belimumab may be used as maintance therapy"]
+    n24 --> n11
+    n14 --> n19
+    n21 --> n25["Consider Obinotizumab, ocrelizumab, abatacep, enroll in trials"]
+
+    n6@{ shape: rounded}
+    n24@{ shape: rect}
     n9@{ shape: rounded}
     n10@{ shape: rounded}
-    n11@{ shape: rounded}
     n12@{ shape: rounded}
     n13@{ shape: rounded}
     n14@{ shape: rounded}
+    n11@{ shape: rounded}
     n15@{ shape: rounded}
     n16@{ shape: rounded}
-    n21@{ shape: rounded}
+    n21@{ shape: rect}
     n23@{ shape: rounded}
+    n25@{ shape: rounded}
     style A fill:#C8E6C9
     style n1 fill:#C8E6C9
     style n2 fill:#C8E6C9
     style n3 fill:#C8E6C9
     style n4 fill:#C8E6C9
     style n5 fill:#C8E6C9
-    style n6 fill:#C8E6C9
+    style n6 fill:#FFF9C4
+    style n24 fill:#C8E6C9
     style n7 fill:#C8E6C9,text-align:left
     style n8 fill:#C8E6C9,text-align:left
     style n9 fill:#FFF9C4,text-align:left
     style n10 fill:#FFF9C4,text-align:left
-    style n11 fill:#FFF9C4,text-align:left
     style n12 fill:#FFF9C4,text-align:left
     style n13 fill:#FFF9C4,text-align:left
     style n14 fill:#FFF9C4,text-align:left
+    style n11 fill:#FFF9C4,text-align:left
     style n15 fill:#FFF9C4,text-align:left
     style n16 fill:#FFF9C4,text-align:left
     style n17 fill:#C8E6C9,text-align:left
     style n18 fill:#C8E6C9
     style n19 fill:#C8E6C9
     style n20 fill:#C8E6C9
-    style n21 fill:#FFF9C4
+    style n21 fill:#C8E6C9
     style n22 fill:#C8E6C9,text-align:left,white-space:nowrap
     style n23 fill:#FFF9C4,text-align:left,white-space:nowrap
+    style n25 fill:#FFF9C4
 ```
 ### TMA and LN
 ```mermaid
