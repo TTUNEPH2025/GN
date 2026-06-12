@@ -85,6 +85,13 @@ flowchart TB
     n11@{ shape: rounded}
     n12@{ shape: rounded}
     n13@{ shape: rounded}
+    style n2 fill:#FFCDD2
+    style n5 fill:#FFF9C4
+    style n6 fill:#FFF9C4
+    style n7 fill:#FFF9C4
+    style n11 fill:#FFE0B2
+    style n12 fill:#FFE0B2
+    style n13 fill:#FFE0B2
 ```
 ```mermaid
 ---
