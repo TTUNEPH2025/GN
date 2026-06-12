@@ -140,11 +140,11 @@ flowchart TB
     n1 -- Positive --> n2["See treatment plan below"]
     n1 -- Negative --> n3["Assess Chronicity"]
     n3 --> n4["Active Disease"] & n5["Chronic Disease w/out Activity"]
-    n4 --> n6["Pulse dose steroids + one of the following"]
+    n4 --> n6["Methylpred 250-500mg/day for 1-3 days, followed by steroid taper + one of the following"]
     n5 --> n7["• Supportive therapy 
     • Hydroxychloroquine, RAAS blockade, SGLT2
     • Monitor proteinuria"] & n8["If Class V present on Bx, treat as Class V"]
-    n6 --> n9["CNI + MPAA"] & n10["MPA"] & n11["Cyclosphosphamide"] & n12["Belimumab + MPAA or/reduced-dose cyclophosphamide"]
+    n6 --> n9["CNI + MPAA"] & n10["MPA"] & n11["Cyclosphosphamide + Euro Lupus steroid protocol"] & n12["Belimumab + MPAA or/reduced-dose cyclophosphamide"]
     n9 --> n13["• Voclosporin 23.7mg BID and MPAA in pt w/eGFR &gt;45
     • Tacrolimus goal trough 5.5ng/mL 
     • Cyclosporine when volcosorin or tacrolimus not available
@@ -165,10 +165,10 @@ flowchart TB
     n15 --> n19
     n18 --> n19
     n19 -- Adequate --> n20["Complete Therapy (≥36mo)"]
-    n19 -- Inadequate --> n21["Consider Rituximab, Ocrelizumab, abatacep, enroll in trials"]
+    n19 -- Inadequate --> n21["Consider Obinotizumab, ocrelizumab, abatacep, enroll in trials"]
     n20 --> n22["Transition to Maintance Therapy"]
     n22 --> n23["• Taper steroids quickly and may be able to DC after > 12mo
-    • Hydroxychloroquine and MPAA
+    • Hydroxychloroquine and MPAA (MPAA over azathioprine)
     • CNI and Belimumab may be used as maintance therapy"]
     n9@{ shape: rounded}
     n10@{ shape: rounded}
@@ -186,7 +186,7 @@ flowchart TB
     style n3 fill:#C8E6C9
     style n4 fill:#C8E6C9
     style n5 fill:#C8E6C9
-    style n6 fill:#C8E6C9,white-space:nowrap
+    style n6 fill:#C8E6C9
     style n7 fill:#C8E6C9,text-align:left
     style n8 fill:#C8E6C9,text-align:left
     style n9 fill:#FFF9C4,text-align:left
