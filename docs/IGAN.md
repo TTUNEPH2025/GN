@@ -103,22 +103,20 @@
 config:
   theme: redux
 ---
-flowchart TD
-    A(["IgA Dominant on Bx"]) --> n1["**Consider Secondary Causes**
-    • IgA Vasculitis
+flowchart TB
+    A(["IgA Dominant on Bx"]) --> n1["`**Consider Secondary Causes**
+    • IgA vasculitis
     • Viral causes
     • IBD
-    • Autoimmune Disease
+    • Autoimmune disease
     • Cirrhosis 
-    • IgA dominant Infection related GN"]
-    n1 -- Secondary cause found --> n2["Treat primary Disease State"]
+    • IgA dominant infection related GN`"]
+    n1 -- Secondary cause found --> n2["Treat primary disease state"]
     n1 -- Secondary cause not found --> n3(["Ideopathic IgAN"])
     n3 --> n4["• MEST-C Score
-    • Risk Prediction tool"]
-    n4 --> n5["• Report in Disease registry if available
-    • Give patient resources for patient advocacy groups
-    • Consider enrollment in Trials"] & n6["Consider treatment for Patients at risk of progressive kidney function loss w/supportive therapy and Targeted therapy"] & n9(["IgAN w/RPGN"])
-    n6 -- Targeted Therapy --> n7["• Nefecon/Glucocorticoids
+    • Risk Prediction Tool"]
+    n4 --> n9(["IgAN w/RPGN"]) & n13(["IgAN w/MCD"]) & n14(["IgAN w/AKI"]) & n15(["IgAN"])
+    n6["Consider treatment for Patients at risk of progressive kidney function loss w/supportive therapy and Targeted therapy"] -- Targeted Therapy --> n7["• Nefecon/Glucocorticoids
     • MMF/Hydroxychloroquine
     • Tonsillectomy"]
     n6 -- Supportive Therapy --> n8["• Life style changes
@@ -126,31 +124,52 @@ flowchart TD
     • SGLT2i"]
     n9 --> n10["Offer Treatement with cyclophosphamide and systemic steroids in accordance ANCA-associated Treatement"]
     n7 --> n11["• Nefecon: Recommend 9 month course
-    • Methylprednisonolone: 0.4 mg/kg/day (max 32mg/day) for 2 months
+    • Methylprednisolone: 0.4 mg/kg/day (max 32mg/day) for 2 months
  • Taper Methylpred by 4 mg/day for 6-9months
-• Can sub Methylpred for prednison: Methylprednisone 1mg = Prednisone 1.25mg
-• PJP ppx"] & n12@{ label: "• MMF: can be used as glucocorticoid sparring agent in Chinese patients only\n    • Hydroxychloroquine: For patients at high risk of progression in spite of supportive care
-in Chinese patients only\n   • Tonsillectomy: For Japanese patient's (not studied in any other group)" }
+• Can sub methylpred for prednison: methylprednisone 1mg = prednisone 1.25mg
+• PJP ppx"] & n12["• MMF: Can be used as glucocorticoid sparring agent in Chinese patients only<br>    • Hydroxychloroquine: For patients at high risk of progression in spite of supportive care<br>in Chinese patients only<br>   • Tonsillectomy: For Japanese patients (not studied in any other group)"]
+    n15 --> n5["• Report in Disease registry if available
+    • Give patient resources for patient advocacy groups
+    • Consider enrollment in Trials"] & n6
+    n14 --> n16["Supportive care"]
+    n16 --> n17["No improvement in AKI with in one week"] & n18["Cr returns to baseline"]
+    n18 --> n15
+    n17 --> n19["Kidney biopsy to rule out RPGN"]
+    n13 --> n20["Treat like MCD"]
+
     n1@{ shape: rounded}
     n4@{ shape: rounded}
-    n5@{ shape: rounded}
     n6@{ shape: rounded}
-    n7@{ shape: rounded}
+    n7@{ shape: rect}
     n8@{ shape: rect}
     n12@{ shape: rect}
+    n5@{ shape: rounded}
+    n16@{ shape: rect}
+    n17@{ shape: rounded}
+    n18@{ shape: rounded}
+    n19@{ shape: rect}
+    n20@{ shape: rect}
     style A fill:#C8E6C9,color:#000000
     style n1 fill:#FFF9C4,text-align:left,white-space:nowrap
     style n2 fill:#FFE0B2,text-align:left
     style n3 fill:#C8E6C9,text-align:left
     style n4 fill:#FFF9C4,text-align:left
-    style n5 fill:#FFF9C4,text-align:left
-    style n6 fill:#FFF9C4,text-align:left
     style n9 fill:#C8E6C9,text-align:left
+    style n13 fill:#C8E6C9
+    style n14 fill:#C8E6C9
+    style n15 fill:#C8E6C9
+    style n6 fill:#FFF9C4,text-align:left
     style n7 fill:#FFF9C4,text-align:left,white-space:nowrap
     style n8 fill:#FFE0B2,text-align:left,white-space:nowrap
     style n10 fill:#FFE0B2,text-align:left
-    style n11 fill:#FFE0B2,text-align:left,white-space:nowrap
-    style n12 fill:#FFE0B2,text-align:left,white-space:nowrap
+    style n11 fill:#FFE0B2,text-align:left
+    style n12 fill:#FFE0B2,text-align:left
+    style n5 fill:#FFF9C4,text-align:left
+    style n16 fill:#FFE0B2
+    style n17 fill:#FFF9C4
+    style n18 fill:#FFF9C4
+    style n19 fill:#FFE0B2
+    style n20 fill:#FFE0B2
 ```
 
   * [IgAN prediction tool at biopsy - Adult](https://qxmd.com/calculate/calculator_499/international-igan-prediction-tool-at-biopsy-adults)
