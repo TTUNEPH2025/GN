@@ -78,16 +78,16 @@ config:
 ---
 flowchart TD
     A(["Rapidly Progressive GN"]) --> n2["Alveolar Hemorrhage"]
-    n2 -- Present --> n3["Begin Treatment w/in first 24hr of presentation
+    n2 -- Present --> n3["Begin treatment w/in first 24hr of presentation
     • PLEX, Steroids, and Cyclophosphamide"]
-    n2 -- Abscent --> n4["**Test**
+    n2 -- Absent --> n4["**Test**
     • Anti-GMB 
     • ANCA
     • ANA
     • Exclude infection
     • Kidney biopsy"]
     n3 --> n5["Plasma Exchange"] & n6["Glucocorticoids"] & n7["Cyclophosphamide"] & n4
-    n5 --> n8@{ label: "• 40-50 ml/kg of Ideal body weight Daily against 5% albumin\n    •Add FFP at end of treatment in patient's w/alveolar hemmorrhage or after kidney bx" }
+    n5 --> n8@{ label: "• 40-50 ml/kg of Ideal body weight daily against 5% albumin\n for 14 days   •Add FFP at end of treatment in patient's w/alveolar hemmorrhage or after kidney bx" }
     n6 --> n9["• Methylprednisone 1000mg/day for 3 consecutive days followed by
     • Prednisone 1mg/kg daily reduced down to
     • Prednisone 20mg Daily by week 6"]
@@ -95,8 +95,8 @@ flowchart TD
     • Data with IV cyclophosphamide limited, but can be used"]
     n8 --> n11["To be continued until anti-GBM titers are negative
     • typically after 14 days of treatment"]
-    n9 --> n12["Continue for a duration of 6 months"]
-    n10 --> n13["Continue for a duration of 3 months"] & n14["If patient not able to tolerate or not responding to cyclophosphamide consider
+    n9 --> n12["Continue for a duration of 6 months and then taper over a period of 6 months"]
+    n10 --> n13["Continue for a duration of 6 months"] & n14["If patient not able to tolerate or not responding to cyclophosphamide consider
     • Rituximab or Mycophenolate Mofetil"]
     n13 --> n15["Persistent Anti-GBM titers after 3 months
     • Treat with either Azothioprine or mycophenolate in combo w/steroids
