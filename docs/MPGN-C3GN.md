@@ -163,253 +163,6 @@ flowchart TB
     style n2 color:#000000,fill:#FFF9C4,text-align:left
     style n3 color:#000000,fill:#FFF9C4,text-align:left
 ```
-
-
-```mermaid
----
-config:
-  theme: redux
----
-flowchart TD
-    A(["MGPN Pattern on Bx"]) --> n1["Positive IgG
-    pos/neg C3"] & n2["Complement Dominate Pattern"] & n3["Negative IgG
-    Negative C3"]
-    n1 --> n4(["IgG/C3 mediated"])
-    n2 --> n6(["Complement mediated"])
-    n3 --> n7["**Evaluate for the following**
-    • Antiphospholipid syndrome
-    • HUS/TMA
-    • Sickle Cell
-    • Polycythemia
-    • Other"]
-    n6 --> n8["Rule Out Infectious causes"]
-    n4 --> n9["**Evaluate for the follow**
-    • Monocolonal Gammopathy
-    • Infection
-    • Idopathic"]
-    n9 --> n10["• SPEP
-• UPEP
-• Free light chains
-• Heme/onc consult for Bone marow Bx
-• Age appropriate Cancer screenging"] & n11["• HBV/HCV
-• Chronic bacterial infections
-• ASO (strep)
-• Recent Hx of infection
-• Schistosomiasis
-• Echinococcosis
-• Malaria"] & n12["• SLE: ANA, ds DNA, C3/C4
-    • Sjogren ANA, Anti-Ro/La, RF
-    • RA: RF, ANA, Anti-CCP"]
-    n8 -- infection present --> n23["Treat Underlying Illness"]
-    n8 -- no infection --> n24["<ins>Screen for for Monocolonoal Gammopathy (SPEP/UPEP/FLC) </ins>
-    • Complement levels
-    • Compliment activation (C3d, Bb, sMAC)
-    • Genetic testing"]
-    n10 --> n17(["Screening positive"]) & n20(["Screening negative"])
-    n11 --> n17 & n20
-    n12 --> n17 & n20
-    n17 --> n21["Consult appropriate Specialist and Treat Underlying Illness"]
-    n20 --> n22(["Ideopathic Disease/Indolent (ICGN)"])
-    n24 --> n30["• No Monoclonal Gammopathy
-    • moderate to severe disease
-    • >1g/d Proteinuria
-    • Declining function for at least 6 months"] & n31(["Monoclonal Gammopathy found"])
-    n31 --> n32["Consult appropriate Specialist and Treat Underlying Illness"]
-    n30 --> n33["• MMF + steroids
-    • Supportive Therapy"] & n34["**Recently FDA approved therapy not yet in guidlines**
-    • Iptocopan (Factor B inhibtor): approved for C3GN 3/2025
-    • Pegcetocoplan (C3 ingibitor): approved for C3GN 7/2025"]
-    n1@{ shape: rounded}
-    n2@{ shape: rounded}
-    n3@{ shape: rounded}
-    n8@{ shape: rounded}
-    n10@{ shape: rounded}
-    n11@{ shape: rounded}
-    n12@{ shape: rounded}
-    n30@{ shape: rounded}
-    style A color:#000000,fill:#FFF9C4,text-align:left
-    style n1 color:#000000,fill:#FFF9C4,text-align:left
-    style n2 color:#000000,fill:#FFF9C4,text-align:left
-    style n3 color:#000000,fill:#FFF9C4,text-align:left
-    style n4 color:#000000,fill:#FFF9C4,text-align:left
-    style n6 color:#000000,fill:#FFF9C4,text-align:left
-    style n7 color:#000000,fill:#FFF9C4,text-align:left
-    style n8 color:#000000,fill:#FFF9C4,text-align:left
-    style n9 fill:#FFCDD2,color:#000000,text-align:left
-    style n10 color:#000000,fill:#FFF9C4,text-align:left
-    style n11 color:#000000,fill:#FFF9C4,text-align:left
-    style n12 color:#000000,fill:#FFF9C4,text-align:left
-    style n23 fill:#FFCDD2,color:#000000,text-align:left
-    style n24 fill:#FFCDD2,color:#000000,text-align:left
-    style n17 color:#000000,fill:#FFF9C4,text-align:left
-    style n20 color:#000000,fill:#FFF9C4,text-align:left
-    style n21 fill:#FFCDD2,color:#000000,text-align:left
-    style n22 color:#000000,fill:#FFF9C4,text-align:left
-    style n30 fill:#FFCDD2,color:#000000,text-align:left
-    style n31 color:#000000,fill:#FFF9C4,text-align:left
-    style n32 fill:#FFCDD2,color:#000000,text-align:left
-    style n33 fill:#FFCDD2,color:#000000,text-align:left
-    style n34 fill:#FFCDD2,color:#000000,text-align:left
-```
-
-```mermaid
----
-config:
-  theme: redux
----
-flowchart TB
-    A(["MGPN Pattern on Bx"]) --> n1["Immunoglobulin + complement deposition"] & n2["Complement deposition alone"] & n3["Negative IgG
-    Negative C3"]
-    n3 --> n7["`**Evaluate for the following**
-    • Antiphospholipid syndrome
-    • HUS/TMA
-    • Sickle Cell
-    • Polycythemia
-    • Other`"]
-    n9["`**Evaluate for the follow**
-    • Monocolonal Gammopathy
-    • Infection
-    • Autoimmune`"] --> n10["• SPEP
-• UPEP
-• Free light chains
-• Heme/onc consult for Bone marow Bx
-• Age appropriate Cancer screenging"] & n11["• HBV/HCV
-• Chronic bacterial infections
-• ASO (strep)
-• Recent Hx of infection
-• Schistosomiasis
-• Echinococcosis
-• Malaria"] & n12["• SLE: ANA, ds DNA, C3/C4
-    • Sjogren ANA, Anti-Ro/La, RF
-    • RA: RF, ANA, Anti-CCP"]
-    n8["Rule Out Infectious causes"] -- infection present --> n23["Treat Underlying Illness"]
-    n8 -- no infection --> n24["<ins>Screen for for Monocolonoal Gammopathy (SPEP/UPEP/FLC) </ins>
-    • Complement levels
-    • Compliment activation (C3d, Bb, sMAC)
-    • Genetic testing"]
-    n10 --> n17(["Screening positive"]) & n20(["Screening negative"])
-    n11 --> n17 & n20
-    n12 --> n17 & n20
-    n17 --> n21["Consult appropriate Specialist and Treat Underlying Illness"]
-    n20 --> n22(["Ideopathic Disease/Indolent (ICGN)"])
-    n24 --> n30["• No Monoclonal Gammopathy
-    • moderate to severe disease
-    • >1g/d Proteinuria
-    • Declining function for at least 6 months"] & n31(["Monoclonal Gammopathy found"])
-    n31 --> n32["Consult appropriate Specialist and Treat Underlying Illness"]
-    n30 --> n33["• MMF + steroids
-    • Supportive Therapy"] & n34["`**Recently FDA approved therapy not yet in guidlines**
-    • Iptocopan (Factor B inhibtor): approved for C3GN 3/2025
-    • Pegcetocoplan (C3 ingibitor): approved for C3GN 7/2025`"]
-    n1 --> n9
-    n2 --> n8
-
-    n1@{ shape: rounded}
-    n2@{ shape: rounded}
-    n3@{ shape: rounded}
-    n8@{ shape: rounded}
-    n10@{ shape: rounded}
-    n11@{ shape: rounded}
-    n12@{ shape: rounded}
-    n30@{ shape: rounded}
-    style A color:#000000,fill:#FFF9C4,text-align:left
-    style n1 color:#000000,fill:#FFF9C4,text-align:left
-    style n2 color:#000000,fill:#FFF9C4,text-align:left
-    style n3 color:#000000,fill:#FFF9C4,text-align:left
-    style n7 color:#000000,fill:#FFF9C4,text-align:left
-    style n8 color:#000000,fill:#FFF9C4,text-align:left
-    style n9 fill:#FFCDD2,color:#000000,text-align:left
-    style n10 color:#000000,fill:#FFF9C4,text-align:left
-    style n11 color:#000000,fill:#FFF9C4,text-align:left
-    style n12 color:#000000,fill:#FFF9C4,text-align:left
-    style n23 fill:#FFCDD2,color:#000000,text-align:left
-    style n24 fill:#FFCDD2,color:#000000,text-align:left
-    style n17 color:#000000,fill:#FFF9C4,text-align:left
-    style n20 color:#000000,fill:#FFF9C4,text-align:left
-    style n21 fill:#FFCDD2,color:#000000,text-align:left
-    style n22 color:#000000,fill:#FFF9C4,text-align:left
-    style n30 fill:#FFCDD2,color:#000000,text-align:left
-    style n31 color:#000000,fill:#FFF9C4,text-align:left
-    style n32 fill:#FFCDD2,color:#000000,text-align:left
-    style n33 fill:#FFCDD2,color:#000000,text-align:left
-    style n34 fill:#FFCDD2,color:#000000,text-align:left
-```
-
-
-### ICGN
-```mermaid
----
-config:
-  theme: redux
----
-flowchart TD
-    n22(["Ideopathic Disease/Indolent (ICGN)"]) --> n25["• Proteinuria &lt; 3.5 g/dl
-     • Nephrotic Syndrome Abscent
-     • Normal eGFR"] & n26["• Nephrotic Syndrome Present
-     • Normal/near normal eGFR"] & n27["• Abnomral kidney function
-      Active urine sediment w/out Nephrotic Syndrome"] & n28["Rapidly progressive Crescentic ICGN"] & n29["eGFR &lt;30"]
-    n25 --> n35["• Supportive therapy w/RASi
-    • Monitor Proteinuria and eGFR regularly"]
-    n26 --> n36["**Can trial limited couse of steroids**
-    • Prednisone 1mg/kg/day (60-80mg/day max) for 6-12 week --&gt; then taper to Every Other Day therapy over 6-8 months
-    • IF &lt;30% reduction in proteinuria 12-16 weeks taper and DC steroids
-    • If contraindication to steroids, can trial CNI
-    • Extended Steroid use not encouraged"]
-    n27 --> n37["Steroids pluss supportive Care
-    • Prednisone 1mg/kg/day (60-80mg/day max) for 12-16 week"]
-    n28 --> n38["Cyclophosphamide + Steroids similar to ANCA Vasculitis"]
-    n29 --> n39["• Suporative therapy and evaluation for kidney transplant in due course
-    • Unless kidney bx shows active necrotizing cresentic glomerulonephritis or other reason to support Immunosuppression"]
-    n38 --> n40["See table below for"]
-    n37 --> n41["•Stabilaztion/improvement of function
-     or
-    • > 30% reduction of proteinuria"]
-    n41 -- yes --> n43["**Adequate Response**
-    • Gradually taper and DC steroids"]
-    n41 -- No --> n44["Prednisone 20mg/day + MMF 6-12months"]
-    n44 --> n45["**No improvment**
-    • Kidney function
-    • Hematuria
-    • Proteinuria"]
-    n45 --> n46["Consider Repeat kidney bx"]
-    n46 --> n47(["Active GN"])
-    n47 --> n48@{ label: "Cyclophosphamide 2mg/kg/day (max dose of 200mg/d in adults) w/prednison 10mg/day\n    • Adjust for abnormal renal function\n    • Reduce dose by 25% in patient's over 60" } & n49["Rituximab 1g followed by a second dose of 1g 14 days later
-    • Repeat this 2g regimen at 6 months"]
-    n48 --> n50["3-6 months of no response discontinue immunosupression and continue Supportive Therapy"]
-    n49 --> n50
-    n25@{ shape: rounded}
-    n26@{ shape: rounded}
-    n27@{ shape: rounded}
-    n28@{ shape: rounded}
-    n29@{ shape: rounded}
-    n41@{ shape: rounded}
-    n43@{ shape: rect}
-    n45@{ shape: rounded}
-    n46@{ shape: rounded}
-    n48@{ shape: rect}
-    style n22 color:#000000,fill:#FFF9C4,text-align:left
-    style n25 color:#000000,fill:#FFF9C4,text-align:left
-    style n26 color:#000000,fill:#FFF9C4,text-align:left
-    style n27 color:#000000,fill:#FFF9C4,text-align:left
-    style n28 color:#000000,fill:#FFF9C4,text-align:left
-    style n29 color:#000000,fill:#FFF9C4,text-align:left
-    style n35 fill:#FFCDD2,color:#000000,text-align:left
-    style n36 fill:#FFCDD2,color:#000000,text-align:left
-    style n37 fill:#FFCDD2,color:#000000,text-align:left
-    style n38 fill:#FFCDD2,color:#000000,text-align:left
-    style n39 fill:#FFCDD2,color:#000000,text-align:left
-    style n40 fill:#FFCDD2,color:#000000,text-align:left
-    style n41 color:#000000,fill:#FFF9C4,text-align:left
-    style n43 fill:#FFCDD2,color:#000000,text-align:left
-    style n44 fill:#FFCDD2,color:#000000,text-align:left
-    style n45 color:#000000,fill:#FFF9C4,text-align:left
-    style n46 color:#000000,fill:#FFF9C4,text-align:left
-    style n47 color:#000000,fill:#FFF9C4,text-align:left
-    style n48 fill:#FFCDD2,color:#000000,text-align:left
-    style n49 fill:#FFCDD2,color:#000000,text-align:left
-    style n50 fill:#FFCDD2,color:#000000,text-align:left
-```
-
 ```mermaid
 ---
 config:
@@ -502,6 +255,80 @@ flowchart TB
     style n32 fill:#FFCDD2,color:#000000,text-align:left
     style n33 fill:#FFCDD2,color:#000000,text-align:left
     style n34 fill:#FFCDD2,color:#000000,text-align:left
+```
+
+### ICGN
+```mermaid
+---
+config:
+  theme: redux
+---
+flowchart TD
+    n22(["Ideopathic Disease/Indolent (ICGN)"]) --> n25["• Proteinuria &lt; 3.5 g/dl
+     • Nephrotic Syndrome Abscent
+     • Normal eGFR"] & n26["• Nephrotic Syndrome Present
+     • Normal/near normal eGFR"] & n27["• Abnomral kidney function
+      Active urine sediment w/out Nephrotic Syndrome"] & n28["Rapidly progressive Crescentic ICGN"] & n29["eGFR &lt;30"]
+    n25 --> n35["• Supportive therapy w/RASi
+    • Monitor Proteinuria and eGFR regularly"]
+    n26 --> n36["**Can trial limited couse of steroids**
+    • Prednisone 1mg/kg/day (60-80mg/day max) for 6-12 week --&gt; then taper to Every Other Day therapy over 6-8 months
+    • IF &lt;30% reduction in proteinuria 12-16 weeks taper and DC steroids
+    • If contraindication to steroids, can trial CNI
+    • Extended Steroid use not encouraged"]
+    n27 --> n37["Steroids pluss supportive Care
+    • Prednisone 1mg/kg/day (60-80mg/day max) for 12-16 week"]
+    n28 --> n38["Cyclophosphamide + Steroids similar to ANCA Vasculitis"]
+    n29 --> n39["• Suporative therapy and evaluation for kidney transplant in due course
+    • Unless kidney bx shows active necrotizing cresentic glomerulonephritis or other reason to support Immunosuppression"]
+    n38 --> n40["See table below for"]
+    n37 --> n41["•Stabilaztion/improvement of function
+     or
+    • > 30% reduction of proteinuria"]
+    n41 -- yes --> n43["**Adequate Response**
+    • Gradually taper and DC steroids"]
+    n41 -- No --> n44["Prednisone 20mg/day + MMF 6-12months"]
+    n44 --> n45["**No improvment**
+    • Kidney function
+    • Hematuria
+    • Proteinuria"]
+    n45 --> n46["Consider Repeat kidney bx"]
+    n46 --> n47(["Active GN"])
+    n47 --> n48@{ label: "Cyclophosphamide 2mg/kg/day (max dose of 200mg/d in adults) w/prednison 10mg/day\n    • Adjust for abnormal renal function\n    • Reduce dose by 25% in patient's over 60" } & n49["Rituximab 1g followed by a second dose of 1g 14 days later
+    • Repeat this 2g regimen at 6 months"]
+    n48 --> n50["3-6 months of no response discontinue immunosupression and continue Supportive Therapy"]
+    n49 --> n50
+    n25@{ shape: rounded}
+    n26@{ shape: rounded}
+    n27@{ shape: rounded}
+    n28@{ shape: rounded}
+    n29@{ shape: rounded}
+    n41@{ shape: rounded}
+    n43@{ shape: rect}
+    n45@{ shape: rounded}
+    n46@{ shape: rounded}
+    n48@{ shape: rect}
+    style n22 color:#000000,fill:#FFF9C4,text-align:left
+    style n25 color:#000000,fill:#FFF9C4,text-align:left
+    style n26 color:#000000,fill:#FFF9C4,text-align:left
+    style n27 color:#000000,fill:#FFF9C4,text-align:left
+    style n28 color:#000000,fill:#FFF9C4,text-align:left
+    style n29 color:#000000,fill:#FFF9C4,text-align:left
+    style n35 fill:#FFCDD2,color:#000000,text-align:left
+    style n36 fill:#FFCDD2,color:#000000,text-align:left
+    style n37 fill:#FFCDD2,color:#000000,text-align:left
+    style n38 fill:#FFCDD2,color:#000000,text-align:left
+    style n39 fill:#FFCDD2,color:#000000,text-align:left
+    style n40 fill:#FFCDD2,color:#000000,text-align:left
+    style n41 color:#000000,fill:#FFF9C4,text-align:left
+    style n43 fill:#FFCDD2,color:#000000,text-align:left
+    style n44 fill:#FFCDD2,color:#000000,text-align:left
+    style n45 color:#000000,fill:#FFF9C4,text-align:left
+    style n46 color:#000000,fill:#FFF9C4,text-align:left
+    style n47 color:#000000,fill:#FFF9C4,text-align:left
+    style n48 fill:#FFCDD2,color:#000000,text-align:left
+    style n49 fill:#FFCDD2,color:#000000,text-align:left
+    style n50 fill:#FFCDD2,color:#000000,text-align:left
 ```
 
 
