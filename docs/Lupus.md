@@ -130,6 +130,7 @@ flowchart TB
     click n5 "https://ttuneph2025.github.io/GN/MCD/"
 ```
 ### Class III and IV ± V
+
 ```mermaid
 ---
 config:
@@ -140,10 +141,29 @@ flowchart TB
     n1 -- Positive --> n2["See treatment plan below"]
     n1 -- Negative --> n3["Assess Chronicity"]
     n3 --> n4["Active Disease"] & n5["Chronic Disease w/out Activity"]
-    n4 --> n6["Methylpred 250-500mg/day for 1-3 days, followed by steroid taper + MPAA + one of the following"] & n24["Crescentic GN"]
     n5 --> n7["• Supportive therapy 
     • Hydroxychloroquine, RAAS blockade, SGLT2
     • Monitor proteinuria"] & n8["If Class V present on Bx, treat as Class V"]
+    n4 --> n9["See below"]
+
+    n9@{ shape: rect}
+    style A fill:#C8E6C9
+    style n1 fill:#C8E6C9
+    style n2 fill:#C8E6C9
+    style n3 fill:#C8E6C9
+    style n4 fill:#C8E6C9
+    style n5 fill:#C8E6C9
+    style n7 fill:#C8E6C9,text-align:left
+    style n8 fill:#C8E6C9,text-align:left
+    style n9 fill:#C8E6C9
+```
+```mermaid
+---
+config:
+  theme: redux
+---
+flowchart TB
+    n4["Active Disease"] --> n6["Methylpred 250-500mg/day for 1-3 days, followed by steroid taper + MPAA + one of the following"] & n24["Crescentic GN"]
     n6 --> n9["CNI"] & n10["Obinutuzumab"] & n12["Belimumab"]
     n9 --> n13["• Voclosporin 23.7mg BID w/eGFR &gt;45
     • Tacrolimus goal trough 5.5ng/mL 
@@ -183,16 +203,9 @@ flowchart TB
     n21@{ shape: rect}
     n23@{ shape: rounded}
     n25@{ shape: rounded}
-    style A fill:#C8E6C9
-    style n1 fill:#C8E6C9
-    style n2 fill:#C8E6C9
-    style n3 fill:#C8E6C9
     style n4 fill:#C8E6C9
-    style n5 fill:#C8E6C9
     style n6 fill:#FFF9C4
     style n24 fill:#C8E6C9
-    style n7 fill:#C8E6C9,text-align:left
-    style n8 fill:#C8E6C9,text-align:left
     style n9 fill:#FFF9C4,text-align:left
     style n10 fill:#FFF9C4,text-align:left
     style n12 fill:#FFF9C4,text-align:left
@@ -210,6 +223,7 @@ flowchart TB
     style n23 fill:#FFF9C4,text-align:left,white-space:nowrap
     style n25 fill:#FFF9C4
 ```
+
 ### TMA and LN
 ```mermaid
 ---
