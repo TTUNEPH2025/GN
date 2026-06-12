@@ -409,6 +409,63 @@ flowchart TD
     style n49 fill:#FFCDD2,color:#000000,text-align:left
     style n50 fill:#FFCDD2,color:#000000,text-align:left
 ```
+
+```mermaid
+---
+config:
+  theme: redux
+---
+flowchart TB
+    A(["MGPN Pattern on Bx"]) --> n1["Immunoglobulin + complement deposition"] & n3["Negative IgG
+    Negative C3"]
+    n3 --> n7["`**Evaluate for the following**
+    • Antiphospholipid syndrome
+    • HUS/TMA
+    • Sickle Cell
+    • Polycythemia
+    • Other`"]
+    n9["`**Evaluate for the follow**
+    • Monocolonal Gammopathy
+    • Infection
+    • Autoimmune`"] --> n10["• SPEP
+• UPEP
+• Free light chains
+• Heme/onc consult for Bone marow Bx
+• Age appropriate Cancer screenging"] & n11["• HBV/HCV
+• Chronic bacterial infections
+• ASO (strep)
+• Recent Hx of infection
+• Schistosomiasis
+• Echinococcosis
+• Malaria"] & n12["• SLE: ANA, ds DNA, C3/C4
+    • Sjogren ANA, Anti-Ro/La, RF
+    • RA: RF, ANA, Anti-CCP"]
+    n10 --> n17(["Screening positive"]) & n20(["Screening negative"])
+    n11 --> n17 & n20
+    n12 --> n17 & n20
+    n17 --> n21["Consult appropriate Specialist and Treat Underlying Illness"]
+    n20 --> n22(["Ideopathic Disease/Indolent (ICGN)"])
+    n1 --> n9
+
+    n1@{ shape: rounded}
+    n3@{ shape: rounded}
+    n10@{ shape: rounded}
+    n11@{ shape: rounded}
+    n12@{ shape: rounded}
+    style A color:#000000,fill:#FFF9C4,text-align:left
+    style n1 color:#000000,fill:#FFF9C4,text-align:left
+    style n3 color:#000000,fill:#FFF9C4,text-align:left
+    style n7 color:#000000,fill:#FFF9C4,text-align:left
+    style n9 fill:#FFCDD2,color:#000000,text-align:left
+    style n10 color:#000000,fill:#FFF9C4,text-align:left
+    style n11 color:#000000,fill:#FFF9C4,text-align:left
+    style n12 color:#000000,fill:#FFF9C4,text-align:left
+    style n17 color:#000000,fill:#FFF9C4,text-align:left
+    style n20 color:#000000,fill:#FFF9C4,text-align:left
+    style n21 fill:#FFCDD2,color:#000000,text-align:left
+    style n22 color:#000000,fill:#FFF9C4,text-align:left
+```
+
 ### Cyclophosphamide Dosing
 
 |Oral Cyclophosphamide|IV Cyclophosphamide|
