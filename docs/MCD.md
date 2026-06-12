@@ -56,14 +56,19 @@
     1. Relapsing occuring during, or w/in two weeks of completing glucocorticoid therapy
 ## **Treatment**
 ```mermaid
+---
+config:
+  theme: redux
+---
 flowchart TB
     A(["MCD"]) --> B(["Steroid"]) & n1(["Steroid Sparing"])
-    B --> C["Prednisone 1mg/kg PO Daily (Max 80mg daiy)
+    B --> C["• Prednisone 1mg/kg PO Daily (Max 80mg daiy)
     or
-    Prednisolone 2mg/kg PO EOD
+    • Prednisolone 2mg/kg PO EOD
     (Max dose 120 EOD)
+    • Monitor proteinuria monthly
     for 4-16wks"]
-    C --> n2(["Remission achieved"]) & n8(["Frequent Relapse/Steroid Dependent"])
+    C --> n2(["Remission achieved"]) & n13(["Monitor for relapse"])
     n2 --> n3["Begin taper after 2wks of complete remission and taper over 24 weeks"]
     n3 --> n4(["Relapse"])
     n4 --> n5["Prednisone 1mg/kg PO Daily
@@ -76,15 +81,14 @@ flowchart TB
       +/- reduce dose steroids (prednisone 1mg/kg, 60mg daily max)
     • Myfortic 720mg PO BID or/ CellCept 1000mg PO BID + prednisone 0.5mg/kg Daily;
       (max 40mg Dail) (Graduallly taper over a year)"]
-    n7 --> n8
-    n6 --> n8
-    n8 --> n9(["No hx of Cyclophosphamide use"]) & n10(["History of Cyclophosphamide use
+    n7 --> n13
+    n8(["Frequent Relapse/Steroid Dependent"]) --> n9(["No hx of Cyclophosphamide use"]) & n10(["History of Cyclophosphamide use
     or
     Patient wish to avoid Cyclophosphamide exposure"])
     n9 --> n11["Cyclophosphamide 2-2.5mg/kg Po Daily for 8-12wk
     (Adjust dose for WBC)
     (12 wk may be associated w/less relapse in steroid dependent patients)"]
-    n10 --> n12["**CNI**
+    n10 --> n12["`**CNI**
     • Cyclosporine 3-5mg/k PO Daily in didvided doses for 1-2 years;
      - goal trough 150-200ng/ml (125-166nmol/L)
     • Tacrolimuse 0.05-0.1mg/kg PO Daily in divided doses for 1-2 years;
@@ -96,7 +100,11 @@ flowchart TB
     • 375mg/m2 for one dose; Repeat after one wk if CD19 >5/mm3
     • 1g x 2 doses; 2 wks apart
     • Relapse after induction doses can give 375mg/m2 for one dose or give 1g for one dose
-    **Myfortic** 720mg PO BID or/ **CellCept** 1000mg PO BID + prednisone 0.5mg/kg Daily (max 40mg Dail)"]
+    **Myfortic** 720mg PO BID or/ **CellCept** 1000mg PO BID + prednisone 0.5mg/kg Daily (max 40mg Dail)`"]
+    n13 --> n14@{ label: "<span style=\"color:\">• Measure proteinuria every 1-2 wks<br/>• If positive test, repeat next day<br/>•If remians positive consider relapse</span>" }
+    n6 --> n13
+    n14 --> n8
+
     C@{ shape: rounded}
     n3@{ shape: rounded}
     n5@{ shape: rounded}
@@ -104,22 +112,24 @@ flowchart TB
     n7@{ shape: rounded}
     n11@{ shape: rounded}
     n12@{ shape: rounded}
+    n14@{ shape: stadium}
     style A fill:#BBDEFB
     style B fill:#BBDEFB
     style n1 fill:#BBDEFB
     style C fill:#FFCDD2,color:#000000
     style n2 fill:#BBDEFB
-    style n8 fill:#BBDEFB
+    style n13 fill:#BBDEFB
     style n3 fill:#FFCDD2
     style n4 fill:#BBDEFB
     style n5 fill:#FFCDD2
     style n6 fill:#FFCDD2
-    style n7 color:#000000,fill:#FFCDD2
+    style n7 color:#000000,fill:#FFCDD2,text-align:left,white-space:nowrap
+    style n8 fill:#BBDEFB
     style n9 fill:#BBDEFB,color:#000000
     style n10 fill:#BBDEFB
     style n11 fill:#FFCDD2
     style n12 fill:#FFCDD2,color:#000000,text-align:left,white-space:nowrap
-    style n7 fill:#FFCDD2,color:#000000,text-align:left,white-space:nowrap
+    style n14 fill:#BBDEFB
 ```
   * Combination therapy a reasonable theraputic option
   * Individualize treatment per patient 
