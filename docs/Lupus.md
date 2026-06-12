@@ -140,7 +140,7 @@ flowchart TB
     n1 -- Positive --> n2["See treatment plan below"]
     n1 -- Negative --> n3["Assess Chronicity"]
     n3 --> n4["Active Disease"] & n5["Chronic Disease w/out Activity"]
-    n4 --> n6["Methylpred 250-500mg/day for 1-3 days, followed by steroid taper + one of the following"]
+    n4 --> n6["Methylpred 250-500mg/day for 1-3 days, followed by steroid taper + hydroxychloroquine + one of the following"]
     n5 --> n7["• Supportive therapy 
     • Hydroxychloroquine, RAAS blockade, SGLT2
     • Monitor proteinuria"] & n8["If Class V present on Bx, treat as Class V"]
