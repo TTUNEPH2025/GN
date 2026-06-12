@@ -151,6 +151,25 @@ flowchart TB
 config:
   theme: redux
 ---
+flowchart TB
+    A(["MGPN Pattern on Bx"]) --> n1["Immunoglobulin + complement deposition"] & n2["Complement deposition alone"] & n3["Negative IgG
+    Negative C3"]
+
+    n1@{ shape: rounded}
+    n2@{ shape: rounded}
+    n3@{ shape: rounded}
+    style A color:#000000,fill:#FFF9C4,text-align:left
+    style n1 color:#000000,fill:#FFF9C4,text-align:left
+    style n2 color:#000000,fill:#FFF9C4,text-align:left
+    style n3 color:#000000,fill:#FFF9C4,text-align:left
+```
+
+
+```mermaid
+---
+config:
+  theme: redux
+---
 flowchart TD
     A(["MGPN Pattern on Bx"]) --> n1["Positive IgG
     pos/neg C3"] & n2["Complement Dominate Pattern"] & n3["Negative IgG
