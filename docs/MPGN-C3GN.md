@@ -173,7 +173,7 @@ flowchart TB
     • Pegcetocoplan (C3 ingibitor): approved for C3GN 7/2025`"]
     n2 --> n8
     n33 -- &lt;1 g/d of proteinuria --> n35["No additional treatment"]
-    n33 -- >1g/d of proteinuria, hematuria/declineing function --> n36["Eculizumab"]
+    n33 -- >1g/d of proteinuria, hematuria/declining function --> n36["Eculizumab"]
     n36 -- &lt;1 g/d of proteinuria --> n35
     n36 --> n37["Clinical trial/newer agents"]
 
