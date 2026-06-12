@@ -100,10 +100,10 @@ config:
   layout: dagre
 ---
 flowchart TB
-    A(["Class I or II on Bx"]) --> n1["Evaluate level of Proteinuria"]
-    n1 --> n2["Low level Proteinuria"] & n3["Nephrotic Range Proteinuria"]
+    A(["Class I or II on Bx"]) --> n1["Evaluate level of proteinuria"]
+    n1 --> n2["Low level proteinuria"] & n3["Nephrotic range proteinuria"]
     n2 --> n4["• Lupus treatment guided by extra-renal symptoms
-    • Hydroxychloroquine, RAAS blockade, SGLT2
+    • Hydroxychloroquine, RAAS blockade, SGLT2i
     • Monitor proteinuria"]
     n3 --> n5["• Tx as MCD 
     • Hydroxychloroquine, RAAS blockade, SGLT2"]
@@ -111,7 +111,7 @@ flowchart TB
     • Optimal duration of therapy unknown"]
     n6 --> n7["Relapse"]
     n7 --> n8["Consider Steroid therapy + MMF or Azathioprine, CNI"]
-    n4 --> n9["Nephrotic Range proteinuria"]
+    n4 --> n9["Nephrotic range proteinuria"]
     n9 --> n5
 
     n4@{ shape: rounded}
