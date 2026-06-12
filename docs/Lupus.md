@@ -314,6 +314,34 @@ flowchart TB
     style n12 fill:#C8E6C9
     style n13 fill:#C8E6C9
 ```
+
+### Refractory LN
+```mermaid
+---
+config:
+  theme: redux
+---
+flowchart TB
+    n1(["Refactory LN"]) --> n2["Trial of Rituximab
+    • 1g IV for two doses 15 days apart"]
+    n2 -- stable/improvement in eGFR, Decreased UPCR (>25%) --> n3["Continue Rituximab (duration unknown)
+    • Consider repeat bx prior to withdrawal of immunsuppression to assess histologic activity/chronicity"]
+    n2 -- no improvement in eGFR &/or Decreased UPCR (>25%) --> n4["Consider trial of 
+    • Obinutuzumab
+    • Sequential anti0CD20/anti-BAFF therapy
+    • Anti-DC38 plasma cell
+    • CAR-T
+    • referral to expert center/enrol in trial"]
+
+    n2@{ shape: rounded}
+    n3@{ shape: rounded}
+    n4@{ shape: rounded}
+    style n1 fill:#C8E6C9
+    style n2 fill:#FFF9C4,text-align:left
+    style n3 fill:#FFF9C4,text-align:left
+    style n4 fill:#FFF9C4,text-align:left,white-space:nowrap
+```
+
 ### Glucocorticoid Regimens
 |  |High-Dose Scheme|Moderate-Dose Scheme|Reduced-Dose Scheme|
 |----|-----|-------|-----|
