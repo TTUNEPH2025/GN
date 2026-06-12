@@ -278,15 +278,15 @@ flowchart TB
     n1 --> n2["Sub-nephrotic Proteinuria"] & n3["Nephrotic Range Proteinuria and/or worsening kidney function"]
     n2 --> n4["Immunosupression chosen by Extra-Renal Symptoms"] & n5["•  Hydroxychloroquine: 200-400mg as a single daily dose or divided into two doses
   •  Anti-Proteinuria: RASS blockade (ACE/ARB) and SGLT2i
-  •  Life style changes: smoking cessation, exercise, body weight management, ect."]
+  •  Life style changes: smoking cessation, exercise, body weight management, BP < 125/75, < 2.5g/d salt, ect."]
     n3 --> n5 & n6["Glucocorticoid and other agent"]
-    n6 --> n7["Moderate or Reduced dose preferred"] & n8["• MPAA
-    • Cyclophosphamide
-    • CNI
-    • Rituximab
+    n6 --> n7["Moderate or Reduced dose preferred"] & n8["• MPAA (usually first choice)
+    • Cyclophosphamide (for severe, progressive disease)
+    • CNI (If intolerant/indaequate response)
+    • Rituximab (for progressive disease despite other tx)
     • Azathioprine"]
     n4 --> n9["Monitor"]
-    n9 --> n10["Improved/Stable"] & n11["Worsening Proteinuria"]
+    n9 --> n10["Improved/Stable"] & n11["Persistent proteinuria >1 g/day"]
     n11 --> n6
     n10 --> n12["Routine Monitoring"]
     n7 --> n13["Insufficient data for recommendation fo steroid dosing"]
@@ -299,7 +299,7 @@ flowchart TB
     style n2 fill:#C8E6C9
     style n3 fill:#C8E6C9
     style n4 fill:#C8E6C9
-    style n5 fill:#FFF9C4,text-align:left,white-space:nowrap
+    style n5 fill:#FFF9C4,text-align:left
     style n6 fill:#C8E6C9
     style n7 fill:#FFF9C4,text-align:left,white-space:nowrap
     style n8 fill:#FFF9C4,text-align:left,white-space:nowrap
