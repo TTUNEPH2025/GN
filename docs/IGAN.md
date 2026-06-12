@@ -157,7 +157,7 @@ in Chinese patients only\n   • Tonsillectomy: For Japanese patient's (not stud
   * [IgAN prediction tool post-biopsy - Adult](https://qxmd.com/calculate/calculator_839/international-igan-prediction-tool-post-biopsy-adults)
   * Life style changes: low salt diet (less 2g/day), smoking cessations, and BP < 120/75
   * Of note: Steroids are becoming less favored, beyond supportive care
-    1. The TESTING trial points towards only temporary benefit regarding eGFR preservation over duration of use
+    1. TESTING trial points towards only temporary benefit regarding eGFR preservation over duration of use
 ### Medications approved recently by FDA for IgAN
   * Nefecon (TRF-Budesonide, 2021)
     1. 16mg daily for 9 months then reduce to 8mg dialy for 2 weeks before session 
