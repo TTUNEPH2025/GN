@@ -275,7 +275,7 @@ config:
 ---
 flowchart TB
     A(["Class V on Bx"]) --> n1["Evaluate level of Proteinuria"]
-    n1 --> n2["Low level Proteinuria"] & n3["Nephrotic Range Proteinuria"]
+    n1 --> n2["Sub-nephrotic Proteinuria"] & n3["Nephrotic Range Proteinuria and/or worsening kidney function"]
     n2 --> n4["Immunosupression chosen by Extra-Renal Symptoms"] & n5["•  Hydroxychloroquine: 200-400mg as a single daily dose or divided into two doses
   •  Anti-Proteinuria: RASS blockade (ACE/ARB) and SGLT2i
   •  Life style changes: smoking cessation, exercise, body weight management, ect."]
